@@ -1,0 +1,84 @@
+/* Base styles (Mobile-first approach) */
+.homepage {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px 10px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hero-image {
+  width: 100%;  /* Fill the width of the container */
+  height: auto; /* Keep aspect ratio, fit entire image */
+  border-radius: 6px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.heropage-button{
+    width: 180px;
+    height: 40px;
+    color: white;
+    background: rgb(163, 6, 163);
+    font-weight: 700;
+    justify-items: center;
+    border: none;
+    padding: 10px;
+    margin:20px ;
+}
+
+.heropage-button:hover {
+  background: rgb(140, 0, 140); /* Slightly darker purple */
+  cursor: pointer;
+  transform: scale(1.05); /* Small zoom effect */
+  transition: all 0.3s ease;
+}
+
+/* Medium screens (Tablets, 768px and up) */
+@media (min-width: 768px) {
+  .homepage {
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .hero-section {
+    padding: 30px 20px;
+    border-radius: 10px;
+  }
+
+  .hero-image {
+    max-width: 100%;  /* Still full width inside container */
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+}
+
+/* Large screens (Desktops, 1024px and up) */
+@media (min-width: 1024px) {
+  .homepage {
+    max-width: 1200px;
+  }
+
+  .hero-section {
+    padding: 40px;
+    flex-direction: column; /* Stack vertically so image fits fully */
+    text-align: center;
+    gap: 20px;
+  }
+
+  .hero-image {
+    max-width: 100%;  /* Fill container width, keep full image */
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+}
