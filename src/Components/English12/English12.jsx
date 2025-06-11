@@ -12,7 +12,7 @@ const English12 = () => {
           <p>Section: Language Development</p>
           <p>Topic</p>
           <button onClick={() => navigate('/criticalthinking')}>1. Critical Thinking</button>
-          <button>2. Family</button>
+          <button onClick={() => navigate('/family')} >2. Family</button>
           <button>3. Sports</button>
           <button>4. Technology</button>
           <button>5. Education</button>
