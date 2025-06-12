@@ -45,8 +45,83 @@ const Family = () => {
          <p>Sentence: In some cultures, people who have milk kinship cannot marry each other because they are seen as family.</p>
          <h4>Matrilineal</h4>
          <p>Meaning: family system where a child follows the mother's side of the family</p>
-         <p></p>
+         <p>Sentence: In a matrilineal society, property and family names are passed down through the mother's side.</p>
+         <h4>Nepotism</h4>
+         <p>Meaning: giving jobs or favors to your family members or friends, especially when they are not the most qualified.</p>
+         <p>Sentence: The manager showed nepotism by hiring his brother instead of a more experienced candidate.</p>
+         <h4>Maternity</h4>
+         <p>Meaning: everything related to pregnancy and having a baby</p>
+         <p>Sentence: She took maternity leave to care for her newborn baby.</p>
        </div>
+       <div>
+        <p>C. The following words are from the above text. Each word has two parts. polygamy, unmarried, nontraditional, dissolution, inequitable</p>
+        <p>poly, un, non, dis and in are prefixes. They make new words when they are added to the beginning of other root words.</p>
+        <p>Make at least five words using prefixes given. Consult a dictionary to learn how they change the meaning of root words.</p>
+        <p>pre- :prefix, preview, prepare, prevent </p>
+        <p>semi- : semicircle, semifinal, semiconductor, semiannual, semiautomatic</p>
+         <p>sub- : submarine, subway, subordinate, subtitle, subconcious</p>
+         <p>mis- : misunderstand, mislead, misbehave, mistake,misinformation</p>
+         <p>mono- : monopoly, monotone, monochrome, monologue, monarchy</p>
+         <p>un- : unhappy, unkind, unpack, untie, unlock</p>
+         <p>in- : incorrect, invisible, inactive, inactive, inefficient</p>
+         <p>inter- : intersection, international, internet, interview, interact</p>
+       </div>
+       <hr/>
+       <div>
+       <h3>Comprehension</h3>
+       <p>A. The heading of the first five paragraphs of the above text are given below.</p>
+       <p>a. Patriarchal family(number baki xa)</p>
+       <p>b. Functions of the family</p>
+       <p>Modern model of family</p>
+       <p>Effects of industrialization on family structure</p>
+       <p>Defining family</p>
+       </div>
+       <div>
+       <p>B. Answer the following questions.</p>
+        <p>a. What type of family is thought to be the oldest form of the family?</p>
+        <p>=></p>
+        <p>b. How does a family provide security to its members?</p>
+        <p>=></p>
+        <p>c. What were the features of medieval European family?</p>
+         <p>=></p>
+         <p>d. What caused the dissolution of extended families in the West?</p>
+          <p>=></p>
+          <p>e. What change occured in gender role in the modern family that emerged after the Industrial Revolution?</p>
+           <p>=></p>
+           <p>f. What is family law?</p>
+           <p>=></p>
+           <p>g. How is modern marriage defined?</p>
+            <p>=></p>
+            <p>h. What do special family courts try to do?</p>
+             <p>=></p>
+             <p>i. What does the legislation on child labour and child abuse declare?</p>
+              <p>=></p>
+              <p>j. What is common among most legal systems regarding property?</p>
+               <p>=></p>
+
+       </div>
+       <hr/>
+       <h3>Critical thinking</h3>
+       <div>
+        <p>a. What changes have started to occur in Nepali families in recent days? WHat impacts will they bring on the society? Discuss.</p>
+         <p>=></p>
+         <p>We see many elderly people in the elderly homes these days in Nepal. Some of them are abandoned while others live there willingly. DO you think Nepali people are deviating from their traditional culture? Give reasons.</p>
+          <p>=></p>
+       </div>
+       <hr/>
+       <h3>Writing</h3>
+       <div><p>A. Write an essay on The Importance of Family. In your essay, you can use these guiding questions.
+        </p>
+        <p> Why family is important to you.</p>
+        <p> Why family is or is not important for society.</p>
+        <p> How you think families will change in the future.</p>
+        <p>=></p>
+        <br/>
+        <p>B. Some people think it is better to live in a nuclear family. Other people think that living in extended family is more advantageous. What do you think? Write an eassy discussing the advantages and disadvantages of both.</p>
+        <p>=></p>
+       </div>
+       <hr/>
+       h3
     </div>
   )
 }
