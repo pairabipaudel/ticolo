@@ -13,24 +13,24 @@ const English12 = () => {
           <p>Topic</p>
           <button onClick={() => navigate('/criticalthinking')}>1. Critical Thinking</button>
           <button onClick={() => navigate('/family')} >2. Family</button>
-          <button>3. Sports</button>
-          <button>4. Technology</button>
-          <button>5. Education</button>
-          <button>6. Money and Economy</button>
-          <button>7. Humour</button>
-          <button>8. Human Culture</button>
-          <button>9. Ecology and Environment</button>
-          <button>10. Carrer Opportunities</button>
-          <button>11. Hobbies</button>
-          <button>12. Animal World</button>
-          <button>13. History</button>
-          <button>14. Human Rights</button>
-          <button>15. Lelsure and Entertainment</button>
-          <button>16. Fantasy</button>
-          <button>17. War and Peace</button>
-          <button>18. Music and Creation</button>
-          <button>19. Migration and Diaspora</button>
-          <button>20. Power and Politics</button>
+          <button onClick={() => navigate('/sports')}>3. Sports</button>
+          <button onClick={() => navigate('/technology')}>4. Technology</button>
+          <button onClick={() => navigate('/eduction')}>5. Education</button>
+          <button onClick={() => navigate('/moneyandeconomy')}>6. Money and Economy</button>
+          <button onClick={() => navigate('/humour')}>7. Humour</button>
+          <button onClick={() => navigate('/humanculture')}>8. Human Culture</button>
+          <button onClick={() => navigate('/ecologyandenvironment')}>9. Ecology and Environment</button>
+          <button onClick={() => navigate('/carreropportunities')}>10. Carrer Opportunities</button>
+          <button onClick={() => navigate('/hobbies')}>11. Hobbies</button>
+          <button onClick={() => navigate('/animalworld')}>12. Animal World</button>
+          <button onClick={() => navigate('/history')}>13. History</button>
+          <button onClick={() => navigate('/humanrights')}>14. Human Rights</button>
+          <button onClick={() => navigate('/lelsureandentertainment')}>15. Lelsure and Entertainment</button>
+          <button onClick={() => navigate('/fantasy')}>16. Fantasy</button>
+          <button onClick={() => navigate('/warandpeace')}>17. War and Peace</button>
+          <button onClick={() => navigate('/musicandcreation')}>18. Music and Creation</button>
+          <button onClick={() => navigate('/migrationanddiaspora')}>19. Migration and Diaspora</button>
+          <button onClick={() => navigate('/powerandpolitics')}>20. Power and Politics</button>
         </div>
         <div className="part2">
           <p>Section: Literature</p>
@@ -52,8 +52,7 @@ const English12 = () => {
           <button>1. On Libraries</button>
           <button>2. Marriage as a Social Institution</button>
           <button>3. A Day</button>
-          <button>4. A Day</button>
-          <button>5. A Day</button>
+          
           <p>One-act Plays</p>
           <button>1. A Matter for Husband</button>
           <button>2. Facing Death</button>
