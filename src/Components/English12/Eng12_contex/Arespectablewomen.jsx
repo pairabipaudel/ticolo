@@ -5,6 +5,13 @@ const Arespectablewomen = () => {
     <div>
         <div>
           <h3>Summary</h3>
+          <p>The story is set in Louisiana and revolves around a woman named Mrs. Baroda, her husband Gaston, and his friend Governail.
+
+Gaston invites his friend Governail to spend some time at their plantation. Mrs. Baroda expects to meet a sophisticated and outgoing man, but she finds Governail quiet, reserved, and different from what she imagined. At first, she feels uncomfortable around him and even thinks she dislikes him. However, as time passes, she begins to feel a confusing emotional attraction to him.
+
+She struggles with these feelings because she sees herself as a "respectable woman" who should not feel this way toward another man. Just when she considers leaving the house to avoid temptation, Governail prepares to leave instead.
+
+Later, Mrs. Baroda surprises her husband by saying she would be happy to have Governail visit again. This ending leaves readers questioning whether she has mastered her emotions or made peace with her desires.</p>
         </div>
        <div>
         <hr/>

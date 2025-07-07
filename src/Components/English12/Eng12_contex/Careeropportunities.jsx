@@ -63,31 +63,101 @@ Volunteering offers a great opportunity to gain experience while making a positi
         <h3>Comprehensioin</h3>
         <p>Answer the following</p>
         <p>a. What does a CV mean and why is it important in one's career?</p>
-        <p>=</p>
+        <p>= A CV is a document that shows your personal details, education, work experience, skills, and achievements related to your career.
+
+A CV is very important because it helps you present yourself professionally when applying for a job, promotion, scholarship, or research funding. It is a way to highlight your strengths and show employers or organizations why you are the right person for the opportunity. A well-prepared CV also allows you to reflect on your progress and plan your future career goals.</p>
         <p>b. Does the same CV work for all job opportunities? Why or why not?</p>
-        <p>=</p>
+        <p>= No, the same CV does not work for all job opportunities. While the basic information like your name, education, and experience stays the same, it is better to make small changes to match each specific job. Every job has different requirements, so you should highlight the skills, qualifications, and experience that are most relevant to the position you are applying for.</p>
         <p>c. What are the different area where CV can help you?</p>
-        <p>=</p>
+        <p>= A good CV is important in many areas of a professional career. It is needed when applying for jobs, seeking promotions, or trying to get research funding. A CV is also useful when you are asked to be an external examiner for a course or a research thesis. It helps during audits of teaching and research activities, and when a faculty or department must be reviewed by an outside professional organization. In short, a CV is required whenever someone needs to assess your professional skills and experience, either as an individual or as part of a group. It is an important document that shows your competence and achievements in various professional situations.</p>
         <p>d. What do you mean by 'staying CV' and 'leaving CV'? Which one would you develop for yourself as a freshman?</p>
-        <p>=</p>
+        <p>= 'Staying CV' refers to a CV that shows you are a good university citizen. It includes activities like committee work, helping and caring for students, teaching many courses, and having a steady research record. It shows you are committed to your current institution. On the other hand, a 'leaving CV' is designed to attract a new employer. It focuses more on your research achievements but still shows that you are capable and willing to do all the duties expected of an academic. As a freshman, I would develop a leaving CV because it highlights my strengths and interests that could help me find new opportunities in the future.</p>
         <p>e. How can you draft a good CV?</p>
-        <p>=</p>
+        <p>= To draft a good CV, you can start by using a basic framework to organize your information, such as your education, work experience, skills, and achievements. It helps to ask for advice and feedback from friends, family, mentors, or experienced colleagues who know you well or understand what a good CV should look like. By sharing your draft with them, you can get useful suggestions to improve it. This process of organizing your details and receiving feedback will help you create a strong and effective CV.</p>
         <p>f. What is the difference between academic CV and non-academic CV.</p>
-        <p>=</p>
+        <p>= The main differences between an academic CV and a non-academic CV are length and content. Academic CVs are usually much longer because they include detailed information about teaching, research, publications, and professional activities. They also tend to grow as the person's career advances. On the other hand, non-academic CVs are shorter and often focus more on personal qualities and skills, some of which may be hard to verify. Especially for middle management jobs, non-academic CVs highlight strengths that may not always be backed by clear evidence, while academic CVs emphasize verifiable achievements.</p>
       </div>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
         <p>a. CV may not represent a person's skills and abilities accurately because one's confidence can't be rendered in a paper. What do you think the employers should do to find the best people for the job?</p>
-        <p>=</p>
+        <p>= It is true that a CV may not fully show a person’s skills and confidence because these qualities cannot be captured on paper. Employers often look for candidates who can communicate well, both in speaking and writing, as this skill is important in almost every job. In my opinion, instead of only judging people by their CVs, employers should use a three-step selection process. First, they should introduce the company’s rules and work conditions to all interested candidates. Those who feel comfortable with these conditions can move to the next step. Second, employers should review the candidates' cover letters to understand their behavior, skills, and character, and decide if they would fit well in the company. Finally, selected candidates should be invited to join a casual group meeting, like a Friday lunch with current employees, where everyone talks about work. Since teamwork is important, current employees should also get a chance to meet and decide if they can work well with the new person. By using these steps, employers can find the best people for the job, rather than relying only on the CV.</p>
         <p>b. If the employers provide job opportunity by assessing one's CV, how can fresh graduates compete with the experienced competitors?</p>
-        <p>=</p>
+        <p>= In today's competitive job market, just having a degree and good grades is often not enough to get the job you want. Fresh graduates need to stand out and make a strong impression on employers to compete with experienced candidates. While some jobs require specific degrees, many employers look for more than just exam results. They want candidates with the right personality and important soft skills, like teamwork, communication, and leadership.
+
+Many fresh graduates struggle with writing a good CV because they use common templates and end up with similar-looking resumes. To compete with experienced applicants, fresh graduates should try to be creative and make their CVs unique. For example, if applying for jobs in creative fields, they can design a CV that is visually impressive and different from others. By doing this and highlighting their skills and qualities, fresh graduates can improve their chances and successfully compete against more experienced candidates.</p>
       </div>
       <div>
         <hr/>
         <h3>Writing</h3>
         <p>Study the following advertisement. Write an application for one of the positions. Prepare your CV too that suits for the job.</p>
-        <p>=</p>
+        <p> <strong>Job Application Letter</strong> 
+July 2, 2025
+
+To,
+The Hiring Manager
+Himalayan Coders Organization
+Kathmandu, Nepal
+
+Subject: Application for the Position of Front-End Developer
+
+Dear Sir/Madam,
+
+I am writing to express my interest in the Front-End Developer position at Himalayan Coders. I have recently completed my Bachelor's degree in Computer Science and Information Technology (CSIT) from Birendra Multiple Campus. During my studies, I have gained strong skills in HTML, CSS, React.js, and working with APIs.
+
+I am passionate about creating user-friendly and visually appealing websites and applications. I enjoy solving problems and continuously learning new technologies to improve my coding skills. I believe my technical knowledge and enthusiasm make me a good fit for your team.
+
+I have attached my CV for your consideration. I would be grateful for the opportunity to discuss how I can contribute to Himalayan Coders.
+
+Thank you for considering my application. I look forward to your positive response.
+
+Sincerely,
+Pairabi Acharya
+
+</p>
+<p>
+  <strong>Curriculum Vitae (CV)</strong>
+Pairabi Acharya
+Pokhara, Nepal
+Email: pairabipaudel@gmail.com
+Phone: 9899341550
+
+Objective
+To work as a Front-End Developer at Himalayan Coders where I can use my skills in HTML, CSS, React, and APIs to build engaging and efficient web applications, and continue learning in a professional environment.
+
+Education
+Bachelor of Computer Science and Information Technology (CSIT)
+Birendra Multiple Campus, Bharatpur
+Completed: 2025
+
+<strong>Technical Skills </strong>
+Languages: HTML5, CSS3, JavaScript (ES6+)
+
+Frameworks/Libraries: React.js
+
+Tools: Git, VS Code
+
+APIs: Fetch API, RESTful APIs
+
+Others: Responsive Design, Cross-browser Compatibility, Debugging
+
+<strong>Projects </strong>
+Personal Portfolio Website
+Built a responsive portfolio site using React, showcasing my projects and skills.
+
+Weather App
+Developed a React app that fetches weather data from an API and displays it with dynamic styling.
+
+Personal Qualities
+Quick learner and enthusiastic about new technologies
+
+Good team player and effective communicator
+
+Detail-oriented and problem solver
+
+References
+Available on request.
+</p>
       </div>
       <div>
         <hr/>

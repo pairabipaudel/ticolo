@@ -5,6 +5,21 @@ const Myoldhome = () => {
     <div>
       <div>
         <h3>Summary</h3>
+        <p>The story “My Old Home” is about a man who returns to his hometown after living away for many years. He is around 30 years old and has been working in another city. Now, he comes back because his family is selling their old house. His mother and nephew are still living there, and they are preparing to move to another place where life might be easier.
+
+When the narrator arrives, he looks around the house where he grew up. Everything feels different. The rooms seem smaller, and the yard is no longer filled with sunlight and joy. It feels darker, colder, and lifeless. He feels sad because the memories of his happy childhood don't match what he sees now. Time has changed everything.
+
+He talks with his mother, who tells him that the old servant and his childhood friend Runtu will come to visit. Hearing Runtu's name brings back memories of when they were kids. Runtu was the son of a poor laborer and worked for the narrator's family. But even with the difference in class, they had been very close as children. They used to play together in the fields, collect shells, hunt for birds, and talk about everything.
+
+The narrator remembers Runtu as cheerful and full of energy. But when Runtu finally arrives, he is not the same anymore. He looks older, tired, and burdened by a hard life. He has many children and struggles to feed his family. When they talk, it feels awkward. Runtu now sees the narrator as someone from a higher class, not as his friend. He speaks formally and calls him “Master,” showing the distance between them.
+
+Runtu doesn't ask for anything directly, but the narrator's mother understands and gives him some old furniture and things they don't need. Runtu takes them gratefully. The narrator feels the pain of how time and society have changed their bond.
+
+The narrator also spends time with his young nephew, Shuan, who is still innocent and full of life. He starts to hope that maybe the new generation like Shuan will grow up in a better world, where people are equal, where friendships are not broken by class or money, and where people can truly understand and support one another.
+
+As the narrator leaves the old home for the last time, he looks back with mixed feelings, sadness for what is lost, but also a little hope for the future.
+
+</p>
       </div>
       <div>
         <h3>Understanding the text</h3>

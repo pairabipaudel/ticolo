@@ -43,41 +43,73 @@ Find the meaning of the following words which are borrowed from Hindi language.<
         <h3>Comprehension</h3>
         <p>Answer the following questions.</p>
         <p>a. Why did Iqbal want to sleep in the afternoon?</p>
-        <p>=</p>
+        <p>= Iqbal wanted to sleep in the afternoon because he was very tired. He had spent the whole night sitting uncomfortably on his bedroll in a crowded third-class train compartment and didn't get any proper rest.</p>
         <p>b. How did people react with each other in the train?</p>
-        <p>=</p>
+        <p>= People in the train reacted in a loud and noisy way. They shouted, argued, and talked over each other. There was a lot of chaos, and everyone seemed restless and irritated in the crowded space.</p>
+
         <p>c. Why did the book Iqbal was reading bring commotion in the compartment?</p>
-        <p>=</p>
+        <p>= The book Iqbal was reading caused a commotion in the compartment because it was written in English. The other passengers were surprised and impressed, as they believed that reading an English book showed that someone was smart, educated, and important. They saw English as a sign of high status.</p>
+
         <p>d. Why did Iqbal have to give clarification with his personal details?</p>
-        <p>=</p>
+        <p>= Iqbal had to give clarification with his personal details because the other travelers in the train saw him reading an English book and assumed he was an educated and important person. Out of curiosity and admiration, they started asking questions about who he was, where he was from, and what he did. To satisfy their curiosity and clear their assumptions, Iqbal had to share details about himself.</p>
+
         <p>e. Who was Meet Singh and what did he report to Iqbal?</p>
-        <p>=</p>
+        <p>= Meet Singh was the priest of the village Gurudwara (Sikh temple). He informed Iqbal about the murder of a fellow villager. He mentioned that the murder might have been committed by a local dacoit (bandit) named Jugga, who was known for his bad behavior in the village.</p>
+
         <p>f. How according to Meet Singh, was Jugga Sing different from his forefathers?</p>
-        <p>=</p>
+        <p>= According to Meet Singh, Jugga Singh was different from his forefathers because, although they were also dacoits, they had a sense of loyalty to their own village. His ancestors never robbed or harmed their fellow villagers instead, they protected them from other robbers. In contrast, Jugga had no such loyalty. He robbed and even killed people from his own village, which made him far worse in the eyes of the community.</p>
+
         <p>g. How does the author show contradiction in Meet Singh's character?</p>
-        <p>=</p>
+        <p>= The author shows contradiction in Meet Singh's character by presenting two sides of him. On one hand, he is a priest of the Gurudwara, expected to be moral and just. On the other hand, he seems unbothered by the fact that Jugga may have killed someone from the village. Even more, he is ready to swear falsely on the holy Granth Sahib to protect Jugga. This act of defending a wrongdoer, despite being a religious leader, shows a clear conflict between his duty and his personal bias or fear.</p>
+
         <p>h. Who was Hukum Chand and how did he succeed in his career?</p>
-        <p>=</p>
+        <p>= Hukum Chand was the Deputy Sahib, a high-ranking government officer in the area, also called "Nar Adami" by locals. He was known for his political experience and authority. He succeeded in his career by cleverly pleasing his British superiors ("Shaibs") and always doing what was expected of him. By staying loyal and smart in his actions, he kept getting promotions and rose through the ranks of the administration.</p>
       </div>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
         <p>a. Iqbal is addressed as Babu Sahib by general folk simply because he knew English. Are Nepali people who can speak English taken with respect? Discuss the importance of learning English in the Nepali context.</p>
-        <p>=</p>
+        <p>= Yes, in Nepal, people who can speak English are often treated with more respect. English is commonly seen as the language of educated and successful people. Many Nepalis believe that fluency in English shows intelligence, high education, and even a better social status. It's like how someone wearing expensive clothes might get more attention in a shop than someone dressed in simple clothes. In the same way, people often give more importance to those who speak English, even if it's not always fair.</p>
+        <p>Learning English is very important in Nepal today. It opens up many opportunities for education and jobs, especially in international fields. Most of the higher education books and courses are in English. Also, many young people dream of working abroad or studying overseas, where English is necessary. Even in Nepal, good English skills are helpful for getting better jobs, especially in business, tourism, education, and government.</p>
+        <p>However, it's important to remember that knowing English should not be the only measure of someone's value. A person's honesty, kindness, and hard work matter much more. While English is a useful skill, we should also respect those who speak Nepali or other local languages with pride.</p>
+        <p>So, in the Nepali context, English is not just a language it's also seen as a symbol of success. Learning it can give people more chances in life, but we must also work toward a society where everyone is respected, no matter what language they speak.</p>
       </div>
       <div>
         <p>b. Do you agree with Iqbal's comments on crime and punishment? In your view, what should the state, society and individuals do for peace and order in social lives?</p>
-        <p>=</p>
+        <p>= Yes, I agree with Iqbal's comments on crime and punishment. To build and keep peace, everyone—the state, society, and individuals—must work together.
+
+Peace starts with each person. We need to understand that even one person can make a difference. Every individual has the responsibility to help stop violence and build a culture of peace. Peace is not just the absence of war; it means justice, fairness, and equal opportunities for everyone. History shows that war wastes human lives and money and doesn't really solve problems.
+
+Society plays a big role in keeping peace and order. Families need to be united and teach values of respect and kindness. Communities can form groups or teams that help keep the neighborhood safe, support each other, and make sure laws are followed. These teams can help prevent crime and work with authorities to keep the society peaceful.
+
+The state has the biggest responsibility. It must create and enforce strong laws that protect people and punish criminals fairly. The government should focus on stopping crime and violence before they happen by providing good education, jobs, and security. Fair and effective punishment is necessary so criminals don't harm others again. The state also needs to build trust with its people so that everyone feels safe and supported.
+
+In short, peace is a shared responsibility. When individuals act kindly, societies stay united, and the state governs fairly, social peace and order can be achieved and maintained for a better life for all.</p>
       </div>
       <div>
         <hr/>
         <h3>Writing</h3>
         <p>A. Meet Singh says Jugga a badmash. There can be such people in your locality, too. Write a paragraph describing him / her.</p>
-        <p>=</p>
+        <p>= In every community, there are some people like Jugga who cause trouble and create fear among others. Jugga is known for his bad behavior—he steals from his own neighbors, fights with others, and does not care about the pain he causes. Such people are selfish and think only about themselves, ignoring the rules and values that keep society peaceful. They harm even those who trust them, breaking the bond of friendship and trust in the community. Just like Jugga, there might be someone in your area who disrupts the peace by acting violently or dishonestly. It is important for the community to come together to stop such behavior and help these people change for the better.</p>
       </div>
       <div>
         <p>B. You may have travelled by bus or train. During your travel, you might have got different experiences. Write a letter to your friend describing about your unforgettable journey.</p>
-        <p>=</p>
+        <p>= Dear Manabi Shrestha,
+
+I hope you are doing well. I want to tell you about an unforgettable journey I recently had. I traveled by bus from Kathmandu to Pokhara, and it was truly an experience I will never forget.
+
+The journey started early in the morning. The bus was crowded, and I had to find a seat among many passengers. People were talking loudly, sharing stories, and some were even singing songs. I enjoyed watching the beautiful scenery outside the window—green fields, hills, and small villages passing by one after another. It felt peaceful and refreshing.
+
+During the trip, I met some interesting people. One old man shared stories about his village, and a little child kept smiling and playing with everyone. Although the journey was long and tiring, these moments made it special and full of warmth.
+
+There was also a funny incident when suddenly it started raining heavily, and everyone scrambled to cover their heads with whatever they had. Everyone laughed, and it made the trip lighter and joyful.
+
+Overall, this journey taught me to appreciate the small moments and the beauty around us. I hope you can travel soon and experience such wonderful moments too!
+
+Take care and write back soon.
+
+Your friend,
+Isha Sherpa</p>
       </div>
       <div>
         <hr/>

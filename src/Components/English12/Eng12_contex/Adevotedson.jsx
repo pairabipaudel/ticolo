@@ -5,6 +5,7 @@ const Adevotedson = () => {
     <div>
       <div>
         <h3>Summary</h3>
+        <p>"A Devoted Son" by Anita Desai tells the emotional story of Rakesh, a man who appears to be the ideal son. He works hard to become a successful doctor, respects his parents' wishes by having an arranged marriage, and chooses to live with them to take care of them in their old age. At first, his father Varma couldn't be prouder, constantly telling everyone about his wonderful, devoted son. However, when Varma becomes elderly and sick, Rakesh transforms from a loving son into a strict doctor. He forbids his father from eating any of his favorite foods, insisting it's for his health, even when the old man begs for just a little sweetness in his life. While Rakesh believes he's doing what's best, his father feels imprisoned by these rules and grows increasingly unhappy. The heartbreaking story makes us wonder - is Rakesh truly devoted, or has his medical professionalism and strictness actually made his father's final years miserable? It shows how even with good intentions, we can sometimes hurt those we love most when we don't listen to what they really want and need.</p>
       </div>
       <div>
         <hr/>

@@ -64,37 +64,54 @@ True</p>
       <div>
         <p>B. Answer the following questions.</p>
         <p>a. How does the author remember his family environment when he was a small boy?</p>
-        <p>=</p>
+        <p>= The author remembers his family environment as painful and abusive. He recalls that his father used to verbally and physically abuse his mother.</p>
+
         <p>b. Why does the author blame the system more than his father?</p>
-        <p>=</p>
+        <p>= The author blames the system more than his father because the system caused his father's stress, pressure, and trauma, which led to his abusive behavior.</p>
+
         <p>c. How does the principle of forgiveness work?</p>
-        <p>=</p>
+        <p>= The principle of forgiveness does not depend on the actions of others. It is a way of self-healing that brings peace and harmony to ourselves. Forgiveness helps release our pain and creates a sense of freedom in our heart and mind. People forgive not to help others, but for their own well-being, making forgiveness a kind of self-care or selfish act.</p>
+
         <p>d. How does the author interpret the noise, squalls and tantrums of his children?</p>
-        <p>=</p>
+        <p>= The author interprets the noise, squalls, and tantrums of his children as a reflection of the many failures, irritations, and fatigue that parents experience.</p>
+
         <p>e. Why did the author decide to educate his children in Swaziland?</p>
-        <p>=</p>
+        <p>= The author decided to educate his children in Swaziland because he was unhappy with the poor quality of education provided to black children under South Africa's Bantu Education Act.</p>
+
         <p>f. How does the author define human life?</p>
-        <p>=</p>
+        <p>= According to the author, human life is a complex mix of goodness, beauty, cruelty, heartbreak, challenges, love, and many other emotions and experiences.</p>
+
         <p>g. According to the author, is it heredity or environment that shapes a man's character? Explain.</p>
-        <p>=</p>
+        <p>= According to the author, it is the environment, not heredity, that shapes a person's character. Every child is born pure and innocent, neither a liar nor violent by nature. No one is born with hatred or less goodness than others. Therefore, heredity does not determine a person's character; rather, it is the surrounding environment and experiences that shape who we become.</p>
+
         <p>h. Why is forgiveness important in our life?</p>
-        <p>=</p>
+        <p>= Forgiveness is important because it allows us to free ourselves from the pain and burden of past mistakes and wrongdoings. By forgiving, we can move forward in life without being held back by anger or regret. It helps us find peace and emotional healing, enabling us to live healthier and happier lives.</p>
       </div>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
         <p>a. Desmond Tutu once said, "Forgiving is not forgetting; it is actually remembering-remembering and not using your right to hit back. It's a second chance for a new beginning." Does this quotation apply to this text? Analyze.</p>
-        <p>=</p>
+        <p>= The quote by Desmond Tutu means that forgiveness does not mean forgetting the harm done to us. Instead, it means remembering the pain but choosing not to seek revenge. Forgiveness gives us a chance to start fresh.
+
+In the text, the author experiences domestic violence from his father and feels the pain deeply. As a child, he wanted to hurt his father back. However, as he grows older, he learns to forgive his father, understanding that his father's abusive behavior was caused by the pressures and mistreatment faced by black people under South Africa's oppressive system.
+
+Thus, the author's forgiveness is not about forgetting the pain but about remembering it without retaliating. This perfectly reflects Desmond Tutu's idea that forgiveness is a second chance for a new beginning.</p>
       </div>
       <div>
         <p>b. The author interprets "I am sorry" as the three hardest words to say. How does it apply to your life?</p>
-        <p>=</p>
+        <p>= Committing mistakes is a part of human life, but accepting those mistakes and apologizing for them is often the hardest task. In the text, the author describes “I am sorry” as the three hardest words to say. This ties closely with the concept of empathy, which means putting ourselves in others' shoes and understanding their feelings. Empathy requires humility. Too often, we are consumed by our own emotions and forget that others matter too. By sincerely saying "I am sorry," we acknowledge the other person's pain and validate their feelings.
+
+In my own life, I also find these three words difficult to say, especially when I've hurt someone. Instead of apologizing, I tend to distance myself from the person I've hurt and wait for them to come and talk to me first. I am a sensitive and proud person, and I get hurt easily. When someone hurts me, I expect them to approach me and say sorry, but I rarely consider how much my actions may have affected others.
+
+Saying “I am sorry” makes me feel uneasy. My pride, fear of being ashamed, emotional sensitivity, and even a sense of superiority sometimes stop me from apologizing. I struggle with the overwhelming emotions of guilt and the lack of awareness about the other person's pain. These feelings and internal conflicts make it very difficult for me to say those three powerful words, I am sorry.</p>
       </div>
       <div>
         <hr/>
         <h3>Writing</h3>
         <p>The author talks about the dual education system based on race in South Africa in the second half of the twentieth century. We also have private schools and public schools in Nepal. What should be done to make education equal for all citizens of Nepal? Write a couple of paragraphs expressing your views.</p>
-        <p>=</p>
+        <p>= Nepal has made significant progress in promoting equity in education, but much still needs to be done to ensure that every citizen has equal access to quality learning opportunities. Historically, education in Nepal was reserved for the elite, and it wasn't until the 1950s that the general population began to gain access to schools. Although there have been improvements, issues such as income disparity, gender inequality, language barriers, disability, and geographic isolation continue to affect educational access and outcomes. Public schools in rural areas often lack basic facilities such as clean drinking water, proper sanitation, and adequate classroom resources. These challenges, along with child malnutrition and poor living conditions, hinder students' ability to focus and perform well, increasing dropout rates.
+
+To make education more equal for all citizens of Nepal, both private and public schools should be strengthened and supported with proper infrastructure, trained teachers, and modern teaching materials, including the use of technology. The government should invest more in rural education, ensuring that children in remote areas receive the same quality of education as those in urban settings. Special attention must be given to marginalized communities affected by caste, ethnicity, gender, and poverty. Scholarship programs, awareness campaigns, and inclusive policies should be expanded and strictly implemented to close the gap between different social groups. Only through equal opportunities and inclusive policies can Nepal build an education system that serves all its citizens fairly and effectively.</p>
       </div>
       <div>
         <hr/>

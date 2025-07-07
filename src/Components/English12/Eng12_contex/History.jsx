@@ -37,43 +37,89 @@ const History = () => {
         <h3>Comprehension</h3>
          <p>Answer the following questions.</p>
          <p>a. Where were Frank and Nicole employed?</p>
-         <p>=</p>
+         <p>= Frank and Nicole were employed as architects working in the twin towers of the World Trade Centre in the USA.</p>
+
          <p>b. How does the author describe Frank's attachment to the twin towers?</p>
-         <p>=</p>
+         <p>= The author shows that Frank feels deeply connected to the twin towers. For him, they are not just buildings but a source of his work and passion. The towers represent his livelihood and something he truly cares about, making his bond with them very strong.</p>
+
          <p>c. How did the two families become intimate with each other?</p>
-         <p>=</p>
+         <p>= The two families grew close and became good friends because their children were friends. Their children's friendship helped the families spend more time together and build a strong bond.</p>
+
          <p>d. What, according to Nicole, did Frank think of the towers?</p>
-         <p>=</p>
+         <p>= According to Nicole, Frank thought the towers were amazing. He liked how big they were, how they were designed, and how the materials were used well. He also said they were made strong enough to handle a small airplane hitting them.</p>
          <p>e. Why did Frank want to help the people in the tower after the attack?</p>
-         <p>=</p>
+         <p>= Frank wanted to help the people in the tower after the attack because only a few people understood how strong the building was. He believed that knowing this could save lives.</p>
          <p>f. Why did Frank not follow Nicole's request even after knowing that the building was on fire?</p>
-         <p>=</p>
+         <p>= Frank did not follow Nicole's request, even though he knew the building was on fire, because he was confident he could help the injured people get to safety without getting hurt himself.</p>
+
          <p>g. Who did Frank call from the building after the attack?</p>
-         <p>=</p>
+         <p>= Frank called his sister Nina, who lived on West 93rd Street in Manhattan, from the building after the attack.</p>
+
          <p>h. How did Nicole feel after the collapse of the first tower?</p>
-         <p>=</p>
+         <p>= After the first tower collapsed, Nicole felt like it was the start of a nuclear war. Everything became completely quiet, and she felt like she was in a bright, blinding fog, like a snowstorm on a sunny day.</p>
+
          <p>i. Were Frank's children serious as soon as they heard the news of their missing father? Why?</p>
-         <p>=</p>
+         <p>= Frank's children were not serious right away when they heard their father was missing because they were busy playing games and did not fully understand the situation at first.</p>
       </div>
       <div>
+
         <hr/>
         <h3>Critical Thinking</h3>
         <p>a. Many innocent people lose their lives in ruthless attacks every year. What do you think the governments should do to protect their people from such attacks and make the world a safer place to live? Discuss with your friends.</p>
-        <p>=</p>
+        <p>= Many innocent people lose their lives every year due to ruthless attacks. It is the responsibility of governments to protect their citizens and work towards a safer world. Here are some important steps governments should take:
+
+1. Maintain Political Stability
+Governments should ensure stability within their own countries by having strong and responsible leadership and peaceful political parties. Stability helps prevent internal conflicts that can lead to violence.
+
+2. Control Borders Strictly
+Proper border control and security checks can help prevent dangerous people or weapons from entering a country. This reduces the risk of attacks.
+
+3. Deploy Armed Forces in High-Risk Areas
+Governments should place security forces in places that are more likely to be attacked. This helps to respond quickly and prevent attacks.
+
+4. Promote and Follow Peace Treaties
+While many peace agreements are signed, they are not always followed. Nations should commit to maintaining peace and resolving conflicts through dialogue instead of violence.
+
+5. Evacuate People from Danger Zones
+If there is a threat or danger, governments should move people to safer places to protect their lives.
+
+By taking these steps, governments can work together to reduce violence and make the world a safer place for everyone.</p>
       </div>
       <div>
         <p>b. Revenge and violence are the integral parts of the history and civilization. They can't be ignored, only managed. Do you agree or not with this statement? Present your logic.</p>
-        <p>=</p>
+        <p>= Yes, I agree with the statement that revenge and violence are integral parts of history and civilization. Revenge often arises from feelings of hurt and injustice, while violence involves the use of physical force to injure, damage, or destroy. Throughout history, acts of revenge and violence have played significant roles in shaping events and societies.
+
+For example, one of the main causes of World War II was the desire for revenge by Germany. After World War I ended in 1919, the Treaty of Versailles imposed harsh penalties and heavy reparations on Germany. This treaty humiliated Germany and blamed it entirely for the war. The resentment and anger that grew from this situation eventually led Germany to seek revenge, which triggered the outbreak of World War II in 1939.
+
+This example shows how revenge and violence have led to destructive consequences and widespread suffering. Because such emotions and actions are deeply rooted in human nature and social dynamics, they cannot simply be ignored. Instead, it is necessary to recognize and manage them carefully through laws, diplomacy, and education to prevent escalation and promote peace.</p>
       </div>
       <div>
         <hr/>
         <h3>Writing</h3>
         <p>A. Write a description of an event that you have recently witnessed.</p>
-        <p>=</p>
+        <p>= Recently, I went to my village called Gaira Gau. It is on top of a green hill. The roads there are narrow, bumpy, and have sharp turns. That day, it was raining.
+
+While I was returning home from the village, my bus was going down the hill. At the same time, another bus was coming up from the opposite direction. Suddenly, the other bus slipped, its front tire lost grip on the hill. Everyone became very tense and worried.
+
+Because our bus was behind that bus, we got out quickly to help. First, we helped the people inside the stuck bus get out safely. Then, we tied a rope to their bus and pulled it carefully using our bus. After some effort, we managed to get the bus back on the road.
+
+It was a scary moment, but everyone worked together to stay safe.</p>
       </div>
       <div>
         <p>B. Human life does not pass as one expects. You might have also gone through different but memorable incidents. Write an essay on “An Unforgettable Event in my Life' in about 500 words.</p>
-        <p>=</p>
+        <p>= Human life does not always go as we expect. We often face different moments that stay in our memory forever. One such unforgettable event in my life was the birth of my little sister.
+
+At that time, I was studying in grade 5. It was an ordinary school day, and I went to school like usual. When I returned home, I saw my mother in great pain. She was struggling, and I felt worried and scared. My family quickly called two nurses to help her. They came to our house and took care of my mother.
+
+Because my mother was in pain, the nurses asked me to go to the neighbor's house for a while. I was alone there, feeling very frightened. I cried a lot, hoping that my mother would be okay. In my heart, I felt angry at the baby growing inside my mother because it was causing her so much pain. I did not understand then how important that little baby was.
+
+After some time, the nurses called me back to our home. When I came inside, I saw my mother lying down. She looked tired but also half happy. Next to her was a tiny baby — my little sister. She was so small, with a little hand and a tiny face. Seeing her made me forget all the fear and anger I had before.
+
+I felt very happy to see both my mother and my new sister safe and healthy. I went to my mother and hugged her tightly. At that moment, I realized how special my sister was and how strong my mother had been. All the pain and fear had changed into love and joy.
+
+That event taught me many things. It showed me the power of love and care in a family. I understood how much my mother had gone through to bring a new life into the world. I also learned that sometimes, we might feel scared or angry, but these feelings can change when we see the happiness and miracles around us.
+
+The birth of my little sister is a memory I will never forget. It changed my life and made me feel closer to my family. Whenever I look at my sister now, I remember that day and the strong love that brought us all together.</p>
       </div>
       <div>
         <hr/>

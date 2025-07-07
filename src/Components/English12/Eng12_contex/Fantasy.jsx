@@ -46,28 +46,33 @@ const Fantasy = () => {
       <div>
         <p>B. Answer the following questions.</p>
         <p>a. How did Maxwell enter his office?</p>
-        <p>=</p>
+        <p>= Maxwell entered his office quickly and energetically. He was with a young lady stenographer, and he greeted Pitcher by saying, "Good morning."</p>
         <p>b. Describe the physical appearance of the young lady.</p>
-        <p>=</p>
-        <p>c. What changes did Pitcher notice in the young lady?
-</p>
-        <p>=</p>
+        <p>= The young lady was beautiful, but not in the usual way expected of a stenographer. She didn't wear any flashy jewelry like chains or bracelets, and she didn't look like someone who was going out for a fancy lunch. Her dress was simple and grey, but it fit her well and looked elegant and modest. She wore a neat black turban hat with a gold-green macaw feather in it. That morning, she looked softly beautiful and shyly glowing. Her eyes were bright, her cheeks had a natural blush, and she wore a happy expression with a touch of sweet memory in it.</p>
+        <p>c. What changes did Pitcher notice in the young lady?</p>
+        <p>= Pitcher noticed that the young lady was acting differently than usual that morning. Instead of going straight into her usual working room, she paused and seemed unsure in the outer office. At one point, she even moved closer to Maxwell's desk, just enough so that he would notice her. This behavior was unusual for her and caught Pitcher's attention.</p>
+
         <p>d. What was Pitcher's reply to the young lady concerning a new stenographer?</p>
-        <p>=</p>
+        <p>= Pitcher told the young lady that Maxwell had already asked him to find a new stenographer. So, he had notified the agency the day before to send a few candidates that morning. However, none of them had arrived yet except her.</p>
+
         <p>e. What proposal did Maxwell make with Miss Leslie?</p>
-        <p>=</p>
+        <p>= Maxwell proposed marriage to Miss Leslie. He expressed his feelings and asked her to marry him.</p>
         <p>f. How did she react to his proposal?</p>
-        <p>=</p>
+        <p>= When Maxwell proposed, she behaved in a very unusual way. At first, she looked surprised and amazed. Then, tears started flowing from her eyes. After that, she smiled warmly and happily through her tears, and gently put one of her arms around Maxwell's neck.</p>
       </div>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
         <p>a. What message does the writer want to give by presenting Maxwell as an extremely absent-minded person?</p>
-        <p>=</p>
+        <p>= The writer presents Maxwell as very absent-minded to show that his mind is always busy with important thoughts and ideas. Although he might seem forgetful or distracted in small matters, this is because he is deeply focused on his work and creative plans. The message is that sometimes people who appear careless or lost in their thoughts are actually very intelligent and dedicated. It reminds us not to judge someone just by their outward behavior because their mind might be working hard on things that really matter. Maxwell's absent-mindedness shows the difference between everyday small details and bigger, more meaningful ideas.</p>
       </div>
       <div>
         <p>b. Imagine you are Miss Leslie. Write how you were troubled emotionally when your own husband came to you and made a marriage proposal.</p>
-        <p>=</p>
+        <p>= When Maxwell, my own husband, came to me and proposed marriage, I felt a mix of emotions that I couldn't easily explain. At first, I was completely surprised and didn't know how to react. My heart raced, and tears came to my eyes without me even realizing why. I was touched deeply because, even though we had been close, I hadn't expected him to express his feelings so openly.
+
+There was also a feeling of confusion inside me, part of me was overwhelmed by happiness, while another part was shy and unsure. But as I looked at him, I felt warmth and love growing in my heart. I realized that his proposal was a sign of how much he cared for me, and that made me feel special and loved. Despite the shock, I accepted his love gladly and felt hope for our future together.
+
+This moment showed me that love can come quietly and unexpectedly, and sometimes, it's the most surprising things that touch our hearts the deepest.</p>
       </div>
       <div>
         <hr/>

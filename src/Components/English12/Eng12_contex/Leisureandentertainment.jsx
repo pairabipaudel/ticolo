@@ -35,27 +35,34 @@ const Leisureandentertainment = () => (
             <h3>Comprehension</h3>
             <p>Answer the following questions.</p>
             <p>a. Why did the author and his classmates decide to visit Bandipur?</p>
-            <p>=</p>
+            <p>= The author and his classmates decided to visit Bandipur because they were tired of the busy and stressful life in Kathmandu. They wanted to take a break from the hectic city environment and enjoy the peaceful and beautiful surroundings of Bandipur.</p>
+
             <p>b. What is special about Bandipur?</p>
-            <p>=</p>
+            <p>= Bandipur is special because it preserves the charm of old Nepal. It is a beautiful Newar town with cool, cobbled streets where traditional culture and lifestyle are still alive. Unlike many modern places, Bandipur offers a peaceful atmosphere that reflects Nepal's rich history and heritage.</p>
+
             <p>c. How has the business changed in Bandipur today?</p>
-            <p>=</p>
+            <p>= Today, the traditional types of business in Bandipur, such as farming and local trade, have largely shifted towards tourism-related activities. Many people in Bandipur now run hotels, restaurants, and shops catering to visitors. This change has made tourism the main source of income for the town, bringing new opportunities and challenges to the local community.</p>
+
             <p>d. Why do the local people who have migrated to Kathmandu visit Bandipur time and again?</p>
-            <p>=</p>
+            <p>= The local people who have moved to Kathmandu visit Bandipur again and again because they want to escape the busy and stressful life of the city. Bandipur offers them a peaceful and calm environment where they can relax and reconnect with their roots and culture. Visiting Bandipur helps them find comfort and relief from the hectic pace of urban life.</p>
+
             <p>e. How do the local people learn to speak English in Bandipur?</p>
-            <p>=</p>
+            <p>= The local people in Bandipur learn to speak English by interacting with the local school children. Since the children study English at school, they help their parents and other adults practice and improve their English skills through daily conversations and communication. This way, the community gradually becomes more familiar with the language.</p>
+
             <p>f. What does the author mean when he says that 'time stops in the town of Bandipur'?</p>
-            <p>=</p>
+            <p>= When the author says that “time stops in the town of Bandipur,” he means that the peaceful and timeless beauty of the town makes visitors forget about the fast pace of modern life. The natural scenery, traditional lifestyle, and calm atmosphere capture people's attention so deeply that they feel as if time has paused, allowing them to fully enjoy the moment and the town's original charm.</p>
         </div>
         <div>
             <hr />
             <h3>Critical thinking</h3>
             <p>a. The writer seems to believe that rural life is better than urban life. Do you agree with him?</p>
-            <p>=</p>
+            <p>= Yes, I agree with the writer that rural life is better than urban life. First of all, the peaceful surroundings of the countryside attract me a lot. Villages are often described as quiet and calm places, perfect for relaxing and escaping the busy and stressful city life. Unlike cities, rural areas are less crowded with fewer people and vehicles. The natural beauty in villages is well preserved, allowing people to enjoy fresh air and a peaceful mind.</p>
+            <p>This is very different from city life, where people often feel stressed and tired due to the fast pace and noise. The environment in rural areas is cleaner with less pollution because there are fewer factories and cars. While cities may offer better facilities and education, I believe that the advantages of living in the countryside such as fresh air, natural beauty, and calmness make rural life better overall.</p>
         </div>
         <div>
             <p>b. Is the writer's way of looking at Bandipur just a gaze of an urban tourist? Why? Why not?</p>
-            <p>=</p>
+            <p>= No, the writer's way of looking at Bandipur is not just the gaze of an urban tourist. He does not visit Bandipur simply as a casual traveler. Being tired of the hectic life in Kathmandu, he goes there with his friends to truly feel the peaceful environment and appreciate the natural beauty of the place with his heart.</p>
+            <p>Bandipur is a hilltop town and a rural municipality in the Tanahu district of Nepal. It attracts visitors for many reasons. The genuine and original beauty of Bandipur draws most tourists, including the writer. While there, he and his friends are fascinated by the local culture, friendly people, and organic, delicious food. The writer enjoys exploring different parts of Bandipur and feels a deep connection to the place, finding the peace and refreshment he has been seeking. He also learns about the local people and their tourism businesses. The writer spends some of his best moments in Bandipur, which shows that his experience is more meaningful than just that of a typical urban tourist.</p>
         </div>
         <div>
             <hr />
@@ -65,7 +72,34 @@ const Leisureandentertainment = () => (
             <p>Persuade the organization head to visit the place once.</p>
             <p>Clearly dig out the specialties and potentialities of the place.</p>
             <p>Explain its archaeological and historical importance.</p>
-            <p>=</p>
+            <p>=Parvati Gupta
+Illam-56700
+Nepal
+
+2nd July 2025
+
+Shamati
+Manager
+Tokyo Tourism Organization
+Tokyo, Japan
+
+Subject: Proposal to Venture into Tourism Business in Illam, Nepal
+
+Dear Madam,
+
+I hope this letter finds you well. I am writing to introduce you to the immense tourism potential of Illam, a beautiful district in Nepal, which offers great opportunities for your esteemed organization to explore business ventures in tourism.
+
+Illam is famous for its lush green tea gardens, rolling hills, and breathtaking natural scenery. The peaceful environment and fresh air make it an ideal destination for eco-tourism, hiking, and cultural experiences. The local community is warm and welcoming, eager to share the rich traditions and hospitality of this region.
+
+Moreover, Illam holds significant historical and cultural importance. It is home to several ancient temples and heritage sites that reflect the rich cultural history of eastern Nepal. Visitors interested in archaeology and history will find Illam to be an engaging destination that combines natural beauty with cultural depth.
+
+I kindly invite you to visit Illam and experience its unique charm yourself. A visit will give you the opportunity to explore the tourism infrastructure and meet local stakeholders who are excited to collaborate with your organization. With your expertise, I believe we can develop sustainable tourism that benefits both Illam and your organization.
+
+Thank you for considering this proposal. I look forward to your positive response and the possibility of working together to unlock the full potential of tourism in Illam.
+
+Yours sincerely,
+Parvati Gupta
+parvati_gupta@gmail.com</p>
         </div>
         <div>
             <hr />
