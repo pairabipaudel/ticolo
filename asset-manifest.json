@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ticoloplus2/static/css/main.59060321.css",
+    "main.js": "/ticoloplus2/static/js/main.cc060606.js",
+    "static/js/453.925a7936.chunk.js": "/ticoloplus2/static/js/453.925a7936.chunk.js",
+    "static/media/hero_banner.png": "/ticoloplus2/static/media/hero_banner.cd6459b3d1041ad2529b.png",
+    "index.html": "/ticoloplus2/index.html",
+    "main.59060321.css.map": "/ticoloplus2/static/css/main.59060321.css.map",
+    "main.cc060606.js.map": "/ticoloplus2/static/js/main.cc060606.js.map",
+    "453.925a7936.chunk.js.map": "/ticoloplus2/static/js/453.925a7936.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59060321.css",
+    "static/js/main.cc060606.js"
+  ]
+}
