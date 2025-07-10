@@ -4,7 +4,7 @@ const Leisureandentertainment = () => (
     <div>
         <div>
             <h3>Working with words</h3>
-            <p>A. The words in the crossword puzzle are from the text. Find them from the text to solve the puzzle based on the clues given below.</p>
+            <p className='question'>A. The words in the crossword puzzle are from the text. Find them from the text to solve the puzzle based on the clues given below.</p>
             <p><strong>Across</strong></p>
             <p>1. outdated, of or relating to the Middle Ages: <strong>Medieval</strong></p>
             <p>3. the character and atmosphere of a place: <strong>Ambience</strong></p>
@@ -21,8 +21,9 @@ const Leisureandentertainment = () => (
             <p>8. paved with cobbles: <strong>Cobbled</strong></p>
             <p>9. prosperous and growing; flourishing: <strong>Thriving</strong></p>
         </div>
+        <hr/>
         <div>
-            <p>B. Look up the meanings of the following words in your dictionary.</p>
+            <p className='question'>B. Look up the meanings of the following words in your dictionary.</p>
             <p>Amenities: a feature that makes something more pleasant or comfortable.</p>
             <p>Exquisite: extremely beautiful or carefully made.</p>
             <p>Etiquette: the formal rules of correct or polite behavior in society or among members of a particular profession.</p>
@@ -33,7 +34,7 @@ const Leisureandentertainment = () => (
         <div>
             <hr />
             <h3>Comprehension</h3>
-            <p>Answer the following questions.</p>
+            <p className='question'>Answer the following questions.</p>
             <p>a. Why did the author and his classmates decide to visit Bandipur?</p>
             <p>= The author and his classmates decided to visit Bandipur because they were tired of the busy and stressful life in Kathmandu. They wanted to take a break from the hectic city environment and enjoy the peaceful and beautiful surroundings of Bandipur.</p>
 
@@ -55,56 +56,57 @@ const Leisureandentertainment = () => (
         <div>
             <hr />
             <h3>Critical thinking</h3>
-            <p>a. The writer seems to believe that rural life is better than urban life. Do you agree with him?</p>
+            <p className='question'>a. The writer seems to believe that rural life is better than urban life. Do you agree with him?</p>
             <p>= Yes, I agree with the writer that rural life is better than urban life. First of all, the peaceful surroundings of the countryside attract me a lot. Villages are often described as quiet and calm places, perfect for relaxing and escaping the busy and stressful city life. Unlike cities, rural areas are less crowded with fewer people and vehicles. The natural beauty in villages is well preserved, allowing people to enjoy fresh air and a peaceful mind.</p>
             <p>This is very different from city life, where people often feel stressed and tired due to the fast pace and noise. The environment in rural areas is cleaner with less pollution because there are fewer factories and cars. While cities may offer better facilities and education, I believe that the advantages of living in the countryside such as fresh air, natural beauty, and calmness make rural life better overall.</p>
         </div>
+        <hr/>
         <div>
-            <p>b. Is the writer's way of looking at Bandipur just a gaze of an urban tourist? Why? Why not?</p>
+            <p className='question'>b. Is the writer's way of looking at Bandipur just a gaze of an urban tourist? Why? Why not?</p>
             <p>= No, the writer's way of looking at Bandipur is not just the gaze of an urban tourist. He does not visit Bandipur simply as a casual traveler. Being tired of the hectic life in Kathmandu, he goes there with his friends to truly feel the peaceful environment and appreciate the natural beauty of the place with his heart.</p>
             <p>Bandipur is a hilltop town and a rural municipality in the Tanahu district of Nepal. It attracts visitors for many reasons. The genuine and original beauty of Bandipur draws most tourists, including the writer. While there, he and his friends are fascinated by the local culture, friendly people, and organic, delicious food. The writer enjoys exploring different parts of Bandipur and feels a deep connection to the place, finding the peace and refreshment he has been seeking. He also learns about the local people and their tourism businesses. The writer spends some of his best moments in Bandipur, which shows that his experience is more meaningful than just that of a typical urban tourist.</p>
         </div>
         <div>
             <hr />
             <h3>Writing</h3>
-            <p>Write a letter to a business organization overseas describing the prospects of the tourism industry in your local place. Consider the following points in the letter.</p>
+            <p className='question'>Write a letter to a business organization overseas describing the prospects of the tourism industry in your local place. Consider the following points in the letter.</p>
             <p>Propose to venture in tourism business</p>
             <p>Persuade the organization head to visit the place once.</p>
             <p>Clearly dig out the specialties and potentialities of the place.</p>
             <p>Explain its archaeological and historical importance.</p>
-            <p>=Parvati Gupta
-Illam-56700
-Nepal
-
-2nd July 2025
-
-Shamati
-Manager
-Tokyo Tourism Organization
-Tokyo, Japan
-
-Subject: Proposal to Venture into Tourism Business in Illam, Nepal
-
-Dear Madam,
-
+            <p>=Parvati Gupta</p><p>
+Illam-56700</p><p>
+Nepal</p><p>
+<br/>
+2nd July 2025</p><p>
+<br/>
+Shamati</p><p>
+Manager</p><p>
+Tokyo Tourism Organization</p><p>
+Tokyo, Japan</p><p>
+<br/>
+Subject: Proposal to Venture into Tourism Business in Illam, Nepal</p><p>
+<br/>
+Dear Madam,</p><p>
+<br/>
 I hope this letter finds you well. I am writing to introduce you to the immense tourism potential of Illam, a beautiful district in Nepal, which offers great opportunities for your esteemed organization to explore business ventures in tourism.
-
+</p><p>
 Illam is famous for its lush green tea gardens, rolling hills, and breathtaking natural scenery. The peaceful environment and fresh air make it an ideal destination for eco-tourism, hiking, and cultural experiences. The local community is warm and welcoming, eager to share the rich traditions and hospitality of this region.
-
+</p><p>
 Moreover, Illam holds significant historical and cultural importance. It is home to several ancient temples and heritage sites that reflect the rich cultural history of eastern Nepal. Visitors interested in archaeology and history will find Illam to be an engaging destination that combines natural beauty with cultural depth.
-
+</p><p>
 I kindly invite you to visit Illam and experience its unique charm yourself. A visit will give you the opportunity to explore the tourism infrastructure and meet local stakeholders who are excited to collaborate with your organization. With your expertise, I believe we can develop sustainable tourism that benefits both Illam and your organization.
-
+</p><p>
 Thank you for considering this proposal. I look forward to your positive response and the possibility of working together to unlock the full potential of tourism in Illam.
-
-Yours sincerely,
-Parvati Gupta
+</p><p>
+Yours sincerely,</p><p>
+Parvati Gupta</p><p>
 parvati_gupta@gmail.com</p>
         </div>
         <div>
             <hr />
             <h3>Grammar</h3>
-            <p>A. Tick the correct one.
+            <p className='question'>A. Tick the correct one.
             </p>
             <p>a. He has obtained full mark/marks.</p>
              <p>marks</p>
@@ -133,8 +135,9 @@ parvati_gupta@gmail.com</p>
         <p>m. They went to Singapore on a four days/day trip.</p>
         <p>day</p>
         </div>
+        <hr/>
         <div>
-            <p>B. Which of the sentence is correct in each pair? Rewrite the correct one.</p>
+            <p className='question'>B. Which of the sentence is correct in each pair? Rewrite the correct one.</p>
             <p>a. My all books are lost. All my books are lost.</p>
             <p>= All my books are lost.</p>
             <p>b. His both brothers are ill. Both his brothers are ill.</p>

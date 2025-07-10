@@ -5,7 +5,7 @@ const Mediaandsociety = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Find the words from the text that have the following meanings.</p>
+        <p className='question'>A. Find the words from the text that have the following meanings.</p>
         <p>a. a personal or corporate website <strong> blog</strong></p>
         <p>b. a job requiring expertise in a particular field <strong>profession</strong></p>
         <p>c. a feeling of sadnes <strong>disappointment</strong></p>
@@ -15,8 +15,9 @@ const Mediaandsociety = () => {
         <p>g. advantages and disadvantages <strong>pros and cons</strong></p>
         <p>h. a non-statutory monetary penalty <strong>amercement</strong></p>
       </div>
+      <hr/>
       <div>
-        <p>B. Use the following prepositional verbs in sentences.</p>
+        <p className='question'>B. Use the following prepositional verbs in sentences.</p>
         <strong>apologize to</strong>
         <p>I apologized to my friend for being late to the meeting.</p>
         <strong>adapt to</strong>
@@ -98,17 +99,19 @@ const Mediaandsociety = () => {
         <strong>absorb in</strong>
         <p>She was so absorbed in her book that she didn't hear the phone ring.</p>
       </div>
+      <hr/>
       <div>
         <h3>Comprehension</h3>
-        <p>A. Fill in the gaps with appropriate words/phrases from the text.</p>
+        <p className='question'>A. Fill in the gaps with appropriate words/phrases from the text.</p>
         <p>a. People are using social media for individual as well as <u>marketing</u> purposes.</p>
         <p>b. Social media is not only a platform of sharing views, but also a platform of <u>marketing strategy</u>.</p>
         <p>c. The hospital wanted Prita to pay Rp. 100 million for <u>immaterial losses</u>.</p>
         <p>d. Some singers organized <u>clarified</u> to help Prita.</p>
         <p>e. The campaign to help Prita was able to collect Rs. <u>825 million</u>.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Answer these questions.</p>
+        <p className='question'>B. Answer these questions.</p>
         <p>a. How do you define social media?</p>
         <p>= Social media is a computer-based technology that enables people to share ideas, thoughts, and information by creating virtual networks and online communities. It allows users to connect, communicate, and collaborate with others across the world.</p>
         <p>b. Social media has been an integral part of modern life. How?</p>
@@ -128,17 +131,19 @@ const Mediaandsociety = () => {
         <p>i. How are people stronger than social media?</p>
         <p>= People are stronger than social media because they have the ability to think critically before they act or speak. Unlike social media, which can spread information quickly without verification, people can use their judgment to decide what is true and what is not, making thoughtful choices despite the influence of online platforms.</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical thinking</h3>
-        <p>a. Does social media have positive impact in the society? Discuss.</p>
+        <p className='question'>a. Does social media have positive impact in the society? Discuss.</p>
         <p>= Social media is a computer-based technology that allows people to create, share, and exchange information, ideas, and content through virtual networks and online communities. Popular platforms like Facebook, Instagram, Twitter, and YouTube enable users to connect instantly, share photos and videos, communicate via messages, and stay updated on news and events. Key features of social media include user profiles, friend/follower connections, content sharing, live streaming, and interactive comments.
-
+<p></p>
 Social media has many positive impacts on society. It helps people stay connected with friends and family regardless of distance, strengthening personal relationships. It is an important educational tool, offering easy access to information and learning resources. Social media also keeps people informed about current events, making them more socially aware. Moreover, it provides opportunities for young artists and entrepreneurs to showcase their talents and grow their careers.
-
+</p><p>
 However, like everything, social media has both positive and negative sides. On the negative side, it can lead to misinformation spreading quickly, causing confusion and panic. It can also contribute to cyberbullying, which harms individuals' mental health and well-being. Therefore, while social media has many benefits, it is important to use it responsibly and critically.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. How do you compare virtual communication and face-to-face communication?</p>
+        <p className='question'>b. How do you compare virtual communication and face-to-face communication?</p>
         <p>= Face-to-face communication is the most traditional and natural way of interacting, where people talk in person. It involves physical presence and allows individuals to use not only words but also facial expressions, gestures, eye contact, and tone of voice to express their thoughts and emotions.</p>
         <p>Virtual communication, on the other hand, is the exchange of information through digital devices using the internet. This includes emails, text messages, video calls, chats, and social media platforms. It allows people to stay connected over long distances and communicate quickly without needing to be physically present. </p>
         <p>There are several differences between face-to-face and virtual communication. Face-to-face communication provides rich non-verbal cues such as body language and facial expressions, making it more personal and emotionally engaging. Virtual communication, in contrast, is limited in these aspects, especially in text-based formats. While face-to-face allows instant feedback and stronger relationships, it may not always be convenient or possible due to distance or time limits. Virtual communication, though fast and efficient, can sometimes feel less personal and may lead to miscommunication. In terms of cost, virtual communication is often cheaper and faster, while face-to-face may involve travel and time expenses. In conclusion, both forms of communication have their strengths and weaknesses. Choosing the right method depends on the situation and the purpose of the interaction.</p>
@@ -150,9 +155,10 @@ However, like everything, social media has both positive and negative sides. On 
         <p>= Cyberbullying is the act of harassing, threatening, or humiliating someone through digital platforms like social media, text messages, emails, or online games. It includes harmful behaviors such as spreading false rumors, sending abusive messages, sharing private information without consent, or posting hurtful comments online. The effects of cyberbullying can be severe, leading to emotional distress, anxiety, depression, low self-esteem, and in extreme cases, even suicidal thoughts. Unlike physical bullying, cyberbullying can happen anytime and anywhere, making it hard for victims to escape.</p>
         <p>It is important to stop cyberbullying because it harms mental health, breaks confidence, and creates fear among victims. It damages relationships, learning environments, and overall well-being. If not addressed in time, it can have long-term consequences on a person's life. To stop cyberbullying, awareness must be spread among students, parents, and teachers. Children should be taught about safe online behavior from an early age. Parents must monitor their children's internet use, and schools should take action against online harassment. Victims must be encouraged to speak up and report incidents immediately. Strong laws, strict action by social media platforms, and responsible internet use are key to preventing cyberbullying and ensuring a safer digital space for all.</p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>B. Complete the following sentences using the correct prepositions of direction: to, toward, onto, or into.</p>
+        <p className='question'>B. Complete the following sentences using the correct prepositions of direction: to, toward, onto, or into.</p>
         <p>a. Prem drove Milan <u>to</u> the airport.</p>
         <p>b. The plane landed <u>onto</u> the runway.</p>
         <p>c. The kids climbed <u>onto</u> the monkey bars.</p>
@@ -160,8 +166,9 @@ However, like everything, social media has both positive and negative sides. On 
         <p>e. Ganesh almost fell <u>into</u> the river.</p>
         <p>f. Lalit and Sarita took the bus that was heading <u>toward</u> the university.</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Complete the sentences with the correct preposition from the brackets.</p>
+        <p className='question'>C. Complete the sentences with the correct preposition from the brackets.</p>
         <p>a. While we were hiking <u>through</u> the forest, we saw a mountain lion. (across/through/along/under)</p>
         <p>b. The leopards walked in a circle <u>round</u> the baby giraffe before they attacked.(into/towards/round/through)</p>
         <p>c. Go <u>out of</u> the building and turn left. (into/up/off/out of)</p>

@@ -5,7 +5,7 @@ const Powerandpolitics = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. Find the words from the text for these meanings. The first letters have been given for you.</p>
+        <p className='question'>A. Find the words from the text for these meanings. The first letters have been given for you.</p>
         <p>a. <strong>reluctance</strong> unwillingness or disinclination to do something</p>
         <p>b. <strong>repressive</strong> preventing the expression or awareness of thoughts or desires</p>
         <p>c. <strong>mutilation</strong> the infliction of serious damage on something</p>
@@ -16,8 +16,9 @@ const Powerandpolitics = () => {
         <p>h. <strong>paranoid</strong> obsessively anxious, suspicious, or mistrustful</p>
         <p>i. <strong>eventuation</strong> thrusting forward of abdominal organs through the abdominal wall</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Complete the chart.</p>
+        <p className='question'>B. Complete the chart.</p>
         <p>verb: commit , noun: commitment , adjective: committed</p>
         <p>verb: nuture , noun: nurturance , adjective: nurturable</p>
         <p>verb: legitimatee , noun: legitimization , adjective: nurturable</p>
@@ -44,8 +45,9 @@ const Powerandpolitics = () => {
 
 <p>A social system in which men hold the primary power and dominate roles in leadership, moral authority, and property ownership.</p>
       </div>
+      <hr/>
       <div>
-        <p>D. Underline the consonant clusters in the following sentences.</p>
+        <p className='question'>D. Underline the consonant clusters in the following sentences.</p>
         <p>a. Fluffy went <u>fl</u>ip-<u>fl</u>op all over the <u>fl</u>oor.</p>
 <p>b. The <u>wh</u>ites <u>s</u>ing a <u>s</u>ong about the <u>str</u>iking <u>st</u>ars.</p>
 <p>c. Here are some <u>fl</u>owers and a <u>fl</u>ask of tea of your favourite <u>fl</u>avour.</p>
@@ -60,7 +62,7 @@ const Powerandpolitics = () => {
       <div>
         <hr/>
         <h3>Comprehension</h3>
-        <p>Answer the following questions</p>
+        <p className='question'>Answer the following questions</p>
         <p>a. Why does Audre Lorde think that Mary got a sort of victory in the University of Boston?</p>
         <p>= Audre Lorde believes that Mary achieved a kind of victory at the University of Boston because she felt joyful and empowered to see many women actively participating in the speak-out event. The strong presence and shared energy of those women created a sense of unity and collective strength. This powerful gathering gave Mary and others like her the confidence, space, and support to grow, speak up, and feel a sense of belonging within a community of women.</p>
         <p>b. Why is Lorde thankful to Mary?</p>
@@ -87,37 +89,39 @@ const Powerandpolitics = () => {
         <div>
             <hr/>
             <h3>Critical thinking</h3>
-            <p>a. "The oppression of women knows no ethnic or racial boundaries." Do you agree or not? Justify with your reasons.</p>
+            <p className='question'>a. "The oppression of women knows no ethnic or racial boundaries." Do you agree or not? Justify with your reasons.</p>
             <p>= Yes, I agree with the statement that the oppression of women knows no ethnic or racial boundaries.
-
+</p><p>
 Women have fought for equal treatment and equal pay for many years, but discrimination still exists worldwide. Men often receive better jobs, higher pay, and more respect, showing clear inequality. This ongoing discrimination creates intolerance and uncertainty among women who are denied their rightful rights.
-
+</p><p>
 Historically, women did not have equal rights, and this legacy continues to affect many societies today. Despite progress in gender equality, women still face violence, discrimination, and barriers to full participation in society. They are often seen as having lower social status than men, which is unfair. For example, many countries still deny women equal access to education because of cultural beliefs or financial difficulties.
-
+</p><p>
 Governments and social systems sometimes prevent women from achieving their goals, especially in poorer communities. Due to these challenges, women have suffered for ages, and their oppression crosses all ethnic and racial lines. No matter where they live or their background, many women continue to face inequality and injustice.</p>
         </div>
+        <hr/>
         <div>
-            <p>b. Why is it important to question our beliefs and values? How are they set up in a person's mind?</p>
+            <p className='question'>b. Why is it important to question our beliefs and values? How are they set up in a person's mind?</p>
             <p>= It is important to question our beliefs and values because doing so helps us build character, honesty, compassion, acceptance, and strength. Many people avoid questioning their own beliefs because they fear it might weaken them. But this fear often shows that they already doubt their beliefs and are not being fully honest with themselves.
-
+</p><p>
 Questioning beliefs with objectivity looking at them as if from the outside helps us see whether our beliefs are true and what positive or negative effects they might have in the world. When we question others' beliefs, we should also reflect on our own. If we find that our beliefs are wrong, accepting this truth helps us grow and become stronger.
-
+</p><p>
 Our beliefs and values are shaped by experiences, culture, family, education, and society. They develop over time but should remain open to change through reflection and learning. Therefore, regularly questioning our beliefs is essential for personal growth and better understanding.</p>
         </div>
         <div>
             <hr/>
             <h3>Writing</h3>
-            <p>A. Have you ever faced or witnessed cases of racial or sexual discrimination? Write a short account.</p>
+            <p className='question'>A. Have you ever faced or witnessed cases of racial or sexual discrimination? Write a short account.</p>
             <p>= Yes, I have faced and witnessed a lot of sexual discrimination. Some people may think that discrimination doesn't exist in today's world, but that is very wrong. It is still very common. Even in my own house, if there is some household work, my parents expect me to do it. If I don't want to do it, they say I need to learn because one day I will have to manage a home of my own. They expect me to handle all the household chores along with my education.
-
+</p><p>
 Also, if guests come to our house, it is my responsibility to take care of them and treat them well, even if I am sick. Although this is a smaller form of discrimination, it still shows how expectations on women are unfair.
-
+</p><p>
 I have also seen worse discrimination around me. For example, many girls are killed before birth, girls don't get quality education, they are not allowed to speak loudly, wear what they want, or make decisions for themselves. Often, they have to sacrifice their own happiness for others.
-
+</p><p>
 This shows how deep sexual discrimination is in society, and it is something we all need to fight against.</p>
         </div>
+        <hr/>
         <div>
-            <p>B. Write an article for a national daily on "The Status of Women in Nepali Society."</p>
+            <p className='question'>B. Write an article for a national daily on "The Status of Women in Nepali Society."</p>
             <p>=The Status of Women in Nepali Society</p>
             <p>Despite significant progress over the years, women in Nepal continue to face challenges that affect their status in society. Deep-rooted traditions and social norms often restrict women's access to education, healthcare, and equal job opportunities.</p>
             <p>In many rural areas, early marriage, limited schooling, and domestic violence remain serious issues. Women frequently bear the burden of household work alongside economic hardships. Gender inequality persists in various forms, limiting women's freedom and participation in public life.</p>
@@ -128,7 +132,7 @@ This shows how deep sexual discrimination is in society, and it is something we 
         <div>
             <hr/>
             <h3>Grammar</h3>
-            <p><strong>B. Choose the correct alternative.</strong></p>
+            <p className='question'><strong>B. Choose the correct alternative.</strong></p>
 
 <p>a. <u>an old foreign car</u> / a foreign old car</p>
 <p>b. <u>a beautiful white dress</u> / a white beautiful dress</p>
@@ -142,8 +146,9 @@ This shows how deep sexual discrimination is in society, and it is something we 
 <p>j. <u>an expensive antique table</u> / an antique expensive table</p>
 
         </div>
+        <hr/>
         <div>
-             <p>C. Put the adjectives in the following sentences in the correct order.</p>
+             <p className='question'>C. Put the adjectives in the following sentences in the correct order.</p>
              <p>a. I bought (red/ a /comfortable/new) scooter.</p>
              <p>= I bought a comfortable new scooter.</p>
              <p>b. She reached home and sat on (relaxing/old/her/wooden) chair.</p>

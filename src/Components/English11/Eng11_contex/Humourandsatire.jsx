@@ -5,7 +5,7 @@ const Humourandsatire = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Match the following.</p>
+        <p className='question'>A. Match the following.</p>
         <p>transcendental ------ spiritual, nonphysical or mystical</p>
         <p>deplore ------ to feel or express strong disapproval of (something)</p>
         <p>absolve ------ set free from blame, guilt, or responsibility; release</p>
@@ -13,8 +13,9 @@ const Humourandsatire = () => {
         <p>crude ------ natural state</p>
         <p>chronicle ------ a written record of historical events</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Find the contextual meanings of the following words from the text and then use them in sentences of your own.</p>
+        <p className='question'>B. Find the contextual meanings of the following words from the text and then use them in sentences of your own.</p>
         <p>a. condemn : To express strong disapproval of something or someone.</p>
         <p>The teacher condemned cheating during the exam because it is unfair to other students.</p>
         <p>b. terror : A feeling of extreme fear or fright.</p>
@@ -44,8 +45,9 @@ const Humourandsatire = () => {
           <p>n. humbler : More modest or less proud; having a low or simple status.</p>
           <p>Despite becoming successful, he always remembered his humbler beginnings.</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Trace the origins of each of the following words finding such explanations in a dictionary or the Internet. Then make sentences by using each word.</p>
+        <p className='question'>C. Trace the origins of each of the following words finding such explanations in a dictionary or the Internet. Then make sentences by using each word.</p>
         <strong>Minatory</strong>
         <p>Origin: From Latin minatorius</p>
         <p>Meaning: Threatening</p>
@@ -74,8 +76,9 @@ const Humourandsatire = () => {
         <p>Meaning: A magical tonic or love potion</p>
         <p>In the story, the witch gave the prince a mysterious philter to win the princess's heart.</p>
       </div>
+      <hr/>
       <div>
-        <p>D. List any five words found in an English dictionary beginning with the prefix 'super-' What common meaning do all of these words share? How do the words in your list change meaning if you eliminate the prefix?</p>
+        <p className='question'>D. List any five words found in an English dictionary beginning with the prefix 'super-' What common meaning do all of these words share? How do the words in your list change meaning if you eliminate the prefix?</p>
         <p>Supernatural-Beyond what is natural or explainable by the laws of nature; related to magic or spirits.</p>
         <p>Natural- Existing in or caused by nature; normal or usual.</p>
         <p>Superstar- A very famous and successful person, especially in entertainment or sports.</p>
@@ -87,9 +90,10 @@ const Humourandsatire = () => {
         <p>Superintended- To oversee or be in charge of something.</p>
         <p>intended- Planned or meant for a particular purpose.</p>
       </div>
+      <hr/>
       <div>
         <h3>Comprehension</h3>
-        <p>Answer these questions.</p>
+        <p className='question'>Answer these questions.</p>
         <p>a. According to the author, what are the four types of superstition?</p>
         <p>= According to the author, the four types of superstition are: Vain Observances, Divination, Idolatry, and Improper Worship of the True God.</p>
         <p>b. Which language is the word 'superstition' derived from? What does it mean?</p>
@@ -103,25 +107,28 @@ const Humourandsatire = () => {
         <p>f. In the author's view, why are people so fascinated about superstition?</p>
         <p>= In the author's view, people are fascinated by superstition because they want to know their future and feel like they have some control over it.</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical Thinking</h3>
-        <p>a. What is the key takeaway of this essay? Do you think that this essay is satirical? Why?</p>
+        <p className='question'>a. What is the key takeaway of this essay? Do you think that this essay is satirical? Why?</p>
         <p>= The key takeaway of the essay is that people, whether educated or uneducated, knowingly or unknowingly follow superstitions. Even the most logical and rational individuals often hold on to superstitious beliefs. The essayist suggests that many superstitions are so old and widespread that they likely come from deep within the human mind, unaffected by race, culture, or education.</p>
         <p>Yes, this essay is satirical. The author uses humor and irony to criticize people who fall victim to superstition despite their knowledge or status. For example, he mentions people throwing salt over their left shoulder after spilling it, avoiding walking under ladders, consulting the I Ching for university matters, and placing lucky items like coins or charms on desks during exams. These examples show how absurd and irrational some behaviors can be, even in modern settings. By pointing out these habits in a witty way, the author mocks how deeply rooted and silly superstitions can be.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. Can education bring change in the belief of superstition? Present your arguments to support your answer.</p>
+        <p className='question'>b. Can education bring change in the belief of superstition? Present your arguments to support your answer.</p>
         <p>= Education can bring change in the belief of superstition, although it may not eliminate it completely. Educated individuals are generally more likely to rely on science and logic. For example, they are more likely to take a sick person to a hospital instead of calling a priest to drive out supposed evil spirits. Education helps people understand the real causes of diseases and other natural events, reducing the fear that often leads to superstition.
-
+</p><p>
 Superstitions are often born out of fear of the unknown. When people are educated, they gain knowledge that helps them understand what was once mysterious or frightening. As a result, their fear lessens, and so does their belief in superstitions. Education also improves critical thinking and decision-making skills, making people less likely to accept irrational beliefs.
-
+</p><p>
 However, while education has the power to reduce superstitions, it may not completely remove them. Some superstitions are deeply rooted in culture and emotion rather than ignorance. Even educated people can sometimes hold on to certain irrational beliefs. Therefore, education alone may not entirely erase superstition unless it is paired with open-mindedness and a willingness to question tradition.
-
+</p><p>
 In conclusion, education plays a major role in reducing superstitious beliefs by promoting knowledge and reasoning. It may not wipe out superstition entirely, but it certainly helps people think more critically and make more informed choices.</p>
       </div>
+      <hr/>
       <div>
         <h3>Writing</h3>
-        <p>a. Write an essay on superstitions that exists in your community in about 250 words.</p>
+        <p className='question'>a. Write an essay on superstitions that exists in your community in about 250 words.</p>
         <strong>Superstitions in My Community</strong>
         <p>Superstitions have existed in human society for thousands of years, and my community is no exception. Even today, many people around me believe in signs, omens, and rituals that have no scientific basis. These beliefs are often passed down from one generation to another and are followed without question.</p>
         <p>In my community, one common superstition is that if a cat crosses your path, it brings bad luck. People stop or change their route just because of this belief. Another popular one is the throbbing of the right or left eye, many think it signals either good or bad news. The cawing of a crow is believed to mean that a guest is coming, and meeting a sweeper early in the morning is thought to bring good luck.</p>
@@ -129,17 +136,19 @@ In conclusion, education plays a major role in reducing superstitious beliefs by
         <p>Most of these superstitions are based on fear and lack of scientific knowledge. While our elders may follow them out of habit or culture, it is important that the younger generation learns to question and think logically.</p>
         <p>We should respect traditions, but also work to build a society based on science, reason, and understanding. Education and awareness are key to reducing superstitious beliefs and promoting rational thinking.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. “Superstition is prevalent in every walk of life.” Argue for this statement.</p>
+        <p className='question'>b. “Superstition is prevalent in every walk of life.” Argue for this statement.</p>
         <p>= Yes, superstition is found everywhere in life. People began believing in superstitions when they felt powerless against natural events and wanted explanations for things they could not control. Many superstitions also come from cultural traditions and social beliefs.</p>
         <p>For instance, in many communities, people believe that breaking a mirror brings seven years of bad luck. Similarly, the belief that walking under a ladder is unlucky is common in many cultures. In some places, spilling salt is thought to invite bad luck unless it is thrown over the left shoulder.</p>
         <p>In Nepal, many still believe that seeing a snake or a crow near the house is a sign of upcoming bad news or misfortune. In other parts of the world, people avoid opening umbrellas indoors because it is believed to cause bad luck.</p>
         <p>Even in modern times, some people avoid certain numbers or days when making important decisions, thinking that some dates are unlucky. For example, many avoid traveling or starting new projects on Fridays the 13th.</p>
         <p>These beliefs may not have any scientific explanation, but they continue to influence daily life. Despite progress in education and science, superstitions remain deeply rooted in many cultures, showing that they are truly prevalent in every aspect of life.</p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>B. Put the verb into the correct form, present simple or present continuous.</p>
+        <p className='question'>B. Put the verb into the correct form, present simple or present continuous.</p>
         <p>a. Nisha <u>speaks</u> (speak) English very well.</p>
         <p>b. Hurry up! We <u>are waiting</u> (wait) for you.</p>
         <p>c. Excuse me! <u>Do you speak</u> (you/speak) English?</p>
@@ -151,8 +160,9 @@ In conclusion, education plays a major role in reducing superstitious beliefs by
         <p>i. Look! The river <u>is flowing</u> (flow) very fast.</p>
         <p>j. Amrita <u>does not seem</u> (not/seem) very happy at the moment.</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Are the underlined verbs in the correct form? Correct them where necessary.</p>
+        <p className='question'>C. Are the underlined verbs in the correct form? Correct them where necessary.</p>
         <p>a. Water boils at 100° C.</p>
         <p>= Water boils at 100° C.</p>
         <p>b. The water boils. Can you turn it off?</p>

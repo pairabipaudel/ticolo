@@ -13,7 +13,7 @@ const Humanrightsandtheageofinequality = () => {
       <div>
         <hr/>
         <h3>Understanding the text</h3>
-        <p>Answer the following</p>
+        <p className='question'>Answer the following</p>
         <p>a. What is the first human rights declaration adopted by the United Nations?</p>
         <p>= The first human rights declaration adopted by the United Nations is the Universal Declaration of Human Rights (UDHR), which was adopted in 1948. This declaration sets out a broad range of fundamental rights that every person is entitled to, including civil, political, economic, social, and cultural rights. The UDHR was a landmark document aimed at promoting and protecting human dignity and freedom worldwide. It emphasized not only political and civil rights but also the importance of economic and social rights, such as the right to education, work, and an adequate standard of living. This declaration laid the foundation for many international human rights laws and agreements that followed.</p>
         <p>b. When is Human Rights Day observed?</p>
@@ -32,16 +32,18 @@ const Humanrightsandtheageofinequality = () => {
       <div>
         <hr/>
         <h3>Reference to the context</h3>
-        <p>a. Does the essay give ways on how to stigmatize inequality? Explain.</p>
+        <p className='question'>a. Does the essay give ways on how to stigmatize inequality? Explain.</p>
         <p>= The essay “Human Rights and the Age of Inequality” by Samuel Moyn discusses the importance of stigmatizing inequality but does not provide specific methods on how to do so. It explains that history shows some agents are not fearful enough to trigger redistribution, but as inequality worsens, opposition will inevitably arise. Therefore, justice and equality are essential demands. The essay suggests that a renewed human rights movement, representing the common people, can promote social equality and liberation. To achieve this, it is necessary to remove partiality and discrimination through proper supervision, monitoring, and strict laws. Inequality is considered a social stigma because it causes conflicts, so eliminating it is vital for the welfare of all.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. Is another human rights movement necessary? Why?</p>
+        <p className='question'>b. Is another human rights movement necessary? Why?</p>
         <p>= Yes, another human rights movement is necessary. As the essayist argues, current human rights frameworks are operating under political and economic suppression, and I agree with this view. Many individuals in positions of power continue to violate laws without consequences, and inequality remains deeply embedded in human affairs. Practices like nepotism and favoritism still hinder the emergence of new ideas and talents. Furthermore, political and social dominance by elite groups continues to suppress marginalized voices. Although laws and rights are documented, they are rarely enforced effectively. The division of society based on economic status such as rich and poor has created widespread injustice and inequality. Therefore, a new human rights movement is essential to address these systemic problems and ensure fairness and dignity for all.</p>
       </div>
+      <hr/>
       <div>
         <h3>Reference beyond the text</h3>
-        <p>a. What are the challenges in maintaining human rights in Nepal?</p>
+        <p className='question'>a. What are the challenges in maintaining human rights in Nepal?</p>
         <p>
             = Human rights are the basic freedoms and entitlements of every individual, protected by law and international agreements. In Nepal, efforts to institutionalize human rights began with the Human Rights Commission Act of 1997, and the National Human Rights Commission (NHRC) became a constitutional body under the interim constitution of 2007. However, several challenges persist in maintaining these rights. Widespread poverty, especially in rural areas, limits access to basic needs and justice. Educational inequality and gender disparity continue to marginalize women and underprivileged communities. Health issues, children's rights violations, and abuse of authority further weaken the human rights landscape. Additionally, corruption, nepotism, and lack of legal enforcement obstruct the delivery of justice. Political instability and weak institutional frameworks hinder consistent implementation of policies. A lack of education and awareness about human rights among the general population also poses a significant barrier. As a result, despite legal provisions, practical enforcement of human rights in Nepal remains a significant challenge.
 

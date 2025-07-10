@@ -5,7 +5,7 @@ const Humanrights = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. Pair the following words as opposites.</p>
+        <p className='question'>A. Pair the following words as opposites.</p>
         <p>Despair: hope</p>
         <p>Kind: cruel</p>
         <p>Fresh: stale</p>
@@ -15,8 +15,9 @@ const Humanrights = () => {
         <p>Corrupt: honest</p>
         <p>Selfish: generous</p>
       </div>
+      <hr/>
       <div>
-        <p>B. By adding a suitable suffix to each word in the table, form another word as in the examples below.</p>
+        <p className='question'>B. By adding a suitable suffix to each word in the table, form another word as in the examples below.</p>
         <p>Noun forms</p>
         <p>open-minded = open-mindedness</p>
         <p>accommodate = accommodation</p>
@@ -42,27 +43,28 @@ const Humanrights = () => {
       <div>
         <hr/>
         <h3>Comprehension</h3>
-        <p>A. Write True or False after each statement. Give a reason for your answer</p>
-        <p>a. The author says his father was an ideal person in the family.
-False
-Reason: He used to abuse his mother verbally and physically when he was drunk.</p>
-        <p>b. The author wanted to forgive his father but he did not get an opportunity.
-True 
-Reason: He had many pressures and stresses, and his father died before he could forgive him.</p>
-        <p>c. It's worth forgiving a person if he/she realizes his/her mistakes.
+        <p className='question'>A. Write True or False after each statement. Give a reason for your answer</p>
+        <p>a. The author says his father was an ideal person in the family.</p><p>
+False</p><p>
+Reason: He used to abuse his mother </p><p>verbally and physically when he was drunk.</p>
+        <p>b. The author wanted to forgive his father but he did not get an opportunity.</p><p>
+True </p><p>
+Reason: He had many pressures and </p><p>stresses, and his father died before he could forgive him.</p>
+        <p>c. It's worth forgiving a person if he/she realizes his/her mistakes.</p><p>
 True</p>
-        <p>d. South Africa had the dual type of education system in the 1960s.
+        <p>d. South Africa had the dual type of education system in the 1960s.</p><p>
 True</p>
-        <p>e. The author lived in a joint family.
-False
+        <p>e. The author lived in a joint family.</p><p>
+False</p><p>
 Reason: He lived with only his wife and two children.</p>
-        <p>f. The author regretted not getting a chance to talk to his father.
+        <p>f. The author regretted not getting a chance to talk to his father.</p><p>
 True</p>
 <p>g. According to the author, all our glories and splendours are short-lived.
 True</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Answer the following questions.</p>
+        <p className='question'>B. Answer the following questions.</p>
         <p>a. How does the author remember his family environment when he was a small boy?</p>
         <p>= The author remembers his family environment as painful and abusive. He recalls that his father used to verbally and physically abuse his mother.</p>
 
@@ -90,33 +92,34 @@ True</p>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. Desmond Tutu once said, "Forgiving is not forgetting; it is actually remembering-remembering and not using your right to hit back. It's a second chance for a new beginning." Does this quotation apply to this text? Analyze.</p>
+        <p className='question'>a. Desmond Tutu once said, "Forgiving is not forgetting; it is actually remembering-remembering and not using your right to hit back. It's a second chance for a new beginning." Does this quotation apply to this text? Analyze.</p>
         <p>= The quote by Desmond Tutu means that forgiveness does not mean forgetting the harm done to us. Instead, it means remembering the pain but choosing not to seek revenge. Forgiveness gives us a chance to start fresh.
-
+</p><p>
 In the text, the author experiences domestic violence from his father and feels the pain deeply. As a child, he wanted to hurt his father back. However, as he grows older, he learns to forgive his father, understanding that his father's abusive behavior was caused by the pressures and mistreatment faced by black people under South Africa's oppressive system.
-
+</p><p>
 Thus, the author's forgiveness is not about forgetting the pain but about remembering it without retaliating. This perfectly reflects Desmond Tutu's idea that forgiveness is a second chance for a new beginning.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. The author interprets "I am sorry" as the three hardest words to say. How does it apply to your life?</p>
+        <p className='question'>b. The author interprets "I am sorry" as the three hardest words to say. How does it apply to your life?</p>
         <p>= Committing mistakes is a part of human life, but accepting those mistakes and apologizing for them is often the hardest task. In the text, the author describes “I am sorry” as the three hardest words to say. This ties closely with the concept of empathy, which means putting ourselves in others' shoes and understanding their feelings. Empathy requires humility. Too often, we are consumed by our own emotions and forget that others matter too. By sincerely saying "I am sorry," we acknowledge the other person's pain and validate their feelings.
-
+</p><p>
 In my own life, I also find these three words difficult to say, especially when I've hurt someone. Instead of apologizing, I tend to distance myself from the person I've hurt and wait for them to come and talk to me first. I am a sensitive and proud person, and I get hurt easily. When someone hurts me, I expect them to approach me and say sorry, but I rarely consider how much my actions may have affected others.
-
+</p><p>
 Saying “I am sorry” makes me feel uneasy. My pride, fear of being ashamed, emotional sensitivity, and even a sense of superiority sometimes stop me from apologizing. I struggle with the overwhelming emotions of guilt and the lack of awareness about the other person's pain. These feelings and internal conflicts make it very difficult for me to say those three powerful words, I am sorry.</p>
       </div>
       <div>
         <hr/>
         <h3>Writing</h3>
-        <p>The author talks about the dual education system based on race in South Africa in the second half of the twentieth century. We also have private schools and public schools in Nepal. What should be done to make education equal for all citizens of Nepal? Write a couple of paragraphs expressing your views.</p>
+        <p className='question'>The author talks about the dual education system based on race in South Africa in the second half of the twentieth century. We also have private schools and public schools in Nepal. What should be done to make education equal for all citizens of Nepal? Write a couple of paragraphs expressing your views.</p>
         <p>= Nepal has made significant progress in promoting equity in education, but much still needs to be done to ensure that every citizen has equal access to quality learning opportunities. Historically, education in Nepal was reserved for the elite, and it wasn't until the 1950s that the general population began to gain access to schools. Although there have been improvements, issues such as income disparity, gender inequality, language barriers, disability, and geographic isolation continue to affect educational access and outcomes. Public schools in rural areas often lack basic facilities such as clean drinking water, proper sanitation, and adequate classroom resources. These challenges, along with child malnutrition and poor living conditions, hinder students' ability to focus and perform well, increasing dropout rates.
-
+</p><p>
 To make education more equal for all citizens of Nepal, both private and public schools should be strengthened and supported with proper infrastructure, trained teachers, and modern teaching materials, including the use of technology. The government should invest more in rural education, ensuring that children in remote areas receive the same quality of education as those in urban settings. Special attention must be given to marginalized communities affected by caste, ethnicity, gender, and poverty. Scholarship programs, awareness campaigns, and inclusive policies should be expanded and strictly implemented to close the gap between different social groups. Only through equal opportunities and inclusive policies can Nepal build an education system that serves all its citizens fairly and effectively.</p>
       </div>
       <div>
         <hr/>
         <h3>Grammar</h3>
-        <p>A. Join the following pairs of sentences using when and while</p>
+        <p className='question'>A. Join the following pairs of sentences using when and while</p>
         <p>a. Bibha Kumari was doing her homework. The doorbell rang</p>
         <p>= Bibha Kumari was doing her homework when the doorbell rang.</p>
         <p>= While Bibha Kumari was doing her homework, the doorbell rang.</p>
@@ -149,8 +152,9 @@ To make education more equal for all citizens of Nepal, both private and public 
         <p>= Kanchan broke her backbone when she was lifting up the load.</p>
    
       </div>
+      <hr/>
       <div>
-        <p>B. Fill in the blanks with one of the connectives from the box.</p>
+        <p className='question'>B. Fill in the blanks with one of the connectives from the box.</p>
         <p>a. We didnt go for a morning walk today <strong>since</strong> it was raining.</p>
         <p>b. I wanted to go home early <strong>as</strong> I was not feeling well.</p>
         <p>c. My brother stayed at home <strong>because of/owing to</strong> his illness.</p>

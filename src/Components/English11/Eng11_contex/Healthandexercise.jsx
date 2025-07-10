@@ -5,7 +5,7 @@ const Healthandexercise = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Ten words in the bold face in the text correspond to the definitions below. Match the definitions with the corresponding words.</p>
+        <p className='question'>A. Ten words in the bold face in the text correspond to the definitions below. Match the definitions with the corresponding words.</p>
         <p>a. in spite of what has just been said or referred to - nevertheless</p>
         <p>b. a strong desire or impulse - urge</p>
         <p>c. the ability to continue trying to do something, although it is very difficult - determination</p>
@@ -17,8 +17,9 @@ const Healthandexercise = () => {
         <p>i. to improve or increase something - boost</p>
         <p>j. a limiting condition on something - restriction</p>
       </div>
+      <hr/>
       <div>
-        <p>Now, make sentences of your own using the same words in bold type.</p>
+        <p className='question'>Now, make sentences of your own using the same words in bold type.</p>
         <p><strong> Nevertheless: </strong>It was raining outside, but nevertheless we decided to play football.</p>
         <p><strong>urge: </strong>I felt a strong urge to eat chocolate after dinner.</p>
         <p><strong>Determination: </strong>With determination, she finished the difficult puzzle all by herself.</p>
@@ -30,17 +31,18 @@ const Healthandexercise = () => {
         <p><strong>boosts: </strong>Drinking water boosts your energy and helps you stay healthy.</p>
         <p><strong>restrictions: </strong>Because of the flu, the school put restrictions on visitors to keep students safe.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. The words 'restriction' and 'awareness' are nouns with the suffixes '-ion' and '-ness'. Make a list of as many words as you can which end in '-ion' and '-ness'. Make a list of as many words as you can which end in '-ion' and 'ness.</p>
+        <p className='question'>B. The words 'restriction' and 'awareness' are nouns with the suffixes '-ion' and '-ness'. Make a list of as many words as you can which end in '-ion' and '-ness'. Make a list of as many words as you can which end in '-ion' and 'ness.</p>
         <strong>'-ion'</strong>
         <p>education, celebration, pollution, attention, decision, creation, solution, communication, invitation, explanation</p>
         <strong>-ness</strong>
         <p>hapiness, sadness, kidness, weakness, darkness, freshness, softness, boldness, fitess, awareness</p>
       </div>
-
+       <hr/>
       <div>
         <h3>Comprehension</h3>
-        <p>A. Write whether the following statements are True, False or Not Given.</p>
+        <p className='question'>A. Write whether the following statements are True, False or Not Given.</p>
         <p>a. During the holidays people eat and drink more than usual. <strong> True</strong></p>
         <p>b. Getting too little exercise and eating too much is the reason why people put on weight. <strong>True</strong></p>
         <p>c. David Allison's research involved studying rats under laboratory conditions. <strong>False</strong></p>
@@ -52,8 +54,9 @@ const Healthandexercise = () => {
         <p>i. Rajita Sinha has been studying the connection between brain activity and behaviour. <strong>False</strong></p>
         <p>j. Specific hormones regulate our appetite. <strong>True</strong></p>
       </div>
+      <hr/>
       <div>
-        <p>B. Answer the following questions.</p>
+        <p className='question'>B. Answer the following questions.</p>
         <p>a. In what sense are the holidays a time of excess? When can a person gain weight?</p>
         <p>= Holidays are a time of excess because people often eat and drink more than usual. A person can gain weight if they eat too much and do little or no exercise.</p>
         <p>b. According to David Allison, which factor contributes to excess obesity?</p>
@@ -71,13 +74,14 @@ const Healthandexercise = () => {
         <p>h. What is the link between sleep and weight?</p>
         <p>= The link between sleep and weight is that sleep deprivation boosts body weight.</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical thinking</h3>
-        <p>a. What do you do you to keep yourself fit? What food do you avoid and why?</p>
+        <p className='question'>a. What do you do you to keep yourself fit? What food do you avoid and why?</p>
         <p>= Fitness means being healthy and strong in both body and mind. To stay fit, I do regular exercise, drink plenty of water, and practice yoga to keep my mind calm and healthy. Drinking water helps my body work well, and yoga helps reduce stress and improve mental health.
-
+</p><p>
 I also avoid eating too much junk food because it is unhealthy. Junk food usually has a lot of sugar, fat, and salt, which can make me gain weight and feel tired. Foods I avoid include donuts, cakes, cookies, processed meats, and foods with hydrogenated oils because they have poor nutrition and can harm my body.
-
+</p><p>
 By exercising, eating less junk food, drinking water, and doing yoga, I stay healthy both physically and mentally.
 </p>
 <p>b. Healthy citizens are the greatest asset of a country. What can a state do to keep her citizen healthy?</p>
@@ -87,17 +91,19 @@ By exercising, eating less junk food, drinking water, and doing yoga, I stay hea
 <p>3. Raise awareness about communicable diseases through advertisements and mass media.</p>
 <p>4. Carry out proper vaccination programs to protect people from common diseases.</p>
       </div>
+      <hr/>
       <div>
         <h3>Writing</h3>
-        <p>a. Yoga can be good to stay physically and mentally healthy. Do you practice any yoga? Write an essay on the benefits of yoga.</p>
+        <p className='question'>a. Yoga can be good to stay physically and mentally healthy. Do you practice any yoga? Write an essay on the benefits of yoga.</p>
         <p>= Yoga is an ancient practice that helps keep our body and mind healthy. It includes physical exercises, breathing techniques, and meditation. Practicing yoga regularly can bring many benefits.</p>
         <p>First, yoga helps improve our physical health. It makes our muscles strong and flexible. It also improves our balance and posture. People who practice yoga often feel less tired and more energetic.</p>
         <p>Second, yoga is very good for mental health. It helps reduce stress and anxiety by calming the mind. When we do breathing exercises and meditate, we feel peaceful and relaxed. This helps us focus better and improves our mood.</p>
         <p>I practice yoga regularly because it helps me stay healthy and calm. It also helps me concentrate better on my studies and daily tasks.</p>
         <p>In conclusion, yoga is a simple and natural way to keep both the body and mind healthy. Everyone can benefit from doing yoga, no matter their age or fitness level.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. How can a person be mentally healthy? Provide about ten tips to a person to stay mentally fresh and healthy.</p>
+        <p className='question'>b. How can a person be mentally healthy? Provide about ten tips to a person to stay mentally fresh and healthy.</p>
         <p>= Mental Health means how well we think, feel, and handle life's challenges. It includes our emotions, thoughts, and how we cope with stress. Good mental health helps us enjoy life, make good decisions, and handle problems without feeling overwhelmed. When our mental health is strong, we can build good relationships, do well in school or work, and stay physically healthy too. Here are ten tips to help keep your mind fresh and healthy:
           <p>1. Get plenty of sleep to help your brain rest and recover.</p>
           <p>2. Eat well by choosing healthy and balanced meals.</p>
@@ -111,15 +117,17 @@ By exercising, eating less junk food, drinking water, and doing yoga, I stay hea
           <p>10. Be curious and explore new places, even in your own town, to keep your mind active.</p>
 </p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>B. Complete the sentences by choosing the correct verbs from the brackets.</p>
+        <p className='question'>B. Complete the sentences by choosing the correct verbs from the brackets.</p>
         <p>a. Everyone <u>has</u> (has/have) problems in their life. Countries also <u>have</u> (has/have) problems, and so <u>does</u> (do/does) the world. One of the greatest problems <u>is</u> (is/are) the growing population. The population in some countries <u>is</u> (is/are) huge.</p>
         <p>b. A number of my friends <u>love</u> (love/loves) riding bicycles, but neither my brother nor my sister <u>owns</u> (own/owns) a cycle. At 4 o'clock, either my mother or father <u>is</u> (is/are) coming to pick me up in a car.</p>
         <p>c. The pair of shoes on the floor <u>is</u> (is/are) mine. The shoes <u>were</u> (was/ were) made in China. The three thousand rupees I spent on them <u>was</u> (was/were) worth it.</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Are the following sentences correct? If not, correct them.</p>
+        <p className='question'>C. Are the following sentences correct? If not, correct them.</p>
         <p>a. Everyone of the workers receive the same benefits.</p>
         <p>= Everyone of the workers receives the same benefits.</p>
         <p>b. There is two gerbils in my bathroom.</p>

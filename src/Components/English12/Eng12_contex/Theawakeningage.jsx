@@ -12,7 +12,7 @@ const Theawakeningage = () => {
       <div>
         <hr/>
         <h3>Understanding the text</h3>
-        <p>Answer the following</p>
+        <p className='question'>Answer the following</p>
         <p>a. Who are the people 'who travel the meridian line'?</p>
         <p>= The people "who travel the meridian line" are the Nigerians who have come together after Nigeria's long civil war, which divided the country into two parts: the North and the South. This line symbolizes the efforts to reunite the nation and overcome the divisions caused by the war.</p>
         <p>b. What does the poet mean by 'a new world'?</p>
@@ -29,63 +29,71 @@ const Theawakeningage = () => {
       <div>
         <hr/>
         <h3>Reference to the context</h3>
-        <p>a. What does the poet mean by 'the awakening age'?</p>
+        <p className='question'>a. What does the poet mean by 'the awakening age'?</p>
         <p>= 'The awakening age' refers to a period of realization and enlightenment for the people of Africa, especially Nigerians, after experiencing hardships like the civil war. It symbolizes a hopeful time marked by peace, unity, harmony, integrity, liberty, prosperity, and creativity. The poet believes that through unity and awareness, a new and better world can emerge for all.</p>
-        <p>b. Why, in your view, have these people 'lived with poverty's rage'?</p>
+        <hr/>
+        <p className='question'>b. Why, in your view, have these people 'lived with poverty's rage'?</p>
         <p>= In my view, these people have 'lived with poverty's rage' because of a long history of exploitation, colonization, and internal conflicts. The brutal Nigerian civil war, which lasted for three years, led to massive suffering, starvation, and death, especially among children. Political instability, unequal distribution of resources, and lack of opportunities in education and empowerment deepened their hardships. Additionally, internal divisions based on religion, culture, and ethnicity distracted from the struggles of ordinary people. As a result, poverty became a constant and painful part of their lives.</p>
-        <p>c. Why does the poet appeal for solidarity among the people?</p>
+        <hr/>
+        <p className='question'>c. Why does the poet appeal for solidarity among the people?</p>
+
         <p>=  The poet appeals for solidarity among the people because they have been divided and fragmented by civil war and internal conflicts. He believes that only through unity and togetherness can they overcome their challenges and suffering. Solidarity is essential for achieving peace, prosperity, hope, truth, wisdom, liberty, and creativity. The poet sees unity as the key to rising above poverty and building a better, peaceful future for all.</p>
-        <p>d. Does the poet present migration in a positive light? Why? Why not?</p>
+        <hr/>
+        <p className='question'>d. Does the poet present migration in a positive light? Why? Why not?</p>
         <p>= Yes, the poet presents migration in a positive light. Migration helps people change their perceptions and improve their lives by offering new opportunities, resources, education, and freedom. Migrants, often of working age, bring skills, creativity, and innovation to the places they move to. The poet envisions a new age of awakening where migrants are unified, prosperous, honest, and smart, contributing positively to society and helping overcome poverty and suffering.
 </p>
-        <p>e.Nepal is also known for its economic as well as educational migrants. Have you noticed any change in the perceptions and behaviours of these migrants when they return home from abroad?</p>
+<hr/>
+        <p className='question'>e.Nepal is also known for its economic as well as educational migrants. Have you noticed any change in the perceptions and behaviours of these migrants when they return home from abroad?</p>
         <p>= Yes, I have noticed many changes in the perceptions and behaviours of migrants when they return home from abroad. One major change is in their understanding of education. While Nepal often follows a theoretical approach, migrants are exposed to more practical and skill-based learning systems abroad. This makes them more socially aware, confident, and goal-oriented.
-
+</p><p>
 Economically, they become more financially literate, understand the value of time and investment, and often bring back capital and innovative ideas. Their exposure to broader cultures also shapes their mindset, making them more progressive, disciplined, and responsible. They often try to apply their gained knowledge and experience to improve their own communities, challenging traditional limitations and encouraging change.</p>
-        <p>f. Relate the rhyme scheme of this sonnet to the kind of life idealized by the poet.</p>
+<hr/>
+        <p className='question'>f. Relate the rhyme scheme of this sonnet to the kind of life idealized by the poet.</p>
         <p>= The rhyme scheme of this sonnet is AA BB CC DD EE FF GG, forming seven rhyming couplets. This regular and harmonious pattern reflects the poet's vision of a peaceful, unified, and ideal life. The smooth flow of rhymes symbolizes hope, harmony, and order qualities the poet wishes to see in the lives of Nigerians after their long struggle with civil war and poverty.
-
+</p><p>
 Through this musical and pleasant rhyme scheme, the poet expresses his dream of an awakening age marked by wisdom, liberty, prosperity, and unity. Each couplet adds to the sense of balance and optimism, aligning with the poet's message that a new, enlightened world is possible through solidarity and positive transformation.</p>
       </div>
       <div>
         <hr/>
         <h3>Reference beyond the text</h3>
-        <p>Write an essay on 'The Impacts of Migration on Nepali Society'.</p>
+        <p className='question'>Write an essay on 'The Impacts of Migration on Nepali Society'.</p>
         <p>= Migration is the movement of people from one place to another, either temporarily or permanently, with the aim of settling in a new location. It may involve individuals, families, or even large groups. Migration can occur within a country (internal migration) or across countries (international migration) and can be permanent, temporary, or seasonal.
-
+</p><p>
 Migration is closely linked with global issues such as economic development, poverty, and human rights. While it can offer various social and economic benefits, it also presents serious challenges. Common causes of migration include lack of basic services, poverty, drought, flooding, unemployment, and conflict.
-
+</p><p>
 Positive Impacts of Migration
+</p><p>
 1. Increases Working-Age Population: Migrants often fill labor shortages and take on low-paid, low-skilled jobs that are less attractive to local workers.
-
+</p><p>
 2. Skills and Innovation: Migrants bring skills, ideas, and innovation, contributing to the development of human capital in the receiving country.
-
+</p><p>
 3. Cultural Diversity: Migration enriches the cultural fabric of societies, introducing new perspectives, cuisines, art, languages, and traditions.
-
+</p><p>
 4. Economic Growth: Remittances sent back home by migrants can boost local economies and reduce poverty.
-
-Negative Impacts of Migration on Nepali Society
+</p><p>
+Negative Impacts of Migration on Nepali Society</p><p>
 Migration has become a burning issue in Nepal, affecting society on multiple levels. Some of the major negative impacts include:
-
+</p><p>
 1. Decreasing Youth Population: A significant number of young people leave Nepal for foreign employment or education, reducing the active labor force.
-
+</p><p>
 2. Lack of Youth Manpower: Villages and rural areas face serious shortages of young workers needed for farming, development, and entrepreneurship.
-
+</p><p>
 3. Weakened Social Relationships: As families become scattered, emotional bonds weaken and traditional values begin to erode.
-
+</p><p>
 4. Loneliness Among the Elderly: Many elderly people are left behind, often living in miserable and lonely conditions without care or support.
-
+</p><p>
 5. Lack of Social Vibrancy During Festivals: The absence of people during cultural and religious festivals affects the community spirit and social harmony.
-
+</p><p>
 6. Loss of Community Values: Love, affection, cooperation, and mutual support are slowly diminishing.
-
+</p><p>
 7. Decline in Local Development: With fewer residents, local development initiatives lack manpower and momentum.
-
+</p><p>
 8. Questioning Humanity: The foundation of community living and shared responsibility is being replaced by individualism and selfishness.
-
+</p><p>
 9. Decline in Birth Rate: Fewer marriages and family formations among migrants have led to a noticeable decline in birth rates.
-
+</p><p>
 Conclusion
+</p><p>
 Migration is a complex issue with both benefits and drawbacks. While it can bring growth and opportunity, it can also leave deep scars in the social fabric of the origin country. In Nepal, the negative impacts—especially the social and emotional costs—are becoming increasingly visible. Therefore, it is crucial for the government and society to find a balance by creating domestic opportunities so that migration becomes a choice, not a necessity.</p>
       </div>
     </div>

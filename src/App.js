@@ -4,6 +4,7 @@ import HomePage from './Components/HomePage/HomePage';
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
 import Nepali12 from './Components/Nepali12/Nepali12';
+import Nepali11 from './Components/Nepali11/Nepali11';
 import English12 from './Components/English12/English12';
 import English11 from './Components/English11/English11';
 import Criticalthinking from './Components/English12/Eng12_contex/Criticalthinking';
@@ -67,7 +68,7 @@ import Criticalthinking11 from './Components/English11/Eng11_contex/Criticalthin
 import Democracyandhumanrights from './Components/English11/Eng11_contex/Democracyandhumanrights';
 import Ecologyanddevelopment from './Components/English11/Eng11_contex/Ecologyanddevelopment';
 import Educationandhumanity from './Components/English11/Eng11_contex/Educationandhumanity';
-import Fantasy11 from './Components/English11/Eng11_contex/Fantasy';
+import Fantasy11 from './Components/English11/Eng11_contex/Fantasy11';
 import Globalisationanddiaspora from './Components/English11/Eng11_contex/Globalisationanddiaspora';
 import Godseesthetruthbutwaits from './Components/English11/Eng11_contex/Godseesthetruthbutwaits';
 import Healthandexercise from './Components/English11/Eng11_contex/Healthandexercise';
@@ -95,6 +96,18 @@ import Whatirequirefromlife from './Components/English11/Eng11_contex/Whatirequi
 import Whatispoverty from './Components/English11/Eng11_contex/Whatispoverty';
 import Whoareyoulittlei from './Components/English11/Eng11_contex/Whoareyoulittlei';
 
+import Birpurkha from './Components/Nepali11/Nep11_contex/Birpurkha';
+import Gaukomaya from './Components/Nepali11/Nep11_contex/Gaukomaya';
+import Sanskritikonayayatra from './Components/Nepali11/Nep11_contex/Sanskritikonayayatra';
+import Yogmaya from './Components/Nepali11/Nep11_contex/Yogmaya';
+import Sathilaichithi from './Components/Nepali11/Nep11_contex/Sathilaichithi';
+import Tyoferifarkala from './Components/Nepali11/Nep11_contex/Tyoferifarkala';
+import Paryaparyatankasambhabanaraayam from './Components/Nepali11/Nep11_contex/Paryaparyatankasambhabanaraayam';
+import Lauaayotajakhabar from './Components/Nepali11/Nep11_contex/Lauaayotajakhabar';
+import Safaltakokatha from './Components/Nepali11/Nep11_contex/Safaltakokatha';
+import Krishisalamaekdin from './Components/Nepali11/Nep11_contex/Krishisalamaekdin';
+import Raravraman from './Components/Nepali11/Nep11_contex/Raravraman';
+import Jalsrotraurja from './Components/Nepali11/Nep11_contex/Jalsrotraurja';
 const App = () => {
   return (
     <Router>
@@ -102,6 +115,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/nep12" element={<Nepali12 />} />
+        <Route path="/nep11" element={<Nepali11 />} />
         <Route path="/eng12" element={<English12 />} />
 <Route path="/eng11" element={<English11 />} />
         <Route path="/criticalthinking" element={<Criticalthinking />} />
@@ -171,7 +185,7 @@ const App = () => {
         <Route path="/god-sees-the-truth-but-waits" element={<Godseesthetruthbutwaits />} />
         <Route path="/health-and-exercise" element={<Healthandexercise />} />
         <Route path="/history-and-culture" element={<Historyandculture />} />
-        <Route path="/homelifeandfamilyrelationship" element={<Homelifeandfamilyrelationship />} />
+        <Route path="/home-life-and-family-relationship" element={<Homelifeandfamilyrelationship />} />
         <Route path="/how-to-live-before-you-die" element={<Howtolivebeforeyoudie />} />
         <Route path="/humour-and-satire" element={<Humourandsatire />} />
         <Route path="/Immigration-and-identity" element={<Immigrationandidentity />} />
@@ -180,7 +194,7 @@ const App = () => {
         <Route path="/power-and-politics" element={<Powerandpolitics11 />} />
         <Route path="/refund" element={<Refund />} />
         <Route path="/science-and-technology" element={<Scienceandtechnology />} />
-        <Route path="/scientific-research" element={<Scientificresearch />} />
+        <Route path="/scientific-research-is-a-token-of-humankinds-survival" element={<Scientificresearch />} />
         <Route path="/sharing-tradition" element={<Sharingtradition />} />
         <Route path="/the-gift-in-war-time" element={<Thegiftinwartime />} />
         <Route path="/the-oval-portrait" element={<Theovalportrait />} />
@@ -193,6 +207,19 @@ const App = () => {
         <Route path="/what-i-require-from-life" element={<Whatirequirefromlife />} />
         <Route path="/what-is-poverty" element={<Whatispoverty />} />
         <Route path="/who-are-you-little-i" element={<Whoareyoulittlei />} />
+        <Route path="/fantasy-11" element={<Fantasy11 />} />
+        <Route path="/bir-purkha" element={<Birpurkha />} />
+        <Route path="/gau-ko-maya" element={<Gaukomaya />} />
+        <Route path="/sanskriti-ko-naya-yatra" element={<Sanskritikonayayatra />} />
+        <Route path="/yogmaya" element={<Yogmaya />} />
+        <Route path="/sathi-lai-chithi" element={<Sathilaichithi />} />
+        <Route path="/tyo-feri-farkala" element={<Tyoferifarkala />} />
+         <Route path="/safaltako-katha" element={<Safaltakokatha />} />
+        <Route path="/paryaparyatanka-sambhabana-ra-ayam" element={<Paryaparyatankasambhabanaraayam />} />
+        <Route path="/lau-aayo-taja-khabar" element={<Lauaayotajakhabar />} />
+        <Route path="/krishi-sala-ma-ek-din" element={<Krishisalamaekdin />} />
+        <Route path="/rara-vraman" element={<Raravraman />} />
+        <Route path="/jal-srot-ra-urja" element={<Jalsrotraurja />} />
       </Routes>
       <Footer />
     </Router>

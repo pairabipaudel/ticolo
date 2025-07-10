@@ -5,7 +5,7 @@ const Musicandcreation = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. Find the single words for the following definitions. The words are given in the jumbled letters at the end.</p>
+        <p className='question'>A. Find the single words for the following definitions. The words are given in the jumbled letters at the end.</p>
         <p>a. A person who hates or distrusts mankind <strong>misanthrope</strong> imaseponrth</p>
         <p>b. A sensation of noise, such as a ringing or roaring <strong>tinnitus
          </strong></p>
@@ -18,14 +18,16 @@ const Musicandcreation = () => {
         <p>i. A hearing disorder that makes it hard to deal with everyday sounds<strong> hyperacusis</strong></p>
         <p>j. A bacterial infection usually spread by sexual contact<strong> syphilis</strong> pysslihi</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Put the musical instruments into different categories as below.</p>
+        <p className='question'>B. Put the musical instruments into different categories as below.</p>
         <p>Wind Instruments : trumpet, harmonica, clarinet, conch, trombone</p>
         <p>Stringed Instruments : violin, viola, cello, double bass</p>
         <p>Percussion Instruments : drum, tabls, cymbal, bell, tambourine</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Use a dictionary and find the definition of these genres of music.</p>
+        <p className='question'>C. Use a dictionary and find the definition of these genres of music.</p>
         <p><strong>Rock music:</strong></p>
 
 <p>A genre of popular music characterized by a strong beat, electric guitars, and energetic vocals.</p>
@@ -72,7 +74,7 @@ const Musicandcreation = () => {
       <div>
       <hr/>
       <h3>Comprehension</h3>
-      <p>A. Put the following events in the life of Beethoven in chronological order.</p>
+      <p className='question'>A. Put the following events in the life of Beethoven in chronological order.</p>
       <p>c. Beethoven was born into a musical family in Bonn, Germany.
 e. He learned to play the organ, piano, violin, and viola.
 a. He migrated to Vienna.
@@ -82,18 +84,20 @@ g. He lived a life in seclusion.
 b. He even made suicidal attempts.
 f. He died of hepatitis at the age of fifty-six.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. State whether the following statements are True or False.</p>
-        <p>a. Beethoven became blind in a gradual process over two decades. False
-b. He became a celebrity musician in his teenage. True
-c. He did not disclose his hearing problem for a long time. True
-d. He knew that he misunderstood the speakers and gave up his public performances. False
-e. He tried to get his deafness treated until his death. False
-f. Beethoven died in his early fifties. False
+        <p className='question'>B. State whether the following statements are True or False.</p>
+        <p>a. Beethoven became blind in a gradual process over two decades. False</p><p>
+b. He became a celebrity musician in his teenage. True</p><p>
+c. He did not disclose his hearing problem for a long time. True</p><p>
+d. He knew that he misunderstood the speakers and gave up his public performances. False</p><p>
+e. He tried to get his deafness treated until his death. False</p><p>
+f. Beethoven died in his early fifties. False</p><p>
 g. Doctors found the cause of his deafness after his death. False</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Answer the following questions.</p>
+        <p className='question'>C. Answer the following questions.</p>
         <p>a. What does Hellen Keller think about deafness and blindness?</p>
         <p>= Helen Keller believes that blindness separates people from the things around them because they cannot see objects or the world visually. On the other hand, deafness separates people from other people because it prevents them from hearing voices and sounds, which are important for communication and social interaction. Therefore, Keller emphasizes that deafness affects human relationships more deeply than blindness.</p>
 
@@ -127,14 +131,15 @@ g. Doctors found the cause of his deafness after his death. False</p>
       <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. Suicidal thoughts came in Beethoven's mind several times but he did not commit suicide and kept on composing music. Write a monologue in about 150 words from Beethoven's perspectives describing his suicidal thoughts and his will to live.</p>
+        <p className='question'>a. Suicidal thoughts came in Beethoven's mind several times but he did not commit suicide and kept on composing music. Write a monologue in about 150 words from Beethoven's perspectives describing his suicidal thoughts and his will to live.</p>
         <p>= I was the life of the party even when there was no party. I made one happen. I made people laugh. I made myself laugh. Lord, you could hear my laugh from a block away.
-
+</p><p>
 “Isn't he something, that Beethoven?” people would say. “Always happy. Always with a smile.” But inside, I feel lonely and helpless. My deafness has isolated me from friends and family. They see me only as the deaf man, not the musician I am. All my efforts to bring music to life, to make the world proud, seem wasted. Sometimes, I cannot bear it. No hope of a cure, no end to this pain. It wears me out. Today, I stayed alone. I thought maybe I would just stop. Rest forever.</p>
 <p>But then I realized suicide is not the answer. Life is precious. I still have music inside me. I may not hear others, but I will listen to my inner sounds and feelings. I will live, I will create. I am not defeated.</p>
         </div>
+        <hr/>
         <div>
-        <p>b. Was it divine inspiration or rigorous practice that made Beethoven one of the world's greatest musicians? Give the reasons.</p>
+        <p className='question'>b. Was it divine inspiration or rigorous practice that made Beethoven one of the world's greatest musicians? Give the reasons.</p>
         <p>= It was not divine inspiration alone, but Beethoven's rigorous practice, deep dedication, and unbreakable belief in music that made him one of the greatest composers in history. Ludwig van Beethoven, a German pianist and composer, is widely recognized for transforming the world of music. His groundbreaking compositions expanded the boundaries of musical forms like the sonata, symphony, concerto, and string quartet.</p>
         <p>Beethoven's life was filled with personal hardships, especially his struggle with deafness. Even when he was almost completely unable to hear, he continued to compose some of his most powerful and influential works. His determination to keep creating despite such a painful condition reflects his extraordinary commitment to music.</p>
         <p>Instead of giving up, he pushed through suffering, channeling his emotions into his music. It was through consistent hard work, creativity, and passion that he not only achieved global recognition but also reshaped the course of Western music. Beethoven didn't just follow an era he created his own</p>
@@ -142,21 +147,21 @@ g. Doctors found the cause of his deafness after his death. False</p>
       <div>
         <hr/>
         <h3>Writing</h3>
-        <p>Who is your favourite Nepali musician? Write his/her biography in about 300 words.</p>
+        <p className='question'>Who is your favourite Nepali musician? Write his/her biography in about 300 words.</p>
         <p>= Narayan Gopal is my favourite Nepali musician. He is considered one of the greatest and most respected singers in the history of Nepali music. Born on October 4, 1939, in Kathmandu, Narayan Gopal Guruwacharya belonged to a Newar family. From a young age, he had a deep interest in music, and though his parents wanted him to focus on academics, his heart was always in singing.
-
+</p><p>
 Narayan Gopal's voice was very unique, strong, emotional, and full of life. He didn't just sing; he made people feel every word. His songs are filled with emotions like love, pain, loneliness, and hope. That's why people of all generations still listen to him today.
-
+</p><p>
 Some of his most popular songs are “Euta Manche Ko Maya,” “Yeti Dherai Maya Dii,” “Timro Jasto Mutu,” and “Saawan ko jhari.” These songs are timeless and touch the heart, no matter how many times you listen to them.
-
+</p><p>
 Narayan Gopal worked closely with other talented lyricists and composers like Gopal Yonjan. Together, they gave Nepali music a new height. He also helped bring change to the Nepali music industry, making it more professional and respected.
-
+</p><p>
 Even though he passed away on December 5, 1990, his music still lives in the hearts of millions. He may not be with us physically, but his voice and songs continue to inspire and heal. For me, Narayan Gopal is not just a singer, he is a legend whose voice carries the soul of Nepal.</p>
       </div>
       <div>
         <hr/>
         <h3>Grammar</h3>
-        <p>B. Fill in the blanks with appropriate prepositions.</p>
+        <p className='question'>B. Fill in the blanks with appropriate prepositions.</p>
         <p>a. I was accompanied to the hospital <strong>by</strong> my friend.</p>
         <p>b. I have great respect <strong>for</strong> my teachers.</p>
         <p>c. The culprit was sentenced <strong>to</strong> death.</p>
@@ -167,8 +172,9 @@ Even though he passed away on December 5, 1990, his music still lives in the hea
         <p>h. Our village was not infected <strong>by</strong> Corona.</p>
         <p>i. Why do you sneer <strong>at</strong> me?</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Fill in the blanks with for, since, until, by or in.</p>
+        <p className='question'>C. Fill in the blanks with for, since, until, by or in.</p>
         <p>a. The classes will be over <strong>by</strong> 5 PM.</p>
         <p>b. Karma Sherpa reached the top of Mt. Everest <strong>in</strong> 8 hours.</p>
         <p>c. We had met after five years. So we kept on talking <strong>until</strong> three in the morning.</p>

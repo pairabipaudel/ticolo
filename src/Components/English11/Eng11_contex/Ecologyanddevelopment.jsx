@@ -5,7 +5,7 @@ const Ecologyanddevelopment = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Match the words with their meanings.</p>
+        <p className='question'>A. Match the words with their meanings.</p>
         <p>Constituency ------ electoral district</p>
         <p>Pursue ------ to follow in an effort to overtake or capture</p>
         <p>Infiltrate ------ to enter or gain access to (an organization, place, etc.) secretly and gradually</p>
@@ -13,8 +13,9 @@ const Ecologyanddevelopment = () => {
         <p>Anatomy ------ art of studying the different parts of any organized body</p>
         <p>Subversive ------ seeking or intended to overthrow an established system or institution</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Make two other words by using each prefix given above and use them in sentences.</p>
+        <p className='question'>C. Make two other words by using each prefix given above and use them in sentences.</p>
         <strong>mal</strong>
         <p>Malfunction- The computer began to malfunction and stopped working properly.</p>
         <p>Malnourished- The doctor said the child was malnourished because he wasn't eating enough healthy food.</p>
@@ -52,9 +53,10 @@ const Ecologyanddevelopment = () => {
         <p>Nonsense- It's nonsense to say that you can fly without wings.</p>
         <p>Nonstop- The train ran nonstop from Kathmandu to Pokhara.</p>
       </div>
+      <hr/>
       <div>
-        <strong>Comprehension</strong>
-        <p>Answer these questions.</p>
+        <h3>Comprehension</h3>
+        <p className='question'>Answer these questions.</p>
         <p>a. What did Maathai decide to do for the community?</p>
         <p>= Maathai decided to help the community by creating jobs and encouraging people to plant trees to improve the environment and their lives.</p>
         <p>b. Mention the problems faced by women in Kenya.</p>
@@ -73,38 +75,44 @@ const Ecologyanddevelopment = () => {
         <p>= When the speaker criticized the political leadership, she was portrayed as subversive and treated as if she was a threat to the government.</p>
         <p>i. Mention the agencies that supported her movement.</p>
         <p>= The agencies that supported her movement are:
+          </p><p>
 1. United Nations Development Fund for Women
-2. Danish Voluntary Fund
-3. Norwegian Agency for International Development
+</p><p>
+2. Danish Voluntary Fund</p><p>
+3. Norwegian Agency for International Development</p><p>
 4. African Development Foundation</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical thinking</h3>
-        <p>a. Do you think that the title “Foresters without Diplomas” is suitable to the essay? How?</p>
+        <p className='question'>a. Do you think that the title “Foresters without Diplomas” is suitable to the essay? How?</p>
         <p>= Yes, I believe the title “Foresters without Diplomas” is very suitable for the essay. The title reflects the main idea of the essay, which is about how ordinary women, without formal education or degrees, were able to do the work of professional foresters using their common sense, dedication, and teamwork.</p>
         <p>In the beginning, the writer and her team invited trained foresters to teach local women how to plant trees. However, the foresters, who had degrees, made the process too complicated. They used technical language and complex methods, which made it hard for the women to follow. The simple task of finding seeds and planting trees became unnecessarily difficult.</p>
         <p>Eventually, the writer and her team decided to teach the women themselves, using simple and practical steps. The women began searching for seeds in their local areas and learned how to identify seedlings that sprouted naturally. Although they didn't have diplomas or formal training, they used their natural skills, observation, and hard work to successfully plant and care for trees.</p>
         <p>These women, who had fewer opportunities than men and little access to education, proved that knowledge and skill are not limited to those with formal education. They became “foresters without diplomas” by learning through experience and supporting one another.</p>
         <p>In conclusion, the title captures the spirit of the essay perfectly. It highlights how women, without official qualifications, were able to make a big difference in their communities by protecting the environment and improving their own lives.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. Can a person make a difference in a society? Discuss with an example from a person who has made a difference in your society.</p>
+        <p className='question'>b. Can a person make a difference in a society? Discuss with an example from a person who has made a difference in your society.</p>
         <p>= Sometimes, it may seem like one person cannot change the world because the problems we face are very big and difficult to solve. However, history shows us that one person can indeed make a difference, especially if they think and act in a unique or unconventional way.</p>
         <p>Many people have made important contributions not only to their own societies but also to the entire world. For example, Malala Yousafzai, a young girl from Pakistan, stood up for girls' education even when it was dangerous. Her courage helped raise awareness worldwide about the importance of education for all children. Another example is Nelson Mandela, who fought against racial discrimination in South Africa and helped bring peace and equality to his country.</p>
         <p>These examples prove that a single person can make a positive difference, not just locally but globally. When someone has the courage and determination to act, they can create changes that help many people.</p>
         <p>In conclusion, even though problems may seem too big, one person's actions can lead to great improvements in society and beyond.</p>
       </div>
+      <hr/>
       <div>
-        <p>c. Write an essay on 'The Community Forest in Nepal'. Describe how these community forests have contributed to maintain ecology in our environment.</p>
+        <p className='question'>c. Write an essay on 'The Community Forest in Nepal'. Describe how these community forests have contributed to maintain ecology in our environment.</p>
         <p>= The Community Forestry Program in Nepal is a unique and successful way of managing forests that involves local people directly in protecting and using forest resources. This program helps both to conserve forests and to reduce poverty because many people in Nepal depend on agriculture and forest products for their daily lives.</p>
         <p>Over the past three decades, the program has changed a lot. It started with a focus on protecting forests but now includes using forests wisely, creating small businesses, and improving the livelihoods of local people. By 2009, about one-third of Nepal's people were part of this program, managing more than one-fourth of the country's forests themselves.</p>
         <p>Community forests provide many benefits. They help local families earn income and support their needs while protecting the environment. They also offer raw materials and investment opportunities for new businesses. This program is sustainable in many ways politically, financially, and ecologically because it has strong laws, good management, and active local groups.</p>
         <p>However, one challenge is to make sure that women and marginalized groups get equal benefits from the program. The success of community forestry in Nepal teaches us important lessons about learning from experience, creating strong community networks, flexible rules, and cooperation between the government and local people.</p>
         <p>In conclusion, the Community Forestry Program in Nepal has played a major role in protecting the environment and improving the lives of many people by encouraging local participation and sustainable forest management.</p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>c. Underline the verb in each sentence and write whether it is transitive, intransitive or linking.</p>
+        <p className='question'>c. Underline the verb in each sentence and write whether it is transitive, intransitive or linking.</p>
         <p>a. His father looks handsome.</p>
         <p>looks = linking verb</p>
         <p>b. Bhawana drinks milk every day.</p>

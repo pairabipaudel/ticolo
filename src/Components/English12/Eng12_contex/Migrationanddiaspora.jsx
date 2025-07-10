@@ -4,7 +4,7 @@ const Migrationanddiaspora = () => {
   return (
     <div>
       <div><h3>Working with words</h3>
-      <p>A. Find the words from the text that have the following meanings. The first letter of the word has been given.</p>
+      <p className='question'>A. Find the words from the text that have the following meanings. The first letter of the word has been given.</p>
       <p>a. <strong>sojourner</strong> a person who resides temporarily in a place</p>
       <p>b. <strong> transnational </strong> existing in or involving different countries</p>
       <p>c. <strong>remittance</strong> a sum of money sent in payment or as a gift</p>
@@ -17,7 +17,7 @@ const Migrationanddiaspora = () => {
       <div>
         <hr/>
         <h3>Comprehension</h3>
-        <p>A. Match the first halves of the sentences (a-g) with their second halves (i-vii).</p>
+        <p className='question'>A. Match the first halves of the sentences (a-g) with their second halves (i-vii).</p>
         <p>a. The term assimilation has been used = iii. as an analytical tool in the study of integration of the migrants.</p>
         <p>b. It is essential to study the process of diasporization = v. in order to understand the description of immigration.</p>
         <p>c. The definition of dediasporization = vii. focuses only on the aspect of relocating migrants to their homelands.</p>
@@ -26,8 +26,9 @@ const Migrationanddiaspora = () => {
         <p>f. It is surprising that = i. in some countries the returnees are referred as diaspora.</p>
         <p>g. The role of a state in dediasporization = ii. reveals its identity.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Answer the following questions.</p>
+        <p className='question'>B. Answer the following questions.</p>
         <p>a. According to the author, what are the three aspects of migration?</p>
         <p>= According to the author, migration involves three important aspects: the forward motion, which is the movement of people from one place to another; the migrants themselves, meaning the individuals or groups who move; and the backward motion, which refers to the effects and changes in the places people leave behind as well as how migrants maintain connections with their original homes.</p>
 
@@ -58,13 +59,14 @@ const Migrationanddiaspora = () => {
       <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. Many Nepali people are living in foreign countries now and they knows as Non-Residential Nepali (NRNs). The NRNs are asking for dual citizenship rights. Do you think the Government of Nepal should address their demands?</p>
+        <p className='question'>a. Many Nepali people are living in foreign countries now and they knows as Non-Residential Nepali (NRNs). The NRNs are asking for dual citizenship rights. Do you think the Government of Nepal should address their demands?</p>
         <p>= Yes, I believe the Government of Nepal should seriously consider the demands of Non-Residential Nepalis (NRNs) for dual citizenship rights. NRNs contribute significantly to the country's economy through remittances, investments, and by promoting Nepal's culture abroad. Granting them dual citizenship would recognize their valuable role and strengthen their connection to Nepal.</p>
         <p>Dual citizenship would allow NRNs to enjoy rights such as owning property, voting, and participating in social and economic development without having to give up their citizenship of the country where they live. This would encourage more NRNs to invest in Nepal and actively contribute to the nation's progress.</p>
         <p>However, the government should also put clear rules in place to ensure that dual citizenship is managed fairly and benefits both the country and its citizens. Addressing NRNs' demands would be a positive step toward strengthening Nepal's ties with its diaspora and promoting inclusive development.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. The NRNs celebrate festivals like Teej, Dashain, Loshar, Id and Holi in foreign countries. What do these celebrations signify?</p>
+        <p className='question'>b. The NRNs celebrate festivals like Teej, Dashain, Loshar, Id and Holi in foreign countries. What do these celebrations signify?</p>
         <p>= The celebration of festivals such as Teej, Dashain, Loshar, Id, and Holi by Non-Residential Nepalis (NRNs) living abroad holds deep significance. These festivals are much more than just cultural or religious rituals; they represent a vital connection to their roots and homeland. For many NRNs, living in foreign countries can sometimes feel isolating and challenging because they are far away from their families, traditions, and familiar surroundings. Celebrating these festivals allows them to keep a part of Nepal alive within their new homes.</p>
         <p>These celebrations are a way for NRNs to preserve their identity and culture. By observing traditional festivals, they pass on their rich heritage, values, and customs to their children who may have been born or raised in foreign countries. It helps the younger generation understand and appreciate where they come from, creating a bridge between their Nepali heritage and the culture of their new country.</p>
         <p>Moreover, these festivals bring the Nepali community together, helping them build a sense of unity and support in places far from home. Celebrations like Dashain and Holi become occasions to meet, share food, dance, and remember the stories and customs that define their culture. It strengthens social bonds and gives NRNs a sense of belonging even when they are thousands of miles away.</p>
@@ -73,7 +75,7 @@ const Migrationanddiaspora = () => {
       <div>
         <hr/>
         <h3>Writing</h3>
-        <p>A. The following words and phrases are used in interpreting data of different types of charts and diagrams. Study the words/phrases and put them in the right column.</p>
+        <p className='question'>A. The following words and phrases are used in interpreting data of different types of charts and diagrams. Study the words/phrases and put them in the right column.</p>
         <p>Upward Trend: grow, go up to, boom, peak, level up, rise, climb, increase </p>
         <p>Downward Trend: decline, collapse, fall, drop, dip, go down, reduce, decrease, crash, plunge, plummet</p>
         <p>Stable Trend: stay constant, remain stable, no change, remain steady, stay, maintain the same level</p>
@@ -81,7 +83,7 @@ const Migrationanddiaspora = () => {
       <div>
         <hr/>
         <h3>Grammar</h3>
-        <p>A. Make sentences from the table below using used to / didn't use to as shown in the example.</p>
+        <p className='question'>A. Make sentences from the table below using used to / didn't use to as shown in the example.</p>
         <p>Example: She used to travel a lot but now she rarely leaves her town.</p>
         <p>a. She was lazy. - She works hard.</p>
         <p>= She used to be lazy, but now she works hard.</p>
@@ -94,14 +96,15 @@ const Migrationanddiaspora = () => {
         <p>e. She had got many friends. - Her pet died last year.</p>
         <p>= She used to be a school teacher, but now she doesn't attend parties.</p>
         <p>f. She did not read many books. - She reads a lot of books.</p>
-        <p>=</p>
+        <p>=  She didn't use to read many books, but now she reads a lot of books.</p>
         <p>g. She did not take coffee. - She eat momo and noodles these days.</p>
-        <p>=</p>
+        <p>= She didn't use to take coffee, but now she eats momo and noodles these days.</p>
         <p>h. She went to parties a lot. - She rarely leaves her town.</p>
-        <p>=</p>
+        <p>= She used to go to parties a lot, but now she rarely leaves her town.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Study the following sentences and find the differences between them.</p>
+        <p className='question'>B. Study the following sentences and find the differences between them.</p>
         <p>a. My sister <u>used to</u> have short hair when she was young.</p>
         <p>b. We <u>used to</u> have lunch in the same school café when I was in middle school.</p>
         <p>c. My father <u>used to</u> play badminton before he had backbone problem.</p>

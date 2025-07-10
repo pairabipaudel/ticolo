@@ -5,7 +5,7 @@ const Fantasy = () => {
     <div>
         <div>
             <h3>Working with words</h3>
-            <p>A. Match the following words with their definitions.</p>
+            <p className='question'>A. Match the following words with their definitions.</p>
             <p>a. snappy ------ irritable and inclined to speak sharply</p>
             <p>b. discretion ------ the ability to behave without causing embarrassment or attracting too much attention</p>
             <p>c. radiant ------ showing great happiness, love or health</p>
@@ -19,8 +19,9 @@ const Fantasy = () => {
             
 
         </div>
+        <hr/>
       <div>
-        <p>B. Consult a dictionary or search over the internet and write definitions of the following terminologies used in the stock market.</p>
+        <p className='question'>B. Consult a dictionary or search over the internet and write definitions of the following terminologies used in the stock market.</p>
         <p>a. <strong>liquidity: </strong>Liquidity refers to how quickly and easily an asset or security can be bought or sold in the market without affecting its price.</p>
         <p>b. <strong>IPO: </strong>IPO stands for Initial Public Offering. It is the process by which a private company offers its shares to the public for the first time and becomes a publicly traded company.</p>
         <p>c. <strong>NEPSE: </strong>NEPSE stands for Nepal Stock Exchange. It is the only stock exchange in Nepal where shares of publicly listed companies are traded.</p>
@@ -33,7 +34,7 @@ const Fantasy = () => {
       <div>
         <hr/>
         <h3>Comprehension</h3>
-        <p>A. Write 'T' for true statements, 'F' for false ones or 'NG' if the information is not given in the text.</p>
+        <p className='question'>A. Write 'T' for true statements, 'F' for false ones or 'NG' if the information is not given in the text.</p>
         <p>a. Harvey Maxwell was a stock broker. T</p>
         <p>b. He was not happy with his clerk, Pitcher. NG</p>
         <p>c. Miss Leslie had been married to Maxwell for a year. F</p>
@@ -43,8 +44,9 @@ const Fantasy = () => {
         <p>g. She thought that he had probably gone mad. F</p>
         <p>h. She realized that he had been absent-minded due to his business. T</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Answer the following questions.</p>
+        <p className='question'>B. Answer the following questions.</p>
         <p>a. How did Maxwell enter his office?</p>
         <p>= Maxwell entered his office quickly and energetically. He was with a young lady stenographer, and he greeted Pitcher by saying, "Good morning."</p>
         <p>b. Describe the physical appearance of the young lady.</p>
@@ -63,26 +65,28 @@ const Fantasy = () => {
       <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. What message does the writer want to give by presenting Maxwell as an extremely absent-minded person?</p>
+        <p className='question'>a. What message does the writer want to give by presenting Maxwell as an extremely absent-minded person?</p>
         <p>= The writer presents Maxwell as very absent-minded to show that his mind is always busy with important thoughts and ideas. Although he might seem forgetful or distracted in small matters, this is because he is deeply focused on his work and creative plans. The message is that sometimes people who appear careless or lost in their thoughts are actually very intelligent and dedicated. It reminds us not to judge someone just by their outward behavior because their mind might be working hard on things that really matter. Maxwell's absent-mindedness shows the difference between everyday small details and bigger, more meaningful ideas.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. Imagine you are Miss Leslie. Write how you were troubled emotionally when your own husband came to you and made a marriage proposal.</p>
+        <p className='question'>b. Imagine you are Miss Leslie. Write how you were troubled emotionally when your own husband came to you and made a marriage proposal.</p>
         <p>= When Maxwell, my own husband, came to me and proposed marriage, I felt a mix of emotions that I couldn't easily explain. At first, I was completely surprised and didn't know how to react. My heart raced, and tears came to my eyes without me even realizing why. I was touched deeply because, even though we had been close, I hadn't expected him to express his feelings so openly.
-
+</p><p>
 There was also a feeling of confusion inside me, part of me was overwhelmed by happiness, while another part was shy and unsure. But as I looked at him, I felt warmth and love growing in my heart. I realized that his proposal was a sign of how much he cared for me, and that made me feel special and loved. Despite the shock, I accepted his love gladly and felt hope for our future together.
-
+</p><p>
 This moment showed me that love can come quietly and unexpectedly, and sometimes, it's the most surprising things that touch our hearts the deepest.</p>
       </div>
       <div>
         <hr/>
         <h3>Grammar</h3>
-        <p>a. I snatched a minute <strong>when</strong> things had slackened a minute.</p>
+        <p >a. I snatched a minute <strong>when</strong> things had slackened a minute.</p>
         <p>b. Instead of going straight into the adjoining room, <strong>where</strong> her desk was, she lingered slightly irresolute in the outer office.</p>
         <p>c. She was beautiful in a way <strong>that</strong> was decidedly stenographic.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Fill in the blanks with suitable relative pronouns: who, which, that, whom, whose, where, why, how, what or when.</p>
+        <p className='question'>B. Fill in the blanks with suitable relative pronouns: who, which, that, whom, whose, where, why, how, what or when.</p>
         <p>a. There is a lady <strong>whose</strong> wallet has been stolen.</p>
         <p>b. Do you know the man <strong>who</strong> sold these glasses?</p>
         <p>c. The knife <strong>which</strong> you cut the bread with is very sharp.</p>
@@ -94,8 +98,9 @@ This moment showed me that love can come quietly and unexpectedly, and sometimes
         <p>i. In the application form she wrote <strong>when</strong> she needed a good payment.</p>
         <p>j. The pilot explained <strong>why</strong> he made force landing on the road.</p>
       </div>
+      <hr/>
      <div>
-        <p>C. Join the following pairs of sentences using who, which, that, whose, whom, where, when or what.</p>
+        <p className='question'>C. Join the following pairs of sentences using who, which, that, whose, whom, where, when or what.</p>
         <p>a. The building was destroyed in the fire. It has now been rebuilt.</p>
         <p>= The building that was destroyed in the fire has now been rebuilt.</p>
         <p>b. A new cricket stadium is being made in Chitwan. It can accommodate one hundred thousand people.</p>

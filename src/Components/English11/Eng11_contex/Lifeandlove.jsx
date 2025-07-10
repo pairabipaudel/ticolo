@@ -5,7 +5,7 @@ const Lifeandlove = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Match the words with their meanings.</p>
+        <p className='question'>A. Match the words with their meanings.</p>
         <p>a. exhausted ------ tired</p>
         <p>b. apparent ------ clear</p>
         <p>c. vista ------ vision</p>
@@ -14,8 +14,9 @@ const Lifeandlove = () => {
         <p>f. stuffy ------ suffocating, airless</p>
         <p>g. restrain ------ prevent, hinder</p>
       </div>
+      <hr/>
       <div>
-        <p>B. Write the meaning and word class of the following words. Then use them in sentences of your own.</p>
+        <p className='question'>B. Write the meaning and word class of the following words. Then use them in sentences of your own.</p>
         <p><strong>implore (Verb): </strong>To beg someone earnestly or desperately to do something.</p>
         <p>I implore you to reconsider your decision before it's too late.</p>
         <p><strong>despair ( Noun): </strong>A feeling of complete loss of hope.</p>
@@ -43,8 +44,9 @@ const Lifeandlove = () => {
         <p><strong>prelude (Noun): </strong>An introduction or something that comes before an important event.</p>
         <p>The sudden drop in temperature was a prelude to the heavy snowfall.</p>
       </div>
+      <hr/>
       <div>
-        <p>D. Choose the correct word.</p>
+        <p className='question'>D. Choose the correct word.</p>
         <p>a. Sarita was shocking/<strong> shocked</strong> to hear about earthquake.</p>
         <p>b. I think that rainy days in winter are <strong>depressing</strong> /depressed.</p>
         <p>c. The football match was very <strong>exciting</strong> /excited. I enjoyed it.</p>
@@ -56,17 +58,19 @@ const Lifeandlove = () => {
         <p>i. I will be surprising/ <strong>surprised</strong> if she does well in her test.</p>
         <p>j. Are you interesting/ <strong>interested</strong> in politics?</p>
       </div>
+      <hr/>
       <div>
-        <p>E. Write the correct form of the adjective in the blanks as in the example.</p>
+        <p className='question'>E. Write the correct form of the adjective in the blanks as in the example.</p>
         <p>a. They frustrate me but they don't bore me. I never get <u>bored</u> when I study grammar.</p>
         <p>b. If teachers want to interest the students, they must use <u>interesting</u> materials.</p>
         <p>c. Certain stories interest almost everybody. For example, most students are <u>interested</u> in fairy tales.</p>
         <p>d. Certain things frighten me, but I never get <u>frightened</u> when I speak English.</p>
         <p>e. If I get a good grade, that excites me. And if I get more than ninety percent, I am really <u>excited</u>.</p>
       </div>
+      <hr/>
       <div>
         <h3>Understanding the text</h3>
-        <p>Answer these questions.</p>
+        <p className='question'>Answer these questions.</p>
         <p>a. Who was Nellie? What did she use to dream of?</p>
         <p>= Nellie was a young and pretty girl, the daughter of a landowner and a general. She used to dream of getting married and living a happy and peaceful life with her future husband.</p>
         <p>b. What was she doing with the looking glass?</p>
@@ -86,21 +90,24 @@ const Lifeandlove = () => {
         <p>i. What is the main theme of the story?</p>
         <p>= The main theme of the story is the contrast between romantic dreams and harsh reality, highlighting devotion, loneliness, fear, and the emotional strength a person gains when facing real-life challenges.</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical thinking</h3>
-        <p>a. “The looking glass (mirror)” is used as a symbol in the story. What does it symbolise?</p>
+        <p className='question'>a. “The looking glass (mirror)” is used as a symbol in the story. What does it symbolise?</p>
         <p>= In the story, the looking glass (mirror) symbolizes Nellie's desire for love and marriage, as well as her tendency to escape reality by imagining a romantic and idealized future. It reflects her inner world of dreams and fantasies, contrasting with the harsh realities she later faces.</p>
-        <p>b. Chekhov employs the magic trick in the story, using a very elegant transition from reality to imagination to reality sequence. Discuss its relevance to life of young people.</p>
+        </div>
+        <hr/>
+        <div>
+        <p className='question'>b. Chekhov employs the magic trick in the story, using a very elegant transition from reality to imagination to reality sequence. Discuss its relevance to the life of young people.</p>
 
-        <p>b. Chekhov employs the magic trick in the story, using a very elegant transition from reality to imagination to reality sequence. Discuss its relevance to the life of young people.</p>
-
-        <p>Chekhov's use of the seamless shift between reality and imagination in The Looking Glass reflects how young people often escape into dreams and fantasies to cope with their everyday lives. Just like Nellie imagines herself as a princess and her husband as a prince charming, young people frequently dramatize life and romanticize love, sometimes exaggerating their emotions and experiences. This fairy-tale quality mirrors how youth tend to see the world with heightened feelings and idealism.</p>
+        <p>= Chekhov's use of the seamless shift between reality and imagination in The Looking Glass reflects how young people often escape into dreams and fantasies to cope with their everyday lives. Just like Nellie imagines herself as a princess and her husband as a prince charming, young people frequently dramatize life and romanticize love, sometimes exaggerating their emotions and experiences. This fairy-tale quality mirrors how youth tend to see the world with heightened feelings and idealism.</p>
 
         <p>Additionally, the story shows that this tendency to blur reality and imagination is not limited to young people but is a part of human nature. Both young and old can become caught up in fantasies, especially in today's world where social media and sensational news often distort reality. Chekhov's elegant transition invites readers to understand the importance of balancing dreams with reality, a lesson particularly relevant for young people learning to face life's challenges.</p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>B. Match the expressions with their functions.</p>
+        <p className='question'>B. Match the expressions with their functions.</p>
         <p>a. A: What do you want to take?</p>
         <p>B: I'll have tea, please.</p>
         <p>Deciding</p>
@@ -119,8 +126,9 @@ const Lifeandlove = () => {
         <p>g. I'll tell your parents what you did.</p>
         <p>Threatening</p>
       </div>
+      <hr/> 
       <div>
-        <p>C. Choose the correct answer.</p>
+        <p className='question'>C. Choose the correct answer.</p>
         <p>a. A: Are you busy this evening?</p>
         <p>B: Yes, I <u>am going to</u> the movies. (will go/am going to)</p>
         <p>b. A: Where are you going for holiday this summer?</p>
@@ -134,8 +142,9 @@ const Lifeandlove = () => {
         <p>h. 'I haven't got my phone.' 'That's OK. I will lend you mine.' (will/am going to)</p>
 
       </div>
+      <hr/> 
       <div>
-        <p>D. Complete the sentences using will or be going to with the verbs.</p>
+        <p className='question'>D. Complete the sentences using will or be going to with the verbs.</p>
         <p>a. Hari: Did you call Bina?</p>
         <p>Prem: Oh, I forgot. I <u>will call</u> her now. (call)</p>
         <p>b. Sunita: Have you got a ticket for the play?</p>

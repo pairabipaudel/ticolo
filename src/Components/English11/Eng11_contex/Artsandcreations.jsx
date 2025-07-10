@@ -5,7 +5,7 @@ const Artsandcreations = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Circle the correct meanings of the underlined words.</p>
+        <p className='question'>A. Circle the correct meanings of the underlined words.</p>
         <p>a. Martin Luther started a revolt against the conventions of the Roman Catholic Church.</p>
         <strong>creations</strong>
         <p>b. It blended classical styles with new ideas.</p>
@@ -17,8 +17,9 @@ const Artsandcreations = () => {
         <p>e. The new passion for learning also led to amazing discoveries in science.</p>
         <strong>enthusiasm</strong>
       </div>
+      <hr/>
       <div>
-        <p>C. What do the following idioms mean? Use them in sensible sentences.</p>
+        <p className='question'>C. What do the following idioms mean? Use them in sensible sentences.</p>
         <p><strong>a. a hot potato : </strong>A difficult or controversial situation</p>
         <p>The issue of raising taxes is a hot potato that politicians try to avoid talking about during elections.</p>
         <p><strong>b. once in a blue moon : </strong>Something that happens very rarely</p>
@@ -39,8 +40,9 @@ const Artsandcreations = () => {
         <p>I got a goose egg on the test because I didn't study.</p>
        
       </div>
+      <hr/>
       <div>
-        <p>D. Match the following phrasal verbs with their meanings.</p>
+        <p className='question'>D. Match the following phrasal verbs with their meanings.</p>
         <p>a. break down : to stop functioning</p>
         <p>b. check out : to leave a hotel</p>
         <p>c. fed up : tired of something or someone</p>
@@ -54,9 +56,10 @@ const Artsandcreations = () => {
         <p>k. put out : to extinguish</p>
         <p>l. take off : to remove clothes or shoes from the body, to depart as in airplane</p>
       </div>
+      <hr/>
       <div>
         <h3>Comprehension</h3>
-        <p>A. Answer these questions.</p>
+        <p className='question'>A. Answer these questions.</p>
         <p>a. What does the word Renaissance mean? Which language is it derived from?</p>
         <p>= The word Renaissance means 'rebirth'. It is derived from French word 'renaitre'.</p>
         <p>b. What did the Greek scholars do in their new locations after leaving the Greek city?</p>
@@ -76,8 +79,9 @@ const Artsandcreations = () => {
         <p>i. Why do some people think of the Renaissance as the beginning of modern history?</p>
         <p>= People think of the Renaissance as the beginning of modern history because it brought great changes in art, architecture, literature, science, exploration, and culture. It encouraged learning, creativity, and new ways of thinking, which laid the foundation for the modern world.</p>
       </div>
+      <hr/>
       <div>
-        <p>B. What do you infer from the reading? Tick (√) the best answer.</p>
+        <p className='question'>B. What do you infer from the reading? Tick (√) the best answer.</p>
         <p>a. Before the Renaissance…</p>
         <p>education was limited to scholars and privileged</p>
         <p>b. Which statement is true?</p>
@@ -87,66 +91,71 @@ const Artsandcreations = () => {
         <p>d. What were the major causes of the Renaissance?</p>
         <p>printing, reading and learning</p>
       </div>
+      <hr/>
       <div>
         <h3>Critical Thinking</h3>
-        <p>a. Do you agree with Machiavelli's view that a good leader can do bad and dishonest things in order to preserve his power and protect his government? Explain.</p>
+        <p className='question'>a. Do you agree with Machiavelli's view that a good leader can do bad and dishonest things in order to preserve his power and protect his government? Explain.</p>
         <p>= I partly agree with Machiavelli's view. He believed that sometimes a leader must do bad or dishonest things to keep power and protect the government. This idea comes from his famous book The Prince, where he says it is better for a leader to be feared than loved if he cannot be both.
-
+</p><p>
 In some cases, a leader might face difficult situations where quick and tough decisions are needed. If those actions are for the safety and stability of the country, they might be understandable. For example, during war or crisis, a leader might need to act secretly or go against usual rules to protect people.
-
+</p><p>
 However, I also think that if a leader always uses lies or harmful methods, people will lose trust. A good leader should try to be honest and fair whenever possible. Power should not be more important than doing the right thing.
-
+</p><p>
 So, while sometimes hard choices are needed, a truly good leader should balance power with honesty and care for the people.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. Do you think that art and literature are important assets of a country? Give reasons.</p>
+        <p className='question'>b. Do you think that art and literature are important assets of a country? Give reasons.</p>
         <p>= Yes, I think art and literature are very important assets of a country. They reflect the culture, traditions, and values of a nation. Through art and literature, people can express their feelings, ideas, and experiences. They help us understand our past and give us lessons for the future.
-
+</p><p>
 Art and literature also help to inspire people. Writers and artists use their work to talk about problems like poverty, inequality, and injustice. Their words and creations can touch people's hearts and make them think differently. In a country like Nepal, where we are trying to improve and solve many issues, art and literature can bring awareness and hope.
-
+</p><p>
 Books, poems, paintings, songs, and plays are not just for entertainment. They can also educate and motivate people. That's why we should respect artists and writers and encourage more young people to take interest in these fields.
-
+</p><p>
 So yes, I believe that art and literature are not just beautiful things, but powerful tools that help build a stronger and better country.
 
 </p>
       </div>
+      <hr/>
       <div>
         <h3>Writing</h3>
-        <p>a. Write an essay on “Literature is the reflection of society.”</p>
+        <p className='question'>a. Write an essay on “Literature is the reflection of society.”</p>
         <strong>Literature is the Reflection of Society</strong>
         <p>Since the beginning of human life, storytelling has been a way to share important information about society, life, and the world around us. In ancient times, people passed down stories orally through songs and spoken words. Literature is a form of expression where writers take their thoughts and turn them into stories, poems, or plays that others can understand and learn from.
-
+</p><p>
 Many authors have written about social, political, environmental, historical, and scientific topics in their works. Our rich past is preserved in books like the Ramayana, the Mahabharata, the Old Testament, and the Bible. Because of literature, people today can learn about their ancestors and understand how human life began.
-
+</p><p>
 Society creates literature because it reflects its traditions, customs, and religious beliefs. The quality and nature of this reflection depend on the writer's mindset—whether he or she has a modern or traditional way of thinking. That is why literature is like a mirror of society. It shows human emotions, actions, and both good and bad events, including social and political changes.
-
+</p><p>
 In this way, literature helps us understand ourselves and the world we live in, making it a valuable part of every society.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. It is said that today's reader is tomorrow's leader. Do you agree with this statement? Explain.</p>
+        <p className='question'>b. It is said that today's reader is tomorrow's leader. Do you agree with this statement? Explain.</p>
         <strong>Today's Reader is Tomorrow's Leader</strong>
         <p>I agree with the statement that today's reader is tomorrow's leader. Reading plays a very important role in the overall development of a person. It helps build basic skills, improves language fluency, and enriches vocabulary. Reading also helps us gather ideas, understand different styles of writing, and speak confidently.
-
+</p><p>
 A person who reads regularly never feels lonely or bored. Books open up a magical world full of knowledge and imagination. They guide readers, make them wise, and teach them to think practically. Developing the habit of reading is one of the best things we can do for ourselves.
-
+</p><p>
 So, it is clear that if we want to become successful leaders in the future, we must start by being good readers today.</p>
       </div>
       <div>
-        <p>c. Write a short biography of a national literary, artistic or historical figure you appreciate most.</p>
+        <p className='question'>c. Write a short biography of a national literary, artistic or historical figure you appreciate most.</p>
         <strong>Bhanubhakta Acharya: The First Nepali Poet</strong>
         <p>Bhanubhakta Acharya is one of the most respected literary figures in Nepal. He was born in 1814 in the Tanahun district. Bhanubhakta is famous for being the first poet to translate the great Indian epic, the Ramayana, from Sanskrit into Nepali. This made the story accessible to common Nepali people who did not understand Sanskrit.
-
+</p><p>
 Bhanubhakta's writing is known for its simplicity and beauty. He used everyday language, which helped spread literacy and inspired many Nepali writers after him. Because of his valuable contribution, he is often called “Adikavi,” meaning the first poet of Nepal.
-
+</p><p>
 His work helped to preserve and promote Nepali language and culture at a time when most literary works were written only in Sanskrit. Bhanubhakta's poetry remains popular today, and his birthday is celebrated as “Bhanubhakta Jayanti” in Nepal.
-
+</p><p>
 Bhanubhakta Acharya's dedication to literature and culture has made a lasting impact on Nepalese society, and he continues to inspire young writers and readers even today.
 
 </p>
       </div>
+      <hr/>
       <div>
         <h3>Grammar</h3>
-        <p>B. Complete the following sentences with correct relative pronouns and write whether the clauses are defining or non-defining.</p>
+        <p className='question'>B. Complete the following sentences with correct relative pronouns and write whether the clauses are defining or non-defining.</p>
         <p>a. That's the house where I was born.</p>
         <p>= Defining clause</p>
         <p>b. My aunt Nita, whoa journalist, is coming to visit next week.</p>
@@ -164,8 +173,9 @@ Bhanubhakta Acharya's dedication to literature and culture has made a lasting im
         <p>h. The snake that was in the garden last week belongs to our next-door neighbor.</p>
         <p>= Defining clause</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Join the following pairs of sentences with an appropriate relative clauses.</p>
+        <p className='question'>C. Join the following pairs of sentences with an appropriate relative clauses.</p>
         <p>a. He is a musician. His albums have sold millions.</p>
         <p>= He is a musician whose albums have sold millions.</p>
         <p>b. Amelia speaks English and Chines fluently. She is from Shanghai.</p>

@@ -107,7 +107,7 @@ const Communication = () => {
       <div>
         <h3>Writing</h3>
         <p  className='question'>C. Write a paragraph on any one of the following topics.</p>
-        <p>a. My School Library</p>
+        <p className='question'>a. My School Library</p>
         <strong>My School Library</strong>
         <p  >= A library is a place where a large collection of books, journals, and other reading materials are kept for people to read or borrow. It plays an important role in education by providing access to knowledge, encouraging reading habits, and supporting learning beyond textbooks. Libraries are quiet places that help students focus and study in a peaceful environment. They also help develop discipline, research skills, and a love for reading.</p>
         <p>My school library is very organized and student-friendly. Students can borrow up to three books at a time using their library card. Each book is issued for 15 days, and if not renewed on time, a fine of Rs. 5 is charged per day. If a book is lost, the student must pay the full price of the book. The library has two main sections: one for course books arranged in order by subject, and another called the "out book" section, which includes novels, biographies, poems, essays, stories, and entrance exam preparation books. A computer system is used to keep track of book records and borrowing history. The library also has a quiet reading area with tables, chairs, and green plants, creating a peaceful and pleasant environment for study.</p>

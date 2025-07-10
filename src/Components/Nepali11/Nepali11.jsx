@@ -1,25 +1,29 @@
-import React from 'react'
+
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
+
 const Nepali11 = () => {
-   const navigate = useNavigate();
+  const navigate = useNavigate();
+
   return (
     <div className='topic'>
       <div className='part1'>
-          <button onClick={() => navigate('/bir-purkha')}>Bir Purkha</button>
-          <button onClick={() => navigate('/gau-ko-maya')}>Gau ko Maya</button>
-          <button onClick={() => navigate('/sanskriti-ko-naya-yatra}>Sanskriti ko Naya yatra</button>
-          <button onClick={() => navigate('/yogmaya')}>Yogmaya</button>
-          <button onClick={() => navigate('/sathi-lai-chithi')}>Sathi lai chithi</button>
-          <button onClick={() => navigate('/tyo-feri-farkala')}>Tyo Feri Farkala</button>
-          <button onClick={() => navigate('/paryaparyatanka-sambhabana-ra-ayam')}>Paryaparyatanka Sambhabana Ra Ayam </button>
-          <button onClick={() => navigate('/lau-aayo-taja-khabar')}>Lau Aayo Taja Khabar</button>
-          <button onClick={() => navigate('/safaltako-katha')}>Safaltako Katha</button>
-          <button onClick={() => navigate('/krishi-sala-ma-ek-din')}>Krishi Sala Ma Ek din</button>
-          <button onClick={() => navigate('/rara-vraman')}>Rara Vraman</button>
-          <button onClick={() => navigate('/jal-srot-ra-urja')}>Jal Srot Ra Urja</button>
+        <p>Topic</p>
+        <button onClick={() => navigate('/bir-purkha')}>1. Bir Purkha</button>
+        <button onClick={() => navigate('/gau-ko-maya')}>2.Gau ko Maya</button>
+        <button onClick={() => navigate('/sanskriti-ko-naya-yatra')}>3. Sanskriti ko Naya Yatra</button>
+        <button onClick={() => navigate('/yogmaya')}>4. Yogmaya</button>
+        <button onClick={() => navigate('/sathi-lai-chithi')}>5. Sathi lai Chithi</button>
+        <button onClick={() => navigate('/tyo-feri-farkala')}>6. Tyo Feri Farkala</button>
+        <button onClick={() => navigate('/paryaparyatanka-sambhabana-ra-ayam')}>7. Paryaparyatanka Sambhabana Ra Ayam</button>
+        <button onClick={() => navigate('/lau-aayo-taja-khabar')}>8. Lau Aayo Taja Khabar</button>
+        <button onClick={() => navigate('/safaltako-katha')}>9. Safaltako Katha</button>
+        <button onClick={() => navigate('/krishi-sala-ma-ek-din')}>10. Krishi Sala Ma Ek Din</button>
+        <button onClick={() => navigate('/rara-vraman')}>11. Rara Vraman</button>
+        <button onClick={() => navigate('/jal-srot-ra-urja')}>12. Jal Srot Ra Urja</button>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Nepali11
+export default Nepali11;

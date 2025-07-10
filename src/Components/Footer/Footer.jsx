@@ -8,8 +8,20 @@ const Footer = () => {
     <footer className="footer">
       <p className="footer-title">Contact Us:</p>
       <div className="social-icons">
-        <img src={instagram_icon} alt="Instagram" />
-        <img src={facebook_icon} alt="Facebook" />
+        <a
+          href="https://www.instagram.com/ticoloplus2?igsh=MWNobjd3MHgxMjBpeQ=="
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={instagram_icon} alt="Instagram" />
+        </a>
+        <a
+          href="https://www.facebook.com/share/1Akd4szNN4/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img src={facebook_icon} alt="Facebook" />
+        </a>
       </div>
     </footer>
   );

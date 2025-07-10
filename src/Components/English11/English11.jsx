@@ -21,7 +21,7 @@ const English11 = () => {
         <button onClick={() => navigate('/democracy-and-human-rights')}>9. Democracy and Human Rights</button>
         <button onClick={() => navigate('/home-life-and-family-relationship')}>10. Home life and Family Relationship</button>
         <button onClick={() => navigate('/arts-and-creations')}>11. Arts and Creations</button>
-        <button onClick={() => navigate('/fantasy')}>12. Fantasy</button>
+        <button onClick={() => navigate('/fantasy-11')}>12. Fantasy</button>
         <button onClick={() => navigate('/career-and-entrepreneurship')}>13. Career and Entrepreneurship</button>
         <button onClick={() => navigate('/power-and-politics')}>14. Power and Politics</button>
         <button onClick={() => navigate('/war-and-peace')}>15. War and Peace</button>
@@ -45,9 +45,9 @@ const English11 = () => {
           <p >Poems</p>
           <button onClick={() => navigate('/corona-says')}>1. Corona Says</button>
           <button onClick={() => navigate('/a-red-red-rose')}>2. A Red, Red Rose</button>
-          <button onClick={() => navigate('/all-the-worlds-a-stage')}>3. All the World's a Stage</button>
+          <button onClick={() => navigate('/all-the-world-a-stage')}>3. All the World's a Stage</button>
           <button onClick={() => navigate('/who-are-you-little-i')}>4. Who are you, little I?</button>
-          <button onClick={() => navigate('/the-gift-in-wartime')}>5. The Gift in Wartime</button>
+          <button onClick={() => navigate('/the-gift-in-war-time')}>5. The Gift in Wartime</button>
           <p>Essays</p>
           <button onClick={() => navigate('/sharing-tradition')}>1. Sharing Tradition</button>
           <button onClick={() => navigate('/how-to-live-before-you-die')}>2. How to Live Before You Die</button>

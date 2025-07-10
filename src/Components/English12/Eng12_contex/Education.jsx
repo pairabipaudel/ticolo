@@ -6,7 +6,7 @@ const Education = () => {
     <div className="education-container">
       <section className="words-section">
         <h3>Working with words</h3>
-        <p>A. Match the words in column 'A' with their meanings in column 'B'.</p>
+        <p className='question'>A. Match the words in column 'A' with their meanings in column 'B'.</p>
         <p><strong>a.</strong> expectantly ------ in a way that shows you are hoping for something, especially something good or exciting</p>
         <p><strong>b.</strong> beckon ------ to give signal to somebody to move nearer or to follow you</p>
         <p><strong>c.</strong> grapple ------ to try hard to find a solution to a problem</p>
@@ -17,9 +17,9 @@ const Education = () => {
         <p><strong>h.</strong> marvelous ------ extremely good; wonderful</p>
         <p><strong>i.</strong> dynamics ------ the science of the forces involved in movement</p>
       </section>
-
+     <hr/>
       <section className="words-section">
-        <p>B. An autobiography is a story of a person's life, written by himself/herself. Use a dictionary and find the meanings of the following words related to people's life stories.</p>
+        <p className='question'>B. An autobiography is a story of a person's life, written by himself/herself. Use a dictionary and find the meanings of the following words related to people's life stories.</p>
         <p><strong>hagiography:</strong> A hagiography is a biography that idealizes or idolizes its subject, often a saint or a religious figure, portraying them in an overly positive, sometimes unrealistic way.</p>
         <p><strong>psychobiography:</strong> A psychobiography is a detailed study of a person's life written with an emphasis on psychological theories or analysis.</p>
         <p><strong>pathography:</strong> A pathography is a biography that focuses on the illness, suffering, or medical condition of a person.</p>
@@ -34,7 +34,7 @@ const Education = () => {
 
       <section className="comprehension-section">
         <h3>Comprehension</h3>
-        <p><strong>A.</strong> Put the following events in the life of Abdul Kalam in a chronological order.</p>
+        <p className='question'><strong>A.</strong> Put the following events in the life of Abdul Kalam in a chronological order.</p>
         <p>1. Abdul Kalam attended an elementary school at Rameswaram.</p>
         <p>2. One day Abdul Kalam's teacher visited them to share his pride and pleasure about his performance.</p>
         <p>3. They celebrate happiness with poli.</p>
@@ -43,9 +43,9 @@ const Education = () => {
         <p>6. He then took the students to the seashore for a practical class.</p>
         <p>7. Abdul Kalam was determined that he would make a future study about flight and flight systems.</p>
       </section>
-
+       <hr/>
       <section className="comprehension-section">
-        <p><strong>B.</strong> Answer the following questions.</p>
+        <p className='question'><strong>B.</strong> Answer the following questions.</p>
         <p><strong>a.</strong> What were the causes of Abdul Kalam's happiness?</p>
         <p>= Abdul Kalam's happiness came from several important experiences. His mathematics teacher personally visited his home to share his excellent exam results, including full marks in mathematics and science. This made him feel proud and encouraged. The support and pride of his teachers and family also motivated him. Simple joys like sailing leaf boats with his friend and watching ants on the boats added to his happiness. Overall, his family's love, inspiring teachers, and his dedication to studies were the main causes of his happiness.</p>
         <p><strong>b.</strong> Which two places did Abdul Kalam visit before going to school?</p>
@@ -68,12 +68,12 @@ const Education = () => {
 
       <section className="critical-thinking-section">
         <h3>Critical thinking</h3>
-        <p><strong>a.</strong> APJ Abdul Kalam became a renowned aerospace scientist in his later life. Do you find any association of his childhood days in shaping his career? Explain with specific instances from the text.</p>
+        <p className='question'><strong>a.</strong> APJ Abdul Kalam became a renowned aerospace scientist in his later life. Do you find any association of his childhood days in shaping his career? Explain with specific instances from the text.</p>
         <p>= APJ Abdul Kalam's childhood had a strong influence on shaping his career as a renowned aerospace scientist. From a young age, he was deeply interested in mathematics and science, always scoring top marks and dedicating extra time to learning complex problems. A key moment that inspired him was a practical lesson given by his teacher, Sivasubramania Iyer, who took the students to the seashore to observe and explain how birds fly. This hands-on experience fascinated Kalam and sparked his curiosity about flight dynamics.</p>
         <p>Moreover, Kalam grew up in a loving and supportive family, which provided him with a secure environment to focus on his studies. Despite some social challenges like religious discrimination he witnessed, his passion for learning remained strong. His early dedication to understanding science and mathematics, combined with the inspiration from his teacher's practical demonstration of bird flight, motivated him to pursue aerospace engineering.</p>
         <p>Thus, there is a clear connection between Abdul Kalam's childhood experiences—his love for science and mathematics, the encouragement from his teachers, and the practical exposure to flight—and his later success as an aerospace scientist. These early influences helped him build the foundation for his future achievements in the field of aerospace.</p>
 
-        <p><strong>b.</strong> Kalam mentions an instance of discrimination against him in his school life. What picture of society does he want to depict by mentioning the incident? Discuss.</p>
+        <p className='question'><strong>b.</strong> Kalam mentions an instance of discrimination against him in his school life. What picture of society does he want to depict by mentioning the incident? Discuss.</p>
         <p>= Abdul Kalam's mention of the discrimination he faced in school reveals a sad and divided picture of society at that time. The incident where his new teacher forbade him, a Muslim boy, from sitting next to his Hindu friend, Ramanadhan Sastry, shows the deep religious divide between Hindus and Muslims. Despite their friendship, the teacher's narrow-mindedness reflected the prevalent social attitude of segregation and intolerance based on religion. Kalam's experience highlights how societal prejudices and communalism affected even innocent children, creating barriers between communities. By sharing this incident, Kalam wants to depict a society deeply divided by religious and caste differences, where discrimination was widespread and accepted by many, including educated individuals. This picture urges us to reflect on the harmful effects of such divisions and the need to overcome them for a more united and harmonious society.</p>
       </section>
 
@@ -81,7 +81,7 @@ const Education = () => {
 
       <section className="writing-section">
         <h3>Writing</h3>
-        <p>Write a short autobiography featuring your childhood life using the following guidelines.</p>
+        <p className='question'>Write a short autobiography featuring your childhood life using the following guidelines.</p>
         <p>Date and place of birth, Family background, Daily life, School life, Special event of childhood days, etc.</p>
         <p>= I was born in a peaceful town in Chitwan district. I come from a loving middle-class family of six. My father is a farmer who works hard every day to provide for us, and my mother takes care of our home with great warmth and care. I have two younger sisters who are still in school.</p>
         <p>Growing up in Chitwan was a wonderful experience. My days were filled with the sounds of birds, the green fields around our home, and the gentle breeze from the nearby forest. Every morning, I woke up early to help my parents with chores before going to school. My school was close to home, and I enjoyed walking there with my friends.</p>
@@ -95,7 +95,7 @@ const Education = () => {
 
       <section className="grammar-section">
         <h3>Grammar</h3>
-        <p><strong>B.</strong> Join the following pairs of sentences twice, using although/ though/ even though and despite/ in spite of as in the example.</p>
+        <p className='question'> <strong>B.</strong> Join the following pairs of sentences twice, using although/ though/ even though and despite/ in spite of as in the example.</p>
         <p>Nepali people have limited income. They are very happy.</p>
         <p><strong>i.</strong> Although Nepali people have limited income, they are happy.</p>
         <p><strong>ii.</strong> Nepali people are happy in spite of their limited income.</p>
@@ -136,9 +136,9 @@ const Education = () => {
         <p>= Even though he was badly injured in the first round of the boxing match, he was victorious in the third round.</p>
         <p>= Despite being badly injured in the first round of the boxing match, he was victorious in the third round.</p>
       </section>
-
+        <hr/>
       <section className="grammar-section">
-        <p><strong>C.</strong> Complete each sentence in an appropriate way.</p>
+        <p className='question'><strong>C.</strong> Complete each sentence in an appropriate way.</p>
         <p>a. He passed the exam although <strong>he hadn't studied.</strong></p>
         <p>b. She climbed the mountain in spite of her <strong>bad health.</strong></p>
         <p>c. He did not give any alms to the beggars even though <strong>he is very rich.</strong></p>

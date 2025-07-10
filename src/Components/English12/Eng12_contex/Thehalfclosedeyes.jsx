@@ -12,7 +12,7 @@ const Thehalfclosedeyes = () => {
       </div>
       <div>
         <hr/>
-        <h3>Understanding the text</h3>
+        <h3 className='question'>Understanding the text</h3>
         <p>Answer the following questions.</p>
         <p>a. How does the tourist describe his initial impression of the Kathmandu valley?</p>
         <p>= The tourist describes his initial impression of the Kathmandu Valley as a beautiful and serene place, with green geometric fields, earthen houses painted in red, yellow, and white, and the fragrant aroma of soil. He is captivated by the peaceful atmosphere and the natural beauty of the mountains that surround the valley.</p>
@@ -38,80 +38,84 @@ const Thehalfclosedeyes = () => {
       <div>
         <hr/>
         <h3>Reference to the context</h3>
-        <p>a. Which narrative technique is used by the author to tell the story? How is this story different from other stories you have read?</p>
+        <p className='question'>a. Which narrative technique is used by the author to tell the story? How is this story different from other stories you have read?</p>
         <p>= Shankar Lamichhane uses the stream of consciousness narrative technique in the story “The Half closed Eyes of the Buddha and the Slowly Sinking Sun.” This technique captures the continuous flow of the characters' thoughts and feelings, including their sensory experiences, memories, unfinished ideas, and even unique or unusual expressions. It reflects the natural and spontaneous way the mind works, rather than a simple, structured narration of events.
-
+</p><p>
 What makes this story different from many others I have read is its presentation of two distinct monologues—those of a tourist guide from Kathmandu Valley and a foreign tourist. Instead of focusing on external actions or a single narrator's point of view, the story explores the inner thoughts and perceptions of both characters. This creates a richer and more complex narrative that shows contrasting perspectives on the same reality. Unlike most traditional stories that follow a clear plot with a straightforward narrator, this story offers a deep, psychological insight into the minds of its characters, making it unique and thought-provoking.
         </p>
       </div>
+      <hr/>
       <div>
-        <p>b. How is the author able to integrate two fragments of the narration into a unified whole?</p>
+        <p className='question'>b. How is the author able to integrate two fragments of the narration into a unified whole?</p>
         <p>= The author integrates two fragments of narration into a unified whole by linking the different perspectives of the tourist and the guide through the recurring motif of “eyes” and their ways of seeing the world. The story contrasts two separate universes: the tourist's view, which focuses on the surface beauty of Nepal—its mountains, forests, and cultural diversity—and the guide's perspective, which reveals the deeper reality of poverty, hardship, and traditional struggles faced by the local people, especially in remote farming communities.
-
+</p><p>
 By connecting these two worlds, the author encourages readers to look beyond appearances and understand the true meaning of the situation through “deeper eyes.” The guide's explanations and the tourist's observations are intertwined through the stream of consciousness technique, blending their inner thoughts and reflections into a cohesive narrative. This approach allows the story to present a complete picture of Nepal, showing both its enchanting beauty and its underlying social realities.</p>
       </div>
+      <hr/>
       <div>
-        <p>c. The author brings some historical and legendary references to the story. Collect these references and show their significance in the story.</p>
+        <p className='question'>c. The author brings some historical and legendary references to the story. Collect these references and show their significance in the story.</p>
         <p>= In the story “The Half-closed Eyes of the Buddha and the Slowly Sinking Sun,” Shankar Lamichhane includes several important historical and legendary references that enrich the narrative and highlight Nepal's cultural heritage and spiritual values:
-
+</p><p>
 1. Manjushri and the Chobhar Gorge: According to legend, Kathmandu Valley was once a lake. Manjushri, a bodhisattva of wisdom, cut a gorge at Chobhar, allowing the waters to drain and making the valley habitable. This reference symbolizes the creation of Kathmandu and the foundation of its civilization.
-
+</p><p>
 2. Cultural and Artistic Heritage: The story mentions that the East has gifted the West with rich cultural treasures such as the Puranas, brass images, ivory ornaments, palm leaf manuscripts, and copperplate inscriptions. These reflect Nepal's deep-rooted traditions in religion, art, literature, and craftsmanship, emphasizing its role in shaping civilization.
-
+</p><p>
 3. The Gaze of Monks and Nuns (The Samyak Gaze): The monks and nuns are described as having a pure, uncontaminated sight called the “samyak gaze,” which perceives everything in its true form. This represents spiritual purity and wisdom, key elements in the peaceful atmosphere of Kathmandu.
-
+</p><p>
 4. Historical Relationships: The story refers to historical ties between Nepal and Tibet during the Licchavi dynasty, including figures like Princess Bhrikuti and King Amshuvarma. This highlights Nepal's historical connections and cultural exchanges with neighboring regions.
-
+</p><p>
 5. The Half-closed Eyes of Buddha and the Setting Sun: The image of the Buddha's half-closed eyes reflecting the slowly setting sun symbolizes peace, harmony, and hope in Nepal. It conveys the spiritual calmness and the serene beauty of the country and its people.
-
+</p><p>
 6. The Adinath Temple: Dedicated to both Lord Shiva and Buddha, this temple exemplifies Nepalese tolerance and coexistence between different religions, reinforcing the theme of unity in diversity</p>
       </div>
+      <hr/>
       <div>
-        <p>d. The author talks about the eyes in many places: the eyes of the shaven monks and nuns, eyes in the window and door panels, the eyes of the Himalayas, the eyes of the paralyzed boy, the eyes of the welcoming villagers and above all the half-closed eyes of the Buddha. Explain how all the instances of eyes contribute to the overall unity of the story.</p>
+        <p className='question'>d. The author talks about the eyes in many places: the eyes of the shaven monks and nuns, eyes in the window and door panels, the eyes of the Himalayas, the eyes of the paralyzed boy, the eyes of the welcoming villagers and above all the half-closed eyes of the Buddha. Explain how all the instances of eyes contribute to the overall unity of the story.</p>
         <p>= In the story “The Half closed Eyes of the Buddha and the Slowly Sinking Sun,” the author uses different images of eyes to create a unifying theme that reflects the culture, spirituality, and identity of Nepal. The eyes of the shaven monks and nuns symbolize the “samyak gaze,” a pure and uncontaminated perception that sees things as they truly are. This spiritual vision connects to other eyes mentioned throughout the story: the carved lattice windows, painted door panels, eyes on stupas, the eyes of the majestic Himalayas, the paralyzed boy's eyes, and the eyes of welcoming villagers.
-
+</p><p>
 All these eyes collectively represent Nepal as a land rich in tradition, culture, religion, and natural beauty. The half closed eyes of the Buddha especially symbolize peace, harmony, and the deep spiritual calm that pervades the country. The author suggests that even if all history books were lost, these eyes—symbols of memory, faith, and cultural continuity—would continue to preserve and recreate Nepal's heritage of love and peace.
-
+</p><p>
 Through these recurring images of eyes, the story connects various perspectives—spiritual, cultural, natural, and human—into a meaningful whole. The eyes reflect not only what is seen externally but also the inner visions, hopes, and memories of the people, thereby uniting the story's themes and making the journey through Nepal a profound experience of seeing beyond surface appearances.</p>
       </div>
       <div>
         <hr/>
         <h3>Reference beyond the text </h3>
-        <p>a.  Write an essay on Living Proximity to Nature.</p>
+        <p className='question'>a.  Write an essay on Living Proximity to Nature.</p>
         <p>= <strong>Living Proximity to Nature </strong>
-
+</p><p>
 Nature encompasses everything around us—the trees, flowers, plants, animals, the sky, mountains, forests, air, water, the sun, and the moon. It is the fundamental source of life, providing humans with oxygen, food, water, shelter, medicines, and clothing. The diverse colors and forms of nature make the Earth vibrant and beautiful. Nature sustains all living beings and maintains the balance of life on our planet.
-
+</p><p>
 Humans are deeply connected to nature because it offers the ideal environment for living. It provides essential resources and energy for survival, including organic food from farming and fresh water. Living close to nature has many benefits for physical, mental, and spiritual health. It brings peace and happiness through experiences such as breathing fresh air, hearing birds sing, and admiring the stars in a clear night sky. Research shows that people living near green spaces tend to have better overall health, greater life satisfaction, and lower rates of diseases like cancer, depression, and respiratory problems.
-
+</p><p>
 Nature also has healing powers. It supports the body's natural ability to heal and rejuvenate. The closer we are to nature, the more we can refresh our minds and improve concentration, giving our brain the rest it needs from the stresses of modern life.
-
+</p><p>
 However, rapid urbanization, technology, and social media often distance us from nature. It is important that we do not compromise our bond with nature for these developments. Instead, we must learn to live in harmony with the environment and protect all living beings that share the Earth. When humans harm nature through pollution and deforestation, it threatens our own future, and we may regret it for generations to come.
-
+</p><p>
 Each individual should take responsibility for preserving nature. A meaningful way to contribute is by planting and nurturing trees, helping to restore the natural world. By respecting and protecting nature, we ensure a balanced and healthy planet for ourselves and future generations.
-
+</p><p>
 In conclusion, living close to nature enriches our lives in countless ways. It is our duty to cherish and safeguard nature so that it continues to nurture life on Earth.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. The story talks about the ethnic/religious co-existence of different communities in Nepal, where the Buddhists and the Hindus and the Aryans and non-Aryans have lived in communal harmony for ages. In your view, how have the Nepali people been able to live in such harmony?</p>
+        <p className='question'>b. The story talks about the ethnic/religious co-existence of different communities in Nepal, where the Buddhists and the Hindus and the Aryans and non-Aryans have lived in communal harmony for ages. In your view, how have the Nepali people been able to live in such harmony?</p>
         <p>= In my view, Nepali people have been able to live in such harmony due to several historical, cultural, political, and geographical factors. Nepal is a small but diverse country with many ethnic groups that arrived from different regions, each bringing their own religious beliefs and traditions. Since there is no single majority group dominating others, no community has been able to impose its spiritual system exclusively on others. This has allowed multiple faiths to flourish side by side.
-
+</p><p>
 Moreover, the nature of the religious beliefs practiced in Nepal—mainly Hinduism and Buddhism—tend to be inclusive and tolerant. Unlike some dogmatic religious systems, these faiths allow people to respect and even worship common deities beyond their own clans or communities. This religious flexibility encourages mutual respect and shared practices.
-
+</p><p>
 Nepal is home to various communities—Hindus, Buddhists, Muslims, Christians, and others—who live peacefully without conflict, often sharing in each other's festivals and traditions. For example, places like Swayambhunath, Adinath, Lumbini, and Muktinath serve as sacred sites visited by followers of multiple religions. Hindus join Muslims in celebrating Eid, while Muslims may also participate in Hindu festivals like Dashain. Buddhists visit Hindu temples, and Christians celebrate traditional Nepali festivals like Teej and Tihar alongside their own religious observances.
-
+</p><p>
 In Nepal, religion is often seen as secondary to shared humanity and nationality. Nepali people prioritize humanism and national unity over religious differences. This spirit of compassion, respect, and empathy toward each other and the environment fosters social harmony. Some key reasons for this unity include:
-
+</p><p>
 1. Every Nepali deeply values humanism as a primary guiding principle.
-
+</p><p>
 2. People show respect and honor toward all individuals regardless of their faith.
-
+</p><p>
 3. Nepalis have learned to live as one community by setting aside differences in belief systems.
-
+</p><p>
 4. They are inherently compassionate and empathetic toward one another and the natural world.
-
+</p><p>
 5. Nepal is often regarded as a spiritual hub, where spirituality and tolerance guide social life.
-
+</p><p>
 Because of these factors, Nepali people continue to live in peace and harmony despite their diverse backgrounds, making Nepal a unique example of ethnic and religious coexistence.</p>
       </div>
     </div>

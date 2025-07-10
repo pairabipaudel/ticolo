@@ -5,7 +5,7 @@ const Animalworld = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. Read the text and tick the best alternative to fill in the gaps.</p>
+        <p className='question'>A. Read the text and tick the best alternative to fill in the gaps.</p>
         <p>a. Persons who are related to you and who live after you, such as your child or grandchild are called <strong>descendants.</strong>
 </p>
 <p>b.  <strong>'Twirl'</strong> means to turn or spin around and around quickly</p>
@@ -18,8 +18,9 @@ const Animalworld = () => {
 <p>i. <strong>Nudibranch</strong> is a group of soft-bodied, marine gastropod molluscs which shed their shells after their larval stage.</p>
 <p>j. A <strong>medusa</strong> is a free-swimming sexual form of a coelenterate such as a jellyfish, typically having an umbrella-shaped body with stinging tentacles around the edge.</p>
       </div>
+      <hr/>
       <div>
-       <p>B. Look up a dictionary and write the meanings of the following words then use them in your own sentences.</p>
+       <p className='question'>B. Look up a dictionary and write the meanings of the following words then use them in your own sentences.</p>
 
 <p><strong>arthropod:</strong> An invertebrate animal of the large phylum Arthropoda, such as an insect, spider, or crustacean, which has an exoskeleton, a segmented body, and jointed appendages.</p>
 <p>Sentence: The scientist collected several types of <strong>arthropods</strong>, including ants and beetles, for his research project.</p>
@@ -39,7 +40,7 @@ const Animalworld = () => {
         <hr />
         <h3>Comprehension</h3>
         <div>
-        <p>Answer the following questions.</p>
+        <p className='question'>Answer the following questions.</p>
         <p>a. What are the indicators of the fact that we are very self-conscious about ourselves these days?</p>
         <p>= The indicators that show we are very self-conscious about ourselves these days include self-realization, self-help, self-development, self-awareness, self-respect, and self-enlightenment.</p>
 
@@ -69,52 +70,53 @@ const Animalworld = () => {
       <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. How does the author make satire on the modern idea of the 'self' based on individuality, independence and uniqueness?</p>
+        <p className='question'>a. How does the author make satire on the modern idea of the 'self' based on individuality, independence and uniqueness?</p>
         <p>= The author in this essay satirizes the modern idea of the 'self' based on individuality, independence, and uniqueness. The essay explores what nature can teach us about the self. At the beginning, the writer draws attention to the human tendency to enhance the sense of self through individuality, independence, and uniqueness.
-
+</p><p>
 The author presents the close relationship between the nudibranch and the medusa living in the Bay of Naples. A mature jellyfish swallows a tiny newly hatched snail, only to be gradually consumed by the snail until the jellyfish becomes a “successfully edited parasite” attached to the snail's skin near its mouth. Eventually, the jellyfish is reduced to a mere substance while the snail grows larger.
-
+</p><p>
 This story shows that both creatures cannot survive separately and depend on each other for survival. The author uses the tale of the nudibranch and the medusa to illustrate the value of coexistence, cooperation, helpfulness, collaboration, and togetherness. Just as the relationships between anemones and crabs or between the medusa and the snail show, our lives are interconnected and interdependent. The essay emphasizes the significance of friendship and mutual dependence for survival and existence.
-
+</p><p>
 Through this example, the author critiques the modern pride in individuality, independence, and uniqueness, arguing that such ideas do not fully apply in real life, where cooperation and interdependence are essential.</p>
-        <p>b. Analyze the essay as a creative defense of the interdependence observed in the ecosystem.</p>
+<hr/>
+        <p className='question'>b. Analyze the essay as a creative defense of the interdependence observed in the ecosystem.</p>
         <p>= This essay is a creative and thoughtful way of showing how everything in nature is connected. Instead of focusing on being completely independent and living alone, the author uses examples from the natural world to show how living things actually depend on each other to survive. This idea is called interdependence.
-
+</p><p>
 At the beginning of the essay, the writer talks about how modern people often focus too much on being unique, self-reliant, and independent. While being independent is good for building confidence and helping us grow as individuals, the essay gently reminds us that we can't do everything alone.
-
+</p><p>
 The story of the nudibranch (a type of sea slug) and the medusa (a jellyfish) is the main example in the essay. At first, the jellyfish eats the tiny snail, but slowly, the snail begins to eat the jellyfish from the inside. In the end, the two creatures live in a strange but balanced relationship—neither can live without the other. This shows how even in the ocean, survival often depends on working together, even in unexpected ways.
-
+</p><p>
 The author uses this relationship to point out something important: nature doesn' t celebrate complete independence. Instead, it shows how cooperation, connection, and helping one another are necessary to stay alive. Whether it's animals in the ocean or people in society, we all need each other.
-
+</p><p>
 The essay reminds us that while being independent is useful, we shouldn't forget the power of togetherness. We survive and grow better when we support, care, and depend on each other—just like creatures in the natural world.
-
+</p><p>
 In simple words, this essay defends the idea that interdependence is not a weakness it's a strength. Nature has always known this, and we, as human beings, should learn from it.</p>
       </div>
       <div>
         <hr />
         <h3>Writing</h3>
-           <p>A. Write an essay on “Independence vs. Interdependence” in about 250 words.</p>
+           <p className='question'>A. Write an essay on “Independence vs. Interdependence” in about 250 words.</p>
            <p>= The ideas of independence and interdependence have been discussed for a long time. Some people think being independent is the key to personal success. Others believe that depending on each other, or interdependence, is necessary for a better society. Both are important in life, and we need to find a balance between them.
-
+</p><p>
 Independence means being able to think, act, and make decisions on your own. It is about being self-reliant and not needing others to succeed. Independence helps people become confident, strong, and willing to take risks. But too much independence can make someone feel lonely, proud, or unwilling to work with others.
-
+</p><p>
 Interdependence means working together and depending on each other. It shows that we are all connected and that our success often depends on others. Interdependence helps build teamwork, friendship, and a strong community. However, if we rely too much on others, we might lose confidence or avoid responsibility.
-
+</p><p>
 In real life, we need both independence and interdependence. We should be able to take care of ourselves and grow as individuals. But we also need to learn to work with others and help our community. In today's world, where everything is connected, both qualities are necessary.
-
+</p><p>
 To live a successful and happy life, we must learn when to stand alone and when to join hands with others. True progress comes when we balance independence with cooperation and care for one another.</p>
-
-           <p>B. Write a newspaper article highlighting the increasing individualism in the modern Nepali society.</p>
+<hr/>
+           <p className='question'>B. Write a newspaper article highlighting the increasing individualism in the modern Nepali society.</p>
            <p>= The Rising Wave of Individualism in Modern Nepali Society
-
+</p><p>
 In recent years, Nepali society has seen a big shift in the way people live and think. More and more people, especially the young generation, are choosing to live life on their own terms. This growing focus on the self is known as individualism, and it is changing our traditions and way of life.
-
+</p><p>
 In the past, Nepali culture was based on togetherness, family, and community values. People lived in joint families, helped neighbors, and made decisions with the advice of elders. But now, many young people are moving to cities, living alone, and making personal choices without much family involvement.
-
+</p><p>
 Social media, foreign influence, and the desire for freedom have played a big role in this change. Many people now believe that success means doing everything on their own. While this has led to personal growth and confidence, it has also made some people feel lonely, stressed, and disconnected from their families.
-
+</p><p>
 Teachers and elders say that it's good to be independent, but we should not forget our roots. “Being yourself is important,” says one school teacher in Chitwan, “but we must also care for our family and society.”
-
+</p><p>
 As Nepal moves forward, the challenge is to balance personal freedom with our deep values of love, care, and support for others. A successful society needs both strong individuals and strong communities.</p>
 <p>Editor:</p>
 <p> Sebika Paudel</p>
@@ -122,7 +124,7 @@ As Nepal moves forward, the challenge is to balance personal freedom with our de
       <div>
         <hr/>
         <h3>Grammar</h3>
-        <p>A. Make passive sentences from the following information as in the example.</p>
+        <p className='question'>A. Make passive sentences from the following information as in the example.</p>
         <p>a. volleyball/every/country/play</p>
         <p>= Volleyball is played in every country.</p>
          <p>b. spaghetti/boiling water/cook</p>
@@ -144,8 +146,9 @@ As Nepal moves forward, the challenge is to balance personal freedom with our de
                          <p>j. the father/the window/not going to open</p>
                          <p>= The window is not going to be opened by the father.</p>
       </div>
+      <hr/> 
       <div>
-        <p>B. Rewrite the following sentences in the passive voice using the correct form of verbs in the brackets.</p>
+        <p className='question'>B. Rewrite the following sentences in the passive voice using the correct form of verbs in the brackets.</p>
         <p>a. Call the ambulance! Two boys <strong>have been injured </strong>(injure) in a motorbike accident.</p>
         <p>b. The clock<strong> has been used </strong>(use) since the 17th century.</p>
         <p>c. I had to wait outside the classroom while the classroom <strong>was being cleaned </strong>(clean).</p>

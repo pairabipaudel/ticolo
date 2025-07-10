@@ -12,7 +12,7 @@ const Humility = () => {
       <div>
         <hr/>
         <h3>Understanding the text</h3>
-        <p>Answer the following questions.</p>
+        <p className='question'>Answer the following questions.</p>
         <p>a. Describe the claim of the Chinese nationalists about human history.</p>
         <p>= Chinese nationalists claim that human history began with the Yellow Emperor and the Xia and Shang dynasties. They believe that achievements made by other civilizations such as those by Westerners, Muslims, or Indians are merely imitations or adaptations of earlier Chinese accomplishments.</p>
         <p>b. What do pious Muslims believe about human history?</p>
@@ -27,45 +27,48 @@ const Humility = () => {
       <div>
         <hr/>
         <h3>Reference to the context</h3>
-        <p>a. How do Hindu nationalists refute the Chinese claim that human history began with the Yellow Emperor and the Xia and Shang dynasties? Who do you agree with, and why?</p>
+        <p className='question'>a. How do Hindu nationalists refute the Chinese claim that human history began with the Yellow Emperor and the Xia and Shang dynasties? Who do you agree with, and why?</p>
         <p>= Hindu nationalists refute the Chinese claim that human history began with the Yellow Emperor and the Xia and Shang dynasties by arguing that ancient Indian sages had already developed advanced knowledge, such as the theory of airplanes, nuclear weapons, and atomic theory, long before historical figures like Plato, Confucius, Einstein, or the Wright brothers. They often cite Hindu scriptures such as the Vedas and Mahabharata as evidence of these ancient scientific advancements.
-
+</p><p>
 I agree more with the view that no single civilization should claim exclusive credit for the beginning of human history. While Hindu texts do contain advanced philosophical and scientific ideas, and while Chinese civilization has a rich and long history, human history is a shared global development with contributions from many cultures. Rather than choosing one side, it's wiser to adopt a humble and inclusive view that respects all civilizations for their unique roles in shaping our collective past.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. The author has dealt with a controversial debate on human history. Why do you think history has been a major contested issue in the present world?</p>
+        <p className='question'>b. The author has dealt with a controversial debate on human history. Why do you think history has been a major contested issue in the present world?</p>
         <p>= In the essay "Humility" by Yuval Noah Harari, the author presents the controversial debate about human history and how different religious and national groups claim to be the center of historical development. Each group tends to glorify its past and often believes that its religion or culture is the oldest and most important.
-
+</p><p>
 I believe history has become a major contested issue in the modern world mainly due to egoism and cultural superiority. Many groups or nations claim that their ancestors were the first to develop advanced knowledge or civilization. This creates a sense of pride mixed with the desire for dominance, often ignoring or denying the contributions of others. People are reluctant to accept that great ideas and inventions could have come from different parts of the world.
-
+</p><p>
 This egoistic mindset leads to distorted versions of history, conflicts over historical facts, and a lack of mutual respect. As Harari emphasizes, true humility is necessary to overcome these divisions. By recognizing that no single culture has a monopoly on greatness, we can better appreciate the shared journey of humanity.</p>
       </div>
+
       <div>
         <hr/>
         <h3>Reference beyond the text</h3>
-        <p>a. Write a short essay on The Conflicting History of Human Civilization.</p>
+        <p className='question'>a. Write a short essay on The Conflicting History of Human Civilization.</p>
         <p>= The Conflicting History of Human Civilization
-
+</p><p>
 Civilization refers to the advancement of human culture in areas such as technology, science, politics, and social organization. From ancient times to the present day, human civilization has witnessed continuous growth and transformation. Modern technology has greatly facilitated progress, improving lives across the globe. However, along with development, there has also been a long-standing conflict over the origins and significance of different civilizations.
-
+</p><p>
 Many people and cultures believe that their civilization is the first and most important. This belief often arises from a sense of pride, egoism, or the desire for cultural superiority. Greeks claim history began in Athens and Sparta. Chinese nationalists argue that history started with the Yellow Emperor and the Xia and Shang dynasties. Hindu nationalists insist that ancient Indian sages discovered airplanes, atomic theory, and missiles long before the modern era. Similarly, Muslims, Jews, and Christians each regard their holy scriptures and traditions as central to human progress.
-
+</p><p>
 Even the Aztecs believed that their annual sacrifices kept the sun rising and the universe from collapsing. Jewish traditions also claim that yoga postures were invented by Abraham and that the study of scripture sustains the world.
-
+</p><p>
 Such claims reflect how civilizations often view themselves as the center of the universe. This egoism prevents people from appreciating the shared journey of humanity. In truth, early humans cooperated to colonize the earth and domesticate plants and animals. Morality, art, creativity, and spirituality are not exclusive to any one culture—they are universal human abilities embedded in all of us.
-
+</p><p>
 The lack of humility and the tendency to glorify one's own culture while ignoring or criticizing others has led to conflicts throughout history. Recognizing our shared heritage and embracing humility is essential to understanding the true story of human civilization.</p>
       </div>
+      <hr/>
       <div>
-        <p>b. The author claims, “Since it is more polite to criticize one's own people than to criticize foreigners.” Do you agree with his claim? Give your reasons.</p>
+        <p className='question'>b. The author claims, “Since it is more polite to criticize one's own people than to criticize foreigners.” Do you agree with his claim? Give your reasons.</p>
         <p>= Yes, I agree with the author's claim that “it is more polite to criticize one's own people than to criticize foreigners.” Criticism, when done constructively, is essential for growth and improvement. However, the way criticism is received often depends on the relationship between the critic and the subject being criticized.
-
+</p><p>
 When we criticize our own community, culture, or nation, it is more likely to be accepted as sincere and constructive. This is because we are seen as insiders who understand the values, beliefs, and context. Such criticism is often viewed as an attempt to bring about positive change rather than to insult or undermine.
-
+</p><p>
 On the other hand, when criticism comes from outsiders or foreigners, even if it is polite, it can be perceived as disrespectful or arrogant. People are naturally defensive about their own traditions and beliefs, especially when criticized by someone from another culture or background. This can easily lead to misunderstanding, offense, or even conflict.
-
+</p><p>
 In the essay Humility, the author Yuval Noah Harari highlights how every culture tends to glorify its own history and beliefs. Pointing out flaws in another group's history, especially without humility, can seem like an attack on their identity. Therefore, to encourage mutual respect and open-minded dialogue, it is more effective and polite to begin by critically examining our own people and beliefs.
-
+</p><p>
 Criticizing our own helps us grow while setting an example for others to reflect on their flaws without feeling targeted. It promotes humility, empathy, and understanding, which are crucial for peaceful coexistence in a diverse world.</p>
       </div>
     </div>

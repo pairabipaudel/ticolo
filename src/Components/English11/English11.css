@@ -1,6 +1,7 @@
-*{
+body{
     margin-left:5px;
 }
+
 .topic {
   padding: 30px;
   display: flex;
@@ -55,4 +56,59 @@ font-size:19px;
 font-weight:500;
 margin-bottom:5px;
 margin-top:5px;
+}
+@media (max-width: 768px) {
+  .topic {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .topic .part1,
+  .topic .part2 {
+    padding: 15px;
+  }
+
+  .topic p {
+    font-size: 1rem;
+  }
+
+  .topic button {
+    font-size: 0.95rem;
+    width: 100%;
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
+
+  .question {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .topic {
+    padding: 10px;
+  }
+
+  .topic .part1,
+  .topic .part2 {
+    padding: 10px;
+  }
+
+  .topic button {
+    font-size: 0.9rem;
+  }
+
+  .topic p {
+    font-size: 0.9rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  .question {
+    font-size: 0.95rem;
+  }
 }

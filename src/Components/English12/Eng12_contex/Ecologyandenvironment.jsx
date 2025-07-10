@@ -5,7 +5,7 @@ const Ecologyandenvironment = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. The words/phrases in the box are from the text. Check their meanings in a dictionary and use these words to complete the given sentences.</p>
+        <p className='question'>A. The words/phrases in the box are from the text. Check their meanings in a dictionary and use these words to complete the given sentences.</p>
 
 <p>a. <strong>Logging</strong> is one of the main reasons behind the rapid deforestation in the world.</p>
 
@@ -28,8 +28,9 @@ const Ecologyandenvironment = () => {
 <p>j. <strong>Redwood</strong> is a very tall type of tree that grows especially in California and Oregon.</p>
 
       </div>
+      <hr/>
       <div>
-        <p>B. The words redwood, barefoot, single-burner, short-term, fast-paced, mudslide, windstorm and childhood from the above text are made of two words and they yield a new meaning. Compound words can be written in three ways: open compounds (spelled as two words, e.g, ice cream), closed compounds (joined to form a single word, eg, doorknob), or hyphenated compounds (two words joined by a hyphen, eg, long-term). Choose one word from each box to make sensible compound words. </p>
+        <p className='question'>B. The words redwood, barefoot, single-burner, short-term, fast-paced, mudslide, windstorm and childhood from the above text are made of two words and they yield a new meaning. Compound words can be written in three ways: open compounds (spelled as two words, e.g, ice cream), closed compounds (joined to form a single word, eg, doorknob), or hyphenated compounds (two words joined by a hyphen, eg, long-term). Choose one word from each box to make sensible compound words. </p>
         <p>rattle = rattlesnake (closed compound)</p>
         <p>sun = sunlight (closed compound)</p>
         <p>touch = touchdown (closed compound)</p>
@@ -44,8 +45,9 @@ const Ecologyandenvironment = () => {
          <p>grand = grandmother (closed compound)</p>
          <p>cross = crosswalk (closed compound)</p>
       </div>
+      <hr/>
       <div>
-        <p>C. Match the following words/phrases related to the ecology with their meanings.</p>
+        <p className='question'>C. Match the following words/phrases related to the ecology with their meanings.</p>
 
 <p>a. <strong>Sustainability</strong> — to keep in existence; maintain. To supply with necessities or nourishment.</p>
 
@@ -70,7 +72,7 @@ const Ecologyandenvironment = () => {
 <div>
     <hr/>
     <h3>Comprehension</h3>
-    <p>A. Choose the best answer.</p>
+    <p className='question'>A. Choose the best answer.</p>
     <p>a. The author of the text above has the opinion that Julia Hill .........</p>
     <p><strong>ii. made her pastime in a tree for two years more</strong></p>
     <p>b. The sentence 'Julia had occasional visitors' indicates she had .......</p>
@@ -82,44 +84,60 @@ const Ecologyandenvironment = () => {
     <p>e. Julia Hill climed down the tree after 738 days when her demands were ........</p>
     <p><strong>iii. above to be fulfilled.</strong></p>
 </div>
+<hr/>
 <div>
-    <p>B. Answer the following questions.</p>
+    <p className='question'>B. Answer the following questions.</p>
     <p>a. Who was Julia Butterfly Hill? How did Hill's campaign gain popularity?</p>
-    <p>=</p>
+    <p>= Julia Butter Jill was a person who lived in a 200-ft-tall redwood tree for more than two years to draw attention to the continued clearcutting of California's remaining redwood forests. Her campaign gained popularity when she started to have occasional visitors.
+</p>
     <p>b. What made Hill start her mega campaign to save redwood trees?</p>
-    <p>=</p>
+    <p>= When she arrived in the redwood forest, she was gripped by the spirit of the forest. She dropped to her knees and began to sob seeing the clearcutting of redwood trees. She sat and cried for a long time and finally decided to start her mega campaign to save redwood trees.</p>
+
     <p>c. What kinds of amenities were there to support Hill's life in the tree?</p>
-    <p>=</p>
+    <p>= Hill had a sleeping bag, a solar-powered cell phone for media interviews, and a single-burner propane stove to cook and heat water to support her life in the tree. She had few necessities, and no luxuries.</p>
+
     <p>d. Did Hill's value of life change after her car accident? How?</p>
-    <p>=</p>
+    <p>= Yes, Hill's value of life changed after her car accident. She said the experience was a wake-up call. Before accident her main focus had been work but later on she became clear that value as people is not in their stock portfolios and bank accounts, but it is in the legacies they leave behind.</p>
+
     <p>e. Deforestation causes natural calamities. What evidence do you have in the text to prove this?</p>
-    <p>=</p>
+    <p>= Yes it's true that deforestation causes natural calamities. In the text we can see that the cutting of redwoods destabilized the hillside and caused the mudslide which carried trees, stumps and debris from that hillside down into the town, leaving seven families without homes.</p>
+
     <p>f. How did the logging company try to discourage Hill in the early days of her sit-in ?</p>
-    <p>=</p>
+    <p>= The logging company tried to discourage Hill in the early days of her sit-in by hiring 24-hour security guards to harass her and to ensure her support team couldn't deliver her supplies. She was menaced with a helicopter at a dangerously close range. A neighboring tree was felled, hitting Luna's outer branches and nearly causing Hill to fall. She was verbally abused, threatened with violence, rape and death, kept awake with floodlights, and bugles and air horns were blown through the night.</p>
+
     <p>g. How were the vagaries of nature unwelcoming to Hill?</p>
-    <p>=</p>
+    <p>= The logging company wasn't her only problem. One of her scariest times was a 16-hour, 70-mph windstorm that shredded the tarps that surrounded her, and even ripped huge branches off the tree. When lightning struck nearby during an electrical storm, her hair stood straight up. In this way the vagaries of nature were unwelcoming to Hill.</p>
+
     <p>h. What is the purpose of the author to write a review on Hill's book? Do you think the author stands for ecological sustainability? Give reasons.</p>
-    <p>=</p>
+    <p>= The purpose of the author to write a review on Hill's book is to bring a spotlight to the issue of deforestation. He wants people to learn about the deforestation and its ill effects through his review and make people know about what a person should do to prevent from this should. Yes I think the author stands for ecological sustainability.</p>
 </div>
+
 <div>
     <hr/>
     <h3>Critical thinking</h3>
-    <p> Suppose you are Julia Butterfly Hill. After staying one year in the tree, the government offered you five million dollars and requested you to drop the strike. Write in about 200 words responding them that the money is a mean thing for you in comparison with the woods.</p>
-    <p>=</p>
+    <p className='question'> Suppose you are Julia Butterfly Hill. After staying one year in the tree, the government offered you five million dollars and requested you to drop the strike. Write in about 200 words responding them that the money is a mean thing for you in comparison with the woods.</p>
+    <p>= Dear Representatives,</p>
+    <p>I deeply appreciate your offer, but I must respectfully decline.</p>
+    <p>Living in this tree for the past year has been more than a protest—it has become a spiritual journey and a responsibility I cannot ignore. The redwoods are not just trees; they are ancient beings, protectors of ecosystems, and symbols of life's balance. Their roots hold the earth together, their branches give shelter to countless species, and their very presence reminds us of what true wisdom and endurance look like.</p>
+    <p>Offering me five million dollars to walk away might seem generous, but it reveals how disconnected we have become from what truly matters. Money cannot replace a living tree, a thriving forest, or a stable ecosystem. Once these giants are gone, no amount of wealth can bring them back.</p>
+    <p>My purpose here is not for fame, wealth, or comfort, but to speak on behalf of those who cannot speak—the trees, the animals, and the future generations who will inherit this planet. I am not sitting in this tree because I want something. I am here because I have something to give.</p>
+    <p>And that something—my voice, my time, my dedication—is not for sale.</p>
+    <p>Sincerely,</p>
+    <p>Julia Butterfly Hill</p>
 </div>
 <div>
     <hr/>
     <h3>Writing</h3>
-        <p>A. Write a review of a book/flim which you have read/watched recently.</p>
+        <p className='question'>A. Write a review of a book/flim which you have read/watched recently.</p>
         <p>=</p>
-       <p>B. Your school is going to organize a speech competition on coming Friday. The subject of the speech is "Let's save the trees and protect over environment." Draft a speech using the following prompts.</p>
-      <p>Natural world - plants, elements and animals - billions of living beings and billions of trees - environment - entire air, soil, trees, water - co-existence of all good environment - human begin - greedy/selfish/consumerist- thinking him owner- other things property- urbanization- industrialization- road construction- canal/dam construction- airport construction- loss of trees- control greed/appetite- good environment- quality life- bad environment- bad life.</p>
-      <p>=</p>
+        <hr/>
+       <p className='question'>B. Your school is going to organize a speech competition on coming Friday. The subject of the speech is "Let's save the trees and protect over environment." Draft a speech using the following prompts.</p>
+     <p></p>
 </div>
 <div>
     <hr/>
     <h3>Grammar</h3>
-    <p>B. Someone says something to you which contradicts to what they told you earlier. Match the beginnings of the conversations with the correct endings.</p>
+    <p className='question'>B. Someone says something to you which contradicts to what they told you earlier. Match the beginnings of the conversations with the correct endings.</p>
     <p>a. I'm going to Pokhara on holiday ------ You said you were going business.</p>
     <p>b. He's a lawyer ------ You told me he was a teacher.</p>
     <p>c. She's had a baby girl ------ You said she'd had a boy.</p>
@@ -130,31 +148,33 @@ const Ecologyandenvironment = () => {
     <p>h. He works in Kathmandu ------ You told me his office was in Biratnagar.</p>
 </div>
 <div>
-    <p>C. Change the following sentences into indirect speech.</p>
+    <p className='question'>C. Change the following sentences into indirect speech.</p>
     <p>a. The principal said,"You can phone from my office, Rita."</p>
-    <p>=</p>
+    <p>= The principal told Rita that she could phone from his office.</p>
     <p>b. "You must not neglect your duty," said the teacher to the student.</p>
-    <p>=</p>
+    <p>= The teacher told the student that he must not neglect his duty.</p>
     <p>c. The student said,"Sir, please, grant me a leave for two days."</p>
-    <p>=</p>
+    <p>= The student respectfully requested the sir to grant him a leave for two days.</p>
     <p>d. I said to her,"Go to school or you will be fined."</p>
-    <p>=</p>
+    <p>= I told her to go to school or she would be fined.</p>
     <p>e. The headmaster said,"Don't make any noise, boys."</p>
-    <p>=</p>
+    <p>= The headmaster told the boys not to make any noise.</p>
     <p>f. "Work hard if you want to rise in life," said the old man.</p>
-    <p>=</p>
+    <p>= The old man advised to work hard if one wanted to rise in life.</p>
     <p>g. He said,"Goodbye, my friends!"</p>
-    <p>=</p>
+    <p>= He bade goodbye to his friends.</p>
     <p>h. She said to me,"Have a pleasant journey ahead."</p>
-    <p>=</p>
+    <p>= She wished me a pleasant journey ahead.</p>
     <p>i. "Don't give me the book, please," Sharmila said.</p>
-    <p>=</p>
+    <p>= Sharmila requested not to give her the book.</p>
     <p>j. "Where have you been these days?", she spoke on the telephone.</p>
-    <p>=</p>
+    <p>= She asked on the telephone where I had been those days.</p>
     <p>k. The teacher said,"Have you submitted your assignments, students?"</p>
+    <p>= The teacher asked the students if they had submitted their assignments.</p>
 </div>
+<hr/>
 <div>
-    <p>D. These are the exact words Dinesh said to you yesterday.</p>
+    <p className='question'>D. These are the exact words Dinesh said to you yesterday.</p>
     <p>"I've just got engaged! We're getting married next month. We're going Pokhara for our honeymoon. It's all going to be very expensive. Luckily, my friend is a photographer so he'll take the photos for us. We'll be having the reception in my parents' back garden. My mum is baking the cake for us and my sister's band is playing free for us. I hope you'll come to the wedding."</p>
     <p><strong>Now, you're telling your friend what Dinesh told you. Complete the text.</strong></p>
      <p>He said he <strong>had</strong> just got engaged. He told me that he <strong>was getting married</strong> next month. He told me <strong>they were going</strong> to Pokhara for their honeymoon. He mentioned that it <strong>was going to be</strong> very expensive. He said that his friend <strong>was a photographer</strong> and he <strong>would take</strong> the photos for them. He mentioned that they <strong>would be having</strong> the reception in his parents' garden. He admitted that <strong>his mum was baking the cake for them</strong>. He said his sister's band <strong>was playing free for them</strong>. He said he <strong>hoped</strong> I'd come to the wedding.</p>

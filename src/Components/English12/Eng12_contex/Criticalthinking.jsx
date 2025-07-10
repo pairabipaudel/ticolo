@@ -5,7 +5,7 @@ const Criticalthinking = () => {
   return (
     <div className="container scrollable-content">
       <h3>Working with Words</h3>
-      <p>A. Find the words from the text that match with the following meanings.</p>
+      <p className='question'>A. Find the words from the text that match with the following meanings.</p>
 
       <div className="word-meaning">
         <h4>a. shuffling</h4>
@@ -30,7 +30,7 @@ const Criticalthinking = () => {
 
       <hr />
 
-      <p>B. Consult your teacher and define the following thinking skills.</p>
+      <p className='question'>B. Consult your teacher and define the following thinking skills.</p>
       <div className="word-meaning">
         <h4>a. Convergent Thinking</h4>
         <p>Focusing on finding the single best or correct answer to a clearly defined problem.</p>
@@ -56,7 +56,7 @@ const Criticalthinking = () => {
 
       <hr />
       <h3>Comprehension</h3>
-      <p>Answer the following questions.</p>
+      <p className='question'>Answer the following questions.</p>
 
       <div className="qa">
         <p><strong>a.</strong> Who was Jack? How did he make children laugh?</p>
@@ -104,9 +104,9 @@ const Criticalthinking = () => {
           I believe kindness is more important than always proving we are right. Being kind helps build good relationships and makes the world a better place. Sometimes, winning an argument is less valuable than showing compassion and understanding toward others.
         </p>
       </div>
-
+         <hr/>
       <div className="qa">
-        <p><strong>b.</strong> According to Josh Lanyon, "If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity." Justify this statement with your logic.</p>
+        <p className='question'><strong>b.</strong> According to Josh Lanyon, "If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity." Justify this statement with your logic.</p>
         <p>
           Josh Lanyon said, “If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity.” This means that the most important skill for all people is the ability to think clearly, logically, and without bias.<br /><br />
           Critical objectivity refers to the ability to analyze situations and information carefully, separating facts from emotions or assumptions, and making fair, reasoned judgments. It is closely connected to critical thinking skills such as analysis, interpretation, inference, explanation, and open-mindedness.<br /><br />
@@ -120,7 +120,7 @@ const Criticalthinking = () => {
       <hr />
       <h3>Writing</h3>
       <div className="qa">
-        <p>Write an email to your friend explaining an interesting class you had.</p>
+        <p className='question'>Write an email to your friend explaining an interesting class you had.</p>
         <p>
           From: your.email@example.com<br />
           To: friend.email@example.com<br />
@@ -149,7 +149,7 @@ const Criticalthinking = () => {
 
       <hr />
       <h3>Grammar</h3>
-      <p>Rewrite the following sentences adding appropriate question tags.</p>
+      <p className='question'>Rewrite the following sentences adding appropriate question tags.</p>
       <ul className="question-tags-list">
         <li>Gill does not know Ann, <strong>does he?</strong></li>
         <li>I'm very patient, <strong>aren't I?</strong></li>
@@ -168,7 +168,7 @@ const Criticalthinking = () => {
       </ul>
 
       <hr />
-      <p>Read the following situation. What do you say in these situations? Use question tags.</p>
+      <p className='question'>Read the following situation. What do you say in these situations? Use question tags.</p>
       <ul className="question-tags-list">
         <li>It's going to rain soon, <strong>isn't it?</strong></li>
         <li>Shyam, you have to lend me 100 rupees, <strong>haven't you?</strong></li>

@@ -5,7 +5,7 @@ const Moneyandeconomy = () => {
     <div>
       <div>
         <h3>Working with words</h3>
-        <p>A. Match the given words with their meanings.</p>
+        <p className='question'>A. Match the given words with their meanings.</p>
         <p>a. prominent ------ standing out so as to be seen easily, conspicuous.</p>
         <p>b. vulnerable ------ exposed to the possibility of being attacked / harmed</p>
         <p>c. potentially ------ with the capacity to develop or happen in the future</p>
@@ -15,8 +15,9 @@ const Moneyandeconomy = () => {
         <p>g. enduring ------ strong and unlikely to break or fall</p>
         <p>h. robust ------ the act of examining a problem to discover truth</p>
       </div>
+      <hr/>
        <div>
-         <p>B. There are different abbreviations used in the text. With the help of the internet, find their full forms.</p>
+         <p className='question'>B. There are different abbreviations used in the text. With the help of the internet, find their full forms.</p>
          <p>QR: Quick Response</p>
          <p>ISO: International Organization for Standardization</p>
          <p>IEC:  International Electrotechnical Commission</p>
@@ -27,7 +28,7 @@ const Moneyandeconomy = () => {
        <hr/>
        <div>
         <h3>Comprehension</h3>
-        <p>A. Decide whether these statements are True or False. Write Not Given if you do not find the information.</p>
+        <p className='question'>A. Decide whether these statements are True or False. Write Not Given if you do not find the information.</p>
         <p>a. The system of QR codes was first launched in South Asis. <strong>True</strong></p>
         <p>b. The standards of payments via the QR codes were approved by EMVCo. <strong>True</strong></p>
         <p>c. All sorts of businesses are aided by the QR code payments. <strong>False</strong></p>
@@ -35,8 +36,9 @@ const Moneyandeconomy = () => {
         <p>e. In countries like Nepal, the QR code paying system is a complete fiasco. <strong>False</strong></p>
         <p>f. The QR codes payment service is not applicableto small business. <strong>False</strong></p>
        </div>
+       <hr/>
        <div>
-        <p>B. Answer the following questions.</p>
+        <p className='question'>B. Answer the following questions.</p>
         <p>a. How can one pay with QR codes paying system?</p>
         <p>= With the QR code paying system, one can make payments in two main ways during face-to-face transactions. In the first method, the user opens a digital wallet or banking app on their smartphone, scans the merchant's displayed QR code, enters the amount, and confirms the payment. In the second method, the user shows their QR code to the merchant, who scans it using a compatible device to receive the payment.</p>
         <p>b. How did Tencent and Alibaba companies utilise the QR code services at the beginning?</p>
@@ -57,69 +59,71 @@ const Moneyandeconomy = () => {
        <div>
         <hr/>
         <h3>Critical thinking</h3>
-        <p>a. Some business houses, shops and department stores in city areas have started adopt QR code payment systems in Nepal, too. What should be done to make more accessible? Discuss.</p>
+        <p className='question'>a. Some business houses, shops and department stores in city areas have started adopt QR code payment systems in Nepal, too. What should be done to make more accessible? Discuss.</p>
         <p>= To make QR code payment systems more accessible in Nepal, several steps need to be taken. Although businesses in urban areas have started adopting QR codes, many people, especially in rural regions, still lack awareness and access.
-
+</p><p>
 First, there should be widespread education and awareness campaigns to explain the benefits and usage of QR payments. People need to understand how QR codes work and how they ensure secure, contactless transactions.
-
+</p><p>
 Second, better digital infrastructure is essential. Free or affordable internet access in remote areas can help bridge the digital divide. Training programs and community outreach can teach small vendors and rural populations how to use mobile banking and digital wallets.
-
+</p><p>
 Third, banks, payment service providers (such as Fonepay, Khalti, IMEPay), and government institutions must work together to create a unified and user-friendly system. Interoperability among service providers will allow users to pay anywhere, regardless of the app they use.
-
+</p><p>
 Finally, incentives for businesses to adopt QR payment systems, such as discounts, low setup costs, or government support, can encourage faster adoption.
-
+</p><p>
 With better infrastructure, education, and collaboration, QR code payments can become a widely accepted and secure method across all parts of Nepal.</p>
-        <p>b. The payments landscape in shifting gears from cash to digital mode. Digital payment brings ease and convenience to the consumer. Is it possible to apply such cashless methods in payments in Nepal?Discuss.</p>
+<hr/>
+        <p className='question'>b. The payments landscape in shifting gears from cash to digital mode. Digital payment brings ease and convenience to the consumer. Is it possible to apply such cashless methods in payments in Nepal?Discuss.</p>
         <p>=Yes, it is possible to apply cashless payment methods in Nepal, but the journey toward a fully digital payment system requires addressing several challenges.
-
+</p><p>
 Nepal is gradually shifting from a cash-based economy to a digital one. With increasing internet penetration, now covering over 90% of the population, and rising smartphone usage, there is a strong foundation for digital payments. Urban areas are already experiencing this shift as people prefer using digital wallets like eSewa, Khalti, and banking apps for utility bills, school fees, shopping, and stock investments. Digital payment offers ease, speed, and convenience, helping people avoid long queues and physical visits.
-
+</p><p>
 However, several obstacles still hinder nationwide adoption. In rural areas, limited internet access, lack of digital literacy, and resistance to changing traditional habits are major challenges. Infrastructure development, especially in remote regions, is crucial to ensure stable internet and device accessibility.
-
+</p><p>
 Security is another concern. While digital payments are generally secure, incidents of hacking globally have raised fear among users. Therefore, ensuring robust cybersecurity and educating users about safe practices are essential.
-
+</p><p>
 To overcome these challenges, coordinated efforts are needed. The government, Nepal Rastra Bank, financial institutions, and digital service providers must collaborate to improve infrastructure, run awareness campaigns, and promote interoperability among platforms. Training programs for small vendors and support for onboarding processes will also help more people and businesses join the digital system.
-
+</p><p>
 In conclusion, while Nepal faces hurdles, the shift to a cashless economy is both possible and beneficial. With proper planning, investment, and education, digital payment systems can become a reliable and widely accepted mode across the country.</p>
        </div>
        <div>
         <hr/>
         <h3>Writing</h3>
-        <p>A. Punctuate this paragraph with appropriate punctuation marks.</p>
+        <p className='question'>A. Punctuate this paragraph with appropriate punctuation marks.</p>
         <p>it was a cold freezing day it had been snowing all day in new york mr tim cooked and i went outside to play in the snow we had no seen much snow since we went to skiing in sweden last year mrs smith was right because she had said that we'd see snow the next day we had really a wonderful time there didn't we</p>
         <p>= It was a cold, freezing day. It had been snowing all day in New York. Mr. Tim Cook and I went outside to play in the snow. We had not seen much snow since we went skiing in Sweden last year. Mrs. Smith was right because she had said that we'd see snow the next day. We had a really wonderful time there, didn't we?</p>
        </div>
+       <hr/>
        <div>
-        <p>B. Write a news article about digital payment systems in Nepal.</p>
+        <p className='question'>B. Write a news article about digital payment systems in Nepal.</p>
         <p>=Digital Payment Systems in Nepal: A Growing Shift Toward a Cashless Economy
 Digital payment systems in Nepal are rapidly evolving, especially in the wake of the COVID-19 pandemic, which pushed many to seek safer, contactless transaction methods. What once felt like a distant dream is now a growing reality as Nepal steps closer to becoming a digitally empowered economy.
 </p> <p>
 The Rise of Digital Payments
 Digital payment refers to electronic transactions made through apps, websites, or QR codes instead of cash. Its rising popularity can be attributed to convenience and ease of use. With just a few taps on a smartphone, users can pay for utilities, book tickets, buy groceries, and transfer funds—no more standing in long queues.
-</p>
-Leading platforms like eSewa, Khalti, IME Pay, and Connect IPS have emerged as major players in Nepal's digital payment ecosystem. These services offer a wide range of features—from mobile top-ups and school fee payments to government transactions such as Loksewa and passport fees through Connect IPS.
+</p><p>
+Leading platforms like eSewa, Khalti, IME Pay, and Connect IPS have emerged as major players in Nepal's digital payment ecosystem. These services offer a wide range of features—from mobile top-ups and school fee payments to government transactions such as Loksewa and passport fees through Connect IPS.</p>
 <p>
 Adoption in Daily Life
 Digital payments are now widely accepted in supermarkets, retail stores, restaurants, hospitals, hotels, and educational institutions. Local vendors and even vegetable markets are gradually adopting QR code-based payment systems, making cashless transactions more common across all economic levels.
-<p/>
+<p/><p>
 According to a report by Nepal Rastra Bank, there has been a consistent rise in digital transactions. Between mid-December 2020 and mid-January 2021 alone, over 372,000 digital transactions were recorded, amounting to Rs 1.245 billion. The following month, transactions rose to 535,790, with a total of Rs 1.712 billion, showing strong growth momentum.
-
+</p><p>
 Promotions and Awareness
 Payment service operators (PSOs) like eSewa and Khalti regularly launch promotional campaigns to attract new users. From cashback offers to discount coupons, these campaigns aim to raise awareness about the convenience and benefits of digital payment systems. However, lack of digital literacy, especially in rural areas, remains a significant barrier.
-
-Challenges Ahead
+</p><p>
+Challenges Ahead</p><p>
 While the progress is promising, several challenges need attention. A major hurdle is interoperability—users often cannot send or receive money between different digital wallets. Additionally, limited internet access in remote regions and a general lack of trust or understanding of digital platforms hinder full-scale adoption.
-
-The Road Ahead
+</p><p>
+The Road Ahead</p><p>
 To create a stable and inclusive digital economy, collaboration is key. The government, Nepal Rastra Bank, financial institutions, and PSOs must work together to improve infrastructure, simplify systems, and promote digital literacy. Introducing incentives for small businesses and ensuring secure, user-friendly services can help accelerate this transition.
-
-Conclusion:
-Digital payment systems in Nepal are no longer just a modern option—they are becoming a necessity. With coordinated efforts and a focus on education, security, and accessibility, Nepal is well on its way to embracing a cashless future.
+</p><p>
+Conclusion:</p><p>
+Digital payment systems in Nepal are no longer just a modern option—they are becoming a necessity. With coordinated efforts and a focus on education, security, and accessibility, Nepal is well on its way to embracing a cashless future.</p>
 </p>
        </div>
        <div>
         <hr/>
-        <p>A. Look at the following questions and say what type of questions they are.</p>
+        <p className='question'>A. Look at the following questions and say what type of questions they are.</p>
         <p>a. Do you like this country?</p>
         <p>= Yes/No Question</p>
         <p>b. Where is she from?</p>
@@ -137,8 +141,9 @@ Digital payment systems in Nepal are no longer just a modern option—they are b
         <p>h. Do you know how tall they are?</p>
         <p>= Indirect Question</p>
        </div>
+       <hr/>
        <div>
-        <p>B. Choose the correct words from the box to complete the sentences.</p>
+        <p className='question'>B. Choose the correct words from the box to complete the sentences.</p>
         <p>a. <strong>Is</strong> your friend a scientist?- No,he's an artist.</p>
         <p>b. <strong>Does</strong> Naresh live in Kathmandu?- No, he lives in Pokhara.</p>
         <p>c. When <strong>did</strong> you get home?- I got home yesterday.
@@ -149,8 +154,9 @@ Digital payment systems in Nepal are no longer just a modern option—they are b
         <p>g. <strong>Can</strong> you speak Chinese?- Just a little.</p>
         <p>h. <strong>Where </strong>did you grow up?- I grew up in Okhaldhunga.</p>
        </div>
+       <hr/>
        <div>
-        <p>C. Make wh-questions so that the words in bold become the answer.</p>
+        <p className='question'>C. Make wh-questions so that the words in bold become the answer.</p>
         <p>a. Romeo loves<strong> Juliet.</strong></p>
         <p>= Who does Romeo love?</p>
         <p>b. My mother made <strong>a delicious bread</strong> yesterday.</p>
@@ -172,8 +178,9 @@ Digital payment systems in Nepal are no longer just a modern option—they are b
         <p>i. They have been waiting for <strong>three years.</strong></p>
         <p>= How long have they been waiting?</p>
        </div>
+       <hr/>
        <div>
-        <p>D. Change these indirect questions into direct ones.</p>
+        <p className='question'>D. Change these indirect questions into direct ones.</p>
         <p>a. Could you tell me where the Market Street is?</p>
         <p>= Where is Market Street? </p>
         <p>b. I'm longing to know what time the bank opens.</p>
