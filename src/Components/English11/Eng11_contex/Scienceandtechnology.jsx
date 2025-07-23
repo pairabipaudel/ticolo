@@ -110,17 +110,27 @@ So, the internet can either help or harm our thinking. It depends on how we use 
         <h3>Grammar</h3>
         <p className='question'>A. Fill in the gaps with suitable articles where necessary.</p>
         <p>a. Is he working as <strong>a</strong> university professor?</p>
+        <br></br>
         <p>b. My younger sister watches _ television a lot.</p>
+        <br/>
         <p>c. A: What did you get for your birthday?</p>
         <p>B: I got <strong>a</strong> lot of good presents.</p>
+        <br/>
         <p>d. I'm going to <strong>the</strong> Dominican Republic for my winter vacation.</p>
+        <br/>
         <p>e. I have to go to <strong>a</strong> bank today to deposit some money.</p>
+        <br/>
+
         <p>f. Durga was injured in the accident and was taken to <strong>the</strong> nearest hospital. </p>
+        <br/>
         <p>g. Every parent should visit <strong>the</strong> school to meet the teachers.</p>
+        <br/>
         <p>h. Who is <strong>the</strong> woman in this photograph?</p>
+        <br/>
         <p>i. There is <strong>a</strong> piano in the corner of the room.</p>
+        <br/>
         <p>j. A: Do you think he is lying?</p>
-        <p>B: No, he's the kind of _ guy that always tells the truth. </p>
+        <p>B: No, he's the kind of a guy that always tells the truth. </p>
       </div>
     </div>
   )

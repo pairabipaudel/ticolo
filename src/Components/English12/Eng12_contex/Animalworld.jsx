@@ -6,33 +6,48 @@ const Animalworld = () => {
       <div>
         <h3>Working with words</h3>
         <p className='question'>A. Read the text and tick the best alternative to fill in the gaps.</p>
+        <br/>
         <p>a. Persons who are related to you and who live after you, such as your child or grandchild are called <strong>descendants.</strong>
 </p>
+<br/>
 <p>b.  <strong>'Twirl'</strong> means to turn or spin around and around quickly</p>
+<br/>
 <p>c. <strong>Glycoproteins</strong> are proteins which contain oligosaccharide chains (glycans) attached to amino acid side-chains</p>
+<br/>
 <p>d. <strong>Lectins</strong> are carbohydrate-binding proteins that are highly specific for sugar groups that are part of other molecules and so cause agglutination of particular cells.</p>
+<br/>
 <p>e. <strong>Polyps</strong> are abnormal tissue growths that most often look like small, flat bumps or tiny mushroom like stalks found in the phylum Cnidaria and the medusa</p>
+<br/>
 <p>f. <strong>Predation</strong> is a biological interaction where one organism, the predator, kills and eats another organism, its prey.</p>
+<br/>
 <p>g. <strong>Anemone</strong> is a genus of flowering plants in the buttercup family.</p>
+<br/>
 <p>h. A/An <strong>finicky</strong> person is extremely or excessively particular, exacting, or meticulous in taste or standards.</p>
+<br/>
 <p>i. <strong>Nudibranch</strong> is a group of soft-bodied, marine gastropod molluscs which shed their shells after their larval stage.</p>
+<br/>
 <p>j. A <strong>medusa</strong> is a free-swimming sexual form of a coelenterate such as a jellyfish, typically having an umbrella-shaped body with stinging tentacles around the edge.</p>
       </div>
       <hr/>
       <div>
        <p className='question'>B. Look up a dictionary and write the meanings of the following words then use them in your own sentences.</p>
-
+<br/>
 <p><strong>arthropod:</strong> An invertebrate animal of the large phylum Arthropoda, such as an insect, spider, or crustacean, which has an exoskeleton, a segmented body, and jointed appendages.</p>
 <p>Sentence: The scientist collected several types of <strong>arthropods</strong>, including ants and beetles, for his research project.</p>
+<br/>
 <p><strong>gastropod:</strong> A type of mollusk that typically has a single, often spiral shell and moves using a muscular foot; examples include snails and slugs.</p>
 <p>Sentence: The garden was filled with <strong>gastropods</strong> like snails, slowly crawling over the wet leaves after the rain.</p>
+<br/>
 <p> <strong>bio mass:</strong>  The total amount of living things, like plants and animals, in an area.</p>
 <p>Sentence: Farmers use plant <strong>biomass</strong> to make natural fuel and compost.</p>
 <p></p>
+<br/>
 <p><strong>calcification:</strong> The process by which something becomes hard because of calcium build-up.</p>
 <p>Sentence:  Calcification in bones helps them become strong and hard.</p>
 <p><strong>metamorphosis:</strong> A big change in the body or shape of an animal as it grows, like when a caterpillar becomes a butterfly.</p>
+
 <p>Sentence: The butterfly goes through <strong>metamorphosis</strong> during its life cycle.</p>
+<br/>
 <p><strong>sturgeon: </strong>A large fish found in rivers and lakes, known for its eggs, which are used to make caviar.</p>
 <p>Sentence: The <strong>sturgeon</strong> is a rare fish that can live for many years and grow very big.</p>
       </div>
@@ -41,30 +56,31 @@ const Animalworld = () => {
         <h3>Comprehension</h3>
         <div>
         <p className='question'>Answer the following questions.</p>
-        <p>a. What are the indicators of the fact that we are very self-conscious about ourselves these days?</p>
+        <p className='question'>a. What are the indicators of the fact that we are very self-conscious about ourselves these days?</p>
         <p>= The indicators that show we are very self-conscious about ourselves these days include self-realization, self-help, self-development, self-awareness, self-respect, and self-enlightenment.</p>
 
-        <p>b. How have we celebrated the fact that we have our individual identity?</p>
+        <p className='question'>b. How have we celebrated the fact that we have our individual identity?</p>
         <p>= The act of naming ourselves is a way in which we have celebrated and affirmed our individual identity.</p>
 
-        <p>c. Are we, human beings, really unique? Why/Why not?</p>
+        <p className='question'>c. Are we, human beings, really unique? Why/Why not?</p>
         <p>= No, we human beings aren't truly unique. This is because uniqueness is such a common trait among living beings that there is nothing particularly special about it. A phenomenon cannot be both unique and universal at the same time.</p>
 
-        <p>d. How do fish recognize each other?</p>
+        <p className='question'>d. How do fish recognize each other?</p>
         <p>= Fish recognize one another by smell.</p>
 
-        <p>e. What is the function of individuality?</p>
+        <p className='question'>e. What is the function of individuality?</p>
         <p>= The function of individuality is to ensure self-preservation and the maintenance of distinct identity.</p>
 
-        <p>f. What does the mix-up of two selves tell us about our identity?</p>
+        <p className='question'>f. What does the mix-up of two selves tell us about our identity?</p>
         <p>= The mingling of two selves shows that unity and cooperation between individuals are essential for survival and existence.</p>
 
-        <p>g. What does the author illustrate with the tale of the nudibranch and the medusa?</p>
+        <p className='question'>g. What does the author illustrate with the tale of the nudibranch and the medusa?</p>
         <p>= The author illustrates the importance of coexistence, cooperation, helpfulness, collaboration, and togetherness through the tale of the nudibranch and the medusa. The story also highlights the significance of friendship and our mutual dependence for survival and existence.</p>
 
-        <p>h. Why is the author disturbed by the thought of the creatures like the nudibranch and medusa?</p>
+        <p className='question'>h. Why is the author disturbed by the thought of the creatures like the nudibranch and medusa?</p>
         <p>= Thinking about creatures like the nudibranch and medusa makes the author feel strange and brings confusing, dream-like ideas to his mind.</p>
-        <p>i. What does the writer mean by “they remind me of the whole earth at once?”</p>
+
+        <p className='question'>i. What does the writer mean by “they remind me of the whole earth at once?”</p>
         <p>= By saying “they remind me of the whole earth at once,” the writer means that the relationship between living creatures and non-living things in the world is very complex and strange. The more one tries to understand it, the more confused they become.</p>
       </div>
       <div>
@@ -125,26 +141,36 @@ As Nepal moves forward, the challenge is to balance personal freedom with our de
         <hr/>
         <h3>Grammar</h3>
         <p className='question'>A. Make passive sentences from the following information as in the example.</p>
+        <br/>
         <p>a. volleyball/every/country/play</p>
         <p>= Volleyball is played in every country.</p>
+        <br/>
          <p>b. spaghetti/boiling water/cook</p>
           <p>= Spaghetti is cooked in boiling water.</p>
+          <br/>
            <p>c. each lesson/an exercise/follow</p>
             <p>= An exercise follows each lesson.</p>
+            <br/>
              <p>d. taxes/the price/include</p>
               <p>= Taxes are included in the price.</p>
+              <br/>
                <p>e. extensive information/the internet/find</p>
                 <p>= Extensive information can be found on the internet.</p>
+                <br/>
                  <p>f. our order/the waiter/took</p>
                   <p>= Our order was taken by the waiter.</p>
+                  <br/>
                    <p>g. the schedule/the participants/will distribute</p>
                     <p>= The schedule will be distributed by the participants.</p>
+                  <br/>
                      <p>h. the police/footprint/found</p>
                       <p>= A footprint was found by the police.</p>
-                       <p>i. the children/the sandcastles/built</p>
-                        <p>= The sandcastles were built by the children.</p>
-                         <p>j. the father/the window/not going to open</p>
-                         <p>= The window is not going to be opened by the father.</p>
+                      <br/>
+    <p>i. the children/the sandcastles/built</p>
+    <p>= The sandcastles were built by the children.</p>
+                        <br/>
+    <p>j. the father/the window/not going to open</p>
+    <p>= The window is not going to be opened by the father.</p>
       </div>
       <hr/> 
       <div>

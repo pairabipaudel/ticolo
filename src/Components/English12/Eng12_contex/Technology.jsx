@@ -19,39 +19,38 @@ const Technology = () => {
       </div>
         <hr/>
       <div>
-      <p className='questioni'>B. Add three more words that are formed with the following prefixes.</p>
-      <h3>a. hyper- hyperloop,</h3>
-      <p>hypertension, hyperactive, hyperlink </p>
-      <h3>b. ultra- ultrahigh,</h3>
-      <p>ultrasound, ultraviolet, ultrafast</p>
-      <h3>c. up- uphill,</h3>
-      <p>updown, update, upthrust</p>
-      <h3>d. over- overcoming,</h3>
-      <p>oversmart, overdose, overconfident</p>
-      <h3>e. multi- multibillion,</h3>
-      <p>multitask, multipurpose, multinational</p>
+      <p className='question'>B. Add three more words that are formed with the following prefixes.</p>
+      <p>a. hyper- hyperloop,hypertension, hyperactive, hyperlink </p>
+      <br/>
+      <p>b. ultra- ultrahigh, ultrasound, ultraviolet, ultrafast</p>
+      <p>c. up- uphill,
+      updown, update, upthrust</p>
+      <p>d. over- overcoming,
+      oversmart, overdose, overconfident</p>
+      <p>e. multi- multibillion,
+      multitask, multipurpose, multinational</p>
       </div>
       <hr/>
       <div>
       <h3>Comprehension</h3>
       <p className='question'>Answer the following questions.</p>
-      <p>a. What is a hyperloop? How does it work?</p>
+      <p className='question'>a. What is a hyperloop? How does it work?</p>
       <p>= A hyperloop is a high-speed transport system where pods travel inside low-pressure tubes, reducing air resistance and friction. This lets them reach speeds up to 760 mph, making travel very fast and efficient.</p>
-      <p>b. How is hyperloop more beneficial than the traditional trains?</p>
+      <p className='question'>b. How is hyperloop more beneficial than the traditional trains?</p>
       <p>= Hyperloop is more beneficial than traditional trains because it is faster, cheaper, and more energy-efficient. Unlike traditional trains, hyperloop pods travel in low-pressure tubes that reduce friction, allowing higher speeds. It also uses less energy since the track doesn't constantly supply electricity.</p>
-      <p>c. Does hyperloop have a successful history? How?</p>
+      <p className='question'>c. Does hyperloop have a successful history? How?</p>
       <p>= No, the hyperloop does not have a successful history yet. The original idea was based on using wagons and pneumatic tubes to transport mail and parcels between buildings, which was limited in scope. The modern hyperloop concept is still in development and has not yet been fully tested or widely used.</p>
-      <p>d. Write the contributions of Robert Goddard and Elon Musk for the development of hyperloop.</p>
+      <p className='question'>d. Write the contributions of Robert Goddard and Elon Musk for the development of hyperloop.</p>
       <p>= Robert Goddard made an important early contribution to the development of the hyperloop with his "vactrain" concept in the early twentieth century. This idea involved using vacuum tubes to reduce air resistance and enable very high-speed travel, laying the foundation for future high-speed transportation concepts.
 </p><p>
 Decades later, Elon Musk, founder of SpaceX and Tesla, revived and popularized the hyperloop idea as a new mode of ultra-fast intercity transport. In August 2013, he released the "Hyperloop Alpha" paper, outlining a system of travel pods moving through steel tubes at high speeds. Musk envisioned the hyperloop as a “fifth mode” of transportation, alongside cars, planes, boats, and trains, reigniting interest and innovation in this advanced travel concept.</p>
-      <p>e. What relation does speed have with air resistance? Explain</p>
+      <p className='question'>e. What relation does speed have with air resistance? Explain</p>
       <p>= Speed and air resistance are connected because air resistance slows down moving objects. When there is more air resistance, the object moves slower. When there is less air resistance, the object can move faster. The Hyperloop travels through tubes with very little air, so there is almost no air resistance, allowing it to move at very high speeds.</p>
-      <p>f. What are hyperloop capsule compared with? How are they similar?</p>
+      <p className='question'>f. What are hyperloop capsule compared with? How are they similar?</p>
       <p>= Hyperloop capsules are compared with a Boeing 747 because both accelerate at similar rates. They are similar in that they both experience the same level of G-forces, making the ride comfortable for passengers.</p>
-      <p>g. How do the passengers feel while travelling via hyperloop? What will be done to make it luxurious?</p>
+      <p className='question'>g. How do the passengers feel while travelling via hyperloop? What will be done to make it luxurious?</p>
       <p>= Passengers traveling via hyperloop feel similar to riding in an elevator or a passenger plane. To make the journey luxurious, the cabin will have beautiful views and each passenger will have access to their own entertainment system, ensuring a comfortable and enjoyable trip.</p>
-      <p>h. Why does the writer doubt about the success of hyperloop? What does the success depend on?</p>
+      <p className='question'>h. Why does the writer doubt about the success of hyperloop? What does the success depend on?</p>
       <p>= The writer doubts the success of the hyperloop because it requires a huge multibillion-dollar investment, and the projects are still in the early pilot and experimental stages. The success of the hyperloop depends on factors like the routes it serves, the stops it makes, and how strong the local economy is. Additionally, previous similar efforts by Nikola Tesla and Elon Musk were stopped due to a lack of support from government authorities.</p>
       </div>
       <hr/>
@@ -149,8 +148,10 @@ Nepal Airlines</p>
       <div>
         <hr/>
         <p className='question'>C. This passage contains the agreement errors. Correct the subjects or verbs that don't agree with each other. Remember to use present tense in your corrections.</p>
-        <p>Within the state of Arizona, Rob, along with his family, move frequently, from city to city. After his arrival, one of his first tasks are to find an apartment close to work as he do not have a car. Usually, there is many different places to choose from, and he consider cost, location, and luxury. If one apartment has a washing machine and dryer and cost four hundred dollars a month, he prefer to rent it over another apartment which have significantly less rent located two blocks from a Laundromat. Rob's family never wants to live in an apartment on the thirteenth floor since all of them fears heights. He also try to choose an apartment with landlords recommended by former tenants. Everybody know that it is important to find a responsible landlord. Rob and hus wife loves to cook together when both is free, so he need a spacious, well-equipped kitchen. Rob often also look for a place with an air conditioner because there is so many scorching days and nights in Arizona. Whenever Rob find a new apartment, all of his concerns disappears. He feel relieved and call his mother. Someone understands!</p>
-        <strong>= Within the state of Arizona, Rob, along with his family, moves frequently, from city to city. After his arrival, one of his first tasks is to find an apartment close to work as he does not have a car. Usually, there are many different places to choose from, and he considers cost, location, and luxury. If one apartment has a washing machine and dryer and costs four hundred dollars a month, he prefers to rent it over another apartment which has significantly less rent located two blocks from a Laundromat. Rob's family never wants to live in an apartment on the thirteenth floor since all of them fear heights. He also tries to choose an apartment with landlords recommended by former tenants. Everybody knows that it is important to find a responsible landlord. Rob and his wife love to cook together when both are free, so he needs a spacious, well-equipped kitchen. Rob often also looks for a place with an air conditioner because there are so many scorching days and nights in Arizona. Whenever Rob finds a new apartment, all of his concerns disappear. He feels relieved and calls his mother. Someone understands!</strong>
+        <br/>
+        <p className='question'>Within the state of Arizona, Rob, along with his family, move frequently, from city to city. After his arrival, one of his first tasks are to find an apartment close to work as he do not have a car. Usually, there is many different places to choose from, and he consider cost, location, and luxury. If one apartment has a washing machine and dryer and cost four hundred dollars a month, he prefer to rent it over another apartment which have significantly less rent located two blocks from a Laundromat. Rob's family never wants to live in an apartment on the thirteenth floor since all of them fears heights. He also try to choose an apartment with landlords recommended by former tenants. Everybody know that it is important to find a responsible landlord. Rob and hus wife loves to cook together when both is free, so he need a spacious, well-equipped kitchen. Rob often also look for a place with an air conditioner because there is so many scorching days and nights in Arizona. Whenever Rob find a new apartment, all of his concerns disappears. He feel relieved and call his mother. Someone understands!</p>
+        <br/>
+        <p>= Within the state of Arizona, Rob, along with his family, moves frequently, from city to city. After his arrival, one of his first tasks is to find an apartment close to work as he does not have a car. Usually, there are many different places to choose from, and he considers cost, location, and luxury. If one apartment has a washing machine and dryer and costs four hundred dollars a month, he prefers to rent it over another apartment which has significantly less rent located two blocks from a Laundromat. Rob's family never wants to live in an apartment on the thirteenth floor since all of them fear heights. He also tries to choose an apartment with landlords recommended by former tenants. Everybody knows that it is important to find a responsible landlord. Rob and his wife love to cook together when both are free, so he needs a spacious, well-equipped kitchen. Rob often also looks for a place with an air conditioner because there are so many scorching days and nights in Arizona. Whenever Rob finds a new apartment, all of his concerns disappear. He feels relieved and calls his mother. Someone understands!</p>
       </div>
     </div>
   )

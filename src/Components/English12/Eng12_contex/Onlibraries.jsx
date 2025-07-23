@@ -15,21 +15,21 @@ const Onlibraries = () => {
         <h3>Understanding the text</h3>
         <p className='question'>a. Where could the author be found when he was late for lunch or dinner?</p>
         <p>The author, Oliver Sacks, could be found in the oak-paneled library of his house, completely absorbed in reading a book whenever he was late for lunch or dinner.</p>
-        <p>b. What are his first memories?</p>
+        <p className='question'>b. What are his first memories?</p>
         <p>= The author's first memories are of the large and beautiful oak-paneled library and the books in it. Since his parents, especially his mother, loved books, he was introduced to reading and the library from a very young age.</p>
-        <p>c. Why did he dislike school?</p>
+        <p className='question'>c. Why did he dislike school?</p>
         <p>= He disliked school because he didn't like following teachers' instructions and passive learning. He preferred self-learning and exploring books freely in the library, where he could choose what interested him and gain knowledge on his own.</p>
-        <p>d. What did he feel about at the library?</p>
+        <p className='question'>d. What did he feel about at the library?</p>
         <p>= He felt free in the library because he could choose any book that interested him from thousands of books. The quiet and comfortable atmosphere allowed him to explore and enjoy reading. He also appreciated the silent companionship of other readers who shared the same love for books.</p>
-        <p>e. Why was he so biased about sciences especially astronomy and chemistry?</p>
+        <p className='question'>e. Why was he so biased about sciences especially astronomy and chemistry?</p>
         <p>= He was biased about science especially astronomy and chemistry because of the two reasons - The first reason was that all the children used to dream of being astronauts and explore the space at that time. So he must have wished to know about it. The second reason was that he got older and he only needed those books which would support his studies.=To read all the books in the library is not possible and his study of interest was astronomy and chemistry. So, the author was biased about sciences especially astronomy and chemistry. =He was so biased about sciences especially astronomy and chemistry because of his growing interest in science.</p>
-        <p>f. Why did he become so fascinated by Hook?</p>
+        <p className='question'>f. Why did he become so fascinated by Hook?</p>
         <p>= He became fascinated by Theodore Hook because Hook was admired in the 19th century for his wit and genius in theatrical and musical improvisation. Hook was famous for composing over 500 operas spontaneously, which amazed the author and sparked his interest.</p>
-        <p>g. Describe library at the Queen's College.</p>
+        <p className='question'>g. Describe library at the Queen's College.</p>
         <p>= The Queen's College is part of the University of Oxford, England. Its magnificent building, designed like a palace, was created by the famous architect Christopher Wren. Beneath the college are large underground rooms that serve as the library. The library has many bookshelves and heating pipes along the walls and corners. It features a classical design and houses original prints and editions of important works, ranging from Gesner to Darwin.</p>
-        <p>h. Why did the students ignore the bookshelves in the 1990s?</p>
+        <p className='question'>h. Why did the students ignore the bookshelves in the 1990s?</p>
         <p>= In the 1990s, students ignored the bookshelves because they gained access to digitalized books through computers. With the rise of the internet and computerized resources, students found it easier and more convenient to read books electronically rather than visiting the library shelves.</p>
-        <p>i. Why was he horrified when he visited the library a couple of months ago?</p>
+        <p className='question'>i. Why was he horrified when he visited the library a couple of months ago?</p>
         <p>= He was horrified when he visited the library a couple of months ago because most of the books had been removed from the shelves and replaced by digital versions. The once full shelves were now nearly empty, and many physical books had been thrown out. Since he didn't know how to use computers well, he felt deeply saddened by the loss of centuries of knowledge stored in those books.</p>
       </div>
       <div>
@@ -44,7 +44,7 @@ Thus, the phrase shows his preference for independent, active learning over pass
       </div>
       <hr/>
       <div>
-        <p>b. A proverb says, “Nothing is pleasanter than exploring a library.” Does this proverb apply in the essay? Explain.</p>
+        <p className='question'>b. A proverb says, “Nothing is pleasanter than exploring a library.” Does this proverb apply in the essay? Explain.</p>
         <p>Yes, the proverb “Nothing is pleasanter than exploring a library” perfectly applies to the essay On Libraries by Oliver Sacks.
 </p><p>
 In the essay, Sacks beautifully describes how libraries shaped his life. From an early age, his favorite place was the oak-paneled library at home, where he would often get lost in books, even forgetting to eat. He preferred the freedom and joy of discovering books on his own rather than passively listening in school. He didn't enjoy classroom learning but found deep satisfaction in roaming through library shelves, choosing books of interest, and immersing himself in reading.
@@ -55,7 +55,7 @@ Thus, the proverb truly reflects the essence of the essay.</p>
         </div>
         <hr/>
         <div>
-            <p>c. Are there any other services that you would like to see added to the library?</p>
+            <p className='question'>c. Are there any other services that you would like to see added to the library?</p>
             <p>= Yes, I would like to see some additional services added to libraries. For example, separate reading rooms for different age groups such as children, adults, and senior citizens would help readers find books that suit their interests and age. Children might enjoy stories and comics, adults might prefer topics like environment and culture, while seniors might like books on politics, philosophy, or ethics.
 </p><p>
 Also, installing surveillance cameras would help protect books from damage or theft, ensuring that all readers can enjoy the materials safely. Comfortable furniture is important too because sitting for long hours can be tiring, so having a small garden or relaxing space nearby would help readers refresh themselves.

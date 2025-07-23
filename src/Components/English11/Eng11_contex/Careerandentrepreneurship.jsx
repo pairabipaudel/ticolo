@@ -5,7 +5,7 @@ const Careerandentrepreneurship = () => {
     <div>
       <div>
         <h3>Ways with words</h3>
-        <p>A. Find the words from the text which mean the following. The first letter has been given.</p>
+        <p className='question'>A. Find the words from the text which mean the following. The first letter has been given.</p>
         <p>a. making you feel physically relaxed; pleasant to wear, sit on, etc. <strong>comfortable</strong></p>
         <p>b. having a degree from the university <strong>graduated</strong></p>
         <p>c. without being connected with or influenced by something or by each other <strong>independently</strong></p>
@@ -71,6 +71,7 @@ Therefore, I believe that without a culture of innovation, it will be very diffi
         <p>= An entrepreneur is a person who starts and runs a business, taking financial risks in hopes of making a profit. Entrepreneurs are innovative pioneers who identify opportunities and create new markets both locally and globally. Being an entrepreneur offers many advantages such as the freedom to be your own boss, the potential for unlimited income, the chance to work on your own ideas, personal satisfaction from building something new, and the ability to create jobs for others. However, becoming an entrepreneur requires more than just a creative idea. Successful entrepreneurs share several key qualities that help them overcome challenges and achieve their goals. Vision, the ability to see potential success, and careful planning are essential to avoid unforeseen problems. Perseverance and self-discipline help entrepreneurs stay motivated and focused even during difficult times. Good time management and knowing when to delegate tasks boost efficiency and growth. Leadership skills and confidence earn respect from others while comfort with risk and uncertainty is necessary because entrepreneurship involves ups and downs. Overall, qualities such as vision, planning, perseverance, discipline, time management, confidence, and risk taking are crucial for anyone who wants to succeed as an entrepreneur.</p>
       </div>
       <hr/>
+
        <div>
         <h3>Grammar</h3>
         <p className='question'>Use the correct tense of the verbs in brackets.</p>

@@ -112,8 +112,9 @@ const App = () => {
   return (
     <Router>
       <Navbar />
+      
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/ticolo" element={<HomePage />} />
         <Route path="/nep12" element={<Nepali12 />} />
         <Route path="/nep11" element={<Nepali11 />} />
         <Route path="/eng12" element={<English12 />} />

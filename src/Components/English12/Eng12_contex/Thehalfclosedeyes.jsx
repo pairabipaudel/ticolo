@@ -13,26 +13,26 @@ const Thehalfclosedeyes = () => {
       <div>
         <hr/>
         <h3 className='question'>Understanding the text</h3>
-        <p>Answer the following questions.</p>
-        <p>a. How does the tourist describe his initial impression of the Kathmandu valley?</p>
+        <p className='question'>Answer the following questions.</p>
+        <p className='question'>a. How does the tourist describe his initial impression of the Kathmandu valley?</p>
         <p>= The tourist describes his initial impression of the Kathmandu Valley as a beautiful and serene place, with green geometric fields, earthen houses painted in red, yellow, and white, and the fragrant aroma of soil. He is captivated by the peaceful atmosphere and the natural beauty of the mountains that surround the valley.</p>
-        <p>b. According to the tourist, why is the West indebted to the East?</p>
+        <p className='question'>b. According to the tourist, why is the West indebted to the East?</p>
         <p>= According to the tourist, the West is indebted to the East for its rich cultural and spiritual heritage. The East has given the world religions, the Puranas, brass images, ivory ornaments, manuscripts written on palm leaves, and inscriptions on copperplates. These contributions, along with the atmosphere of peace, cultural and religious harmony, and the wisdom of ancient civilizations, deeply fascinate and enrich the West.</p>
         <p>c. How does the tourist interpret the gaze of the monks and nuns?</p>
         <p>= The tourist interprets the gaze of the monks and nuns as the 'samyak gaze,' which signifies a pure, uncontaminated, and impartial way of seeing. It is a spiritual gaze, free from impurities and discrimination, that perceives everything in its true and genuine form.</p>
-        <p>d. Why do the tourists think Nepali people are wonderful and exceptional?</p>
+        <p className='question'>d. Why do the tourists think Nepali people are wonderful and exceptional?</p>
         <p>= The tourists think Nepali people are wonderful and exceptional because of their peaceful and harmonious way of life, where people of different religions, cultures, and races coexist peacefully. They also admire the Nepali people's artistic skills, such as creating intricate wooden images, beautiful ornaments, and divine sculptures, along with their enchanting traditional music and warm hospitality expressed through rich cultural and religious ceremonies.</p>
-        <p>e. What are the different kinds of communities in the Kathmandu valley and how do they coexist with each other?</p>
+        <p className='question'>e. What are the different kinds of communities in the Kathmandu valley and how do they coexist with each other?</p>
         <p>= The different kinds of communities in the Kathmandu Valley include Aryans, non-Aryans, Hindus, and Buddhists. Despite their diverse religions, philosophies, and traditions, they coexist peacefully and harmoniously. The tourist believes that the very soil of Nepal encourages this unity, allowing people of different backgrounds to live together with mutual respect and understanding.</p>
-        <p>f. What does the tourist feel about the temple of Adinath?</p>
+        <p className='question'>f. What does the tourist feel about the temple of Adinath?</p>
         <p>= The different kinds of communities in the Kathmandu Valley include Aryans, non-Aryans, Hindus, and Buddhists. Despite their diverse religions, philosophies, and traditions, they coexist peacefully and harmoniously. The tourist believes that the very soil of Nepal nurtures this unity. A powerful example of this coexistence is the Adinath Temple, which is dedicated to both Lord Shiva and Lord Buddha. To the tourist, this temple stands as a living symbol of Nepalese tolerance, religious harmony, and cultural coexistence.</p>
-        <p>g. Why does the guide take the tourist to the remote village?</p>
+        <p className='question'>g. Why does the guide take the tourist to the remote village?</p>
         <p>= The guide takes the tourist to a remote village to show the deeper and often unseen reality of life in Nepal. He wants the tourist to witness the hardships, poverty, and daily struggles of a farmer's family—realities that are rarely mentioned in books, seen by other tourists, or captured in photographs. Through this experience, the guide hopes to reveal the true essence of the country and leave a lasting impression on the tourist.</p>
-        <p>h. What does the innocent village couple think of the doctor?</p>
+        <p className='question'>h. What does the innocent village couple think of the doctor?</p>
         <p>= The innocent village couple sees the doctor as a ray of hope and believes her arrival was destined. They accept her as their eldest son who has come from across the seven seas, bringing a life-restoring remedy for their younger son. To them, she is not just a visitor, but a savior sent by fate.</p>
-        <p>i. What are the differences between the paralyzed child and his sister?</p>
+        <p className='question'>i. What are the differences between the paralyzed child and his sister?</p>
         <p>= The difference between the paralyzed child and his sister is striking. The paralyzed boy is severely disabled; his entire body is unresponsive, he cannot speak, move, chew food, or even spit. The only sign of life in him is the movement of his eyes. In contrast, his sister is physically healthy and active. She can crawl freely, explore her surroundings, and interact with the environment by picking things up, knocking things over, and moving about with energy and curiosity.</p>
-        <p>j. Why does the guide show the instances of poverty to the tourist?</p>
+        <p className='question'>j. Why does the guide show the instances of poverty to the tourist?</p>
         <p>= The guide shows the instances of poverty to the tourist to reveal the true reality behind the country's beautiful surface. While the tourist initially sees only the bright aspects like cultural diversity, natural beauty, and the peaceful gaze of monks and nuns, the guide wants to make sure the tourist understands the harsh conditions faced by people in remote villages. By showing the poverty, lack of security, and absence of modern conveniences, the guide presents a complete and honest picture of Nepal, one that includes both its beauty and its struggles.</p>
       </div>
       <div>
@@ -100,9 +100,9 @@ In conclusion, living close to nature enriches our lives in countless ways. It i
         <p className='question'>b. The story talks about the ethnic/religious co-existence of different communities in Nepal, where the Buddhists and the Hindus and the Aryans and non-Aryans have lived in communal harmony for ages. In your view, how have the Nepali people been able to live in such harmony?</p>
         <p>= In my view, Nepali people have been able to live in such harmony due to several historical, cultural, political, and geographical factors. Nepal is a small but diverse country with many ethnic groups that arrived from different regions, each bringing their own religious beliefs and traditions. Since there is no single majority group dominating others, no community has been able to impose its spiritual system exclusively on others. This has allowed multiple faiths to flourish side by side.
 </p><p>
-Moreover, the nature of the religious beliefs practiced in Nepal—mainly Hinduism and Buddhism—tend to be inclusive and tolerant. Unlike some dogmatic religious systems, these faiths allow people to respect and even worship common deities beyond their own clans or communities. This religious flexibility encourages mutual respect and shared practices.
+Moreover, the nature of the religious beliefs practiced in Nepal, mainly Hinduism and Buddhism tend to be inclusive and tolerant. Unlike some dogmatic religious systems, these faiths allow people to respect and even worship common deities beyond their own clans or communities. This religious flexibility encourages mutual respect and shared practices.
 </p><p>
-Nepal is home to various communities—Hindus, Buddhists, Muslims, Christians, and others—who live peacefully without conflict, often sharing in each other's festivals and traditions. For example, places like Swayambhunath, Adinath, Lumbini, and Muktinath serve as sacred sites visited by followers of multiple religions. Hindus join Muslims in celebrating Eid, while Muslims may also participate in Hindu festivals like Dashain. Buddhists visit Hindu temples, and Christians celebrate traditional Nepali festivals like Teej and Tihar alongside their own religious observances.
+Nepal is home to various communities: Hindus, Buddhists, Muslims, Christians, and others who live peacefully without conflict, often sharing in each other's festivals and traditions. For example, places like Swayambhunath, Adinath, Lumbini, and Muktinath serve as sacred sites visited by followers of multiple religions. Hindus join Muslims in celebrating Eid, while Muslims may also participate in Hindu festivals like Dashain. Buddhists visit Hindu temples, and Christians celebrate traditional Nepali festivals like Teej and Tihar alongside their own religious observances.
 </p><p>
 In Nepal, religion is often seen as secondary to shared humanity and nationality. Nepali people prioritize humanism and national unity over religious differences. This spirit of compassion, respect, and empathy toward each other and the environment fosters social harmony. Some key reasons for this unity include:
 </p><p>

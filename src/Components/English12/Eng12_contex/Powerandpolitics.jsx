@@ -27,8 +27,9 @@ const Powerandpolitics = () => {
         <p>verb: victimize , noun: victimization , adjective: victimized</p>
 
       </div>
+      <hr/>
       <div>
-        <p>C. Consult a dictionary and define these terms.</p>
+        <p className='question'>C. Consult a dictionary and define these terms.</p>
         <p><strong>Racism:</strong></p>
 
 <p>Prejudice, discrimination, or hatred directed against someone of a different race based on the belief that one's own race is superior.</p>
@@ -63,27 +64,27 @@ const Powerandpolitics = () => {
         <hr/>
         <h3>Comprehension</h3>
         <p className='question'>Answer the following questions</p>
-        <p>a. Why does Audre Lorde think that Mary got a sort of victory in the University of Boston?</p>
+        <p className='question'>a. Why does Audre Lorde think that Mary got a sort of victory in the University of Boston?</p>
         <p>= Audre Lorde believes that Mary achieved a kind of victory at the University of Boston because she felt joyful and empowered to see many women actively participating in the speak-out event. The strong presence and shared energy of those women created a sense of unity and collective strength. This powerful gathering gave Mary and others like her the confidence, space, and support to grow, speak up, and feel a sense of belonging within a community of women.</p>
-        <p>b. Why is Lorde thankful to Mary?</p>
+        <p className='question'>b. Why is Lorde thankful to Mary?</p>
         <p>= Lorde is thankful to Mary because she gave her the book Gyn/Ecology, which she found powerful, thought-provoking, and helpful. The book gave her strength, inspired her, and supported her personal and intellectual growth.</p>
 
-        <p>c. What impression has the writer had about the way white women looked upon black women?</p>
+        <p className='question'>c. What impression has the writer had about the way white women looked upon black women?</p>
         <p>= The writer had a negative impression of how white women viewed black women. She felt that white women often ignored black women's voices and failed to engage in meaningful dialogue with them. This lack of understanding and communication was long-standing and deeply discouraging for her.</p>
 
-        <p>d. Why did Mary not cast black women as goddesses in her book according to Lorde?</p>
+        <p className='question'>d. Why did Mary not cast black women as goddesses in her book according to Lorde?</p>
         <p>= According to Lorde, Mary did not include black women as goddesses in her book because she consciously chose to focus only on the experiences and ecology of Western European women. This decision limited the representation of diverse cultural backgrounds.</p>
 
-        <p>e. Why did Lorde think that she misused her words?</p>
+        <p className='question'>e. Why did Lorde think that she misused her words?</p>
         <p>= Lorde thought she misused her words because she used them only to defend herself as a woman of color, rather than opening up a dialogue or building understanding.</p>
 
-        <p>f. For Lorde, how were women, especially from the black community, undervalued?</p>
+        <p className='question'>f. For Lorde, how were women, especially from the black community, undervalued?</p>
         <p>= For Lorde, women especially black women were undervalued because they were ignored and isolated by white women who viewed everything through a narrow, patriarchal Western European perspective. This limited understanding kept black women marginalized and excluded.</p>
 
-        <p>g. How does Mary take white women as? Does Lorde agree with Mary's view?</p>
+        <p className='question'>g. How does Mary take white women as? Does Lorde agree with Mary's view?</p>
         <p>= Mary sees white women as superior to non-white women. She assumes that the history and myths of white women are the only true sources of power and identity for all women, while non-white women's histories are seen as mere decorations or examples of victimization.</p>
         <p>No, Lorde does not agree with Mary's view. She rejects the idea of white feminism's superiority over black feminism and criticizes Mary for portraying black women as decorative and ignoring their real pain and struggles.</p>
-        <p>h. What is Afrekete? How does it connect to this lesson?</p>
+        <p className='question'>h. What is Afrekete? How does it connect to this lesson?</p>
         <p>= Afrekete is the collective voice representing the tradition of Black lesbian writing. It connects to this lesson because the author uses Afrekete to unite and give voice to Black women within the broader field of Black literature, emphasizing their importance and visibility.</p>
         </div>
         <div>
@@ -122,7 +123,7 @@ This shows how deep sexual discrimination is in society, and it is something we 
         <hr/>
         <div>
             <p className='question'>B. Write an article for a national daily on "The Status of Women in Nepali Society."</p>
-            <p>=The Status of Women in Nepali Society</p>
+            <p>The Status of Women in Nepali Society</p>
             <p>Despite significant progress over the years, women in Nepal continue to face challenges that affect their status in society. Deep-rooted traditions and social norms often restrict women's access to education, healthcare, and equal job opportunities.</p>
             <p>In many rural areas, early marriage, limited schooling, and domestic violence remain serious issues. Women frequently bear the burden of household work alongside economic hardships. Gender inequality persists in various forms, limiting women's freedom and participation in public life.</p>
             <p>On the positive side, government initiatives and legal reforms have aimed to protect women's rights and promote gender equality. More girls are attending school, and women are increasingly visible in politics, business, and social activism.</p>
@@ -151,22 +152,31 @@ This shows how deep sexual discrimination is in society, and it is something we 
              <p className='question'>C. Put the adjectives in the following sentences in the correct order.</p>
              <p>a. I bought (red/ a /comfortable/new) scooter.</p>
              <p>= I bought a comfortable new scooter.</p>
+             <br/>
              <p>b. She reached home and sat on (relaxing/old/her/wooden) chair.</p>
              <p>= She reached home and sat on her old relaxing wooden chair.</p>
+             <br/>
              <p>c. We ate (Chinese/delicious/some) food.</p>
              <p>= We ate some delicious Chinese food.</p>
+             <br/>
              <p>d. I need (golden/delicious/some/round) apples.</p>
              <p>= I need some delicious round golden apples.</p>
+             <br/>
              <p>e. We like to live in a (calm/unmediated/remote) place for some time.</p>
              <p>= We like to live in a calm unmediated remote place for some time.</p>
+             <br/>
              <p>f. She is wearing (silver/beautiful / an/ old) ring.</p>
              <p>= She is wearing an old beautiful silver ring.</p>
+             <br/>
              <p>g. I am looking for (golden/stylish/a/Japanese) watch.</p>
              <p>= I am looking for a stylish Japanese golden watch.</p>
+             <br/>
              <p>h. She dropped (old/china/attractive/an) cup and smashed it.</p>
              <p>= She dropped an old attractive China cup and smashed it.</p>
+             <br/>
              <p>i. He wants to marry (young/pretty/educated/an/rustic) girl.</p>
              <p>= He wants to marry a pretty young educated rustic girl.</p>
+             <br/>
              <p>j. We stayed in a (luxurious/five star/new) hotel in Dubai.</p>
              <p>= We stayed in a new luxurious five-star hotel in Dubai.</p>
         </div>

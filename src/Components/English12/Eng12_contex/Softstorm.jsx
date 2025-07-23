@@ -13,7 +13,7 @@ const Softstorm = () => {
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. When does the speaker grow soft? Enlist the occasions when he grows soft?</p>
+        <p className='question'>a. When does the speaker grow soft? Enlist the occasions when he grows soft?</p>
         <p>= In the poem "Soft Storm" by Abhi Subedi, the speaker reflects a deep sense of compassion and sensitivity amidst the chaos and turmoil of modern society. The phrase "grow soft" represents moments when the speaker becomes emotionally touched or overwhelmed by human suffering and natural beauty.
 </p><p>
 The occasions when the speaker grows soft include:
@@ -33,7 +33,8 @@ The occasions when the speaker grows soft include:
 These moments reflect the speaker's inner sensitivity and his humanitarian outlook, even in a world filled with noise, conflict, and neglect.
 
 </p>
-<p>b. What do you understand by 'this seamless city'?</p>
+<br/>
+<p className='question'>b. What do you understand by 'this seamless city'?</p>
 <p>= The phrase “this seamless city” refers to a city without visible divisions, boundaries, or interruptions. It suggests an urban environment where everything flows smoothly, both physically and socially. However, in the context of the poem Soft Storm, this phrase may carry a sense of irony.
 </p><p>
 Although the city appears seamless on the surface, it hides deep social issues such as poverty, inequality, and human suffering. The poet might be pointing to a city where:
@@ -45,23 +46,29 @@ Although the city appears seamless on the surface, it hides deep social issues s
 3. There is a lack of visible resistance, making problems like homelessness and injustice go unnoticed.
 </p><p>
 Thus, “this seamless city” can be understood as a symbol of modern urban life—physically connected, yet socially fragmented.</p>
-<p>c. Describe the poor children portrayed in the poem.</p>
+<br/>
+<p className='question'>c. Describe the poor children portrayed in the poem.</p>
 <p>= In the poem Soft Storm by Abhi Subedi, the poor children are portrayed as homeless, hungry, and helpless. They are seen crying with hunger under the bat-bearing trees of Keshar Mahal in Thamel, a busy urban area. These children represent the harsh reality of poverty and neglect in society.
 </p><p>
 They are deprived of love, care, shelter, and even the basic needs of life. The poet highlights their suffering and innocence, making them a symbol of social injustice and the failure of the system to protect the most vulnerable. Their presence in the poem evokes sympathy and reflects the emotional 'softness' or compassion the speaker feels amidst the chaos of modern life.</p>
-<p>d. What do you understand by 'the unwedded gardens of history'?</p>
+<br/>
+<p className='question'>d. What do you understand by 'the unwedded gardens of history'?</p>
 <p>= The phrase 'the unwedded gardens of history' refers to the neglected, untouched, or unrecognized parts of history and culture, particularly of the Kathmandu Valley. It symbolizes the glorious heritage, traditions, and historical richness that have been ignored, left uncared for, or disconnected from the present.
 </p><p>
 The term "unwedded" suggests a lack of union or connection, implying that modern society has failed to value or preserve its past properly. These gardens, once full of beauty and meaning, now stand as forgotten symbols of a culturally rich but poorly maintained legacy.</p>
-<p>e. Why was the forlorn child wailing?</p>
+<br/>
+<p className='question'>e. Why was the forlorn child wailing?</p>
 <p>= The forlorn child was wailing because he was searching for his mother in the corridors of violent history. This symbolizes the loss, displacement, and suffering caused by conflict, social unrest, or political violence. The child's cry represents the pain of innocent people, especially children, who become victims of historical turmoil and are left abandoned, unheard, and uncared for.</p>
-<p>f. What do you understand about 'soft storm'?</p>
+<br/>
+<p className='question'>f. What do you understand about 'soft storm'?</p>
 <p>= The term 'soft storm' symbolizes the poet's inner emotional turbulence and sensitivity in response to the chaos and problems in contemporary society. While a storm usually suggests destruction and violence, the word soft indicates that these feelings are not aggressive but rather gentle, reflective, and compassionate. It reflects the poet's quiet pain, concern, and subtle resistance to the injustices, poverty, and emotional struggles surrounding him. The "soft storm" blends external societal issues with the speaker's internal emotional reaction, showing a contrast between turmoil and tenderness.</p>
-<p>g. Why does the speaker call our time 'mad time'?</p>
+<br/>
+<p className='question'>g. Why does the speaker call our time 'mad time'?</p>
 <p>= The speaker calls our time a 'mad time' because he observes a world full of contradictions, chaos, and irrational behaviors. People have become selfish, mannerless, and driven by materialism. Laws and moral values seem ignored, and society appears to function without proper order or justice. Corruption, favoritism, and injustice dominate political and social systems.
 </p><p>
 He notices unnatural and surreal events, such as stones growing on flowers, rhododendrons blooming in winter, birds singing tumult instead of melody, and history hiding under lampposts. These bizarre and symbolic images represent a world that has lost its balance, making the present time feel disturbed and insane. This combination of social, political, and environmental instability leads the speaker to describe it as a “mad time.”</p>
-<p>h. What does the speaker want to do in “hard times”?</p>
+<br/>
+<p className='question'>h. What does the speaker want to do in “hard times”?</p>
 <p>= In “hard times,” the speaker expresses a desire to melt like a rainbow, which symbolizes his soft-hearted nature and emotional sensitivity. By saying this, he reveals his wish to disappear peacefully and beautifully in the face of pain and suffering, rather than reacting with anger or violence.
 </p><p>
 It shows his gentle response to the chaos and cruelty of the world around him. Instead of becoming hardened or bitter, he chooses to remain compassionate, even if that means fading away like something fragile and beautiful during difficult times.</p>
@@ -104,13 +111,13 @@ of history and dreams</p><p>
 playing hide and seek</p><p>
 in open museums</p><p>
 of human times.</p>
-        <p>= In this stanza from “Soft Storm” by Abhi Subedi, the speaker describes a powerful emotional reaction—he becomes "soft," meaning emotionally disturbed and compassionate—upon witnessing a deeply troubling scene.
+        <p>= In this stanza from “Soft Storm” by Abhi Subedi, the speaker describes a powerful emotional reaction, he becomes "soft," meaning emotionally disturbed and compassionate upon witnessing a deeply troubling scene.
 </p><p>
 He sees a blood-stained shirt, which symbolizes a victim of violence or suffering, lying on the ground. The "shirt speaking in the earth's ears with bruised human lips" is a poetic way of saying that the suffering person is either dead or gravely injured, and the earth itself is being asked to hear this silent cry.
 </p><p>
 This person lies “under the moon of history and dreams,” suggesting that this suffering is part of a long history of forgotten struggles and unfulfilled hopes. The moon symbolizes past glories or dreams, now dimmed or ignored.
 </p><p>
-The phrase “playing hide and seek in open museums of human times” implies that history—especially the truth about suffering, injustice, and violence—is often hidden or selectively remembered. Museums, which are supposed to preserve truth, may instead present only certain versions of events.
+The phrase “playing hide and seek in open museums of human times” implies that history especially the truth about suffering, injustice, and violence is often hidden or selectively remembered. Museums, which are supposed to preserve truth, may instead present only certain versions of events.
 </p><p>
 In essence, the speaker feels a surge of sorrow and quiet rebellion upon seeing how human suffering is ignored, how violence is part of a long and often hidden history, and how society has become numb to compassion.</p>
       </div>
@@ -140,14 +147,14 @@ To sum up, the current state of Nepal is deeply disappointing, despite its rich 
       </div>
       <hr/>
       <div>
-        <p>b. Suppose you are a rebel, who wants to change the society by eliminating malpractices and anomalies prevailing in the society. Draft a speech outlining your vision for change.</p>
+        <p className='question'>b. Suppose you are a rebel, who wants to change the society by eliminating malpractices and anomalies prevailing in the society. Draft a speech outlining your vision for change.</p>
         <p>=Respected teachers, friends, and fellow citizens,</p><p>
 
 Today, I stand here not as a follower, but as a rebel—someone who dares to dream of a better Nepal.</p><p>
 
 Our country is full of beauty and potential, but it's drowning in corruption, discrimination, poverty, and injustice. Girls are denied education. The poor are ignored. Leaders make promises but forget the people. And we? We stay silent.</p><p>
 
-But I say—enough is enough.</p><p>
+But I say 'enough is enough.'</p><p>
 
 My Vision for Change</p><p>
 1. I want a society where caste and gender don't limit dreams.</p><p>
@@ -159,7 +166,7 @@ My Vision for Change</p><p>
 3. I will encourage unity, knowledge, and action.</p><p>
 
 Final Words</p><p>
-Real change doesn't start in big speeches—it starts with small actions. I may be one voice, but I believe that one voice can spark a revolution.</p><p>
+Real change doesn't start in big speeches, it starts with small actions. I may be one voice, but I believe that one voice can spark a revolution.</p><p>
 Thank you</p>
       </div>
     </div>

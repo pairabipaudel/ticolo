@@ -39,21 +39,21 @@ const Moneyandeconomy = () => {
        <hr/>
        <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. How can one pay with QR codes paying system?</p>
+        <p className='question'>a. How can one pay with QR codes paying system?</p>
         <p>= With the QR code paying system, one can make payments in two main ways during face-to-face transactions. In the first method, the user opens a digital wallet or banking app on their smartphone, scans the merchant's displayed QR code, enters the amount, and confirms the payment. In the second method, the user shows their QR code to the merchant, who scans it using a compatible device to receive the payment.</p>
-        <p>b. How did Tencent and Alibaba companies utilise the QR code services at the beginning?</p>
+        <p className='question'>b. How did Tencent and Alibaba companies utilise the QR code services at the beginning?</p>
         <p>= Initially, Tencent used QR codes in WeChat to add friends easily, which later evolved into WeChat Pay. Alibaba used QR codes in Alipay to enable quick, secure payments. These innovations helped both companies transform mobile payments in China.</p>
-        <p>c. How do the QR code based payment services launched by Visa and Mastercard mitigate payment problems?</p>
-        <p>= Visa and Mastercard launched QR code-based payment services to reduce payment challenges, especially in developing countries. They introduced systems that link QR codes directly to users' debit or credit card accounts, making transactions fast and secure. Their focus is mainly on merchant-presented QR codes—either static, where customers enter the payment amount, or dynamic, where the amount is pre-set. To ensure security, these transactions often require card PIN verification. By using QR codes, Visa and Mastercard have made digital payments more accessible, reliable, and safe for a wide range of users.</p>
-        <p>d. Why do we need a scheme operator to run the QR code based payment system?</p>
+        <p className='question'>c. How do the QR code based payment services launched by Visa and Mastercard mitigate payment problems?</p>
+        <p>= Visa and Mastercard launched QR code-based payment services to reduce payment challenges, especially in developing countries. They introduced systems that link QR codes directly to users' debit or credit card accounts, making transactions fast and secure. Their focus is mainly on merchant-presented QR codes either static, where customers enter the payment amount, or dynamic, where the amount is pre-set. To ensure security, these transactions often require card PIN verification. By using QR codes, Visa and Mastercard have made digital payments more accessible, reliable, and safe for a wide range of users.</p>
+        <p className='question'>d. Why do we need a scheme operator to run the QR code based payment system?</p>
         <p>= We need a scheme operator to run the QR code-based payment system because they manage the overall structure and functioning of the payment network. The scheme operator is responsible for setting rules and standards, ensuring uniformity and security, handling disputes and exceptions, and overseeing the branding and acceptance of the QR code system at merchant points. Without a central operator, the system would lack coordination, leading to confusion, inconsistency, and potential risks in transactions.</p>
-        <p>e. What basic requirements are needed to use the QR codes services?</p>
+        <p className='question'>e. What basic requirements are needed to use the QR codes services?</p>
         <p>= To use QR code services, you need a smartphone with internet and a camera, plus a mobile banking or digital wallet app linked to your bank account or wallet. Payments are made by scanning the merchant's QR code or showing your own. Transactions are secured with a PIN or fingerprint, and no extra registration is required beyond setting up the app.</p>
-        <p>f. How can security concerns related to payment via QR codes be addressed?</p>
+        <p className='question'>f. How can security concerns related to payment via QR codes be addressed?</p>
         <p>= Security in QR code payments is ensured by using unique merchant IDs, mandatory registration, and real-time payment notifications. These steps prevent fraud by verifying merchants and alerting both parties instantly if a payment is successful, helping detect and stop any misuse.</p>
-        <p>g. Who should be more careful: customer or the merchant in terms of payment issues? Why?</p>
+        <p className='question'>g. Who should be more careful: customer or the merchant in terms of payment issues? Why?</p>
         <p>= The customer should be more careful in terms of payment issues because preventing fraud from happening in the first place is better than fixing it later. If the app displays the merchant's correct name and details, the customer can verify them before making the payment. This can be ensured by using authentication method.</p>
-        <p>h. Do you think the QR code based payment can be a panacea for all sorts payment problems? Why?</p>
+        <p className='question'>h. Do you think the QR code based payment can be a panacea for all sorts payment problems? Why?</p>
         <p>=The customer should be more careful in terms of payment issues because preventing fraud from happening in the first place is better than fixing it later. If the app displays the merchant's correct name and details, the customer can verify them before making the payment.</p>
        </div>
        <div>
@@ -89,37 +89,29 @@ In conclusion, while Nepal faces hurdles, the shift to a cashless economy is bot
         <hr/>
         <h3>Writing</h3>
         <p className='question'>A. Punctuate this paragraph with appropriate punctuation marks.</p>
-        <p>it was a cold freezing day it had been snowing all day in new york mr tim cooked and i went outside to play in the snow we had no seen much snow since we went to skiing in sweden last year mrs smith was right because she had said that we'd see snow the next day we had really a wonderful time there didn't we</p>
+        <br/>
+        <p className='question'>it was a cold freezing day it had been snowing all day in new york mr tim cooked and i went outside to play in the snow we had no seen much snow since we went to skiing in sweden last year mrs smith was right because she had said that we'd see snow the next day we had really a wonderful time there didn't we</p>
+        <br/>
         <p>= It was a cold, freezing day. It had been snowing all day in New York. Mr. Tim Cook and I went outside to play in the snow. We had not seen much snow since we went skiing in Sweden last year. Mrs. Smith was right because she had said that we'd see snow the next day. We had a really wonderful time there, didn't we?</p>
        </div>
        <hr/>
        <div>
         <p className='question'>B. Write a news article about digital payment systems in Nepal.</p>
-        <p>=Digital Payment Systems in Nepal: A Growing Shift Toward a Cashless Economy
-Digital payment systems in Nepal are rapidly evolving, especially in the wake of the COVID-19 pandemic, which pushed many to seek safer, contactless transaction methods. What once felt like a distant dream is now a growing reality as Nepal steps closer to becoming a digitally empowered economy.
-</p> <p>
-The Rise of Digital Payments
-Digital payment refers to electronic transactions made through apps, websites, or QR codes instead of cash. Its rising popularity can be attributed to convenience and ease of use. With just a few taps on a smartphone, users can pay for utilities, book tickets, buy groceries, and transfer funds—no more standing in long queues.
+      <p>By Pavitra Karki, Kathmandu, July 23, 2025
 </p><p>
-Leading platforms like eSewa, Khalti, IME Pay, and Connect IPS have emerged as major players in Nepal's digital payment ecosystem. These services offer a wide range of features—from mobile top-ups and school fee payments to government transactions such as Loksewa and passport fees through Connect IPS.</p>
-<p>
-Adoption in Daily Life
-Digital payments are now widely accepted in supermarkets, retail stores, restaurants, hospitals, hotels, and educational institutions. Local vendors and even vegetable markets are gradually adopting QR code-based payment systems, making cashless transactions more common across all economic levels.
-<p/><p>
-According to a report by Nepal Rastra Bank, there has been a consistent rise in digital transactions. Between mid-December 2020 and mid-January 2021 alone, over 372,000 digital transactions were recorded, amounting to Rs 1.245 billion. The following month, transactions rose to 535,790, with a total of Rs 1.712 billion, showing strong growth momentum.
+Nepal is seeing a fast rise in the use of digital payment systems, especially after the COVID-19 pandemic encouraged people to look for safer and contactless ways to make payments. With growing access to smartphones and the internet, more people are now paying bills, shopping, and transferring money online.
 </p><p>
-Promotions and Awareness
-Payment service operators (PSOs) like eSewa and Khalti regularly launch promotional campaigns to attract new users. From cashback offers to discount coupons, these campaigns aim to raise awareness about the convenience and benefits of digital payment systems. However, lack of digital literacy, especially in rural areas, remains a significant barrier.
+Digital payments allow people to make transactions through apps, websites, or QR codes without using physical cash. Popular platforms like eSewa, Khalti, IME Pay, and Connect IPS have become widely used across the country. These services offer features such as utility payments, mobile top-ups, school fee submissions, and even government services like passport and Loksewa payments.
 </p><p>
-Challenges Ahead</p><p>
-While the progress is promising, several challenges need attention. A major hurdle is interoperability—users often cannot send or receive money between different digital wallets. Additionally, limited internet access in remote regions and a general lack of trust or understanding of digital platforms hinder full-scale adoption.
+These digital tools are now being accepted in many places—supermarkets, hospitals, restaurants, hotels, schools, and even local markets. Street vendors and vegetable sellers in cities have also started accepting QR code payments, making cashless transactions more common and convenient.
 </p><p>
-The Road Ahead</p><p>
-To create a stable and inclusive digital economy, collaboration is key. The government, Nepal Rastra Bank, financial institutions, and PSOs must work together to improve infrastructure, simplify systems, and promote digital literacy. Introducing incentives for small businesses and ensuring secure, user-friendly services can help accelerate this transition.
+According to a report from Nepal Rastra Bank, the number of digital transactions has been increasing every month. From mid-December 2020 to mid-January 2021, over 372,000 digital transactions were recorded, totaling Rs 1.245 billion. The next month saw even more growth, with over 535,000 transactions worth Rs 1.712 billion.
 </p><p>
-Conclusion:</p><p>
-Digital payment systems in Nepal are no longer just a modern option—they are becoming a necessity. With coordinated efforts and a focus on education, security, and accessibility, Nepal is well on its way to embracing a cashless future.</p>
-</p>
+Payment service providers are also offering promotional campaigns like cashback and discount coupons to encourage more users. However, challenges remain—many people in rural areas still lack digital literacy, and some areas have limited internet access. Additionally, users often cannot transfer money between different wallet apps due to a lack of system compatibility.
+</p><p>
+Experts say that for Nepal to fully embrace digital payment systems, cooperation is needed between the government, Nepal Rastra Bank, financial institutions, and payment service operators. Improving internet access, increasing user awareness, and creating simple, secure, and reliable platforms are key steps toward building a strong digital economy.
+</p><p>
+As digital payments continue to grow, they are not just a modern convenience but a necessary tool for the future. With the right support and education, Nepal is moving closer to becoming a cashless society.</p>
        </div>
        <div>
         <hr/>
@@ -159,22 +151,31 @@ Digital payment systems in Nepal are no longer just a modern option—they are b
         <p className='question'>C. Make wh-questions so that the words in bold become the answer.</p>
         <p>a. Romeo loves<strong> Juliet.</strong></p>
         <p>= Who does Romeo love?</p>
+        <br/>
         <p>b. My mother made <strong>a delicious bread</strong> yesterday.</p>
         <p>= What did your mother make yesterday?</p>
+        <br/>
         <p>c. The music was composed by <strong>Narayan Gopal.</strong></p>
         <p>= Who composed the music?</p>
+        <br/>
         <p>d. I'm looking for <strong>a new book.</strong></p>
         <p></p>
         <p>= What are you looking for?</p>
+        <br/>
         <p>e. They were talking about <strong>the new movie.</strong></p>
         <p>= What were they talking about?</p>
+        <br/>
         <p>f. She got the idea from <strong>a story.</strong></p>
         <p>= Where did she get the idea from?</p>
+
         <p>= From what did she get the idea? </p>
+        <br/>
         <p>g. She always goes to school <strong>on foot.</strong></p>
         <p>= How does she always go to school?</p>
+        <br/>
         <p>h. She <strong>sometimes</strong> goes to the cinema.</p>
         <p>= How often does she go to the cinema?</p>
+        <br/>
         <p>i. They have been waiting for <strong>three years.</strong></p>
         <p>= How long have they been waiting?</p>
        </div>
@@ -183,21 +184,28 @@ Digital payment systems in Nepal are no longer just a modern option—they are b
         <p className='question'>D. Change these indirect questions into direct ones.</p>
         <p>a. Could you tell me where the Market Street is?</p>
         <p>= Where is Market Street? </p>
+        <br/>
         <p>b. I'm longing to know what time the bank opens.</p>
         <p>= What time does the bank open?</p>
+        <br/>
         <p>c. Do you have any idea how he's managed to get in shape so quickly?</p>
         <p>= How has he managed to get in shape so quickly?</p>
+        <br/>
         <p>d. I'd like to know how much this motorcycle costs these days.</p>
         <p>= How much does this motorcycle cost these days?</p>
+        <br/>
         <p>e. Did you notice if he had left the car in the park?</p>
         <p>= Had he left the car in the park?</p>
-        
+        <br/>
         <p>f. Have you found out if the train has left?</p>
         <p>= Has the train left?</p>
+        <br/>
         <p>g. I was wondering if they speak English well.</p>
         <p>= Do they speak English well?</p>
+        <br/>
         <p>h. Would you tell us how we can get to the post office from here?</p>
         <p>= How can we get to the post office from here?</p>
+        <br/>
         <p>i. Do you remember if I locked the front door?</p>
         <p>= Did I lock the front door?</p>
        </div>

@@ -45,19 +45,19 @@ const Homelifeandfamilyrelationship = () => {
       <div>
         <h3>Comprehension</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Why didn't the mother recognise her son Gopi?</p>
+        <p className='question'>a. Why didn't the mother recognise her son Gopi?</p>
         <p>= The mother didn't recognize her son Gopi because she was eighty years old and had lost her memory.</p>
-        <p>b. Why is the sister living with her mother?</p>
+        <p className='question'>b. Why is the sister living with her mother?</p>
         <p>= The sister is living with her mother because she is a widow and there is no one else to take care of their mother.</p>
-        <p>c. What is the sister's attitude towards her brother?</p>
+        <p className='question'>c. What is the sister's attitude towards her brother?</p>
         <p>= The sister is disappointed and upset with her brother because he has not visited or supported their mother for a long time.</p>
-        <p>d. Does the son love his mother very much? How do you know that?</p>
+        <p className='question'>d. Does the son love his mother very much? How do you know that?</p>
         <p>= Yes, the son loves his mother very much. He shows his love by bending down and bringing his face close to his mother's wrinkled cheeks.</p>
-         <p>e. What does the mother actually need: a blanket or the warmth of her son's love?</p>
+         <p className='question'>e. What does the mother actually need: a blanket or the warmth of her son's love?</p>
          <p>= The mother actually needs the warmth of her son's love. In the story, the blanket symbolizes the love, care, and emotional connection she longs for from her son.</p>
-         <p>f. What does the phrase 'the tattered blanket' mean? Is it only the blanket that is tattered?</p>
+         <p className='question'>f. What does the phrase 'the tattered blanket' mean? Is it only the blanket that is tattered?</p>
          <p>= The phrase 'the tattered blanket' symbolizes the mother's hurt emotions and neglected condition. It is not just the blanket that is tattered, but also the mother's feelings and the broken bond between her and her son.</p>
-         <p>g. The son says, 'Amma can't remember who I am'. Do you think that he remembered his mother? Why didn't he answer when his sister asked, 'Do you remember your Amma?'</p>
+         <p className='question'>g. The son says, 'Amma can't remember who I am'. Do you think that he remembered his mother? Why didn't he answer when his sister asked, 'Do you remember your Amma?'</p>
          <p>= Yes, the son remembered his mother, but he didn't answer because he felt guilty. He had not written to her for a year and had not seen her for more than five years.</p>
       </div>
       <hr/>
@@ -112,14 +112,19 @@ It's important to understand that parents don't need much just a little love, ca
         <p className='question'>C. Combine the following sentences using the words given in brackets.</p>
         <p>a. He was annoyed. He didn't say anything. (although)</p>
         <p>= Although he was annoyed, he didn't say anything.</p>
+        <br/>
         <p>b. Playing the stock market is exciting. It can be risky. (however)</p>
         <p>= Playing the stock market is exciting, however, it can be risky.</p>
+        <br/>
         <p>c. He works slowly. He never makes a mistake. (even though)</p>
         <p>= Even though he works slowly, he never makes a mistake.</p>
+        <br/>
         <p>d. It was raining. We still went to the park. (in spite of)</p>
         <p>= In spite of the rain, we still went to the park</p>
+        <br/>
         <p>e. Hark bought the watch. It was expensive. (despite)</p>
         <p>= Despite being expensive, Hark bought the watch.</p>
+        <br/>
         <p>f. He is very poor. He wears expensive clothes. (but)</p>
         <p>= He is very poor but wears expensive clothes.</p>
       </div>
@@ -129,15 +134,19 @@ It's important to understand that parents don't need much just a little love, ca
         <p>a. He had very little time, but he offered to help us.</p>
         <p>= Although he had very little time, he offered to help us.</p>
         <p>= In spite of having very little time, he offered to help us.</p>
+        <br/>
         <p>b. She is very poor, but she still wears expensive clothes.</p>
         <p>= Although she is very poor, she still wears expensive clothes.</p>
         <p>= In spite of being very poor, she still wears expensive clothes.</p>
+        <br></br>
         <p>c. He's a millionaire, but he lives in a very small flat.</p>
         <p>= Although he's a millionaire, he lives in a very small flat.</p>
         <p>= In spite of being a millionaire, he lives in a very small flat.</p>
+        <br/>
         <p>d. They have a lot of money, but they are still not happy.</p>
         <p>= Although they have a lot of money, they are still not happy.</p>
         <p>= In spite of having a lot of money, they are still not happy.</p>
+        <br/>
         <p>e. The traffic was heavy, but we got there in time.</p>
         <p>= Although the traffic was heavy, we got there in time.</p>
         <p>= In spite of the heavy traffic, we got there in time.</p>

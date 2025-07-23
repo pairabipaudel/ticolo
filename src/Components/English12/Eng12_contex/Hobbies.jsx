@@ -28,41 +28,45 @@ const Hobbies = () => (
     <div>
       <p className='question'>B. Find the meaning of the following words from a dictionary.</p>
       <p>sophisticated: Having a lot of knowledge or experience of the world, culture, or fashion; showing advanced understanding or complexity.</p>
+      <br/>
       <p>conscious: aware of and responding to one's surroundings; awake.</p>
+      <br/>
       <p>blistering: extremely hot, intense, or severe; also refers to something that causes or has blisters.</p>
+      <br/>
       <p>proximity: the state of being near or close to something in distance or time</p>
+      <br/>
       <p>invisible: not able to be seen; hidden from sight.</p>
     </div>
     <hr/>
     <div>
       <h3>Comprehension</h3>
       <p className='question'>Answer the following questions.</p>
-      <p>a. What is the author's favourite hobby? Why does she like it so much?</p>
+      <p className='question'>a. What is the author's favourite hobby? Why does she like it so much?</p>
       <p>= The author's favourite hobby is walking. She enjoys it because walking creates a smooth movement and rhythm that awakens her senses and body, making the experience very pleasurable.</p>
-      <p>b. What sorts of roads did the writer prefer to walk on when she was very young?</p>
+      <p className='question'>b. What sorts of roads did the writer prefer to walk on when she was very young?</p>
       <p>= When she was very young, the writer preferred to walk on roads that were unpaved and uneven, such as the paths around her maternal home.</p>
-      <p>c. How did walking give the author and her classmates a sense of freedom?</p>
+      <p className='question'>c. How did walking give the author and her classmates a sense of freedom?</p>
       <p>= Walking gave the author and her classmates a sense of freedom because it allowed them to be in control of their own time and choose their own path freely.</p>
 
-      <p>d. In what ways were the roads in Kathmandu different from the ones in Sydney?</p>
+      <p className='question'>d. In what ways were the roads in Kathmandu different from the ones in Sydney?</p>
       <p>= The roads in Sydney were much quieter and more organized compared to the noisy and chaotic streets of Kathmandu.</p>
 
-      <p>e. How did walking help the author in the new country?</p>
+      <p className='question'>e. How did walking help the author in the new country?</p>
       <p>= Walking helped the author escape from different kinds of pressures and find a calm rhythm in her life. It also helped her explore and understand the new country, giving her a fresh perspective on her circumstances.</p>
 
-      <p>f. What were the treasure of Petersham, where the writer lived with her family?</p>
+      <p className='question'>f. What were the treasure of Petersham, where the writer lived with her family?</p>
       <p>= The treasures of Petersham included a small park just a minute away from Parramatta Road, another park that had a large rock at one end, and the buffer zone suburb surrounding the area.</p>
 
-      <p>g. What things became her permanent friends with whom she could share her feelings?</p>
+      <p className='question'>g. What things became her permanent friends with whom she could share her feelings?</p>
       <p>= The elements of nature: the earth, sky, trees, water, and air became her permanent friends with whom she could share her feelings.</p>
 
-      <p>h. Why did she feel that she had travelled to 'a desert, to emptiness' as she went to the United States? </p>
+      <p className='question'>h. Why did she feel that she had travelled to 'a desert, to emptiness' as she went to the United States? </p>
       <p>= She felt that she had travelled to 'a desert, to emptiness' because the people there were mostly focused on material things and comfort. This made her feel lonely and created a communication barrier between her and them.</p>
 
-      <p>i. Why did the author eventually feel that the strangr city was known to her?</p>
+      <p className='question'>i. Why did the author eventually feel that the strangr city was known to her?</p>
       <p>= The author eventually felt that the strange city was familiar because she realized it was similar to many other places in the world. The natural elements she experienced there reminded her of her hometown, making the city feel like home.</p>
 
-      <p>j. How did walking make her feel at home with different places she visited?</p>
+      <p className='question'>j. How did walking make her feel at home with different places she visited?</p>
       <p>= Walking made her feel grateful to all the streets she walked on because they shaped her feet, her body, and her whole being, helping her feel at home wherever she went.</p>
     </div>
     <div>
@@ -107,20 +111,28 @@ To sum up, morning walks are very important for maintaining a healthy body and m
       <p className='question'>B. Change the following sentences into passive voice.</p>
       <p>a. I want someone to love me.</p>
        <p>= I want to be loved.</p>
+       <br/>
         <p>b. Someone broke into our house while we were on holiday.</p>
          <p>= Our house was broken into while we were on holiday.</p>
+         <br/>
           <p>c. I don't like people staring at me.</p>
        <p>= I don't like being stared at.</p>
+       <br/>
         <p>d. Is it true that someone stole your car?</p>
          <p>= Is it true that your car was stolen?</p>
+         <br/>
          <p>e. The cat enjoys someone tickling him.</p>
           <p>= The cat enjoys being tickled.</p>
+          <br/>
            <p>f. Would Swostika open the window?</p>
             <p>= Would the window be opened by Swostika?</p>
+            <br/>
          <p>g. Did they confess the crime?</p>
           <p>= Was the crime confessed by them?</p>
+          <br/>
            <p>h. He thinks that someone is teaching Jennie.</p>
             <p>= He thinks that Jennie is being taught.</p>
+            <br/>
          <p>i. Sabina hates people laughing at her.</p>
           <p>= Sabina hates being laughed at.</p>
          
@@ -128,33 +140,34 @@ To sum up, morning walks are very important for maintaining a healthy body and m
     <hr/>
     <div>
         <p className='question'>C. Complete the following sentences as in the example.</p>
+        <br/>
        <p>a. English people think that the number thirteen is unlucky.</p>
 <p>The number thirteen <strong>is thought to be</strong> unlucky by English people.</p>
-
+<br/>
 <p>b. What are you wearing for the wedding?</p>
 <p>Actually, I am having <strong>a suit made</strong>. They will give it tomorrow.</p>
-
+<br/>
 <p>c. The carpet in our drawing room is very dirty.</p>
 <p>It needs <strong>cleaning</strong>.</p>
-
+<br/>
 <p>d. There are rumours that the factory at the corner is manufacturing bombs.</p>
 <p>The factory at the corner is rumoured <strong>to be manufacturing</strong> bombs.</p>
-
+<br/>
 <p>e. Some people believe that Silajit from Jumla cures all indigestion problems.</p>
 <p>Silajit from Jumla <strong>is believed to cure</strong> all indigestion problems.</p>
-
+<br/>
 <p>f. People claim that Changu Narayan temple is the oldest temple in Nepal.</p>
 <p>Changu Narayan temple <strong>is claimed</strong> to be the oldest temple in Nepal.</p>
-
+<br/>
 <p>g. A: Your car is making a terrible noise.</p>
 <p>B: Thank you. I am not a mechanic and I will <strong>have it repaired</strong> soon.</p>
-
+<br/>
 <p>h. The police suspect that the criminal left the country.</p>
 <p>The criminal <strong>is suspected to have left</strong> the country.</p>
-
+<br/>
 <p>i. A: Where are you going?</p>
 <p>B: I am going to the stationery to get <strong>my document photocopied</strong>.</p>
-
+<br/>
 <p>j. People allege that the corrupt leader has embezzled millions of rupees.</p>
 <p>The leader <strong>is alleged to have embezzled</strong> millions of rupees.</p>
 

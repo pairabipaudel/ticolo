@@ -112,23 +112,23 @@ const Mediaandsociety = () => {
       <hr/>
       <div>
         <p className='question'>B. Answer these questions.</p>
-        <p>a. How do you define social media?</p>
+        <p className='question'>a. How do you define social media?</p>
         <p>= Social media is a computer-based technology that enables people to share ideas, thoughts, and information by creating virtual networks and online communities. It allows users to connect, communicate, and collaborate with others across the world.</p>
-        <p>b. Social media has been an integral part of modern life. How?</p>
+        <p className='question'>b. Social media has been an integral part of modern life. How?</p>
         <p>= Social media has become an essential part of modern life because it allows people to communicate and interact instantly, no matter where they are in the world. It makes it easy to stay connected with friends, family, and colleagues, share information quickly, and access news and entertainment anytime. This constant connectivity has changed how we socialize, learn, and work.</p>
-        <p>c. Why do people use Facebook and YouTube?</p>
+        <p className='question'>c. Why do people use Facebook and YouTube?</p>
         <p>= People use Facebook to connect with friends and family, share news, photos, and updates through text and images. YouTube is popular for watching and sharing videos on a wide range of topics, including entertainment, education, tutorials, and more.</p>
-        <p>d. What is a blog? How can it be beneficial to us?</p>
+        <p className='question'>d. What is a blog? How can it be beneficial to us?</p>
         <p>= A blog is a regularly updated website or webpage, usually managed by an individual or a small group, where content is written in an informal or conversational style. Blogs can be beneficial because they help improve writing skills, allow us to share ideas and experiences, connect with others who have similar interests, and provide opportunities to learn new things.</p>
-        <p>e. Was Prita's intention bad when she sent a message to her friends?</p>
+        <p className='question'>e. Was Prita's intention bad when she sent a message to her friends?</p>
         <p>= No, Prita's intention was not bad when she sent the message to her friends. She only wanted to warn them to be careful when accepting different kinds of services, showing her concern for their well-being.</p>
-        <p>f. How did Prita's message become a big problem?</p>
+        <p className='question'>f. How did Prita's message become a big problem?</p>
         <p>= Prita's message became a big problem when her friend shared it on a public website called The People's Forum. This made the message visible to many people, including those it was not originally intended for, which caused misunderstandings and trouble for Prita.</p>
-        <p>g. Why was she convicted by the court?</p>
+        <p className='question'>g. Why was she convicted by the court?</p>
         <p>= She was convicted by the court for violating the law related to the use of Information and Communication Technology (ICT). The court found that her message, which was shared online, was against the rules governing the proper use of digital communication.</p>
-        <p>h. What was the purpose of the campaign, “Bantu Bebaskan Prita”?</p>
+        <p className='question'>h. What was the purpose of the campaign, “Bantu Bebaskan Prita”?</p>
         <p>= The purpose of the campaign “Bantu Bebaskan Prita” was to raise money to help Prita pay the fine imposed on her, so she could be freed from legal trouble. The campaign also aimed to support her fight for justice and raise awareness about digital rights.</p>
-        <p>i. How are people stronger than social media?</p>
+        <p className='question'>i. How are people stronger than social media?</p>
         <p>= People are stronger than social media because they have the ability to think critically before they act or speak. Unlike social media, which can spread information quickly without verification, people can use their judgment to decide what is true and what is not, making thoughtful choices despite the influence of online platforms.</p>
       </div>
       <hr/>
@@ -151,7 +151,7 @@ However, like everything, social media has both positive and negative sides. On 
       </div>
       <div>
         <h3>Writing</h3>
-        <p>What is cyber bullying? What are its effects? How can it be stopped?</p>
+        <p className='question'>What is cyber bullying? What are its effects? How can it be stopped?</p>
         <p>= Cyberbullying is the act of harassing, threatening, or humiliating someone through digital platforms like social media, text messages, emails, or online games. It includes harmful behaviors such as spreading false rumors, sending abusive messages, sharing private information without consent, or posting hurtful comments online. The effects of cyberbullying can be severe, leading to emotional distress, anxiety, depression, low self-esteem, and in extreme cases, even suicidal thoughts. Unlike physical bullying, cyberbullying can happen anytime and anywhere, making it hard for victims to escape.</p>
         <p>It is important to stop cyberbullying because it harms mental health, breaks confidence, and creates fear among victims. It damages relationships, learning environments, and overall well-being. If not addressed in time, it can have long-term consequences on a person's life. To stop cyberbullying, awareness must be spread among students, parents, and teachers. Children should be taught about safe online behavior from an early age. Parents must monitor their children's internet use, and schools should take action against online harassment. Victims must be encouraged to speak up and report incidents immediately. Strong laws, strict action by social media platforms, and responsible internet use are key to preventing cyberbullying and ensuring a safer digital space for all.</p>
       </div>

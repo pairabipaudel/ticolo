@@ -17,17 +17,17 @@ Later, Mrs. Baroda surprises her husband by saying she would be happy to have Go
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Why was Mrs. Baroda unhappy with the information about Gouvernail's visit to their farm?</p>
+        <p className='question'>a. Why was Mrs. Baroda unhappy with the information about Gouvernail's visit to their farm?</p>
         <p>= Mrs. Baroda was unhappy with the information about Gouvernail's visit to their farm because she had been looking forward to a period of unbroken rest and undisturbed conversation with her husband, Gaston. She had also never met Gouvernail before and was unsure about hosting a guest she did not know, especially during a time she had hoped to spend peacefully with her husband.</p>
-        <p>b. How was Gouvernail different from Mrs. Baroda's expectation?</p>
+        <p className='question'>b. How was Gouvernail different from Mrs. Baroda's expectation?</p>
         <p>= Mrs. Baroda had imagined Gouvernail to be a tall, slim, and cynical man, wearing eyeglasses and keeping his hands in his pockets. However, when she met him, he turned out to be quite different. Although he was slim, he was not very tall, nor was he cynical. He did not wear glasses or keep his hands in his pockets. Instead, he was quiet, courteous, and thoughtful—qualities that gradually made Mrs. Baroda feel unexpectedly drawn to him.</p>
-        <p>c. How does Mrs. Baroda compare Gouvernail with her husband?</p>
+        <p className='question'>c. How does Mrs. Baroda compare Gouvernail with her husband?</p>
         <p>= Mrs. Baroda compares Gouvernail with her husband mainly in terms of their personalities. Her husband, Gaston Baroda, is frank, sociable, and talkative, whereas Gouvernail is quiet, reserved, and thoughtful. She does not find the brilliant and promising qualities in Gouvernail that her husband had often praised. Although Gouvernail is polite and gentle, Mrs. Baroda considers him unsociable in comparison to her outgoing husband.</p>
-        <p>d. Why and how did Mrs. Baroda try to change Gouvernail's solitary habits?</p>
+        <p className='question'>d. Why and how did Mrs. Baroda try to change Gouvernail's solitary habits?</p>
         <p>= Mrs. Baroda was a frank and lively woman who wanted Gouvernail to be more open, talkative, and engaging, so that he would feel at home in their company. She tried to change his solitary habits by being friendly, straightforward, and offering warm, wordy hospitality, encouraging him to open up and participate more actively in conversations.</p>
-        <p>e. How does Gaston disagree with his wife on Gouvernail's character?</p>
-        <p>Mrs. Baroda was taking Gouvernail seriously and saw him as a less interesting and shy person. However, Gaston disagreed with his wife's view, saying that Gouvernail caused no trouble and disliked commotion. Gaston described Gouvernail as a remarkable, friendly, interesting, and talkative person, which contrasted with Mrs. Baroda's impression of him.</p>
-        <p>f. Why is Gaston surprised with his wife's expression towards the end of the story?</p>
+        <p className='question'>e. How does Gaston disagree with his wife on Gouvernail's character?</p>
+        <p>= Mrs. Baroda was taking Gouvernail seriously and saw him as a less interesting and shy person. However, Gaston disagreed with his wife's view, saying that Gouvernail caused no trouble and disliked commotion. Gaston described Gouvernail as a remarkable, friendly, interesting, and talkative person, which contrasted with Mrs. Baroda's impression of him.</p>
+        <p className='question'>f. Why is Gaston surprised with his wife's expression towards the end of the story?</p>
         <p>= Gaston is surprised with his wife's expression towards the end of the story because although she did not like Gouvernail's arrival at first, she later, entirely on her own, proposed that Gouvernail should visit them again. This change in her attitude was unexpected by Gaston.</p>
        </div>
        <div>
@@ -88,7 +88,7 @@ This story mirrors Kate Chopin's “A Respectable Woman,” where Mrs. Baroda al
        <hr/>
        <div>
         <p className='question'>b. Mrs. Baroda makes an expectation about Gouvernail even before meeting him. Suppose you are a mature girl/boy and your family members are giving you pressure for getting married. Write in about 200 words describing what qualities you would like to get in your future husband/wife.</p>
-        <p>= Marriage is a lifelong bond that should be based on love, trust, and understanding. It’s not just about two individuals living together but about building a life, a family, and a future. Since this decision greatly influences one's entire life, it should not be made in haste or under pressure.
+        <p>= Marriage is a lifelong bond that should be based on love, trust, and understanding. It's not just about two individuals living together but about building a life, a family, and a future. Since this decision greatly influences one's entire life, it should not be made in haste or under pressure.
 </p><p>
 If my family urges me to marry, I would like my future life partner to have the following qualities:
 </p><p>

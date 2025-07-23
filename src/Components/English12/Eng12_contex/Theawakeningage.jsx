@@ -13,17 +13,17 @@ const Theawakeningage = () => {
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following</p>
-        <p>a. Who are the people 'who travel the meridian line'?</p>
+        <p className='question'>a. Who are the people 'who travel the meridian line'?</p>
         <p>= The people "who travel the meridian line" are the Nigerians who have come together after Nigeria's long civil war, which divided the country into two parts: the North and the South. This line symbolizes the efforts to reunite the nation and overcome the divisions caused by the war.</p>
-        <p>b. What does the poet mean by 'a new world'?</p>
+        <p className='question'>b. What does the poet mean by 'a new world'?</p>
         <p>= By 'a new world,'' the poet refers to a hopeful and unified Nigeria that emerges after the civil war. This new world symbolizes peace, unity, truth, knowledge, creativity, and prosperity. It also represents a world of equality, where people are aware of the pain and suffering caused by poverty and are committed to building a better future together.</p>
-        <p>c. How are people connected to each other?</p>
+        <p className='question'>c. How are people connected to each other?</p>
         <p>= People are connected through a strong bond of hope and optimism, inspired by their shared history and struggles. They believe in their dreams and are united by a common desire to achieve peace, unity, and prosperity. This deep connection is rooted in their collective dedication to a better future.</p>
-        <p>d. What can we gain after our perceptions are changed? </p>
+        <p className='question'>d. What can we gain after our perceptions are changed? </p>
         <p>= When our perceptions are changed, we gain a new way of seeing the world, often called an awakening or an age of enlightenment. This shift allows us to move beyond pain and problems and embrace values like truth, unity, wisdom, creativity, and prosperity. A change in perception helps us turn challenges into opportunities and leads us toward harmony, love, and a deeper understanding of life.</p>
-        <p>e. How are we benefited by new people?</p>
+        <p className='question'>e. How are we benefited by new people?</p>
         <p>= We are benefited by new people in many ways. Their support, wisdom, creativity, and fresh perspectives help us achieve greater success and prosperity. By building bonds of unity and cooperation with them, we can explore new ideas, share knowledge, and work together to create a harmonious, disciplined, and flourishing nation.</p>
-        <p>f. Describe the rhyme scheme of this sonnet.</p>
+        <p className='question'>f. Describe the rhyme scheme of this sonnet.</p>
         <p>= The sonnet is composed of seven rhyming couplets, each containing two lines. The rhyme scheme is simple, pleasant, and sonorous, following the pattern AA BB CC DD EE FF GG. This consistent use of rhyming couplets gives the poem a smooth and rhythmic flow.</p>
       </div>
       <div>
@@ -94,7 +94,7 @@ Migration has become a burning issue in Nepal, affecting society on multiple lev
 </p><p>
 Conclusion
 </p><p>
-Migration is a complex issue with both benefits and drawbacks. While it can bring growth and opportunity, it can also leave deep scars in the social fabric of the origin country. In Nepal, the negative impacts—especially the social and emotional costs—are becoming increasingly visible. Therefore, it is crucial for the government and society to find a balance by creating domestic opportunities so that migration becomes a choice, not a necessity.</p>
+Migration is a complex issue with both benefits and drawbacks. While it can bring growth and opportunity, it can also leave deep scars in the social fabric of the origin country. In Nepal, the negative impacts—especially the social and emotional costs are becoming increasingly visible. Therefore, it is crucial for the government and society to find a balance by creating domestic opportunities so that migration becomes a choice, not a necessity.</p>
       </div>
     </div>
   )

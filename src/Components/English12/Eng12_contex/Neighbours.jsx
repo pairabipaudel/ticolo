@@ -17,22 +17,22 @@ The story highlights how people from different backgrounds, languages, and custo
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Describe how the young couple's house looked like.</p>
+        <p className='question' >a. Describe how the young couple's house looked like.</p>
         <p>=  The young couple's house looked like a small cottage, with its high ceilings and paned windows giving it an elegant and charming appearance. Although it was not luxurious or high-standard, it was cosy and perfectly suitable for a simple and comfortable life.</p>
 
-        <p>b. How did the young couple identify their neighbors in the beginning of their arrival?</p>
+        <p className='question'>b. How did the young couple identify their neighbors in the beginning of their arrival?</p>
         <p>= In the beginning, the young couple identified their neighbours by the sounds of spitting, washing, and daybreak watering. These unfamiliar habits made them feel like sojourners in a foreign land.</p>
 
-        <p>c. How did the neighbors help the young couple in the kitchen garden?</p>
+        <p className='question'>c. How did the neighbors help the young couple in the kitchen garden?</p>
         <p>= The neighbours helped the young couple in the kitchen garden by advising them on spacing, hilling, and mulching. The Polish widower also helped the young man rebuild their henhouse. In addition, a large woman with black eyes and butcher's arms gave the young woman a bagful of garlic cloves to plant.</p>
-        <p>d. Why were the people in the neighborhood surprised at the role of the young man and his wife in their family?</p>
+        <p className='question'>d. Why were the people in the neighborhood surprised at the role of the young man and his wife in their family?</p>
         <p>= The people in the neighborhood were surprised because the young man stayed at home, working on his thesis and doing household chores, while his wife worked at a hospital and returned home late. This role reversal was unusual in their community, where it was uncommon for men to remain at home while women worked outside.</p>
-        <p>e. How did the neighbors respond to the woman's pregnancy?  </p>
+        <p className='question'>e. How did the neighbors respond to the woman's pregnancy?  </p>
         <p>= The neighbours responded very positively to the woman's pregnancy. They smiled warmly and offered small gifts such as chocolates from the man in the deli and packets of cigarettes for her husband. During the summer, Italian women suggested baby names, while Greek women stopped her in the street, lifted her skirt to feel her belly, and predicted it would be a boy. By late summer, the woman next door had knitted a baby suit complete with booties and a beanie. Even the Polish widower was nearly finished building his two-car garage, showing the joyful and supportive atmosphere in the neighbourhood.</p>
 
-        <p>f. Why did the young man begin to weep at the end of the story?</p>
+        <p className='question'>f. Why did the young man begin to weep at the end of the story?</p>
         <p>= The young man began to weep at the end of the story because he was deeply moved by the unexpected kindness and support of his neighbours. When his baby was born, he saw a small group of tired but joyful faces cheering at the back fence. Their genuine happiness and warm response touched him emotionally, making him realise the strength of human connection beyond cultural and language differences.</p>
-        <p>g. Why do you think the author did not characterize the persons in the story with proper names?</p>
+        <p className='question'>g. Why do you think the author did not characterize the persons in the story with proper names?</p>
         <p>= I think the author did not give the characters proper names because he wanted to present them as universal figures, not limited to a specific identity or background. By keeping them unnamed, the author highlights that the experiences of cultural misunderstanding, adaptation, and human connection are common to many people living in multicultural societies. This helps to convey the message that humanity, empathy, and community can exist despite differences in language, culture, and tradition.</p>
       </div>
       <div>

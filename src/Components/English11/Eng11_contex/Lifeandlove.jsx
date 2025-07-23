@@ -71,23 +71,23 @@ const Lifeandlove = () => {
       <div>
         <h3>Understanding the text</h3>
         <p className='question'>Answer these questions.</p>
-        <p>a. Who was Nellie? What did she use to dream of?</p>
+        <p className='question'>a. Who was Nellie? What did she use to dream of?</p>
         <p>= Nellie was a young and pretty girl, the daughter of a landowner and a general. She used to dream of getting married and living a happy and peaceful life with her future husband.</p>
-        <p>b. What was she doing with the looking glass?</p>
+        <p className='question'>b. What was she doing with the looking glass?</p>
         <p>= She was staring into the looking glass with tired, half-closed eyes, imagining herself as a wife and mother, lost in her daydreams about the future.</p>
-        <p>c. Why did she go to the doctor on one winter night?</p>
+        <p className='question'>c. Why did she go to the doctor on one winter night?</p>
         <p>= She went to the doctor on one winter night because her husband had fallen seriously ill and needed immediate medical attention.</p>
-        <p>d. What was Stepan Lukitch doing when she reached his bedroom?</p>
+        <p className='question'>d. What was Stepan Lukitch doing when she reached his bedroom?</p>
         <p>= Stepan Lukitch was lying in his bed, coughing and shivering with a fever, clearly unwell himself when she reached his bedroom.</p>
-        <p>e. Why was the doctor not ready to go to see her husband?</p>
+        <p className='question'>e. Why was the doctor not ready to go to see her husband?</p>
         <p>= The doctor was not ready to go to see her husband because he was extremely exhausted and sick himself after treating typhus patients continuously for the past three days.</p>
-        <p>f. Why did Stepan Lukitch suggest Nellie to go to the Zemstvo doctor?</p>
+        <p className='question'>f. Why did Stepan Lukitch suggest Nellie to go to the Zemstvo doctor?</p>
         <p>= Stepan Lukitch suggested Nellie to go to the Zemstvo doctor because he was too ill to travel and believed the Zemstvo doctor might be able to help her husband immediately.</p>
-        <p>g. Nellie said, “Come, perform that heroic deed! Have pity on us!" What was that pity to be done?</p>
+        <p className='question'>g. Nellie said, “Come, perform that heroic deed! Have pity on us!" What was that pity to be done?</p>
         <p>= The pity to be done was for the doctor to gather the strength to visit and treat Nellie's seriously ill husband despite being sick himself.</p>
-        <p>h. When Nellie said, "I must have fallen asleep." What does it mean?</p>
+        <p className='question'>h. When Nellie said, "I must have fallen asleep." What does it mean?</p>
         <p>= It means that Nellie realized she had been lost in her imaginary world, and now she was waking up to face the harsh realities of real life.</p>
-        <p>i. What is the main theme of the story?</p>
+        <p className='question'>i. What is the main theme of the story?</p>
         <p>= The main theme of the story is the contrast between romantic dreams and harsh reality, highlighting devotion, loneliness, fear, and the emotional strength a person gains when facing real-life challenges.</p>
       </div>
       <hr/>
@@ -111,18 +111,24 @@ const Lifeandlove = () => {
         <p>a. A: What do you want to take?</p>
         <p>B: I'll have tea, please.</p>
         <p>Deciding</p>
+        <br/>
         <p>b. A: Are you free this evening?</p>
         <p>B: No, I'm going to meet my uncle.</p>
         <p>Expressing a prior plan</p>
+        <br/>
         <p>c. The day will be lovely tomorrow.</p>
         <p>Predicting a future action</p>
+        <br/>
         <p>d. There is no cloud in the sky.</p>
         <p>It's going to be a lovely day.</p>
         <p>Predicting with evidence</p>
+        <br/>
         <p>e. Don't worry. I won't tell anyone.</p>
         <p>Promising</p>
+        <br/>
         <p>f. I'll take you to the movies if you like.</p>
         <p>Offering</p>
+        <br/>
         <p>g. I'll tell your parents what you did.</p>
         <p>Threatening</p>
       </div>

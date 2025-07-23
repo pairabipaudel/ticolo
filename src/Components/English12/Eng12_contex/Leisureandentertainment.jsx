@@ -25,32 +25,37 @@ const Leisureandentertainment = () => (
         <div>
             <p className='question'>B. Look up the meanings of the following words in your dictionary.</p>
             <p>Amenities: a feature that makes something more pleasant or comfortable.</p>
+            <br/>
             <p>Exquisite: extremely beautiful or carefully made.</p>
+            <br/>
             <p>Etiquette: the formal rules of correct or polite behavior in society or among members of a particular profession.</p>
+            <br/>
             <p>Accommodation: a place to live, work or stay in; or an agreement or arrangement made to help someone.</p>
+            <br/>
             <p>Mainstay: a person or thing on which something else is based or depends.</p>
+            <br/>
             <p>Antique: a collectable object such as a piece of furniture or work of art that has a high value because of its age and quality.</p>
         </div>
         <div>
             <hr />
             <h3>Comprehension</h3>
             <p className='question'>Answer the following questions.</p>
-            <p>a. Why did the author and his classmates decide to visit Bandipur?</p>
+            <p className='question'>a. Why did the author and his classmates decide to visit Bandipur?</p>
             <p>= The author and his classmates decided to visit Bandipur because they were tired of the busy and stressful life in Kathmandu. They wanted to take a break from the hectic city environment and enjoy the peaceful and beautiful surroundings of Bandipur.</p>
 
-            <p>b. What is special about Bandipur?</p>
+            <p className='question'>b. What is special about Bandipur?</p>
             <p>= Bandipur is special because it preserves the charm of old Nepal. It is a beautiful Newar town with cool, cobbled streets where traditional culture and lifestyle are still alive. Unlike many modern places, Bandipur offers a peaceful atmosphere that reflects Nepal's rich history and heritage.</p>
 
-            <p>c. How has the business changed in Bandipur today?</p>
+            <p className='question'>c. How has the business changed in Bandipur today?</p>
             <p>= Today, the traditional types of business in Bandipur, such as farming and local trade, have largely shifted towards tourism-related activities. Many people in Bandipur now run hotels, restaurants, and shops catering to visitors. This change has made tourism the main source of income for the town, bringing new opportunities and challenges to the local community.</p>
 
-            <p>d. Why do the local people who have migrated to Kathmandu visit Bandipur time and again?</p>
+            <p className='question'>d. Why do the local people who have migrated to Kathmandu visit Bandipur time and again?</p>
             <p>= The local people who have moved to Kathmandu visit Bandipur again and again because they want to escape the busy and stressful life of the city. Bandipur offers them a peaceful and calm environment where they can relax and reconnect with their roots and culture. Visiting Bandipur helps them find comfort and relief from the hectic pace of urban life.</p>
 
-            <p>e. How do the local people learn to speak English in Bandipur?</p>
+            <p className='question'>e. How do the local people learn to speak English in Bandipur?</p>
             <p>= The local people in Bandipur learn to speak English by interacting with the local school children. Since the children study English at school, they help their parents and other adults practice and improve their English skills through daily conversations and communication. This way, the community gradually becomes more familiar with the language.</p>
 
-            <p>f. What does the author mean when he says that 'time stops in the town of Bandipur'?</p>
+            <p className='question'>f. What does the author mean when he says that 'time stops in the town of Bandipur'?</p>
             <p>= When the author says that “time stops in the town of Bandipur,” he means that the peaceful and timeless beauty of the town makes visitors forget about the fast pace of modern life. The natural scenery, traditional lifestyle, and calm atmosphere capture people's attention so deeply that they feel as if time has paused, allowing them to fully enjoy the moment and the town's original charm.</p>
         </div>
         <div>
@@ -70,11 +75,11 @@ const Leisureandentertainment = () => (
             <hr />
             <h3>Writing</h3>
             <p className='question'>Write a letter to a business organization overseas describing the prospects of the tourism industry in your local place. Consider the following points in the letter.</p>
-            <p>Propose to venture in tourism business</p>
-            <p>Persuade the organization head to visit the place once.</p>
-            <p>Clearly dig out the specialties and potentialities of the place.</p>
-            <p>Explain its archaeological and historical importance.</p>
-            <p>=Parvati Gupta</p><p>
+            <p className='question'>Propose to venture in tourism business</p>
+            <p className='question'>Persuade the organization head to visit the place once.</p>
+            <p className='question'>Clearly dig out the specialties and potentialities of the place.</p>
+            <p className='question'>Explain its archaeological and historical importance.</p>
+            <p>Parvati Gupta</p><p>
 Illam-56700</p><p>
 Nepal</p><p>
 <br/>
@@ -110,28 +115,42 @@ parvati_gupta@gmail.com</p>
             </p>
             <p>a. He has obtained full mark/marks.</p>
              <p>marks</p>
+             <br/>
             <p>b. More than two boys were/was absent.</p>
                <p>were</p>
+               <br/>
             <p>c. One of the boy/boys was not found there.</p>
             <p>boys</p>
+            <br/>
             <p>d. His wonder knew no bounds/bound.</p>
             <p>bounds</p>
+            <br/>
             <p>e. I give you my words/word.</p>
             <p>word</p>
+            <br/>
             <p>f. He gave me much/many good advice/advices.</p>
             <p>much  advice</p>
+            <br/>
             <p>g. He gave wrong information/informations.</p>
             <p>information</p>
+            <br/>
         <p>h. Give me two dozens/dozen eggs.</p>
         <p>dozen</p>
+        <br/>
         <p>i. Six miles is/are a long distance.</p>
         <p>is</p>
+        <br/>
         <p>j. The clock has struck four hours/hour.</p>
         <p>hours</p>
+        <br/>
+
         <p>k. Would you lend me a ten rupees/rupee note?</p>
         <p>rupee</p>
+        <br/>
+
         <p>l. Nepal government makes five year/years development plan.</p>
         <p>year</p>
+        <br/>
         <p>m. They went to Singapore on a four days/day trip.</p>
         <p>day</p>
         </div>
@@ -140,22 +159,31 @@ parvati_gupta@gmail.com</p>
             <p className='question'>B. Which of the sentence is correct in each pair? Rewrite the correct one.</p>
             <p>a. My all books are lost. All my books are lost.</p>
             <p>= All my books are lost.</p>
+            <br/>
             <p>b. His both brothers are ill. Both his brothers are ill.</p>
             <p>= Both his brothers are ill.</p>
+            <br/>
             <p>c. Give me a hundred rupee. Give a hundred rupees.</p>
             <p>= Give me a hundred rupee.</p>
+            <br/>
             <p>d. Everybody except me was absent. Everybody except I was absent.</p>
             <p>= Everbody except me was absent.</p>
+            <br/>
             <p>e. He was died of fever. He died of fever.</p>
             <p>= He died of fever.</p>
+            <br/>
             <p>f. It is raining for a week. It has been raining for a week.</p>
             <p>= It has been raining for a week.</p>
+            <br/>
             <p>g. I have seen my friend long ago. I saw my friend long ago.</p>
             <p>= I saw my friend long ago.</p>
+            <br/>
             <p>h. My friend has gone out before I arrived. My friend had gone out before I arrived.</p>
             <p>= My friend had gone out before I arrived.</p>
+            <br/>
             <p>i. He said he has never seen him before. He said he had never seen him before.</p>
             <p>= He said he had never seen him before.</p>
+            <br/>
             <p>j. He assured he will come. He assured he would come.</p>
             <p>= He assured he would come.</p>
         </div>

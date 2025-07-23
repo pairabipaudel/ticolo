@@ -7,63 +7,63 @@ const Sports = () => {
         <h3>Working with words</h3>
         <p className='question'>A. Many English words are from other languages, such as redemption in the news above comes from the Latin word redimere, a combination of re(d)-, meaning 'black', and emere, meaning 'buy.'</p>
         <p>Now, find out the origin and the meaning of the following words from the text.</p>
-        <h4>Penalty</h4>
+        <p className='question'>Penalty</p>
         <p>origin: poena </p>
         <p>meaning: punishment</p>
 
-        <h4>Major</h4>
+        <p className='question'>Major</p>
         <p>origin: maior</p>
         <p>meaning: greater in importance, size, or seriousness</p>
 
-        <h4>Stadium</h4>
+        <p className='question'>Stadium</p>
         <p>origin: stadion </p>
         <p>meaning: a measure of length</p>
 
-        <h4>Trophy</h4>
+        <p className='question'>Trophy</p>
         <p>origin: tropaion</p>
         <p>meaning: a monument set up on a battlefield to celebrate a victory</p>
 
-        <p>Defender</p>
+        <p className='question'>Defender</p>
         <p>origin: defendere</p>
         <p>meaning: to ward off, protect</p>
 
-        <p>Anthem</p>
+        <p className='question'>Anthem</p>
         <p>origin: antiphona</p>
         <p>meaning: formal or patriotic song, especially one adopted by a country as its official national song</p>
 
-        <p>Dejection</p>
+        <p className='question'>Dejection</p>
         <p>origin: deicere</p>
         <p>meaning: to throw down</p>
 
-        <p>Jubilant</p>
+        <p className='question'>Jubilant</p>
         <p>origin: jubilare</p>
         <p>meaning: to shout for joy</p>
 
-        <p>Record</p>
+        <p className='question'>Record</p>
         <p>origin: recordari</p>
         <p>meaning: to remember</p>
 
-        <p>Suave</p>
+        <p className='question'>Suave</p>
         <p>origin: suavis</p>
         <p>meaning: pleasant to the senses or mind</p>
 
-        <p>Podium</p>
+        <p className='question'>Podium</p>
         <p>origin: podion</p>
         <p>meaning: a raised platform used by a speaker, performer, or winner to stand on and be seen clearly by an audience</p>
 
-        <p>Tournament</p>
+        <p className='question'>Tournament</p>
         <p>origin: tornare</p>
         <p>meaning: a series of contests or competitions</p>
 
-        <p>Reminiscent</p>
+        <p className='question'>Reminiscent</p>
         <p>origin: reminiscens</p>
         <p>meaning: making you think of the past</p>
 
-        <p>Incredible</p>
+        <p className='question'>Incredible</p>
         <p>origin: incredibilis</p>
         <p>meaning: something that is hard to believe because it's extremely good</p>
 
-        <p>Savor</p>
+        <p className='question'>Savor</p>
         <p>origin: sapere</p>
         <p>meaning: to enjoy something slowly and fully, especially taste, smell, or a pleasant experience</p>
 
@@ -97,17 +97,17 @@ const Sports = () => {
       <div>
         <hr/>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. What does the reporter say that England is waiting to heal its half-century long pain?</p>
+        <p className='question'>a. What does the reporter say that England is waiting to heal its half-century long pain?</p>
         <p>= The reporter says that England is waiting to heal its half-century-long pain because England has not won any major international football title since their first and only World Cup win in 1966. This long period without a trophy has caused disappointment, and England is eager to overcome this and win again.</p>
-        <p>b. How did the Italian players react as soon as they became the champions?</p>
+        <p className='question'>b. How did the Italian players react as soon as they became the champions?</p>
         <p>= The Italian players reacted to becoming champions by celebrating joyfully with their fans, running and diving to the ground in excitement. At the same time, some of them shouted into a TV camera, mocking England's anthem by saying, “It's coming, Rome,” instead of England's “It's coming home.”</p>
-        <p>c. Why did Saka and Sancho cry?</p>
+        <p className='question'>c. Why did Saka and Sancho cry?</p>
         <p>= Bukayo Saka and Jadon Sancho cried because they missed their penalties in the shootout during the Euro Cup 2020 final, which led to England losing the match against Italy. Their missed penalties caused great disappointment and sadness</p>
-        <p>d. Penalty shoot-out has long been a bitter experience for the English team. Why?</p>
+        <p className='question'>d. Penalty shoot-out has long been a bitter experience for the English team. Why?</p>
         <p>= Penalty shoot-outs have been a bitter experience for the English football team because they have lost several important matches in major tournaments due to missed penalties. In years like 1990, 1996, 1998, 2004, 2006, and 2012, England faced heartbreak by losing in penalty shootouts, which caused repeated disappointment for the team and fans.</p>
-        <p>e. State the contribution of Roberto Mancini to the Italian football.</p>
+        <p className='question'>e. State the contribution of Roberto Mancini to the Italian football.</p>
         <p>= Roberto Mancini made a huge contribution to Italian football by transforming the team from a low point when they failed to qualify for the World Cup into the best team in Europe. Under his leadership, Italy set a national record of 34 unbeaten games. Mancini brought great confidence, strong guidance, and teamwork to the squad which helped Italy win the Euro Cup 2020, adding to the country's prestigious football history.</p>
-        <p>f. How does the Euro Cup final 2020 remind the audiences of the 2018 World Cup semifinals? How?</p>
+        <p className='question'>f. How does the Euro Cup final 2020 remind the audiences of the 2018 World Cup semifinals? How?</p>
         <p>=The Euro Cup Final 2020 reminds audiences of the 2018 World Cup semifinals because in both matches, England scored early but then had to spend most of the game chasing their opponent's midfield. In 2018, England scored early against Croatia but struggled to control the midfield and eventually lost in extra time. Similarly, in the Euro Cup final, Italy's midfield controlled the game, forcing England to defend deeply, just like Croatia did in 2018. This similar strategy made the 2020 final feel like a repeat of that earlier match.</p>
       </div>
       <hr/>
@@ -132,21 +132,24 @@ In conclusion, while playing at home usually supports the team by boosting confi
       <hr/>
       <h3>Writing</h3>
       <p className='question'>The following passage does not have any punctuation marks. Punctuate it with appropriate punctuation marks.</p>
-      <p>a lot of people try to get away from home for a few days each year for a holiday there are lots of things to choose from and where ou go depends on how much money you have got to spend ideas for holidays include relaxing on a beach exploring cities and skiing one man wanted to go to australia but though hed never have enough money to get there he will go to his brother caravan at the seaside instead a yound woman wanted to go clubbing in Ibiza as shed heard its a lot of fun</p>
+      <br/>
+      <p className='question'>a lot of people try to get away from home for a few days each year for a holiday there are lots of things to choose from and where ou go depends on how much money you have got to spend ideas for holidays include relaxing on a beach exploring cities and skiing one man wanted to go to australia but though hed never have enough money to get there he will go to his brother caravan at the seaside instead a yound woman wanted to go clubbing in Ibiza as shed heard its a lot of fun</p>
       <p>= A lot of people try to get away from home for a few days each year for a holiday. There are lots of things to choose from, and where you go depends on how much money you have got to spend. Ideas for holidays include relaxing on a beach, exploring cities, and skiing. One man wanted to go to Australia but thought he'd never have enough money to get there. He will go to his brother's caravan at the seaside instead. A young woman wanted to go clubbing in Ibiza, as she'd heard it's a lot of fun.</p>
       <div>
         <hr/>
       <p className='question'>B. Write a news story based on the given information.</p>
-      <h4>Argentina beat Brazil to win Copa America</h4>
-      <p>by Reuters</p>
-      <p>RIO DE JANEIRO, July 10</p>
-      <p>first major title in 28 years</p>
-      <p>first medal for Lionel Messi in a blue-and-white shirt</p>
-      <p>Di Maria goal gave them a 1-0 win over Brazil</p>
-      <p>15th Copa America equal to Brazil</p>
-      <p>Brazil piled on the pressure but they could not get an equaliser</p>
-      <p>Brazil - more aggressive in the second half</p>
-      <p>Argentine defence - outstanding</p>
+      <br/>
+      <p className='question'>Argentina beat Brazil to win Copa America</p>
+      <p className='question'>by Reuters</p>
+      <p className='question'>RIO DE JANEIRO, July 10</p>
+      <p className='question'>first major title in 28 years</p>
+      <p className='question'>first medal for Lionel Messi in a blue-and-white shirt</p>
+      <p className='question'>Di Maria goal gave them a 1-0 win over Brazil</p>
+      <p className='question'>15th Copa America equal to Brazil</p>
+      <p className='question'>Brazil piled on the pressure but they could not get an equaliser</p>
+      <p className='question'>Brazil - more aggressive in the second half</p>
+      <p className='question'>Argentine defence - outstanding</p>
+      <br/>
       <p>=Argentina beat Brazil to win Copa America</p><p>
 By Reuters</p><p>
 RIO DE JANEIRO, July 10</p><p>

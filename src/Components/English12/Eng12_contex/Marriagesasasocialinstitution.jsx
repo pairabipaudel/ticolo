@@ -6,20 +6,20 @@ const Marriagesasasocialinstitution = () => {
       <div>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. According to the author, what is marriage?</p>
+        <p className='question'>a. According to the author, what is marriage?</p>
         <p>= According to the author, marriage is a close and long-lasting relationship between two people. It is defined by legal rules, moral values, and social traditions. It is more than just living together, it includes love, trust, and commitment.</p>
-        <p>b. How is marriage an institution?</p>
+        <p className='question'>b. How is marriage an institution?</p>
         <p>= Marriage is considered an institution because it is a structured and organized part of society that serves many important functions. It helps meet social, emotional, economic, and legal needs between two people. Marriage is also connected with other institutions like education, the economy, and politics. It helps create families, support children, and maintain social order, making it a key part of how society works.</p>
-        <p>c. What are the rules that a marriage has?</p>
+        <p className='question'>c. What are the rules that a marriage has?</p>
         <p>= Marriage has a set of well-understood rules that help guide and maintain the relationship between spouses within society. These rules include legal rights and responsibilities, moral expectations, and social boundaries. They help organize the couple's life together by setting limits on behavior, ensuring loyalty, and distinguishing marriage from other types of relationships. These rules support the stability and purpose of marriage as a lasting union.</p>
-        <p>d. Why does marriage matter to men?</p>
+        <p className='question'>d. Why does marriage matter to men?</p>
         <p>= Marriage matters to men because it gives structure, direction, and meaning to their lives. It helps organize their goals and ambitions, making them more responsible in areas like family, work, and community. Through marriage, men often become more focused, committed, and settled. It encourages personal growth, emotional stability, and a sense of purpose, helping them live as responsible and civilized members of society.</p>
-        <p>e. What is one of the central problems in modern society?</p>
+        <p className='question'>e. What is one of the central problems in modern society?</p>
         <p>= One of the central problems in modern society is setting proper and acceptable boundaries around the desires of modern individuals, such as the pursuit of well-being, comfort, luxury, and prestige. These desires can often become excessive, and without clear limits, they may lead to selfishness or imbalance in life and relationships.</p>
-        <p>f. What does social capital consist of</p>
+        <p className='question'>f. What does social capital consist of</p>
         <p>= Social capital consists of wide networks of individuals who are connected through mutual trust, reliability, and cooperation. These relationships help build strong communities by supporting shared values and social responsibilities.</p>
-        <p>g. What is normative marriage? Explain.</p>
-        <p>= Normative marriage is a type of marriage that follows the established norms, values, and traditions of a society. It is considered a form of social control because it helps guide people's behavior and aspirations in an acceptable and structured way. This kind of marriage is more than just a private relationship between two people—it reflects the collective expectations of the community. For example, in the context of the United States, normative marriage is typically defined by six key features: it is entered into voluntarily by mature adults, involves a heterosexual couple, expects the husband to be the main earner, requires sexual faithfulness between the partners, and includes the expectation of parenthood. These characteristics distinguish normative marriage from other personal or intimate relationships, making it a powerful social institution.</p>
+        <p className='question'>g. What is normative marriage? Explain.</p>
+        <p>= Normative marriage is a type of marriage that follows the established norms, values, and traditions of a society. It is considered a form of social control because it helps guide people's behavior and aspirations in an acceptable and structured way. This kind of marriage is more than just a private relationship between two people, it reflects the collective expectations of the community. </p><p>For example, in the context of the United States, normative marriage is typically defined by six key features: it is entered into voluntarily by mature adults, involves a heterosexual couple, expects the husband to be the main earner, requires sexual faithfulness between the partners, and includes the expectation of parenthood. These characteristics distinguish normative marriage from other personal or intimate relationships, making it a powerful social institution.</p>
       </div>
       <div>
         <hr/>
@@ -44,7 +44,7 @@ In summary, while the core idea of marriage as a union exists across cultures, t
         <hr/>
         <h3>Reference beyond the text</h3>
         <p className='question'>a. Write an essay on the marriage practice in your own culture.</p>
-        <p>= Marriage Practice in My Culture</p><p>
+        <p>Marriage Practice in My Culture</p><p>
 
 Marriage is the social, spiritual, cultural, and legal union between a man and a woman as husband and wife. In Nepal, a country rich in cultural diversity, marriage practices vary among different ethnic and tribal groups. However, the majority of marriages follow either Hindu or Buddhist traditions. I belong to the Hindu community, and in my culture, marriage is considered a sacred religious sacrament rather than just a social contract.
 </p><p>

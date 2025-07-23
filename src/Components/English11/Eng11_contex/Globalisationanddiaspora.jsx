@@ -23,11 +23,17 @@ const Globalisationanddiaspora = () => {
       <div>
         <p className='question'>C. Fill in the gaps with the correct word from the brackets.</p>
         <p>a. I asked him if he was attending the ceremony and he <strong>shook</strong> his head 'no'. (shook/moved/ nodded)</p>
+        <br/>
         <p>b. They made a horrible decision which caused <strong>irreparable</strong> damage to our company. (hopeless/inflexible/irreparable)</p>
+        <br/>
         <p>c. The leaders need to break down <strong>barriers</strong> so as to create favorable environment in the nation. (barriers/obstacles/hindrances)</p>
+        <br/>
         <p>d. You ought to talk to the manager to <strong>settle</strong> the dispute. (solve/settle/clear up)</p>
+        <br/>
         <p>e. Perhaps this issue will not get much media <strong>coverage</strong>. (security/examination/ coverage)</p>
+        <br/>
         <p>f. This week is the first week of Joan as an in-charge. Everything is running <strong>smoothly</strong>. (smoothly/calmly/easily)</p>
+        <br/>
         <p>g. I haven't read the text thoroughly, but given a <strong>quick</strong> glance. (fast/quick/rapid)</p>
       </div>
       <hr/>

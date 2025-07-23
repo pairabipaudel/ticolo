@@ -15,21 +15,21 @@ Both men suffer from the poison's effects and die beside each other, their greed
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a.Describe the expository scene of the story.</p>
+        <p className='question'>a.Describe the expository scene of the story.</p>
         <p>= The story opens with two treasure hunters, Evans and Hooker, approaching the land in a canoe. As they move closer, they see a thick and dense green forest, a sloping hill, and a small river flowing into the sea. The setting paints a vivid picture of a wild, natural environment where the treasure hunt is about to begin.</p>
-        <p>b.What does the map look like and how do Evan and Hooker interpret it?</p>
+        <p className='question'>b.What does the map look like and how do Evan and Hooker interpret it?</p>
         <p>= The map looks very old, rough, creased, and worn out from folding, with some parts almost tearing. It has twisting lines, stars, and dotted lines. Evan interprets the twisting lines as a river and the star as the exact location of the treasure. On the other hand, Hooker focuses on the dotted lines and straight lines, seeing them as paths leading to the lagoon. Both interpret different parts of the map according to their own understanding.</p>
-        <p>c.How did Evan and Hooker know about the treasure?</p>
+        <p className='question'>c.How did Evan and Hooker know about the treasure?</p>
         <p>= Evan and Hooker learned about the treasure by overhearing a secret conversation between Chinese men and by obtaining the map that showed the location of the treasure.</p>
-        <p>d.Describe Evan's dream.</p>
+        <p className='question'>d.Describe Evan's dream.</p>
         <p>= During their journey, Evan began to doze and had a vivid dream. In the dream, he found himself in a forest near a small fire where three Chinese men were sitting and speaking quietly in English. Evan moved closer and learned that Chang-hi had taken gold from a Spanish galleon that had been shipwrecked and had carefully hidden it on the island. Chang-hi had worked alone, keeping the treasure a secret, but now he wanted help to retrieve it. Suddenly, there was a fierce battle, and Chang-hi was brutally killed by the others. Just as Evan heard someone calling his name, he suddenly woke up.</p>
-        <p>e.What do the two treasure hunters see when they walk towards the island?</p>
+        <p className='question'>e.What do the two treasure hunters see when they walk towards the island?</p>
         <p>= As the two treasure hunters walk towards the island, they see three palm trees lined up near the mouth of a stream, surrounded by thick bushes and dim white flowers. They also discover the dead body of a Chinese man named Chang-hi, which surprises them greatly. Additionally, they notice a gap in the dense forest where shafts of sunlight filter through, lighting the somber surroundings.</p>
-        <p>f.In what condition did the treasure hunters find the dead man?</p>
+        <p className='question'>f.In what condition did the treasure hunters find the dead man?</p>
         <p>= When Evan and Hooker reached the place where the treasure was buried, they found a dead man lying in a clear space among the trees. The man's neck was puffed and purple, and his hands and ankles were swollen, indicating that he had suffered severe physical distress before his death.</p>
-        <p>g.How did the treasure hunters try to carry gold ingots to the canoe?</p>
+        <p className='question'>g.How did the treasure hunters try to carry gold ingots to the canoe?</p>
         <p>= The treasure hunters, having no proper container to carry the gold ingots, used a coat to transport them. Hooker held one end of the coat's collar while Evan held the other, allowing them to lift and carry the gold ingots together to the canoe.</p>
-        <p>h.How were Evan and Hooker poisoned?</p>
+        <p className='question'>h.How were Evan and Hooker poisoned?</p>
         <p>= Evan and Hooker were poisoned when a slender, nearly two-inch-long thorn pricked Hooker's thumb. As Evan rolled over him, both of them collapsed to the ground, suffering greatly from the effects of the poison that entered their bodies through the puncture wound.</p>
       </div>
       <div>

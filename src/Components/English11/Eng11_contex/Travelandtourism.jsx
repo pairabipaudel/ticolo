@@ -18,16 +18,22 @@ const Travelandtourism = () => {
         <p className='question'>B. Find the meanings of the following words in an English dicitonary, write their word classes and use them in your own sentences.</p>
         <p>a. hazy (adjective): not clear because of haze, fog, or confusion</p>
         <p>The mountain looked beautiful even though it was hazy in the morning light.</p>
+        <br/>
         <p>b. frontier (Noun): a border between two countries or the edge of a settled area</p>
         <p>Scientists are constantly pushing the frontier of medical research to find new cures.</p>
+        <br/>
         <p>c. lush (adjective) :full of healthy green plants; rich and beautiful.</p>
         <p>The garden looked lush after the rain.</p>
+        <br/>
         <p>d. flipflops (noun) :light, open sandals typically worn in warm weather</p>
         <p>I wore my flip-flops to the beach.</p>
+        <br/>
         <p>e. altitude (noun) : the height of something above sea level or ground level.</p>
         <p>The airplane reached an altitude of 30,000 feet during the flight.</p>
+        <br/>
         <p>f. fatal (adjective) :causing death or leading to disaster</p>
         <p>The car accident was fatal, and sadly, the driver did not survive.</p>
+        <br/>
         <p>g. magnificent (adjective) :very beautiful, impressive, or grand.</p>
         <p>The view from the mountain was absolutely magnificent.</p>
       </div>
@@ -142,36 +148,52 @@ In conclusion, tourism is very important for Nepal. It helps in economic develop
         <p className='question'>C. Change the following sentences into passive.</p>
         <p>a. I didn't fix the problem.</p>
         <p>= The problem wasn't fixed by me.</p>
+        <br/>
         <p>b. Police protect the town.</p>
         <p>= The town is protected by the police.</p>
+        <br/>
         <p>c. John's mother raised him in a small town.</p>
         <p>= He was raised in a small town by John's mother.</p>
+        <br/>
         <p>d. Someone painted the building last year.</p>
         <p>= The building was painted last year.</p>
+        <br/>
         <p>e. Alexander Fleming discovered penicillin in 1928.</p>
         <p>= Penicillin was discovered in 1928 by Alexander Fleming.</p>
+        <br/>
         <p>f. Some students study grammar on the Internet.</p>
         <p>= Grammar is studied on the Internet by some students.</p>
+        <br/>
         <p>g. Someone had broken the window by 3:00 p.m.</p>
         <p>= The window had been broken by 3:00 p.m.</p>
+        <br/>
         <p>h. A strange man was watching us.</p>
         <p>= We were being watched by a strange man.</p>
+        <br/>
         <p>i. Tokyo will hold the Olympics in 2020.</p>
         <p>= The Olympics will be held in 2020 by Tokyo.</p>
+        <br/>
         <p>j. We are working on the report right now.</p>
         <p>= The report is being worked on right now by us.</p>
+        <br/>
         <p>k. My manager has told him to arrive earlier.</p>
         <p>= He has been told to arrive earlier by my manager.</p>
+        <br/>
         <p>l. They could not have made the mistake.</p>
         <p>= The mistake could not have been made by them.</p>
+        <br/>
         <p>m. I hope they are going to hire me soon.</p>
         <p>= I hope I am going to be hired soon by them.</p>
+        <br/>
         <p>n. I don't like people staring at me.</p>
         <p>= I don't like being stared at.</p>
+        <br/>
         <p>o. She likes people waving at her.</p>
         <p>= She likes being waved at.</p>
+        <br/>
         <p>p. Who told you the story?</p>
         <p>= By whom were you told the story? </p>
+        <br/>
         <p>q. Is he repairing the bicycle?</p>
         <p>= Is the bicycle being repaired by him?</p>
       </div>

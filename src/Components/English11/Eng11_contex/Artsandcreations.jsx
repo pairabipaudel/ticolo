@@ -22,20 +22,28 @@ const Artsandcreations = () => {
         <p className='question'>C. What do the following idioms mean? Use them in sensible sentences.</p>
         <p><strong>a. a hot potato : </strong>A difficult or controversial situation</p>
         <p>The issue of raising taxes is a hot potato that politicians try to avoid talking about during elections.</p>
+        <br/>
         <p><strong>b. once in a blue moon : </strong>Something that happens very rarely</p>
         <p>I only see my cousins once in a blue moon because they live in a different country.</p>
+        <br/>
         <p><strong>c. a bed of roses : </strong>A situation that is comfortable, easy</p>
         <p>Life isn't always a bed of roses; sometimes we have to face challenges and hardships.</p>
+        <br/>
         <p><strong>d. when pigs fly : </strong>Something that will never happen </p>
         <p>She promised to wake up early every day, but that will happen when pigs fly.</p>
+        <br/>
         <p><strong>e. miss the boat : </strong>miss an opportunity.</p>
         <p>I didn't apply for the scholarship on time, so I missed the boat.</p>
+        <br/>
         <p><strong>f. zip your lip : </strong>to be quiet or stop talking</p>
         <p>Please zip your lip during the movie so everyone can enjoy it.</p>
+        <br/>
         <p><strong>g. fight tooth and nail : </strong>to fight very fiercely or with great determination.</p>
         <p>She fought tooth and nail to win the championship despite all the challenges.</p>
+        <br/>
         <p><strong>h. when life gives you lemon, make lemonade : </strong>to make the best out of a bad</p>
         <p>Even though she lost her job, she stayed positive and started her own business truly making lemonade when life gave her lemons.</p>
+        <br/>
         <p><strong>i. goose egg : </strong>zero or nothing, especially a score of zero in a game</p>
         <p>I got a goose egg on the test because I didn't study.</p>
        
@@ -60,36 +68,36 @@ const Artsandcreations = () => {
       <div>
         <h3>Comprehension</h3>
         <p className='question'>A. Answer these questions.</p>
-        <p>a. What does the word Renaissance mean? Which language is it derived from?</p>
+        <p className='question'>a. What does the word Renaissance mean? Which language is it derived from?</p>
         <p>= The word Renaissance means 'rebirth'. It is derived from French word 'renaitre'.</p>
-        <p>b. What did the Greek scholars do in their new locations after leaving the Greek city?</p>
+        <p className='question'>b. What did the Greek scholars do in their new locations after leaving the Greek city?</p>
         <p>= The Greek scholars taught the Greek language and shared important books after leaving their city.</p>
-        <p>c. How did 'new learning' teach people to think in different ways?</p>
+        <p className='question'>c. How did 'new learning' teach people to think in different ways?</p>
         <p>= 'New Learning' taught people to think in different ways by inspiring them to create art, build beautiful buildings, and write great literature. It helped people become more curious and creative.</p>
-        <p>d. Describe the artistic developments of Renaissance in brief.</p>
+        <p className='question'>d. Describe the artistic developments of Renaissance in brief.</p>
         <p>= The artistic developments of the Renaissance began in Florence and later spread to other Italian cities like Venice and Milan. As trade and banking made people rich, they started spending money on music, art, and poetry. Famous artists such as Leonardo da Vinci, Michelangelo, Raphael, and Brunelleschi created amazing works of art. In literature, writers like William Shakespeare and Cervantes became very well known. Shakespeare became one of the greatest literary figures of that time.</p>
-        <p>e. Name the three Renaissance scientists who made great discoveries?</p>
+        <p className='question'>e. Name the three Renaissance scientists who made great discoveries?</p>
         <p>= Name of the three Renaissance scientists are Galileo Galilei, Nicolas Copernicus and Sir Isaac Newton.</p>
-        <p>f. Who developed the printing press? Which country was he from?</p>
+        <p className='question'>f. Who developed the printing press? Which country was he from?</p>
         <p>= Johannes Gutenberg developed the printing press. He was from Germany. His invention made it easier to print books and helped spread knowledge quickly across Europe.</p>
-        <p>g. Why is the development of the printing press considered as one of the gifts of Renaissance?</p>
+        <p className='question'>g. Why is the development of the printing press considered as one of the gifts of Renaissance?</p>
         <p>= The development of the printing press is considered one of the gifts of the Renaissance because it made books easier and cheaper to produce. Before the press, books were handwritten and very expensive. With the printing press, more people could read and learn, helping to spread knowledge and ideas across Europe.</p>
-        <p>h. Name the five famous explorers of the Renaissance?</p>
+        <p className='question'>h. Name the five famous explorers of the Renaissance?</p>
         <p>= The five famous explorers of the Renaissance were Christopher Columbus, Vasco de Gama, John Cabot, Ferdinand Magellan and Sir Francis Drake.</p>
-        <p>i. Why do some people think of the Renaissance as the beginning of modern history?</p>
+        <p className='question'>i. Why do some people think of the Renaissance as the beginning of modern history?</p>
         <p>= People think of the Renaissance as the beginning of modern history because it brought great changes in art, architecture, literature, science, exploration, and culture. It encouraged learning, creativity, and new ways of thinking, which laid the foundation for the modern world.</p>
       </div>
       <hr/>
       <div>
         <p className='question'>B. What do you infer from the reading? Tick (√) the best answer.</p>
         <p>a. Before the Renaissance…</p>
-        <p>education was limited to scholars and privileged</p>
+        <p>= education was limited to scholars and privileged</p>
         <p>b. Which statement is true?</p>
-        <p>The Greeks had a strong influence on Renaissance thinking</p>
+        <p>= The Greeks had a strong influence on Renaissance thinking</p>
         <p>c. What did the Renaissance do?</p>
-        <p>It caused people to make changes in their lives</p>
+        <p>= It caused people to make changes in their lives</p>
         <p>d. What were the major causes of the Renaissance?</p>
-        <p>printing, reading and learning</p>
+        <p>= printing, reading and learning</p>
       </div>
       <hr/>
       <div>
@@ -139,6 +147,7 @@ A person who reads regularly never feels lonely or bored. Books open up a magica
 </p><p>
 So, it is clear that if we want to become successful leaders in the future, we must start by being good readers today.</p>
       </div>
+      <hr/>
       <div>
         <p className='question'>c. Write a short biography of a national literary, artistic or historical figure you appreciate most.</p>
         <strong>Bhanubhakta Acharya: The First Nepali Poet</strong>
@@ -158,18 +167,25 @@ Bhanubhakta Acharya's dedication to literature and culture has made a lasting im
         <p className='question'>B. Complete the following sentences with correct relative pronouns and write whether the clauses are defining or non-defining.</p>
         <p>a. That's the house where I was born.</p>
         <p>= Defining clause</p>
+        <br/>
         <p>b. My aunt Nita, whoa journalist, is coming to visit next week.</p>
         <p>= Non-defining clause</p>
+        <br/>
         <p>c. People wholike outdoor activities will love our holidays.</p>
         <p>= Defining clause </p>
+        <br/>
         <p>d. The early 1960s, when the Beatles first started, was a very exciting time in pop culture.</p>
         <p>= Non-defining clause</p>
+        <br/>
         <p>e. My essay on Shakespeare, which I found quite difficult, got a really good mark in the end.</p>
         <p>= Non-defining clause</p>
+        <br/>
         <p>f. The Mayans, who lived in Central America, built many stunning temples.</p>
         <p>= Non-defining clause</p>
+        <br/>
         <p>g. That's the girl whose brother is in your class.</p>
         <p>= Defining clause</p>
+        <br/>
         <p>h. The snake that was in the garden last week belongs to our next-door neighbor.</p>
         <p>= Defining clause</p>
       </div>
@@ -178,14 +194,20 @@ Bhanubhakta Acharya's dedication to literature and culture has made a lasting im
         <p className='question'>C. Join the following pairs of sentences with an appropriate relative clauses.</p>
         <p>a. He is a musician. His albums have sold millions.</p>
         <p>= He is a musician whose albums have sold millions.</p>
+        <br/>
         <p>b. Amelia speaks English and Chines fluently. She is from Shanghai.</p>
         <p>= Amelia, who is from Shanghai, speaks English and Chinese fluently.</p>
+        <br/>
+
         <p>c. That's the stadium. Real Madrid plays there.</p>
         <p>= That's the stadium where Real Madrid plays.</p>
+        <br/>
         <p>d. Dublin is my favourite city. It is the capital of Ireland.</p>
         <p>= Dublin is my favourite city, which is the capital of Ireland.</p>
+        <br/>
         <p>e. The person was really helpful. They spoke to him.</p>
         <p>= The person to whom they spoke was really helpful.</p>
+        <br/>
         <p>f. This smartphone takes great photos. I bought it last week.</p>
         <p>= This smartphone takes great photos, which I bought last week.</p>
       </div>

@@ -15,25 +15,25 @@ Durand knows that he cannot offer them a better future while he's alive. So, in 
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Where does the play take place?</p>
+        <p className='question'>a. Where does the play take place?</p>
         <p>= The play takes place in Monsieur Durand's dining room, which is part of a small boarding house he owns and runs. He lives there with his three daughters. The setting reflects a modest, working-class environment, as Durand is a widower and a retired railroad worker. The entire action of the play unfolds in this single room, where the characters' emotions, struggles, and interactions are revealed.</p>
-        <p>b. Why do the grocery, the baker, and the butcher send their bills to the Durand household?</p>
+        <p className='question'>b. Why do the grocery, the baker, and the butcher send their bills to the Durand household?</p>
         <p>= The grocery, the baker, and the butcher send their bills to the Durand household because Monsieur Durand has not paid them for a long time. Since the payments are overdue, these shopkeepers are no longer willing to provide goods or food on credit. They are demanding payment before offering any more items, which shows the financial struggles the Durand family is facing.</p>
-        <p>c. Why does Monsieur Durand spend money on candles when he doesn't have money to buy even bread?</p>
+        <p className='question'>c. Why does Monsieur Durand spend money on candles when he doesn't have money to buy even bread?</p>
         <p>= Monsieur Durand spends money on candles, even though he doesn't have enough money to buy bread, because he wants to honor the memory of his late son, little Rene. It is the anniversary of Rene's death, and lighting candles is his way of remembering and showing love for his lost child. This shows how deeply emotional and sentimental Monsieur Durand is, placing the memory of his son above his own hunger.</p>
-        <p>d. Why did Monsieur Durand sell his life insurance?</p>
+        <p className='question'>d. Why did Monsieur Durand sell his life insurance?</p>
         <p>= Monsieur Durand sold his life insurance because he was struggling financially and needed money to repay a loan. He noticed that the person he owed money to was becoming impatient and irritable as the due date approached. Feeling the pressure and wanting to avoid conflict, he chose to cash in his life insurance policy to settle the debt, even though it was meant to protect his family's future. This shows how desperate his situation had become.</p>
-        <p>e. Why has Monsieur Durand paid fire insurance?</p>
+        <p className='question'>e. Why has Monsieur Durand paid fire insurance?</p>
         <p>= Monsieur Durand has paid fire insurance because he plans to burn down his own house and claim the insurance money. He is deeply worried about his daughters' future and financial struggles. Since he has no savings left and has already sold his life insurance, he sees this risky and desperate act as the only way to leave them some money. By setting fire to the house and collecting the insurance compensation, he hopes to support his daughters after he is gone.</p>
-        <p>f. How did Monsieur Durand and Mrs. Durand run out of their inheritances from both the sides?</p>
+        <p className='question'>f. How did Monsieur Durand and Mrs. Durand run out of their inheritances from both the sides?</p>
         <p>= Monsieur Durand and Mrs. Durand ran out of their inheritances from both sides because of Mrs. Durand's careless and foolish speculations. She made poor financial decisions and wasted their money on risky investments without thinking of the consequences. As a result, both the property from Monsieur Durand's family and the wealth from Mrs. Durand's side were completely lost, leaving the family in financial hardship.</p>
-        <p>g. Why does Monsieur Durand tell a lie about his birthplace?</p>
+        <p className='question'>g. Why does Monsieur Durand tell a lie about his birthplace?</p>
         <p>= Monsieur Durand tells a lie about his birthplace to protect both his own and his late wife's reputation. In his younger days, he had fallen in love with a woman and left his real hometown to follow her to Switzerland. Later, he even fought against his own country on the side of Switzerland. To hide this shameful part of his past and to avoid bringing any emotional disturbance into his daughters' lives, he pretended to be born in Switzerland. Since their mother had also kept this truth hidden, he didn't want to spoil her image or cause the girls to question her character.</p>
-        <p>h. What business is Monsieur Duran running to make a living?</p>
+        <p className='question'>h. What business is Monsieur Duran running to make a living?</p>
         <p>= Monsieur Durand is running a boarding house to make a living. After facing financial hardship and losing his inheritance, he turned his home into a place where lodgers can stay and eat. By offering rooms and meals to guests, he tries to support himself and his three daughters. Though once a railroad worker, this boarding house has become his only means of earning money and surviving in difficult times.</p>
-        <p>i. What plan does Monsieur Durand have to help his daughters with money?</p>
+        <p className='question'>i. What plan does Monsieur Durand have to help his daughters with money?</p>
         <p>= Monsieur Durand plans to burn down his own house and end his life so that his daughters can receive money from the fire insurance he recently paid for. He believes that by doing this, the insurance compensation will help solve their financial problems. Even though it's a heartbreaking and extreme decision, he is willing to sacrifice his own life for the future and well-being of his daughters. His plan shows how deeply he cares for them, even if it means facing death himself.</p>
-        <p>j. How does Monsieur Durand die?</p>
+        <p className='question'>j. How does Monsieur Durand die?</p>
         <p>= Monsieur Durand dies by drinking poison and setting his house on fire. At the end of the play, he chooses to end his life in order to help his daughters by making sure they receive money from the fire insurance. He believes that by sacrificing himself and burning down the house, the insurance company will pay out the compensation, which will solve his daughters' financial struggles. His death is a tragic act of love and desperation.</p>
       </div>
       <div>

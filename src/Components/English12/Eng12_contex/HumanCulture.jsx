@@ -61,43 +61,53 @@ fresh + ness = freshness - Noun
       <hr/>
       <div>
         <p className='question'>D. Look for the following words related to waste management in an English dcitionary. Make sentences of your own using them.</p>
+        <br/>
         <p>sewage = The factory was fined for releasing untreated sewage into the river.</p>
+        <br/>
         <p>sludge = The workers removed the thick sludge from the bottom of the water treatment tank.</p>
+        <br/>
         <p>organic waste = We separate organic waste from plastics and glass for composting at home.</p>
+        <br/>
          <p>inorganic waste = Inorganic waste like broken glass and plastic bottles should be recycled properly.</p>
+         <br/>
           <p> methane = Methane released from rotting food waste in landfills contributes to global warming.</p>
+          <br/>
            <p>waste reduction = Waste reduction starts at home by avoiding single-use plastics and choosing reusable products.</p>
+           <br/>
             <p>monofil = The fishermen preferred using a strong monofil fishing line because it was durable and nearly invisible underwater.</p>
+            <br/>
              <p>market waste = The municipality has started a program to collect market waste separately for composting and recycling.</p>
+             <br/>
               <p>incineration = Incineration helps reduce the amount of waste sent to landfills but must be managed carefully to control pollution.</p>
+              <br/>
                <p>hazardous waste = Batteries and chemicals must be disposed of separately as they are considered hazardous waste.</p>
       </div>
       <div>
         <hr/>
         <h3>Comprehension</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. How does the author describe the Japanese waste management system?</p>
+        <p className='question'>a. How does the author describe the Japanese waste management system?</p>
         <p>= The author describes the Japanese waste management system by explaining that three nights a week, residents in his neighborhood place their household trash in designated street corners. The trash is wrapped neatly in bundles, resembling gifts, and it disappears by dawn.</p>
 
-        <p>b. What are the two reasons behind the existence of sodaigomi in Japanese culture?</p>
+        <p className='question'>b. What are the two reasons behind the existence of sodaigomi in Japanese culture?</p>
         <p>= The two reasons behind the existence of sodaigomi in Japanese culture are the small size of typical Japanese houses and the Japanese desire for freshness and purity.</p>
 
-        <p>c. What, according to the author, do the Japanese feel at the thought of buying second hand items?</p>
+        <p className='question'>c. What, according to the author, do the Japanese feel at the thought of buying second hand items?</p>
         <p>= According to the author, the Japanese feel embarrassed at the thought of buying second-hand items.</p>
 
-        <p>d. How is Malaysian culture different from Japanese culture concerning the used items?</p>
+        <p className='question'>d. How is Malaysian culture different from Japanese culture concerning the used items?</p>
         <p>= In Malaysian culture, people rarely throw anything away. Even small, used items are kept and often sold, with customers enthusiastically bidding for second-hand goods. In contrast, Japanese culture is quite different,  people often throw out clean, new-looking items, and shoppers generally feel embarrassed at the idea of buying second-hand products.</p>
 
-        <p>e. Why did the author feel awkward at the sodaigomi pile?</p>
+        <p className='question'>e. Why did the author feel awkward at the sodaigomi pile?</p>
         <p>= The author felt awkward at the sodaigomi pile because he couldn't believe that in Japanese culture, perfectly clean, whole, and usable items were simply thrown away.</p>
         
-        <p>f. How many articles did the author bring to his house one after another?</p>
+        <p className='question'>f. How many articles did the author bring to his house one after another?</p>
         <p>= The author brought several items to his house one after another. These included an ordinary low Japanese tea table, a shiny new bell for his son's bicycle, a small but attractive wooden cupboard, a complete set of wrenches and screwdrivers in a metal toolbox, a Naugahyde-covered barstool, and a lacquer serving tray.</p>
 
-        <p>g. Why do most people try to find things in trash pile 'in the dead of the night'?</p>
+        <p className='question'>g. Why do most people try to find things in trash pile 'in the dead of the night'?</p>
         <p>= Most people try to find things in the trash pile 'in the dead of the night' so that others can pretend not to notice, allowing them to avoid embarrassment and bring no shame upon themselves or their community.</p>
 
-        <p>h. How did the author's family assimilate Japanese culuter in using consumer goods?</p>
+        <p className='question'>h. How did the author's family assimilate Japanese culuter in using consumer goods?</p>
         <p>= The author's family assimilated Japanese culture in using consumer goods by quietly collecting useful items from the sodaigomi pile during the dead of night. This behavior mirrored the discreet way many Japanese people dealt with second-hand goods, allowing the family to adopt local customs while benefiting from the items others discarded.</p>
       </div>
       <div>
@@ -106,7 +116,7 @@ fresh + ness = freshness - Noun
         <p className='question'>a. If you happen to be in Japan someday, will you collect articles from sodaigomi? Why or why not?</p>
         <p>= Yes, I would collect articles from sodaigomi if I ever happen to be in Japan. In my country, people usually use things until they are old, damaged, or completely unusable before replacing them. So, living in a culture where perfectly clean and usable items are thrown away would feel quite different to me. At first, it might seem uncomfortable or unusual, but I believe it is practical and smart. Buying brand new goods from stores can be very expensive, and if I find good-quality items from sodaigomi, I could save a lot of money. It would also help me set up a home without spending too much. So, instead of buying overpriced new items, I would definitely collect useful items from sodaigomi and make the best use of them.</p>
 
-        <p>b. There are some second hand shops in Nepal, too. But, people are not much interested in them. What practice would be suitable in managing second hand items in Nepal?</p>
+        <p className='question'>b. There are some second hand shops in Nepal, too. But, people are not much interested in them. What practice would be suitable in managing second hand items in Nepal?</p>
         <p>= Some consumers in Nepal do enjoy buying and selling second-hand items due to their cost-effectiveness and their ethical and environmental benefits. However, the majority of people still hesitate to engage with second-hand markets. To encourage second-hand shopping in Nepal, the following practices could be adopted:
 </p><p>
 1. Brand Collaboration and Guidance: Second-hand shops should partner with popular and trusted brands. They can also guide consignors by informing them about which products and brands are in demand and most suitable for resale.
@@ -125,7 +135,7 @@ By making second-hand shopping more professional, accessible, and attractive, Ne
         <p className='question'>A. Write a paragraph elaborating the idea of 3Rs(reduce, reuse and recycle) in garbage management.</p>
         <p>= The idea of the 3Rs — reduce, reuse, and recycle — is very important in managing garbage and keeping our environment clean. Reduce means trying to create less waste in the first place. For example, we can reduce waste by using less plastic or buying only what we really need. Reuse means using things again instead of throwing them away. We can reuse old bottles, bags, or clothes instead of buying new ones. Recycle means turning old things into new products. When we recycle paper, plastic, and glass, they can be used to make something new and useful. If everyone follows the 3Rs, we can keep our surroundings cleaner, save natural resources, and help protect our Earth for future generations.</p>
 <hr/>
-        <p>B. Garbage management is a big problem in most of the cities in Nepal. Write a letter to the editor to be published in the daily newspaper suggesting the ways of 'Solving Garbage Problems.'</p>
+        <p className='question'>B. Garbage management is a big problem in most of the cities in Nepal. Write a letter to the editor to be published in the daily newspaper suggesting the ways of 'Solving Garbage Problems.'</p>
         <p>To</p><p>
 The Editor,</p><p>
 The Rising Nepal,</p><p>

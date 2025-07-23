@@ -26,10 +26,15 @@ const Humour = () => {
       <div>
         <p className='question'>C. The author writes, "... the contagious nature of laughter means that waves of mirth can catch on more easilt when there are more people." Find out the situations in which the following types of laughter are found. </p>
         <p>a. Etiquette laughter: Etiquette laughter is polite or social laughter that people use to follow social norms and maintain harmony, even if they don't find something genuinely funny. </p>
+        <br/>
         <p>b. Snorting laughter: Snorting laughter is a type of laughter characterized by a sudden, noisy expulsion of air through the nose, often uncontrollable and spontaneous.</p>
+        <br/>
         <p>c. Stress-relieving laughter: Stress-relieving laughter is a natural reaction that helps reduce stress and tension in the body and mind.</p>
+        <br/>
         <p>d. Silent laughter: Silent laughter is a type of laughter where a person smiles or shows amusement without making any audible sound.</p>
+        <br/>
         <p>e. Nervous laughter: Nervous laughter is a type of laughter that occurs as a response to anxiety, tension, or discomfort. </p>
+        <br/>
         <p>f. Cruel laughter: Cruel laughter is laughter that expresses mockery, scorn, or delight in someone else's misfortune.</p>
       </div>
       <hr/>
@@ -51,36 +56,43 @@ const Humour = () => {
         <h3>
             Comprehension
         </h3>
-        <p className='question'>a. According to Sophie Scott, laughter is one of the important and misunderstood <strong>behaviours.</strong></p>
+        <p className='question'>A. Complete the following sentences with words/ phrases from the text.</p>
+        <p >a. According to Sophie Scott, laughter is one of the important and misunderstood <strong>behaviours.</strong></p>
+        <br/>
         <p>b. After her study in Namibia, Scott came to the relization that <strong>laughter is one of our richest vocal tics.</strong></p>
+        <br/>
         <p>c. Studies have shown that there are <strong>six universal expression across cultures </strong>based on facial expressions.</p>
+        <br/>
         <p>d. Scott found out that most of the laughs have nothing <strong>to do with humour.</strong></p>
+        <br/>
         <p>e. The couples who laugh at each other are likely to <strong>stay together for longer.</strong></p>
+        <br/>
         <p>f. The primary way of communication of grown up people is <strong>to express feelings and meet social expectations.</strong></p>
+        <br/>
         <p>g. Comedians usually find it easier to work in larger places due to <strong>the contagious nature of laughter.</strong></p>
       </div>
       <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. Why do people giggle at someone's pain or suffering?</p>
+        <p className='question'>a. Why do people giggle at someone's pain or suffering?</p>
         <p>= People often giggle at someone's pain or suffering because laughter serves as a psychological defense mechanism. By laughing they convince themselves and sometimes others that everything is fine or at least improving. This kind of giggling helps reduce discomfort and anxiety in difficult situations. Additionally laughter is an innate contagious human response that can ease tension even when faced with others' misfortunes.</p>
-        <p>b. What did Scott's study in Namibia come up with?</p>
+        <p className='question'>b. What did Scott's study in Namibia come up with?</p>
         <p>= Scott's study in Namibia led to the realization that laughter is one of our richest vocal ties. His research showed that laughter is one of the most important ways we communicate through sound. </p>
-        <p>c. How is laughter a social bonding?</p>
+        <p className='question'>c. How is laughter a social bonding?</p>
         <p>= Laughter is a form of social bonding because it brings people together and helps them connect, regardless of whether something is actually funny. It acts as an emotional bridge that unites individuals and strengthens relationships.</p>
-        <p>d. According to the author, what role does laughter play in husband-wife relationship?</p>
+        <p className='question'>d. According to the author, what role does laughter play in husband-wife relationship?</p>
         <p>= According to the author, laughter plays a vital role in making the husband-wife relationship stronger and longer-lasting by helping to dissipate tension after stressful events. This makes it easier for couples to let go of stress and maintain a healthy, lasting marriage.</p>
-        <p>e. How does laughter work as a painkiller?</p>
+        <p className='question'>e. How does laughter work as a painkiller?</p>
         <p>= Laughter works as a painkiller because it is associated with an increased pain threshold by encouraging the release of endorphins. When we laugh, our brain produces more endorphins, which act like natural medicine to relieve pain and create feelings of euphoria.</p>
-        <p>f. What did the study find about the relation between laughter and brain?</p>
+        <p className='question'>f. What did the study find about the relation between laughter and brain?</p>
         <p>= The study on the relationship between laughter and the brain found that the brain responds to each kind of laughter and both types seem to stimulate the brain's mirror regions, which are areas that tend to mimic others actions.</p>
-        <p>g. What are two emotions that the author associate with infants and adults?</p>
+        <p className='question'>g. What are two emotions that the author associate with infants and adults?</p>
         <p>= Crying and laughter are two emotions that the author associates with infants and adults.</p>
-        <p>h. How does a stand-up comedian take the audience's laughter?</p>
+        <p className='question'>h. How does a stand-up comedian take the audience's laughter?</p>
         <p>= A stand-up comedian takes the audience's laughter by interacting with them and using it as a form of conversation. They capitalize on the contagious nature of laughter, which helps reduce the audience to fits of hysterics, creating a lively and engaging atmosphere.</p>
-        <p>i. Show the relation between laughter and crowd.</p>
+        <p className='question'>i. Show the relation between laughter and crowd.</p>
         <p>= The relation between laughter and crowd is that laughter is contagious in crowd means that it can easily catch a wave when there are more people in crowd.</p>
-        <p>j. What does the author mean when he says "there is always a meaning to it?"</p>
+        <p className='question'>j. What does the author mean when he says "there is always a meaning to it?"</p>
         <p>= When author says “there is always a meaning to it” he means that laughter is never neutral and always have a meaning although it seems to be trivial, ephemeral and pointless.</p>
       </div>
       <hr/>
@@ -107,7 +119,7 @@ const Humour = () => {
         <p className='question'>B. Write a description of your favourite comedian explaining his/her personality, acting, performance and uniqueness.</p>
          <p>= My favourite comedian is Charlie Chaplin, one of the greatest and most influential figures in the history of film and comedy. He was an English comic actor, filmmaker, and composer who became world-famous during the silent film era. He is best known for his role as “The Tramp”, a poor but kind and humorous character with a small mustache, bowler hat, and funny walk.</p>
         <p>Chaplin had a difficult childhood filled with poverty and struggle, yet these hardships shaped his personality and creative style. Despite facing many problems, he remained hopeful and used comedy to share his feelings with the world. He had a warm and expressive personality that helped him connect with people without using words. His silent performances were full of emotion, cleverness, and charm, which made people laugh and cry at the same time.</p>
-        <p>What makes Charlie Chaplin truly unique is his ability to do everything in filmmaking—he acted, wrote, directed, produced, and even composed music for his films. He was a perfectionist who paid great attention to every detail. His performances were not only funny but also meaningful, often sending a powerful message about life, poverty, love, and human kindness. His timeless films like Modern Times, The Kid, and City Lights still inspire millions. For all these reasons, I admire Charlie Chaplin as my favourite comedian.</p>
+        <p>What makes Charlie Chaplin truly unique is his ability to do everything in filmmaking he acted, wrote, directed, produced, and even composed music for his films. He was a perfectionist who paid great attention to every detail. His performances were not only funny but also meaningful, often sending a powerful message about life, poverty, love, and human kindness. His timeless films like Modern Times, The Kid, and City Lights still inspire millions. For all these reasons, I admire Charlie Chaplin as my favourite comedian.</p>
       </div>
       <hr/>
       <h3>Grammar</h3>
@@ -115,22 +127,31 @@ const Humour = () => {
         <p className='question'>B. Put the frequency adverbs in appropriate place and rewrite the following sentences.</p>
         <p>a. I forget to do my homework. (sometimes)</p>
         <p>= I sometimes forget to do my homework.</p>
+        <br/>
         <p>b. My father has touched an alcoholic drink in his life.(never)</p>
         <p>= My father has never touched an alcoholic drink in his life.</p>
+        <br/>
         <p>c. My father goes for a walk on Saturdays. (often)</p>
         <p>= My father often goes for a walk on Saturdays.</p>
+        <br/>
         <p>d. We go to the movies theatre. (occasionally)</p>
         <p>= We occasionally go to the movie theatre.</p>
+        <br/>
         <p>e. My brother is in America. He telephones us. (from time to time)</p>
         <p>= My brother is in America. He telephones us from time to time.</p>
+        <br/>
         <p>f. My mother gets up at five o'clock. (always)</p>
         <p>= My mother always gets up at five o'clock.</p>
+        <br/>
         <p>g. He does not like alcoholic drinks but takes some wine. (now and then)</p>
         <p>= He does not like alcoholic drinks but takes some wine now and then.</p>
+        <br/>
         <p>h. I drink my tea with milk. (generally)</p>
         <p>= I generally drink my tea with milk.</p>
+        <br/>
         <p>i. Have you been to Agra? (ever)</p>
         <p>= Have you ever been to Agra?</p>
+        <br/>
         <p>j. The restaurant hours vary as it is booked for special events. (frequently)</p>
         <p>= The restaurant hours frequently vary as it is booked for special events.</p>
       </div>

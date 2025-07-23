@@ -8,16 +8,23 @@ const Powerandpolitics = () => {
         <p className='question'>A. Choose the correct meaning of the underlined word.</p>
         <p>a. Many <u>portraits</u> of Napoleon show him with his right hand placed inside his coat.</p>
         <strong>sketch</strong>
+        <br/>
+
         <p>b. Napoleon won one victory after another, <u>defeating</u> the Austrians in eighteen battles.</p>
         <strong>beating</strong>
+        <br/>
         <p>c. Portrait painters thought this pose made men look more <u>dignified</u>.</p>
         <strong>good-looking</strong>
+        <br/>
         <p>d. They <u>announced</u> France a republic.</p>
         <strong>officially declared</strong>
+        <br/>
         <p>e. Napoleon <u>conquered</u> Austria in 1805.</p>
         <strong>triumphed over</strong>
+        <br/>
         <p>f. There was no place to house his soldiers in the <u>bitter</u> Russian winter.</p>
         <strong>cold</strong>
+        <br/>
         <p>g. Napoleon was <u>humiliated</u> when he was defeated.</p>
         <strong>shamed</strong>
       </div>
@@ -131,14 +138,19 @@ Balbhadra Kunwar's courage and leadership encouraged his soldiers to keep fighti
         <p className='question'>C. Rewrite the following sentences using may/might, must or can't.</p>
         <p>a. I'm sure he's not going to the cinema today.</p>
         <p>= He can't be going to the cinema today.</p>
+        <br/>
         <p>b. Perhaps she knows the answer.</p>
         <p>= She may know the answer.</p>
+        <br/>
         <p>c. I'm sure he has a car.</p>
         <p>= He must have a car.</p>
+        <br/>
         <p>d. I doubt if it rains later on.</p>
         <p>= It might rain later on.</p>
+        <br/>
         <p>e. Perhaps she wants to be alone.</p>
         <p>= She may want to be alone.</p>
+        <br/>
         <p>f. I'm sure Harina is in her office.</p>
         <p>= Harina must be in her office.</p>
       </div>

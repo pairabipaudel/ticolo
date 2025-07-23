@@ -34,7 +34,7 @@ const Education = () => {
 
       <section className="comprehension-section">
         <h3>Comprehension</h3>
-        <p className='question'><strong>A.</strong> Put the following events in the life of Abdul Kalam in a chronological order.</p>
+        <p className='question'>A. Put the following events in the life of Abdul Kalam in a chronological order.</p>
         <p>1. Abdul Kalam attended an elementary school at Rameswaram.</p>
         <p>2. One day Abdul Kalam's teacher visited them to share his pride and pleasure about his performance.</p>
         <p>3. They celebrate happiness with poli.</p>
@@ -45,22 +45,22 @@ const Education = () => {
       </section>
        <hr/>
       <section className="comprehension-section">
-        <p className='question'><strong>B.</strong> Answer the following questions.</p>
-        <p><strong>a.</strong> What were the causes of Abdul Kalam's happiness?</p>
+        <p className='question'>B.Answer the following questions.</p>
+        <p className='question'>a. What were the causes of Abdul Kalam's happiness?</p>
         <p>= Abdul Kalam's happiness came from several important experiences. His mathematics teacher personally visited his home to share his excellent exam results, including full marks in mathematics and science. This made him feel proud and encouraged. The support and pride of his teachers and family also motivated him. Simple joys like sailing leaf boats with his friend and watching ants on the boats added to his happiness. Overall, his family's love, inspiring teachers, and his dedication to studies were the main causes of his happiness.</p>
-        <p><strong>b.</strong> Which two places did Abdul Kalam visit before going to school?</p>
+        <p className='question'>b. Which two places did Abdul Kalam visit before going to school?</p>
         <p>= Before going to school, Abdul Kalam visited his Arabic tuition class to learn how to read the Quran. After that, he went to his mathematics teacher's home for a special class.</p>
-        <p><strong>c.</strong> What did he like about mathematics?</p>
+        <p className='question'>c. What did he like about mathematics?</p>
         <p>= He liked mathematics because he enjoyed learning about numbers, their rules, and patterns. He loved solving number problems and spending hours working on them.</p>
-        <p><strong>d.</strong> Why was the new teacher unhappy?</p>
+        <p className='question'>d. Why was the new teacher unhappy?</p>
         <p>= The new teacher was unhappy because he saw a Hindu boy and a Muslim boy sitting together on the same bench in the classroom.</p>
-        <p><strong>e.</strong> Why did Abdul Kalam have to split with his intimate friend?</p>
+        <p className='question'>e. Why did Abdul Kalam have to split with his intimate friend?</p>
         <p>= Abdul Kalam had to split with his intimate friend because of the religious discrimination shown by their new teacher, who disapproved of a Muslim and a Hindu boy sitting together in class.</p>
-        <p><strong>f.</strong> What was the topic of Sivasubramania Iyer's class?</p>
+        <p className='question'>f. What was the topic of Sivasubramania Iyer's class?</p>
         <p>= The topic of Sivasubramania Iyer's class was "How birds fly."</p>
-        <p><strong>g.</strong> How was the teacher's reaction when the students told him that they did not understand his lecture?</p>
+        <p className='question'>g. How was the teacher's reaction when the students told him that they did not understand his lecture?</p>
         <p>= The teacher was not upset when the students said they did not understand his lecture. Instead, he arranged a practical teaching session the next day, taking the students outside to learn about bird flight directly from nature.</p>
-        <p><strong>h.</strong> Why did Sivasubramania Iyer take his students to the seashore? </p>
+        <p className='question'>h. Why did Sivasubramania Iyer take his students to the seashore? </p>
         <p>= Sivasubramania Iyer took his students to the seashore to give them a practical lesson on how birds fly. He wanted them to understand the mechanism of bird flight by observing it directly in nature, making the learning experience real and clear.</p>
       </section>
 
@@ -68,12 +68,12 @@ const Education = () => {
 
       <section className="critical-thinking-section">
         <h3>Critical thinking</h3>
-        <p className='question'><strong>a.</strong> APJ Abdul Kalam became a renowned aerospace scientist in his later life. Do you find any association of his childhood days in shaping his career? Explain with specific instances from the text.</p>
+        <p className='question'>a. APJ Abdul Kalam became a renowned aerospace scientist in his later life. Do you find any association of his childhood days in shaping his career? Explain with specific instances from the text.</p>
         <p>= APJ Abdul Kalam's childhood had a strong influence on shaping his career as a renowned aerospace scientist. From a young age, he was deeply interested in mathematics and science, always scoring top marks and dedicating extra time to learning complex problems. A key moment that inspired him was a practical lesson given by his teacher, Sivasubramania Iyer, who took the students to the seashore to observe and explain how birds fly. This hands-on experience fascinated Kalam and sparked his curiosity about flight dynamics.</p>
         <p>Moreover, Kalam grew up in a loving and supportive family, which provided him with a secure environment to focus on his studies. Despite some social challenges like religious discrimination he witnessed, his passion for learning remained strong. His early dedication to understanding science and mathematics, combined with the inspiration from his teacher's practical demonstration of bird flight, motivated him to pursue aerospace engineering.</p>
-        <p>Thus, there is a clear connection between Abdul Kalam's childhood experiences—his love for science and mathematics, the encouragement from his teachers, and the practical exposure to flight—and his later success as an aerospace scientist. These early influences helped him build the foundation for his future achievements in the field of aerospace.</p>
-
-        <p className='question'><strong>b.</strong> Kalam mentions an instance of discrimination against him in his school life. What picture of society does he want to depict by mentioning the incident? Discuss.</p>
+        <p>Thus, there is a clear connection between Abdul Kalam's childhood experiences his love for science and mathematics, the encouragement from his teachers, and the practical exposure to flight and his later success as an aerospace scientist. These early influences helped him build the foundation for his future achievements in the field of aerospace.</p>
+       <br/>
+        <p className='question'>b. Kalam mentions an instance of discrimination against him in his school life. What picture of society does he want to depict by mentioning the incident? Discuss.</p>
         <p>= Abdul Kalam's mention of the discrimination he faced in school reveals a sad and divided picture of society at that time. The incident where his new teacher forbade him, a Muslim boy, from sitting next to his Hindu friend, Ramanadhan Sastry, shows the deep religious divide between Hindus and Muslims. Despite their friendship, the teacher's narrow-mindedness reflected the prevalent social attitude of segregation and intolerance based on religion. Kalam's experience highlights how societal prejudices and communalism affected even innocent children, creating barriers between communities. By sharing this incident, Kalam wants to depict a society deeply divided by religious and caste differences, where discrimination was widespread and accepted by many, including educated individuals. This picture urges us to reflect on the harmful effects of such divisions and the need to overcome them for a more united and harmonious society.</p>
       </section>
 
@@ -82,7 +82,7 @@ const Education = () => {
       <section className="writing-section">
         <h3>Writing</h3>
         <p className='question'>Write a short autobiography featuring your childhood life using the following guidelines.</p>
-        <p>Date and place of birth, Family background, Daily life, School life, Special event of childhood days, etc.</p>
+        <p className='question'>Date and place of birth, Family background, Daily life, School life, Special event of childhood days, etc.</p>
         <p>= I was born in a peaceful town in Chitwan district. I come from a loving middle-class family of six. My father is a farmer who works hard every day to provide for us, and my mother takes care of our home with great warmth and care. I have two younger sisters who are still in school.</p>
         <p>Growing up in Chitwan was a wonderful experience. My days were filled with the sounds of birds, the green fields around our home, and the gentle breeze from the nearby forest. Every morning, I woke up early to help my parents with chores before going to school. My school was close to home, and I enjoyed walking there with my friends.</p>
         <p>School life was full of learning and fun. I loved my teachers, especially my science teacher who made classes interesting by explaining nature and animals around us. After school, I often played football or ran around with my friends in the open fields. Sometimes, we would explore the nearby riverbanks and watch elephants or deer from a distance.</p>
@@ -95,50 +95,50 @@ const Education = () => {
 
       <section className="grammar-section">
         <h3>Grammar</h3>
-        <p className='question'> <strong>B.</strong> Join the following pairs of sentences twice, using although/ though/ even though and despite/ in spite of as in the example.</p>
+        <p className='question'> B. Join the following pairs of sentences twice, using although/ though/ even though and despite/ in spite of as in the example.</p>
         <p>Nepali people have limited income. They are very happy.</p>
         <p><strong>i.</strong> Although Nepali people have limited income, they are happy.</p>
         <p><strong>ii.</strong> Nepali people are happy in spite of their limited income.</p>
-
+<br/>
         <p><strong>a.</strong> He is a millionaire. He lives in a simple house.</p>
         <p>= Although he is a millionaire, he lives in a simple house.</p>
         <p>= In spite of being a millionaire, he lives in a simple house.</p>
-
+ <br/>
         <p><strong>b.</strong> The weather was extremely bad. The pilot landed the plane safely.</p>
         <p>= Although the weather was extremely bad, the pilot landed the plane safely.</p>
         <p>= In spite of the extremely bad weather, the pilot landed the plane safely.</p>
-
+<br/>
         <p><strong>c.</strong> We study in the same college. We hardly see each other.</p>
         <p>= Although we study in the same college, we hardly see each other.</p>
         <p>= In spite of studying in the same college, we hardly see each other.</p>
-
+<br/>
         <p><strong>d.</strong> It rained heavily. We enjoyed our holiday.</p>
         <p>= Although it rained heavily, we enjoyed our holiday.</p>
         <p>= Despite the heavy rain, we enjoyed our holiday.</p>
-
+<br/>
         <p><strong>e.</strong> I had an umbrella. I got wet in the rain.</p>
         <p>= Although I had an umbrella, I got wet in the rain.</p>
         <p>= Despite having an umbrella, I got wet in the rain.</p>
-
+<br/>
         <p><strong>f.</strong> I was really tired. I could not sleep a moment.</p>
         <p>= Although I was really tired, I could not sleep a moment.</p>
         <p>= Despite being really tired, I could not sleep a moment.</p>
-
+<br/>
         <p><strong>g.</strong> She has very good accent in English. She failed the interview of a newsreader.</p>
         <p>= Even though she has a very good accent in English, she failed the interview of a newsreader.</p>
         <p>= In spite of having a very good accent in English, she failed the interview of a newsreader.</p>
-
+<br/>
         <p><strong>h.</strong> Lhasa has extremely cold weather in winter. Millions of tourists go there in January.</p>
         <p>= Even though Lhasa has extremely cold weather in winter, millions of tourists go there in January.</p>
         <p>= In spite of the extremely cold weather in winter, millions of tourists go to Lhasa in January.</p>
-
+<br/>
         <p><strong>i.</strong> He was badly injured in the first round of the boxing match. He was victorious in the third round.</p>
         <p>= Even though he was badly injured in the first round of the boxing match, he was victorious in the third round.</p>
         <p>= Despite being badly injured in the first round of the boxing match, he was victorious in the third round.</p>
       </section>
         <hr/>
       <section className="grammar-section">
-        <p className='question'><strong>C.</strong> Complete each sentence in an appropriate way.</p>
+        <p className='question'>C. Complete each sentence in an appropriate way.</p>
         <p>a. He passed the exam although <strong>he hadn't studied.</strong></p>
         <p>b. She climbed the mountain in spite of her <strong>bad health.</strong></p>
         <p>c. He did not give any alms to the beggars even though <strong>he is very rich.</strong></p>

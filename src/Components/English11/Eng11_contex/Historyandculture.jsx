@@ -63,25 +63,25 @@ const Historyandculture = () => {
     <div>
         <h3>Comprehension</h3>
         <p className='question'>B. Answer these questions.</p>
-        <p>a. Why is the Zhou Age called a feudal age?</p>
+        <p className='question'>a. Why is the Zhou Age called a feudal age?</p>
         <p>= The Zhou Age is called a feudal age because Zhou period had followed the rule of feudalism.</p>
-        <p>b. What is the location advantage of the Qin?</p>
+        <p className='question'>b. What is the location advantage of the Qin?</p>
         <p>= The location advantage of Qin is the territory or area of dynasty is well bounded by mountains.</p>
-        <p>c. What contributed to the success in the warfare as described in the text?</p>
+        <p className='question'>c. What contributed to the success in the warfare as described in the text?</p>
         <p>= The location of the state, their size of the army, and their expert use of the chariot contributed to their success in warfare.</p>
-        <p>d. Why did the Qin invite the foreign advisor, Shang Yang?</p>
+        <p className='question'>d. Why did the Qin invite the foreign advisor, Shang Yang?</p>
         <p>= The Qin invited the foreign advisor, Shang Yang due to the lack of intellectual peoples in Qin.</p>
-        <p>e. What were the key features of the Qin political system?</p>
+        <p className='question'>e. What were the key features of the Qin political system?</p>
         <p>= The key features of the Qin political system were fear and control.</p>
-        <p>f. How were the people treated during the Qin Period?</p>
+        <p className='question'>f. How were the people treated during the Qin Period?</p>
         <p>= The people were treated almost like slave in that period. People were supposed to contribute in all projects for welfare of Nation and were deprived from the approach of education.</p>
-        <p>g. Why did Shi Huangdi stop educating ordinary people?</p>
+        <p className='question'>g. Why did Shi Huangdi stop educating ordinary people?</p>
         <p>= Shi Huangdi stopped educating ordinary people because he believed that illiterate people can be controlled easily.</p>
-        <p>h. What did the Qin achieve by the legalism in practice?</p>
+        <p className='question'>h. What did the Qin achieve by the legalism in practice?</p>
         <p>= The Qin achieved superior army, disciplined populace, obedient peoples, the great wall, great canal etc. by the help of legalism.</p>
-        <p>i. Why did Shi Huangdi never sleep in the same room for two consecutive nights?</p>
+        <p className='question'>i. Why did Shi Huangdi never sleep in the same room for two consecutive nights?</p>
         <p>= Shi Huangdi never slept in the same room for two consecutive nights because of constant fear of assassination.</p>
-        <p>j. What are the everlasting marks of the Qin Dynasty?</p>
+        <p className='question'>j. What are the everlasting marks of the Qin Dynasty?</p>
         <p>= The everlasting marks of the Qin Dynasty are as follows:</p>
         <p>1. The Terracotta Army</p>
         <p>2. Concept of Legalism</p>

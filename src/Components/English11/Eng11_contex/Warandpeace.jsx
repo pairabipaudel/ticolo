@@ -124,22 +124,31 @@ In the end, young people have the power to bring peace and prosperity. If we all
         <p className='question'>B. Divide the following sentences into different parts.</p>
         <p>a. The children are playing now.</p>
         <p>= Subject + verb + adverbial</p>
+        <br/>
         <p>b. Srijana will be reading a story.</p>
         <p>= Subject + verb + object</p>
+        <br/>
         <p>c. Bimala is a very beautiful girl.</p>
         <p>= Subject + verb (be) + complement</p>
+        <br/>
         <p>d. She usually wears glasses.</p>
         <p>= Subject + adverbial + verb + object</p>
+        <br/>
         <p>e. They elected him President.</p>
         <p>= Subject + verb + object + complement</p>
+        <br/>
         <p>f. Rabin is laughing.</p>
         <p>= Subject + verb</p>
+        <br/>
         <p>g. He has a big house in Butwal.</p>
         <p>= Subject + verb + object + adverbial</p>
+        <br/>
         <p>h. The man who lives next door is a professor.</p>
         <p>= Subject + verb (be) + complement</p>
+        <br/>
         <p>i. Her uncle has been living in Kathmandu for fifteen years.</p>
         <p>= Subject + verb + adverbial + adverbial</p>
+        <br/>
         <p>j. The girl with long hair asked me a question last week.</p>
         <p>= Subject + verb + indirect object + direct object + adverbial</p>
       </div>

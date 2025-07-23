@@ -66,27 +66,27 @@ const Educationandhumanity = () => {
        <div>
         <h3>Comprehension</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Why did the speaker receive thousands of good-wishes cards and gifts from all over the world?</p>
+        <p className='question'>a. Why did the speaker receive thousands of good-wishes cards and gifts from all over the world?</p>
         <p>= The speaker was shot by the Taliban on the left side of her forehead and was hospitalized for treatment and recovery. People from all over the world sent her thousands of good-wishes cards and gifts to show their support, love, and prayers for her recovery and bravery.</p>
-        <p>b. According to the speaker, what are hundreds of human rights activists and social workers struggling for?</p>
+        <p className='question'>b. According to the speaker, what are hundreds of human rights activists and social workers struggling for?</p>
         <p>= According to the speaker, hundreds of human rights activists and social workers are struggling to achieve their goals of education, peace, and equality.</p>
-        <p>c. What has she learnt from Gandhi?</p>
+        <p className='question'>c. What has she learnt from Gandhi?</p>
         <p>= She has learnt the value of nonviolence and the power of peaceful protest from Gandhi.</p>
-        <p>d. In what sense is peace necessary for education?</p>
+        <p className='question'>d. In what sense is peace necessary for education?</p>
         <p>= Peace is essential for providing quality education. Children can receive a fruitful education only when there is a peaceful environment. Without peace, children may be afraid to go to school, and even if they attend, they cannot concentrate on their studies. Therefore, peace plays a vital role in ensuring effective learning.</p>
-        <p>e. According to the speaker, what are the main problems faced by both men and women?</p>
+        <p className='question'>e. According to the speaker, what are the main problems faced by both men and women?</p>
         <p>= According to the speaker, both men and women face major problems such as poverty, ignorance, injustice, racism, and the deprivation of basic rights.</p>
-        <p>f. What is Malala calling upon all governments?</p>
+        <p className='question'>f. What is Malala calling upon all governments?</p>
         <p>= Malala is calling upon all governments to ensure free and compulsory education for all children around the world. She also urges them to fight against terrorism and violence, and to protect children from brutality and harm.</p>
-        <p>g. What is the main message of this speech?</p>
+        <p className='question'>g. What is the main message of this speech?</p>
         <p>= The main message of this speech is that education is a powerful weapon to eradicate problems like illiteracy, terrorism, violence, and the violation of fundamental human rights. Therefore, providing education to every child in the world should be the top priority of all governments.</p>
        </div>
        <div>
         <h3>Critical thinking</h3>
-        <p>a. 'All children have the right to quality education. How can we ensure this right to every child? Discuss the role of the government and the parents to make sure that every child can attend school.'</p>
+        <p className='question'>a. 'All children have the right to quality education. How can we ensure this right to every child? Discuss the role of the government and the parents to make sure that every child can attend school.'</p>
         <p>= Quality education is a fundamental need in the 21st century. To ensure this right for every child, the combined efforts of the government, parents, and schools are essential. These stakeholders must work together to create an environment where every child can access and benefit from meaningful learning.</p>
         <p>Role of the Government:</p>
-        <p>1. The government can subsidize education by providing free or affordable schooling, especially for children from low-income families.
+        <p >1. The government can subsidize education by providing free or affordable schooling, especially for children from low-income families.
 </p><p>
 2. It should promote equality in education by ensuring that all public schools offer high-quality instruction and learning resources.
 </p><p>
@@ -134,50 +134,67 @@ const Educationandhumanity = () => {
         <p>who: pronoun</p>
         <p>wearing: verb</p>
         <p>my: determiner</p>
+        <br/>
         <p>b. I bought a round table in the supermarket.</p>
         <p>round: adjective</p>
         <p>the: determiner</p>
+        <br/>
         <p>c. Alas, she is dead.</p>
         <p>Alas: interjection</p>
         <p>d. Hari works very hard all the time but his wife is very lazy.</p>
         <p>hard: adverb</p>
         <p>wife: noun</p>
         <p>very: adverb</p>
+        <br/>
         <p>e. I have never been to Japan.</p>
         <p>never: adverb</p>
+        <br/>
         <p>f. Ann drove a car safely.</p>
         <p>Ann: Noun</p>
+
         <p>Safely: Adverb</p>
+        <br/>
         <p>g. Nobody has claimed it.</p>
         <p>nobody: pronoun</p>
         <p>it: pronoun</p>
+        <br/>
         <p>h. She cut her hand with a knife.</p>
         <p>her: determiner</p>
         <p>with: preposition</p>
+        <br/>
         <p>i. They have postponed the program because of rain.</p>
         <p>have: verb</p>
         <p>because of: preposition</p>
         <p>rain: noun</p>
+        <br/>
         <p>j. Everybody comes to the party.</p>
         <p>everybody: pronoun</p>
+        <br/>
         <p>k. All such people ought to be avoided.</p>
         <p>all: determiner</p>
         <p>such: determiner</p>
+        <br/>
         <p>l. All of the food has gone.</p>
         <p>all: pronoun</p>
         <p>m. What was that noise?</p>
         <p>what: pronoun</p>
+        <br/>
         <p>n. One must not boast of one's own success.</p>
         <p>one: pronoun</p>
+        <br/>
         <p>o. Nobody was there to rescue the child.</p>
         <p>nobody: pronoun</p>
+        <br/>
         <p>p. Neither of the accusations is true.</p>
         <p>neither: pronoun</p>
+        <br/>
         <p>q. Neither answer is correct.</p>
         <p>neither: determiner</p>
+        <br/>
         <p>r. Here is the book that you lent me.</p>
         <p>here: adverb</p>
         <p>that: pronoun</p>
+        <br/>
         <p>s. Without health there is no happiness.</p>
         <p>without: proposition</p>
         <p>health: noun</p>

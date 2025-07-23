@@ -8,22 +8,29 @@ const Fantasy11 = () => {
         <p className='question'>A. Find the meanings of the following words and phrases from a dictionary and make sentences by using them.</p>
         <p><strong>a. peep into : </strong>To look quickly and secretly into a place or through an opening.</p>
         <p>She tried to peep into the room to see what was happening without being noticed.</p>
+        <br/>
         <p><strong>b. pop down : </strong>To go somewhere quickly or for a short time, usually nearby.</p>
         <p>I'll just pop down to the store to buy some milk.</p>
+        <br/>
         <p><strong>c. remarkable : </strong>Very unusual or special; worth noticing or attention.</p>
         <p>Her performance in the competition was truly remarkable.</p>
+        <br/>
         <p><strong>d. hedge : </strong>A row of bushes or small trees planted close together, usually as a boundary or fence.</p>
-        <p>They planted a hedge around their garden for privacy.</p>
-        <p><strong>e. wonder :</strong>To think about something with curiosity or doubt.</p>
+<br/>      
+  <p><strong>e. wonder :</strong>To think about something with curiosity or doubt.</p>
         <p>I wonder what time the movie starts tonight.</p>
+        <br/>
         <p><strong>f. tumble :</strong>To fall suddenly, clumsily, or headlong.</p>
         <p>The boy took a tumble while learning to ride his bike.</p>
+        <br/>
         <p><strong>g. doze off : </strong>To fall asleep lightly or briefly, often unintentionally, especially when you are tired.</p>
         <p>I started to doze off during the boring lecture.</p>
+        <br/>
         <p><strong>h. earnestly : </strong>In a serious and sincere way, showing deep feeling or strong intention.</p>
         <p>He spoke earnestly about the need to protect the environment.</p>
+        <br/>
         <p><strong>i. tiny : </strong>Very small in size or amount.</p>
-      sss
+    
       
         <p>The kitten was so tiny that it fit in the palm of my hand.</p>
       </div>
@@ -40,19 +47,19 @@ const Fantasy11 = () => {
       <div>
         <h3>Comprehension</h3>
         <p className='question'>A. Answer these questions.</p>
-        <p>a. What did Alice do while her sister was reading a book?</p>
+        <p className='question' >a. What did Alice do while her sister was reading a book?</p>
         <p>= Alice fell asleep while her sister was reading a book.</p>
-        <p>b. Why did Alice run across the field after the Rabbit?</p>
+        <p className='question'>b. Why did Alice run across the field after the Rabbit?</p>
         <p>= Alice ran across the field after the Rabbit because she was curious to know more about the rabbit, which she had never seen before.</p>
-        <p>c. Why didn't she like to drop the jar? What did she do with it?</p>
+        <p className='question'>c. Why didn't she like to drop the jar? What did she do with it?</p>
         <p>= She didn't want to drop the jar because she was afraid it might hurt someone underneath. So, she carefully placed it on one of the cupboards.</p>
-        <p>d. What idea came to her mind when she saw a tiny golden key?</p>
+        <p className='question'>d. What idea came to her mind when she saw a tiny golden key?</p>
         <p>= When she saw the tiny golden key, she thought about using it to open one of the doors in the hall.</p>
-        <p>e. What was written on the bottle that she found? Did she follow what it said?</p>
+        <p className='question'>e. What was written on the bottle that she found? Did she follow what it said?</p>
         <p>= The bottle she found had “DRINK ME” written on it, and she did follow the instruction.</p>
-        <p>f. Alice was fond of pretending to be two people. Who were they?</p>
+        <p className='question'>f. Alice was fond of pretending to be two people. Who were they?</p>
         <p>= Alice was fond of pretending to be two people: herself and her friend Alice.</p>
-        <p>g. Why did she want to eat the cake that she found?</p>
+        <p className='question'>g. Why did she want to eat the cake that she found?</p>
         <p>Alice wanted to eat the cake she found because she hoped it would make her grow bigger.</p>
       </div>
       <hr/>
@@ -116,26 +123,32 @@ The giant figure came close to our building, and we all became very scared, runn
         <p>I wish I had a mobile phone.</p>
         <p>I wish I won a mobile phone.</p>
         <p>I wish I won a mobile phone.</p>
+        <br/>
         <p>b. You don't know the answer of a question from the lesson.</p>
         <p>I wish I had read the lesson more carefully.</p>
         <p>I wish someone could help me with the answer.</p>
         <p>I wish I understood the topic better.</p>
+        <br/>
         <p>c. You can't play the guitar.</p>
         <p>I wish I knew how to play the guitar.</p>
         <p>I wish someone could teach me to play it.</p>
         <p>I wish I had learned it earlier.</p>
+        <br/>
         <p>d. It's cold</p>
         <p>I wish the weather were warmer.</p>
         <p>I wish I had brought a jacket.</p>
         <p>I wish the sun would come out.</p>
+        <br/>
         <p>e. You are feeling sick.</p>
         <p>I wish I felt better.</p>
         <p>I wish I didn't have to go out today.</p>
         <p>If only I had taken better care of myself.</p>
+        <br/>
         <p>f. You live in a crowded city.</p>
         <p>I wish I lived in a quieter place.</p>
         <p>I wish the city weren't so crowded.</p>
         <p>If only I could move to the countryside.</p>
+        <br/>
         <p>g. You feel lonely.</p>
         <p>I wish I had someone to talk to.</p>
         <p>I wish I didn't feel so alone.</p>
@@ -146,12 +159,16 @@ The giant figure came close to our building, and we all became very scared, runn
         <p className='question'>C. Rewrite the following sentences making correction if necessary.</p>
         <p>a. I wish my father bought me a bike.</p>
         <p>= I wish my father would buy me a bike.</p>
+        <br/>
         <p>b. I wish I would write poems.</p>
         <p>= I wish I could write poems.</p>
+        <br/>
         <p>c. I wish I could remember her name.</p>
         <p>= I wish I could remember her name.</p>
+        <br/>
         <p>d. I wish I had a good job.</p>
         <p>= I wish I had a good job.</p>
+        <br/>
         <p>e. I wish I would be rich.</p>
         <p>= I wish I were rich.</p>
       </div>

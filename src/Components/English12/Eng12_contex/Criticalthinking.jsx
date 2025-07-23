@@ -59,54 +59,54 @@ const Criticalthinking = () => {
       <p className='question'>Answer the following questions.</p>
 
       <div className="qa">
-        <p><strong>a.</strong> Who was Jack? How did he make children laugh?</p>
+        <p className='question'><strong>a.</strong> Who was Jack? How did he make children laugh?</p>
         <p>Jack was a classmate of the narrator. He was the kind of kid other children liked and had many friends. He made children laugh by telling jokes, cracking riddles, and joking around with kids even those who weren't in his own homeroom.</p>
       </div>
 
       <div className="qa">
-        <p><strong>b.</strong> Why are "Sharks" important to Reid?</p>
+        <p className='question'><strong>b.</strong> Why are "Sharks" important to Reid?</p>
         <p>Sharks are important to Reid because they help keep the ocean clean by eating dead organisms. This act plays a vital role in maintaining a healthy marine environment.</p>
       </div>
 
       <div className="qa">
-        <p><strong>c.</strong> What does Mr. Browne think about the most important thing?</p>
+        <p className='question'><strong>c.</strong> What does Mr. Browne think about the most important thing?</p>
         <p>Mr. Browne thinks that the most important thing is to know oneself. According to him, understanding and evaluating our own character helps us grow and become the best version of ourselves.</p>
       </div>
 
       <div className="qa">
-        <p><strong>d.</strong> What is it that has not been noticed by the student?</p>
+        <p className='question'><strong>d.</strong> What is it that has not been noticed by the student?</p>
         <p>The plaque next to the door of the school, which says “Know Thyself,” is the thing that has not been noticed by the students.</p>
       </div>
 
       <div className="qa">
-        <p><strong>e.</strong> How did Jack make fun of the English class?</p>
+        <p className='question'><strong>e.</strong> How did Jack make fun of the English class?</p>
         <p>Jack made fun of the English class by humorously answering Mr. Browne's question, “Why are you here?” He jokingly said that they were there to attend English class and started talking about all the fun things they would be doing that year, making the class laugh.</p>
       </div>
 
       <div className="qa">
-        <p><strong>f.</strong> What were the students going to do at the end of the month?</p>
+        <p className='question'><strong>f.</strong> What were the students going to do at the end of the month?</p>
         <p>At the end of the month, the students were going to write an essay based on Mr. Browne's precept.</p>
       </div>
 
       <div className="qa">
-        <p><strong>g.</strong> What particular act of students surprised a girl student?</p>
+        <p className='question'><strong>g.</strong> What particular act of students surprised a girl student?</p>
         <p>The girl student was surprised by the act of students writing their own personal precepts on a postcard and mailing them to Mr. Browne during the summer vacation after graduation.</p>
       </div>
 
       <hr />
       <h3>Critical Thinking</h3>
       <div className="qa">
-        <p><strong>a.</strong> Have you made your own precept after you read this lesson? What is it? Share it with your friends.</p>
+        <p className='question'><>a.</> Have you made your own precept after you read this lesson? What is it? Share it with your friends.</p>
         <p>
           Yes, after reading this lesson, I have created my own precept. A precept is a rule or principle that guides our behavior and thoughts.<br />
-          <strong>My Precept:</strong><br />
+          <p>My Precept:</p><br />
           "When given a choice between being right or being kind, I choose kindness."<br />
           I believe kindness is more important than always proving we are right. Being kind helps build good relationships and makes the world a better place. Sometimes, winning an argument is less valuable than showing compassion and understanding toward others.
         </p>
       </div>
          <hr/>
       <div className="qa">
-        <p className='question'><strong>b.</strong> According to Josh Lanyon, "If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity." Justify this statement with your logic.</p>
+        <p className='question'><>b.</> According to Josh Lanyon, "If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity." Justify this statement with your logic.</p>
         <p>
           Josh Lanyon said, “If there was one life skill everyone on the planet needed, it was the ability to think with critical objectivity.” This means that the most important skill for all people is the ability to think clearly, logically, and without bias.<br /><br />
           Critical objectivity refers to the ability to analyze situations and information carefully, separating facts from emotions or assumptions, and making fair, reasoned judgments. It is closely connected to critical thinking skills such as analysis, interpretation, inference, explanation, and open-mindedness.<br /><br />
@@ -150,37 +150,37 @@ const Criticalthinking = () => {
       <hr />
       <h3>Grammar</h3>
       <p className='question'>Rewrite the following sentences adding appropriate question tags.</p>
-      <ul className="question-tags-list">
-        <li>Gill does not know Ann, <strong>does he?</strong></li>
-        <li>I'm very patient, <strong>aren't I?</strong></li>
-        <li>They'd never met me before, <strong>had they?</strong></li>
-        <li>Listen carefully, <strong>will you?</strong></li>
-        <li>Let's have a break, <strong>shall we?</strong></li>
-        <li>Let us invite them, <strong>will you?</strong></li>
-        <li>Hari used to live in France as a boy, <strong>didn't he?</strong></li>
-        <li>You'd better not take a hard drink, <strong>had you?</strong></li>
-        <li>Sheep eat grass, <strong>don't they?</strong></li>
-        <li>Mr. Pande can speak nine languages, <strong>can't he?</strong></li>
-        <li>She's finished her classes, <strong>hasn't she?</strong></li>
-        <li>She barely managed to reach the goal, <strong>did she?</strong></li>
-        <li>Don't let him swim in the pond, <strong>will you?</strong></li>
-        <li>There are lots of people here, <strong>aren't there?</strong></li>
-      </ul>
+     
+        <p>Gill does not know Ann, <strong>does he?</strong></p>
+        <p>I'm very patient, <strong>aren't I?</strong></p>
+        <p>They'd never met me before, <strong>had they?</strong></p>
+        <p>Listen carefully, <strong>will you?</strong></p>
+        <p>Let's have a break, <strong>shall we?</strong></p>
+        <p>Let us invite them, <strong>will you?</strong></p>
+        <p>Hari used to live in France as a boy, <strong>didn't he?</strong></p>
+        <p>You'd better not take a hard drink, <strong>had you?</strong></p>
+        <p>Sheep eat grass, <strong>don't they?</strong></p>
+        <p>Mr. Pande can speak nine languages, <strong>can't he?</strong></p>
+        <p>She's finished her classes, <strong>hasn't she?</strong></p>
+        <p>She barely managed to reach the goal, <strong>did she?</strong></p>
+        <p>Don't let him swim in the pond, <strong>will you?</strong></p>
+        <p>There are lots of people here, <strong>aren't there?</strong></p>
+     
 
       <hr />
       <p className='question'>Read the following situation. What do you say in these situations? Use question tags.</p>
-      <ul className="question-tags-list">
-        <li>It's going to rain soon, <strong>isn't it?</strong></li>
-        <li>Shyam, you have to lend me 100 rupees, <strong>haven't you?</strong></li>
-        <li>We can talk, <strong>can't we?</strong></li>
-        <li>The film was very enjoyable, <strong>wasn't it?</strong></li>
-        <li>He gave an excellent act, <strong>didn't he?</strong></li>
-        <li>Your father hasn't arrived from the US, <strong>has he?</strong></li>
-        <li>Susan will go to her new job tomorrow, <strong>won't she?</strong></li>
-        <li>You have got too short hair, <strong>haven't you?</strong></li>
-        <li>Let's go on a picnic, <strong>shall we?</strong></li>
-        <li>Let me go for an evening walk, <strong>will you?</strong></li>
-      </ul>
+      
+        <p>It's going to rain soon, <strong>isn't it?</strong></p>
+        <p>Shyam, you have to lend me 100 rupees, <strong>haven't you?</strong></p>
+        <p>We can talk, <strong>can't we?</strong></p>
+        <p>The film was very enjoyable, <strong>wasn't it?</strong></p>
+        <p>He gave an excellent act, <strong>didn't he?</strong></p>
+        <p>Your father hasn't arrived from the US, <strong>has he?</strong></p>
+        <p>Susan will go to her new job tomorrow, <strong>won't she?</strong></p>
+        <p>You have got too short hair, <strong>haven't you?</strong></p>
+        <p>Let's go on a picnic, <strong>shall we?</strong></p>
+        <p>Let me go for an evening walk, <strong>will you?</strong></p>
+      
     </div>
   );
 };

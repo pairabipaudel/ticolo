@@ -19,15 +19,15 @@ This short poem is like a daily reminder a gentle push to be more caring, though
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. When does the speaker pray to the Lord?</p>
+        <p className='question'>a. When does the speaker pray to the Lord?</p>
         <p>= The speaker prays to the Lord every morning when he wakes up and every night before he goes to sleep.</p>
-        <p>b. What does the speaker pray for?</p>
+        <p className='question'>b. What does the speaker pray for?</p>
         <p>= The speaker prays that the Lord watches kindly over all the poor and weak creatures who live in the world. He asks for blessings and care for everyone, not just for himself.</p>
-        <p>c. Who are the 'poor creatures'? Why does the speaker call them 'poor creatures'?</p>
+        <p className='question'>c. Who are the 'poor creatures'? Why does the speaker call them 'poor creatures'?</p>
         <p>= The 'poor creatures' are all the innocent animals and people living on Earth. The speaker calls them 'poor creatures' because they are born to live, but they don't know if they will see another morning. Life is uncertain for them.</p>
-        <p>d. What does Milk Wood sound like? A type of wood or a place? Why?</p>
+        <p className='question'>d. What does Milk Wood sound like? A type of wood or a place? Why?</p>
         <p>= Milk Wood sounds like a place because there is no use of article before this noun. If it is a type of wood then an article either 'a', 'an' or 'the' must have been used according to grammatical rules.</p>
-        <p>e. Why do the inhabitants of Milk Wood bow to the setting sun 'but just for now'?</p>
+        <p className='question'>e. Why do the inhabitants of Milk Wood bow to the setting sun 'but just for now'?</p>
         <p>= The people of Milk Wood bow to the setting sun "but just for now" because they know the day is ending. They are saying goodbye to the sun for the night and hoping to see it again the next day. They understand that life is not forever, so they pray to have another good day tomorrow.</p>
       </div>
       <div>

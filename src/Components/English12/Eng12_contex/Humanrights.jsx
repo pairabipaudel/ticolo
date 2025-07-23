@@ -65,28 +65,28 @@ True</p>
       <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. How does the author remember his family environment when he was a small boy?</p>
+        <p className='question'>a. How does the author remember his family environment when he was a small boy?</p>
         <p>= The author remembers his family environment as painful and abusive. He recalls that his father used to verbally and physically abuse his mother.</p>
 
-        <p>b. Why does the author blame the system more than his father?</p>
+        <p className='question'>b. Why does the author blame the system more than his father?</p>
         <p>= The author blames the system more than his father because the system caused his father's stress, pressure, and trauma, which led to his abusive behavior.</p>
 
-        <p>c. How does the principle of forgiveness work?</p>
+        <p className='question'>c. How does the principle of forgiveness work?</p>
         <p>= The principle of forgiveness does not depend on the actions of others. It is a way of self-healing that brings peace and harmony to ourselves. Forgiveness helps release our pain and creates a sense of freedom in our heart and mind. People forgive not to help others, but for their own well-being, making forgiveness a kind of self-care or selfish act.</p>
 
-        <p>d. How does the author interpret the noise, squalls and tantrums of his children?</p>
+        <p className='question'>d. How does the author interpret the noise, squalls and tantrums of his children?</p>
         <p>= The author interprets the noise, squalls, and tantrums of his children as a reflection of the many failures, irritations, and fatigue that parents experience.</p>
 
-        <p>e. Why did the author decide to educate his children in Swaziland?</p>
+        <p className='question'>e. Why did the author decide to educate his children in Swaziland?</p>
         <p>= The author decided to educate his children in Swaziland because he was unhappy with the poor quality of education provided to black children under South Africa's Bantu Education Act.</p>
 
-        <p>f. How does the author define human life?</p>
+        <p className='question'>f. How does the author define human life?</p>
         <p>= According to the author, human life is a complex mix of goodness, beauty, cruelty, heartbreak, challenges, love, and many other emotions and experiences.</p>
 
-        <p>g. According to the author, is it heredity or environment that shapes a man's character? Explain.</p>
+        <p className='question'>g. According to the author, is it heredity or environment that shapes a man's character? Explain.</p>
         <p>= According to the author, it is the environment, not heredity, that shapes a person's character. Every child is born pure and innocent, neither a liar nor violent by nature. No one is born with hatred or less goodness than others. Therefore, heredity does not determine a person's character; rather, it is the surrounding environment and experiences that shape who we become.</p>
 
-        <p>h. Why is forgiveness important in our life?</p>
+        <p className='question'>h. Why is forgiveness important in our life?</p>
         <p>= Forgiveness is important because it allows us to free ourselves from the pain and burden of past mistakes and wrongdoings. By forgiving, we can move forward in life without being held back by anger or regret. It helps us find peace and emotional healing, enabling us to live healthier and happier lives.</p>
       </div>
       <div>
@@ -123,30 +123,39 @@ To make education more equal for all citizens of Nepal, both private and public 
         <p>a. Bibha Kumari was doing her homework. The doorbell rang</p>
         <p>= Bibha Kumari was doing her homework when the doorbell rang.</p>
         <p>= While Bibha Kumari was doing her homework, the doorbell rang.</p>
+        <br/>
         <p>b. I heard the telephone ring. I picked it up.</p>
         <p>= I picked it up when I heard the telephone ring. </p>
         <p>= While I was picking up the telephone, it rang.</p>
+        <br/>
         <p>c. Dil Maya found a thousand rupee note. She was washing her pants.</p>
         <p>= Dil Maya found a thousand rupee note while she was washing her pants.</p>
         <p>= Dil Maya found a thousand rupee note when she was washing her pants.</p>
+        <br/>
         <p>d. Tenjing gave his measurements to the dressmaker. He was visiting the market yesterday.</p>
         <p>= Tenjing gave his measurements to the dressmaker when he was visiting the market yesterday.</p>
         <p>= While Tenjing was visiting the market yesterday, he gave his measurements to the dressmaker.</p>
+        <br/>
         <p>e. I was at the butcher's shop. I met Harikala.</p>
         <p>= I met Harikala when I was at the butcher's shop.</p>
         <p>= While I was at the butcher's shop, I met Harikala.</p>
+        <br/>
         <p>f. The sales agent was dealing with the customer. A thief stole the jewels.</p>
         <p>= The sales agent was dealing with the customer while a thief stole the jewels.</p>
         <p>= A thief stole the jewels when the sales agent was dealing with the customer.</p>
+        <br/>
         <p>g. My small brother was sleeping. I played chess with my father.</p>
         <p>= My small brother was sleeping while I played chess with my father.</p>
         <p>= I played chess with my father when my small brother was sleeping.</p>
+        <br/>
         <p>h. The old lady fell down. She was climbing up the stairs.</p>
         <p>= The old lady fell down while she was climbing up the stairs.</p>
         <p>= The old lady fell down when she was climbing up the stairs.</p>
+        <br/>
         <p>i. The leader was giving a speech loudly. He lost his voice.</p>
         <p>= The leader lost his voice while he was giving a speech loudly.</p>
         <p>= The leader lost his voice when he was giving a speech loudly.</p>
+        <br/>
         <p>j. Kanchan broke her backbone. She was lifting up the load.</p>
         <p>= Kanchan broke her backbone while she was lifting up the load.</p>
         <p>= Kanchan broke her backbone when she was lifting up the load.</p>

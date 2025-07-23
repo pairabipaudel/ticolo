@@ -14,23 +14,23 @@ const Thebull = () => {
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Why have Gore and Jitman come to see Laxminarayan?</p>
+        <p className='question'>a. Why have Gore and Jitman come to see Laxminarayan?</p>
         <p>= Gore and Jitman have come to see Laxminarayan to inform him about the death of King Ranabahadur's bull.</p>
-        <p>b. What, according to cowherds, is the reason behind the death of Male?</p>
+        <p className='question'>b. What, according to cowherds, is the reason behind the death of Male?</p>
         <p>= According to the cowherds, Male died because he was fed a heavy diet of fine rice and split red gram soup, which he could not properly digest.</p>
-        <p>c. Why does Ranabahadur want to see the bull himself?</p>
+        <p className='question'>c. Why does Ranabahadur want to see the bull himself?</p>
         <p>= Ranabahadur wants to see the bull himself to examine its condition and decide if it can be treated at Gauchar, Kathmandu. If the bull improves after treatment there, it will not have to be taken to the hills.</p>
-        <p>d. Why does Laxminarayan run ahead of the convoy at Thulo Gauchar?</p>
+        <p className='question'>d. Why does Laxminarayan run ahead of the convoy at Thulo Gauchar?</p>
         <p>= Laxminarayan runs ahead of the convoy at Thulo Gauchar to instruct the cowherds to massage the bull's back feet and wave fans at it. He does this to create an impression for King Ranabahadur Shah that the bull is being well cared for. If the king finds out otherwise, he would become angry and punish them.</p>
-        <p>e. Why do Gore and Jitman cry when the king declares that Male is dead?</p>
+        <p className='question'>e. Why do Gore and Jitman cry when the king declares that Male is dead?</p>
         <p>= Gore and Jitman cry when the king declares that Male is dead to display their fake sympathy and concern for the bull. Their dramatic weeping is an attempt to win the king's forgiveness and avoid punishment. Knowing the king's unpredictable temper, they fear he might hold them responsible for the bull's death and punish them severely.</p>
-        <p>f. How do we learn that the bull is dead?</p>
+        <p className='question'>f. How do we learn that the bull is dead?</p>
         <p>= We learn that the bull is dead through both physical signs and the statements of the characters. The cowherds, Laxminarayan, and the king all suggest the bull's death through their dialogues. Physically, the bull shows no signs of life—his breathing has stopped, his tail has gone limp, his ears have dropped backward, and he is unable to eat. These clear indicators confirm that the bull is no longer alive.</p>
-        <p>g. How does the play make a satire on the feudal system?</p>
+        <p className='question'>g. How does the play make a satire on the feudal system?</p>
         <p>= The play The Bull by Bhimnidhi Tiwari satirizes the feudal system by exposing the cruelty, domination, and dehumanization faced by ordinary people under feudal rule. It highlights how the lives of common people were considered less valuable than that of animals owned by the rulers. In the play, the king's bull receives more care, attention, and respect than the human workers. The cowherds live in constant fear, hiding the truth about the bull's death to avoid punishment.
 </p><p>
 The play mocks the absurdity of such a system, where people are reduced to living at the mercy of their feudal lord. It reveals how fear and oppression force individuals to act dishonestly just to survive. Through this, the drama powerfully critiques the inhumanity and injustice of the feudal structure.</p>
-<p>h. Write down the plot of the play in a paragraph.</p>
+<p className='question'>h. Write down the plot of the play in a paragraph.</p>
 <p>= The Bull, written by Bhimnidhi Tiwari, is a satirical play that revolves around the death of a bull owned by King Rana Bahadur Shah. The play begins with the cowherds, Gore and Jitman, discovering that the bull, called Male, has died. Terrified of the king's wrath, they inform Laxminarayan, a royal official, who instructs them to pretend the bull is still alive. When the king arrives at Thulo Gauchar to see the bull, the cowherds massage its legs and fan it to fake its well-being. However, the king quickly realizes the truth and declares the bull dead. In response, the cowherds cry loudly and plead for forgiveness, trying to escape punishment. The play humorously yet critically portrays the fear and absurdity of the feudal system, where animals were valued more than the lives of common people.</p>
       </div>
       <div>

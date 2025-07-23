@@ -14,15 +14,15 @@ const Iwasmyownroute = () => {
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following</p>
-        <p>a. Why did the speaker try to be the way men wanted her to be?</p>
+        <p className='question'>a. Why did the speaker try to be the way men wanted her to be?</p>
         <p>= The speaker tried to be the way men wanted her to be because she wanted to be free and strong. She did not like how men wanted women to just obey and stay quiet. She wanted to change that and show that women can be independent and make their own choices. She didn't want to be controlled by men's rules.</p>
-        <p>b. What do you understand by her feet 'would not accept walking backwards'?</p>
+        <p className='question'>b. What do you understand by her feet 'would not accept walking backwards'?</p>
         <p>= The line “her feet would not accept walking backwards” means she did not want to go back to the old days when women had to stay quiet and obey men. She wanted to move forward and be free, strong, and equal like men. Her feet not walking backwards show she wanted to keep going ahead and not stay behind.</p>
-        <p>c. Who are the old guards? Why did they grow desperate?</p>
+        <p className='question'>c. Who are the old guards? Why did they grow desperate?</p>
         <p>= The “old guards” are the people who believe that men should be in charge and women should be quiet and follow rules made by men. They think women are not as important as men. They became desperate and worried because Julia wanted women to be free, strong, and equal. She wanted to change the old rules, and that scared the old guards.</p>
-        <p>d. How did the speaker have 'a feeling of intimate liberation'?</p>
+        <p className='question'>d. How did the speaker have 'a feeling of intimate liberation'?</p>
         <p>= The speaker felt a special kind of freedom inside her because she kept moving forward on her own path, even when it was hard. She didn't stop even when the old rules made by men tried to hold her back. By choosing her own way, she felt more free and strong inside.</p>
-        <p>e. Why did the speaker's desire to follow men warp in her?</p>
+        <p className='question'>e. Why did the speaker's desire to follow men warp in her?</p>
         <p>= The speaker wanted to follow what men wanted at first, but then her feelings changed because she saw that men had many strict rules for women. She didn't like those rules because they stopped women from being free and happy. So, her wish to follow men got twisted or changed, and she wanted to be strong and free instead.</p>
       </div>
       <div>
@@ -80,7 +80,7 @@ I agree with both: people should support each other like Donne said, but also tr
     <hr/>
     <h3>Reference beyond the text</h3>
     <p className='question'>a. Write an essay on My Idea of Freedom.</p>
-    <p>=
+    <p>
 My Idea of Freedom</p><p>
 For me, freedom means being able to live my life in a way that makes me happy. It means I can speak, learn, and choose things for myself. I think freedom is important because it helps people grow, dream, and feel safe.
 </p><p>
@@ -99,7 +99,7 @@ In the end, freedom helps us become kind, smart, and strong people. It is not ju
 </p>
 <p>= Yes, I agree with William Faulkner. I think the past is still part of our lives, even if we don't always see it.
 </p><p>
-Faulkner says, “The past is never dead. It's not even past.” That means things that happened before—like how our parents raised us, what kind of family we were born into, or what kind of country we live in—still affect us today. For example, if someone's grandparents had a hard life, that might still affect their family now.
+Faulkner says, “The past is never dead. It's not even past.” That means things that happened before like how our parents raised us, what kind of family we were born into, or what kind of country we live in still affect us today. For example, if someone's grandparents had a hard life, that might still affect their family now.
 </p><p>
 Julia de Burgos, in her poem, talks about wanting to be free from what other people tell her to do, especially men. She wants to live her own life. That's a strong and powerful idea! But Faulkner reminds us that even when we try to live freely, the past still pulls on us like a spider web. We're connected to it.
 </p><p>

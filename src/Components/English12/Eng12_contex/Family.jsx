@@ -34,32 +34,32 @@ const Family = () => {
 
       <div>
         <p className='question'>B. Find the meanings of the following family-related words and use them in your own sentences.</p>
-
-        <h4>Nuclear Family</h4>
+       <br/>
+        <p className='question'>Nuclear Family</p>
         <p><strong>Meaning:</strong> A nuclear family is a small family that has just a mother, a father, and their children living together in one house.</p>
         <p><strong>Sentence:</strong> My uncle has a small nuclear family with just him, his wife, and their two kids.</p>
-
-        <h4>Monogamy</h4>
+<br/>
+        <p className='question'>Monogamy</p>
         <p><strong>Meaning:</strong> Monogamy means having only one husband or wife at a time.</p>
         <p><strong>Sentence:</strong> Society will be happier if people practice monogamous marriage.</p>
-
-        <h4>Sibling-in-law</h4>
+        <br/>
+        <p className='question'>Sibling-in-law</p>
         <p><strong>Meaning:</strong> The brother or sister of your spouse, or the spouse of your brother or sister.</p>
         <p><strong>Sentence:</strong> My sister's husband is my brother-in-law.</p>
-
-        <h4>Milk Kinship</h4>
+<br/>
+        <p className='question'>Milk Kinship</p>
         <p><strong>Meaning:</strong> A cultural or social relationship formed between people who were breastfed by the same woman.</p>
         <p><strong>Sentence:</strong> In some cultures, people who have milk kinship cannot marry each other because they are seen as family.</p>
-
-        <h4>Matrilineal</h4>
+<br/>
+        <p className='question'>Matrilineal</p>
         <p><strong>Meaning:</strong> A family system where a child follows the mother's side of the family.</p>
         <p><strong>Sentence:</strong> In a matrilineal society, property and family names are passed down through the mother's side.</p>
-
-        <h4>Nepotism</h4>
+<br/>
+        <p className='question'>Nepotism</p>
         <p><strong>Meaning:</strong> Giving jobs or favors to your family members or friends, especially when they are not the most qualified.</p>
         <p><strong>Sentence:</strong> The manager showed nepotism by hiring his brother instead of a more experienced candidate.</p>
-
-        <h4>Maternity</h4>
+<br/>
+        <p className='question'>Maternity</p>
         <p><strong>Meaning:</strong> Everything related to pregnancy and having a baby.</p>
         <p><strong>Sentence:</strong> She took maternity leave to care for her newborn baby.</p>
       </div>
@@ -90,29 +90,29 @@ const Family = () => {
 <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. What type of family is thought to be the oldest form of the family?</p>
+        <p className='question'>a. What type of family is thought to be the oldest form of the family?</p>
         <p>= An extended family includes not only parents and their unmarried children but also other relatives like uncles, aunts, cousins, grandparents, and dependents living together or closely connected. This type of family structure is considered the oldest form of family organization in human history.</p>
-        <p>b. How does a family provide security to its members?</p>
+        <p className='question'>b. How does a family provide security to its members?</p>
         <p>= A family provides security to its members by offering both mental and physical support. It protects its members from external pressures and gives them the confidence to face life's challenges. Family security includes emotional and psychological support through warmth, love, and companionship. Additionally, families provide physical security, especially for those who are too young or too old, ensuring their safety and well-being. Families also guide members by establishing rules and norms for behavior, which helps maintain a stable and secure environment.</p>
-        <p>c. What were the features of medieval European family?</p>
+        <p className='question'>c. What were the features of medieval European family?</p>
         <p>= The features of the medieval European family were as follows:
 </p><p>
 1. It was a male-dominated or patriarchal family, where the male head of the household held authority over the family members.
 </p><p>
 2. It was typically an extended family, often including several generations living together. In some cases, the male heads of clans were allowed to have multiple wives and concubines.</p>
-        <p>d. What caused the dissolution of extended families in the West?</p>
+        <p className='question'>d. What caused the dissolution of extended families in the West?</p>
         <p>= Industrialization, urbanization, and migration of young people to cities for work caused the breakup of extended families in the West.</p>
-        <p>e. What change occurred in gender role in the modern family that emerged after the Industrial Revolution?</p>
+        <p className='question'>e. What change occurred in gender role in the modern family that emerged after the Industrial Revolution?</p>
         <p>= After the Industrial Revolution, gender roles in the modern family changed. Patriarchal rule gave way to more equality between men and women. Men worked outside, while women cared for children, but many responsibilities became shared. Rising divorce rates and changing family structures also led to more one-parent households.</p>
-        <p>f. What is family law?</p>
+        <p className='question'>f. What is family law?</p>
         <p>=Family law is the area of law that deals with legal issues related to family relationships and domestic matters. It covers marriage, divorce, child custody, adoption, property inheritance, and other family-related matters. Family law balances the rights of individuals with the interests of society and varies across cultures.</p>
-        <p>g. How is modern marriage defined?</p>
+        <p className='question'>g. How is modern marriage defined?</p>
         <p>= Modern marriage is defined as a voluntary social and legal union, usually between a man and a woman, that unites their lives legally, emotionally, and economically. It involves mutual consent and often reflects equality in rights and responsibilities between partners.</p>
-        <p>h. What do special family courts try to do?</p>
+        <p className='question'>h. What do special family courts try to do?</p>
         <p>= Special family courts aim to deal more fairly with sensitive family issues such as divorce, child custody, and marital disputes. They focus on balancing private and public interests while promoting justice and reconciliation whenever possible.</p>
-        <p>i. What does the legislation on child labour and child abuse declare?</p>
+        <p className='question'>i. What does the legislation on child labour and child abuse declare?</p>
         <p>= The legislation on child labour and child abuse declares that society holds responsibility for ensuring a child's best interests. It includes provisions like compulsory education and protection from exploitation, even overriding parental authority when necessary.</p>
-        <p>j. What is common among most legal systems regarding property?</p>
+        <p className='question'>j. What is common among most legal systems regarding property?</p>
         <p>= In most legal systems, there are provisions for dealing with property left by a deceased family member. Surviving spouses or children often have the right to claim or contest the inheritance, even in the absence of a will.</p>
       </div>
 

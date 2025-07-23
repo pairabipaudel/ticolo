@@ -20,16 +20,27 @@ const History = () => {
       <hr/>
       <div>
         <p className='question'>B. Define the following professionals. One has been done for you.</p>
+        <br/>
         <p><strong>architect: </strong>An architect is an engineer who designs buildings and advises in their construction.</p>
+        <br/>
         <p><strong>civil engineer: </strong>A civil engineer is a professional who designs, builds, and maintains roads, bridges, buildings, and other public structures.</p>
+        <br/>
         <p><strong>mechanical engineer: </strong>A mechanical engineer is a professional who designs, develops, and tests machines and mechanical systems like engines, tools, and machines.</p>
+        <br/>
         <p><strong>aerospace engineer: </strong>An aerospace engineer is a professional who designs and develops aircraft, spacecraft, satellites, and related systems and equipment.</p>
+        <br/>
         <p><strong>automobile engineer: </strong>An automobile engineer is a professional who designs, develops, tests, and improves vehicles like cars, buses, and trucks.</p>
+        <br/>
         <p><strong>electronic engineer: </strong>An electronic engineer is a professional who designs and develops electronic devices and systems, such as circuits, microchips, and communication equipment.</p>
+        <br/>
         <p><strong>electrical engineer: </strong>An electrical engineer is a professional who designs, develops, and maintains electrical systems and equipment like power generators, wiring, and motors.</p>
+        <br/>
         <p><strong>computer engineer: </strong>A computer engineer is a professional who designs, develops, and tests computer hardware and software systems.</p>
+        <br/>
         <p><strong>food engineer: </strong>A food engineer is a professional who applies engineering principles to develop and improve food processing, packaging, and storage.</p>
+        <br/>
         <p><strong>chemical engineer: </strong>A chemical engineer is a professional who uses chemistry and engineering to design processes for producing chemicals, fuels, medicines, and other products.</p>
+        <br/>
         <p><strong>biomedical engineer: </strong>A biomedical engineer is a professional who designs and develops medical equipment, devices, and software to improve healthcare.</p>
         
       </div>
@@ -37,29 +48,30 @@ const History = () => {
         <hr />
         <h3>Comprehension</h3>
          <p className='question'>Answer the following questions.</p>
-         <p>a. Where were Frank and Nicole employed?</p>
+         <p className='question'>a. Where were Frank and Nicole employed?</p>
          <p>= Frank and Nicole were employed as architects working in the twin towers of the World Trade Centre in the USA.</p>
 
-         <p>b. How does the author describe Frank's attachment to the twin towers?</p>
+         <p className='question'>b. How does the author describe Frank's attachment to the twin towers?</p>
          <p>= The author shows that Frank feels deeply connected to the twin towers. For him, they are not just buildings but a source of his work and passion. The towers represent his livelihood and something he truly cares about, making his bond with them very strong.</p>
 
-         <p>c. How did the two families become intimate with each other?</p>
+         <p className='question'>c. How did the two families become intimate with each other?</p>
          <p>= The two families grew close and became good friends because their children were friends. Their children's friendship helped the families spend more time together and build a strong bond.</p>
 
-         <p>d. What, according to Nicole, did Frank think of the towers?</p>
+         <p className='question'>d. What, according to Nicole, did Frank think of the towers?</p>
          <p>= According to Nicole, Frank thought the towers were amazing. He liked how big they were, how they were designed, and how the materials were used well. He also said they were made strong enough to handle a small airplane hitting them.</p>
-         <p>e. Why did Frank want to help the people in the tower after the attack?</p>
+
+         <p className='question'>e. Why did Frank want to help the people in the tower after the attack?</p>
          <p>= Frank wanted to help the people in the tower after the attack because only a few people understood how strong the building was. He believed that knowing this could save lives.</p>
-         <p>f. Why did Frank not follow Nicole's request even after knowing that the building was on fire?</p>
+         <p className='question'>f. Why did Frank not follow Nicole's request even after knowing that the building was on fire?</p>
          <p>= Frank did not follow Nicole's request, even though he knew the building was on fire, because he was confident he could help the injured people get to safety without getting hurt himself.</p>
 
-         <p>g. Who did Frank call from the building after the attack?</p>
+         <p className='question'>g. Who did Frank call from the building after the attack?</p>
          <p>= Frank called his sister Nina, who lived on West 93rd Street in Manhattan, from the building after the attack.</p>
 
-         <p>h. How did Nicole feel after the collapse of the first tower?</p>
+         <p className='question'>h. How did Nicole feel after the collapse of the first tower?</p>
          <p>= After the first tower collapsed, Nicole felt like it was the start of a nuclear war. Everything became completely quiet, and she felt like she was in a bright, blinding fog, like a snowstorm on a sunny day.</p>
 
-         <p>i. Were Frank's children serious as soon as they heard the news of their missing father? Why?</p>
+         <p className='question'>i. Were Frank's children serious as soon as they heard the news of their missing father? Why?</p>
          <p>= Frank's children were not serious right away when they heard their father was missing because they were busy playing games and did not fully understand the situation at first.</p>
       </div>
       <div>
@@ -150,26 +162,35 @@ The birth of my little sister is a memory I will never forget. It changed my lif
       </div>
       <hr/>
       <div>
-        <strong>Simple future, future continuous, future perfect and future perfect continuous</strong>
+        <p className='question'>Simple future, future continuous, future perfect and future perfect continuous</p>
         <p className='question'>B. make sentences from the given clues as stated in brackets.</p>
         <p>a. Who/pass the exam? (future simple)</p>
         <p>Who will pass the exam?</p>
+        <br/>
         <p>b. How/you/get home? (future continuous)</p>
         <p>How will you be getting home?</p>
+        <br/>
         <p>c. I/come later. (future simple)</p>
         <p>I'll come later.</p>
+        <br/>
         <p>d. She/catch the train by 3 pm. (future perfect)</p>
         <p>She will have caught the train by 3 PM.</p>
+        <br/>
         <p>e. It/rain tomorrow. (future simple)</p>
         <p>It will rain tomorrow.</p>
+        <br/>
         <p>f. John/sleep at 4 am. (future continuous)</p>
         <p>John will be sleeping at 4 am.</p>
+        <br/>
         <p>g. How long/you/see your boyfriend when you get married? (future perfect continuous)</p>
         <p>How long will you have been seeing your boyfriend when you get married?</p>
+        <br/>
         <p>h. It/rain in Kathmandu next week. (future continuous)</p>
         <p>It will be raining in Kathmandu next week.</p>
+        <br/>
         <p>i. How long/you/work here when you retire? (future perfect continuous)</p>
         <p>How long have you been working here when you retire?</p>
+        <br/>
         <p>j. He/not/finish the cleaning by the time she gets home. (future perfect)</p>
         <p>He won't have finished the cleaning by the time she gets home.</p>
       </div>
@@ -177,22 +198,39 @@ The birth of my little sister is a memory I will never forget. It changed my lif
       <div>
         <p className='question'>C. Complete the following sentences with the correct future tense form of the verbs in the brackets.</p>
          <p>a. It will snow (snow) in Brighton tomorrow evening.</p>
+         <br/>
           <p>b. On Friday at 8 o'clock, I'm going to meet (to meet) my friend.</p>
+          <br/>
         <p>c. Wait! I will drive (to drive) you to the station.</p>
+        <br/>
          <p>d. When they get married in March, they will have been (to be) together for six years</p>
+         <br/>
           <p>e. You're carrying too much. I will open (to open) the door for you.</p>
+          <br/>
            <p>f. Do you think the teacher will have marked (to mark) our homework by Monday morning?</p>
+           <br/>
             <p>g. When I see you tomorrow, I will show (show) you my new book.</p>
+            <br/>
              <p>h. After you take a nap, you will feel (to feel) a lot better.</p>
-              <p>i. I will let (to let) you know the second the builders finish decorating.</p>   
+             <br/>
+              <p>i. I will let (to let) you know the second the builders finish decorating.</p>
+              <br/>   
                <p>j. We will wait (to wait) in the shelter until the bus comes.</p>
+               <br/>
               <p>k. I'm very sorry, Dr. Jones won't be (not be) back in the clinic unit 2 pm.</p>
+              <br/>
                <p>l. This summer, I will have been living (to live) in Birgunj for four years.</p>
+               <br/>
                 <p>m. I don't think you will have (to have) any problems when you land in Pokhara.</p>
+                <br/>
                  <p>n. The baby should be due soon, next week she will have been (to be) pregnant for nine months.</p>
+                 <br/>
                   <p>o. By the time we get home, they will have been playing (to play) football for 30 minutes.</p>
+                  <br/>
                    <p>p. When you get off the train, I will be waiting (to wait) for you by the ticket machine.</p>
+                   <br/>
                     <p>q. This time next week, I will be skiing (ski) in Switzerland!</p>
+                    <br/>
                     <p>r. Now, I am going to check (to check) my answers.</p>
       </div>
        </div>

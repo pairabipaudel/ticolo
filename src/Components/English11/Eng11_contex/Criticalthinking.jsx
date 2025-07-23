@@ -103,22 +103,31 @@ In the end, the existence of God is a personal belief. Some believe strongly, so
         <p className='question'>A. Rewrite the following sentences using 'used to'. You can make an affirmative/ negative statement or a question.</p>
         <p>a. I/live in a flat when I was a child.</p>
         <p>= I used to live in a flat when I was a child.</p>
+        <br/>
         <p>b. She/love eating chocolate but now she hates it.</p>
         <p>= She used to love eating chocolate but now she hates it.</p>
+        <br/>
         <p>c. He/go to fishing in the summer?</p>
         <p>=  Did he use to go fishing in the summer?</p>
+        <br/>
         <p>d. My sister/play tennis when she was at school.</p>
         <p>= My sister used to play tennis when she was at school.</p>
+        <br/>
         <p>e. He/play football every weekend?</p>
         <p>= Did he use to play football every weekend?</p>
+        <br/>
         <p>f. My grandfather/speak five languages.</p>
         <p>= My grandfather used to speak five languages.</p>
+        <br/>
         <p>g. I/not hate school from the beginning.</p>
         <p>= I didn't use to hate school from the beginning.</p>
+        <br/>
         <p>h. You/live in Kathmandu?</p>
         <p>= Did you use to live in Kathmandu?</p>
+        <br/>
         <p>i. He/play Dandibiyo when he was a small child.</p>
         <p>= He used to play Dandibiyo when he was a small child.</p>
+        <br/>
         <p>j. She/wear a frock when she was small but nowadays she wears jeans.</p>
         <p>= She used to wear a frock when she was small but nowadays she wears jeans.</p>
       </div>

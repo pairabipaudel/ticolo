@@ -57,21 +57,21 @@ const Healthandexercise = () => {
       <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. In what sense are the holidays a time of excess? When can a person gain weight?</p>
+        <p className='question'>a. In what sense are the holidays a time of excess? When can a person gain weight?</p>
         <p>= Holidays are a time of excess because people often eat and drink more than usual. A person can gain weight if they eat too much and do little or no exercise.</p>
-        <p>b. According to David Allison, which factor contributes to excess obesity?</p>
+        <p className='question'>b. According to David Allison, which factor contributes to excess obesity?</p>
         <p>= According to David Allison, overeating and lack of exercise contribute to excess obesity.</p>
-        <p>c. What, according to Dhurandhar, can be the way of preventing fatness?</p>
+        <p className='question'>c. What, according to Dhurandhar, can be the way of preventing fatness?</p>
         <p>= According to Dhurandhar, vaccination against certain infections can be a way to prevent fatness.</p>
-        <p>d. What is the relationship between chill and obesity? How can saying 'om' help reduce fatness?</p>
+        <p className='question'>d. What is the relationship between chill and obesity? How can saying 'om' help reduce fatness?</p>
         <p>= Staying chill or relaxed can help reduce fatness. Saying 'Om' helps by controlling urges and reducing stress, which can stop people from eating high-calorie foods when they are upset.</p>
-        <p>e. Why is it necessary to be careful while buying plastic packaged fatty foods?</p>
+        <p className='question'>e. Why is it necessary to be careful while buying plastic packaged fatty foods?</p>
         <p>= It is necessary to be careful while buying plastic packaged fatty foods because they may contain endocrine-disrupting chemicals that can harm our body and affect digestion.</p>
-        <p>f. Why does Nelson suggest avoiding blue wavelengths of light at night?</p>
+        <p className='question'>f. Why does Nelson suggest avoiding blue wavelengths of light at night?</p>
         <p>= Nelson suggests avoiding blue wavelengths of light at night because they can affect sleep and increase the risk of gaining weight by disrupting the body's natural rhythm.</p>
-        <p>g. How does breathing polluted air affect one's fatness?</p>
+        <p className='question'>g. How does breathing polluted air affect one's fatness?</p>
         <p>= Breathing polluted air can lead to fatness because it causes chronic inflammation and disrupts the body's ability to burn energy properly.</p>
-        <p>h. What is the link between sleep and weight?</p>
+        <p className='question'>h. What is the link between sleep and weight?</p>
         <p>= The link between sleep and weight is that sleep deprivation boosts body weight.</p>
       </div>
       <hr/>
@@ -84,7 +84,8 @@ I also avoid eating too much junk food because it is unhealthy. Junk food usuall
 </p><p>
 By exercising, eating less junk food, drinking water, and doing yoga, I stay healthy both physically and mentally.
 </p>
-<p>b. Healthy citizens are the greatest asset of a country. What can a state do to keep her citizen healthy?</p>
+<hr/>
+<p className='question'>b. Healthy citizens are the greatest asset of a country. What can a state do to keep her citizen healthy?</p>
 <p>= The success of any government is measured by the well-being of its citizens. Nothing is more important to a state than the health of its people. To keep citizens healthy, a state can do the following:</p>
 <p>1. Provide proper healthcare facilities so people can get medical help when needed.</p>
 <p>2. Focus on education because it helps maintain mental and social health.</p>
@@ -122,7 +123,9 @@ By exercising, eating less junk food, drinking water, and doing yoga, I stay hea
         <h3>Grammar</h3>
         <p className='question'>B. Complete the sentences by choosing the correct verbs from the brackets.</p>
         <p>a. Everyone <u>has</u> (has/have) problems in their life. Countries also <u>have</u> (has/have) problems, and so <u>does</u> (do/does) the world. One of the greatest problems <u>is</u> (is/are) the growing population. The population in some countries <u>is</u> (is/are) huge.</p>
+        <br/>
         <p>b. A number of my friends <u>love</u> (love/loves) riding bicycles, but neither my brother nor my sister <u>owns</u> (own/owns) a cycle. At 4 o'clock, either my mother or father <u>is</u> (is/are) coming to pick me up in a car.</p>
+        <br/>
         <p>c. The pair of shoes on the floor <u>is</u> (is/are) mine. The shoes <u>were</u> (was/ were) made in China. The three thousand rupees I spent on them <u>was</u> (was/were) worth it.</p>
       </div>
       <hr/>
@@ -130,18 +133,25 @@ By exercising, eating less junk food, drinking water, and doing yoga, I stay hea
         <p className='question'>C. Are the following sentences correct? If not, correct them.</p>
         <p>a. Everyone of the workers receive the same benefits.</p>
         <p>= Everyone of the workers receives the same benefits.</p>
+        <br/>
         <p>b. There is two gerbils in my bathroom.</p>
         <p>= There are two gerbils in my bathroom.</p>
+        <br/>
         <p>c. Both of my friends live in Kathmandu.</p>
         <p>= Both of my friends live in Kathmandu.</p>
+        <br/>
         <p>d. Scissors is used to have our hair cut.</p>
         <p>= Scissors are used to have our hair cut.</p>
+        <br/>
         <p>e. You and your friends are welcome to join us.</p>
         <p>= You and your friends are welcome to join us.</p>
+        <br/>
         <p>f. Are the news on at five or six?</p>
         <p>= Is the news on at five or six?</p>
+        <br/>
         <p>g. The man with all his children live in the city.</p>
         <p>= The man with all his children lives in the city.</p>
+        <br/>
         <p>h. Mathematics are Prem's favourite subject, while Economics is Alina's favourite subject.</p>
         <p>= Mathematics is Prem's favourite subject, while Economics is Alina's favourite subject.</p>
       </div>

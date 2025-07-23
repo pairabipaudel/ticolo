@@ -16,15 +16,15 @@ The poem shows how life is short but beautiful, just like a day. It starts brigh
         
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following</p>
-        <p>a. How does the poet describe the morning sun in the first stanza?</p>
+        <p className='question'>a. How does the poet describe the morning sun in the first stanza?</p>
         <p>= In the first stanza, the poet describes the morning sun as rising slowly and beautifully. The sun's first golden rays spread like ribbons in the sky, lighting up the world. The sunlight makes everything bright and clear. It even changes the color of the church steeples to purple, which the poet calls "amethyst." The coming of the sun brings a sense of joy, warmth, and hope, marking the peaceful beginning of a new day.</p>
-        <p>b. What does the line 'The news like squirrels ran' mean?</p>
+        <p className='question'>b. What does the line 'The news like squirrels ran' mean?</p>
         <p>= The line 'The news like squirrels ran' means that the news of the sun rising spread very quickly, just like squirrels that run fast. It shows how the light of the sun reaches everywhere in a short time. The poet uses a simile by comparing the spreading of the news to the fast movement of squirrels to show the quick change from night to day.</p>
-        <p>c. What do you understand by the line 'The hills untied their bonnets'?</p>
+        <p className='question'>c. What do you understand by the line 'The hills untied their bonnets'?</p>
         <p>= The line 'The hills untied their bonnets' means that the hills, which were covered in darkness before sunrise, began to glow and look beautiful when the sun rose. The poet imagines the hills like women wearing bonnets (hats), and as the sunlight touches them, it's as if they take off their bonnets to greet the morning. This line uses personification to make nature seem alive, showing how the sun changes the appearance of the hills.</p>
-        <p>d. Is the speaker watching the morning sun? Why? Why not?</p>
+        <p className='question'>d. Is the speaker watching the morning sun? Why? Why not?</p>
         <p>= Yes, the speaker is watching the morning sun. She describes many beautiful things that happen as the sun rises, such as the steeple turning amethyst (purple), the hills untying their bonnets, and the birds called bobolinks singing. These clear and vivid descriptions show that the speaker is observing the sunrise with great attention and wonder.</p>
-        <p>e. How does the sun set?</p>
+        <p className='question'>e. How does the sun set?</p>
         <p>= The poet describes the sunset as a mysterious and beautiful event. The sky turns purple and yellow as the sun goes down, and everything slowly becomes dark. However, the speaker says she doesn't really know what happens after the sun sets. This shows that the setting sun is a mystery to her, and she wonders where it goes, showing her curiosity and lack of full understanding about nature's cycle.</p>
       </div>
 

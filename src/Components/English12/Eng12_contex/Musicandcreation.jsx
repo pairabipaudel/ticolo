@@ -45,7 +45,7 @@ const Musicandcreation = () => {
 <p>Traditional music passed through generations, often telling stories of everyday life and culture.</p>
 <p><strong>Classic music:</strong></p>
 
-<p>Formal, structured music rooted in Western traditions, typically performed by orchestras or soloists.</p> *(Note: Usually called “classical music.”)*
+<p>Formal, structured music rooted in Western traditions, typically performed by orchestras or soloists.</p> 
 <p><strong>Blues:</strong></p>
 
 <p>A genre originating from African American communities, featuring soulful melodies and themes of struggle.</p>
@@ -67,21 +67,23 @@ const Musicandcreation = () => {
 <p><strong>Reggae:</strong></p>
 
 <p>A Jamaican music style with off-beat rhythms and socially conscious lyrics.</p>
-<p><strong>Disco and Dubstep:</strong></p>
+<p></p>
 
-<p><strong>Disco:</strong> Dance music from the 1970s with a steady beat and funky basslines.</p> <p><strong>Dubstep:</strong> A modern electronic genre with heavy bass, syncopated rhythms, and drops.</p>
+<p><strong>Disco:</strong> </p><p>Dance music from the 1970s with a steady beat and funky basslines.</p> 
+<p>
+  </p><p><strong>Dubstep:</strong></p><p> A modern electronic genre with heavy bass, syncopated rhythms, and drops.</p>
       </div>
       <div>
       <hr/>
       <h3>Comprehension</h3>
       <p className='question'>A. Put the following events in the life of Beethoven in chronological order.</p>
-      <p>c. Beethoven was born into a musical family in Bonn, Germany.
-e. He learned to play the organ, piano, violin, and viola.
-a. He migrated to Vienna.
-h. At the age of twenty-seven, he felt the deafness to high-pitched sound.
-d. His deafness got gradually worse: He could hear but not understand.
-g. He lived a life in seclusion.
-b. He even made suicidal attempts.
+      <p>c. Beethoven was born into a musical family in Bonn, Germany.</p><p>
+e. He learned to play the organ, piano, violin, and viola.</p><p>
+a. He migrated to Vienna.</p><p>
+h. At the age of twenty-seven, he felt the deafness to high-pitched sound.</p><p>
+d. His deafness got gradually worse: He could hear but not understand.</p><p>
+g. He lived a life in seclusion.</p><p>
+b. He even made suicidal attempts.</p><p>
 f. He died of hepatitis at the age of fifty-six.</p>
       </div>
       <hr/>
@@ -98,34 +100,34 @@ g. Doctors found the cause of his deafness after his death. False</p>
       <hr/>
       <div>
         <p className='question'>C. Answer the following questions.</p>
-        <p>a. What does Hellen Keller think about deafness and blindness?</p>
+        <p className='question'>a. What does Hellen Keller think about deafness and blindness?</p>
         <p>= Helen Keller believes that blindness separates people from the things around them because they cannot see objects or the world visually. On the other hand, deafness separates people from other people because it prevents them from hearing voices and sounds, which are important for communication and social interaction. Therefore, Keller emphasizes that deafness affects human relationships more deeply than blindness.</p>
 
-        <p>b. Why does the author compare Beethoven with Milton, Van Gogh and Toulouse-Lautrec?</p>
+        <p className='question'>b. Why does the author compare Beethoven with Milton, Van Gogh and Toulouse-Lautrec?</p>
         <p>= The author compares Beethoven with Milton, Van Gogh, and Toulouse-Lautrec because all of these individuals faced significant disabilities or challenges in their lives. Like Beethoven, who became deaf, Milton was blind, and Van Gogh and Toulouse-Lautrec suffered from physical or mental disabilities. Despite these difficulties, each of them achieved great success and created extraordinary works of art, music, or literature. The comparison highlights their ability to overcome obstacles and contribute profoundly to their fields.</p>
 
-        <p>c. When and how did Beethoven notice him being deaf?</p>
+        <p className='question'>c. When and how did Beethoven notice him being deaf?</p>
         <p>= Beethoven noticed that he was becoming deaf around the age of 27. He first realized this when he started losing his ability to hear high-pitched sounds, which is a sign of nerve deafness. Over time, he became aware that his hearing was deteriorating and that he was developing a serious disability.</p>
 
-        <p>d. What psychological effects did he have when he noticed that he was being deaf?</p>
+        <p className='question'>d. What psychological effects did he have when he noticed that he was being deaf?</p>
         <p>= When Beethoven realized he was losing his hearing, he experienced many difficult psychological effects. He felt fear and anxiety about his future, struggled with low self-esteem, and went through emotional turmoil. His growing deafness led to increasing isolation from others, causing him to withdraw socially. He also neglected himself and lost confidence in his ability to work and create music. These feelings made his struggle with deafness even more challenging.</p>
 
-        <p>e. How did he triumph over his suicidal thoughts?</p>
+        <p className='question'>e. How did he triumph over his suicidal thoughts?</p>
         <p>= Beethoven overcame his suicidal thoughts by relying on his strong personal values and deep passion for music. He believed in the importance of living a meaningful life and found inspiration in the idea that a person should not give up easily because they still have many good things to do. This belief, along with his dedication to composing music, motivated him to fight his despair and continue living with hope and purpose.</p>
 
-        <p>f. How did he accept his deafness?</p>
+        <p className='question'>f. How did he accept his deafness?</p>
         <p>= Beethoven accepted his deafness by realizing that no one could save him from it. He understood that if he wanted to continue living and creating music, he had to accept his condition and find a way to move forward despite it. This acceptance helped him face his challenges with courage and determination.</p>
 
-        <p>g. How was his deafness ironically good for the world?</p>
+        <p className='question'>g. How was his deafness ironically good for the world?</p>
         <p>= Beethoven's deafness was ironically good for the world because it led to greater creativity within him. Being unable to hear external sounds allowed him to focus deeply on his inner thoughts, feelings, and musical ideas without distractions. This intense inner listening helped him compose some of the most powerful and original music in history, enriching the world with his masterpieces.</p>
 
-        <p>h. When did Beethoven give up his musical performances forever?</p>
+        <p className='question'>h. When did Beethoven give up his musical performances forever?</p>
         <p>= Beethoven gave up performing music publicly forever in his mid-forties. At that time, his increasing deafness made it very difficult and embarrassing for him to perform, so he decided to stop giving public performances.</p>
 
-        <p>i. What did Stephen von Breeuning comment on Beethoven's reactions?</p>
+        <p className='question'>i. What did Stephen von Breeuning comment on Beethoven's reactions?</p>
         <p>= In 1804, during a rehearsal for the Eroica Symphony, Beethoven had trouble hearing the wind instruments because of his deafness. His friend, Stephen von Breuning, observed that Beethoven had become withdrawn and began to mistrust even his closest friends due to the difficulties he was facing.</p>
 
-        <p>j. How did Beethoven express the conflict in his mind?</p>
+        <p className='question'>j. How did Beethoven express the conflict in his mind?</p>
         <p>= Beethoven expressed the conflict in his mind by withdrawing from social gatherings and isolating himself. He became mistrustful of even his closest friends and struggled with repeated thoughts of suicide as he grappled with his growing deafness and emotional pain.</p>
       </div>
       <div>

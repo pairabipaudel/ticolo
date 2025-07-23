@@ -12,29 +12,29 @@ const Adevotedson = () => {
       
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. How did the morning papers bring an ambience of celebration to the Varma family?</p>
+        <p className='question'>a. How did the morning papers bring an ambience of celebration to the Varma family?</p>
         <p>= The morning papers brought an ambience of celebration to the Varma family by announcing that Rakesh had secured the top position in the national medical entrance examination. It was a moment of great pride for the family, as Rakesh became not only the highest-ranking student in the country but also the first member of their family to achieve such a prestigious academic milestone. His success symbolized hope, honor, and a bright future, turning an ordinary morning into a joyous occasion for the entire household.</p>
-        <p>b. How did the community celebrate Rakesh's success?</p>
+        <p className='question'>b. How did the community celebrate Rakesh's success?</p>
         <p>= The community celebrated Rakesh's success with great joy and enthusiasm. People from the neighborhood visited his small yellow house at the end of the road to personally congratulate Rakesh and his proud parents. The house and garden were soon filled with the festive sights and sounds of celebration. Well-wishers brought colorful garlands, wore festive clothes, and offered gifts such as fountain pens and watches. The atmosphere became vibrant and cheerful, resembling a festival, and even sweets like haluwa were shared among the guests to mark the proud moment.</p>
-        <p>c. Why was Rakesh's success a special matter of discussion in the neighbourhood?</p>
+        <p className='question'>c. Why was Rakesh's success a special matter of discussion in the neighbourhood?</p>
         <p>= Rakesh's success was a special matter of discussion in the neighborhood because he was the first son in the family to receive an  education, and he further topped in the medical examination as well.</p>
-        <p>d. How does the author make fun with the words 'America' and 'the USA'?</p>
+        <p className='question'>d. How does the author make fun with the words 'America' and 'the USA'?</p>
         <p>= The author makes fun with the words 'America' and 'the USA' by highlighting Mr. Verma's attitude toward them. When Rakesh won a scholarship to study in the USA, his father insisted that the family refer to the country as “the USA” instead of “America,” because he believed “America” was the term used by ignorant neighbors. He thought “the USA” sounded more educated and prestigious. Through this, the author humorously presents how people sometimes try to sound superior by choosing certain words, even though both terms refer to the same place.</p>
-        <p>e. How does the author characterize Rakesh's wife?</p>
+        <p className='question'>e. How does the author characterize Rakesh's wife?</p>
         <p>= The author characterizes Rakesh's wife as an uneducated and old-fashioned woman who is described as plump. She is portrayed as placid, complaisant, and lazy, yet she possesses a good-natured disposition.</p>
-        <p>f. Describe how Rakesh rises in his career.</p>
+        <p className='question'>f. Describe how Rakesh rises in his career.</p>
         <p>= Rakesh's career trajectory is marked by significant achievements and rapid advancement. After completing his medical education, he began his professional journey as a doctor at the city hospital. His dedication and skills allowed him to quickly rise through the ranks of the administrative organization, ultimately becoming the director.
 </p><p>
 Following this success, Rakesh decided to establish his own private clinic. This move not only showcased his entrepreneurial spirit but also contributed to his reputation as one of the best doctors in the city. Over time, he became known as the richest doctor in town, highlighting both his professional success and financial prosperity.</p>
-        <p>g. How does the author describe Rakesh's family background?</p>
+        <p className='question'>g. How does the author describe Rakesh's family background?</p>
         <p>= The author describes Rakesh's family background as poor and humble. He was born into an economically disadvantaged family in a village in India. His father worked for a kerosene vendor, his mother spent most of her life in the kitchen, and his grandparents were vegetable sellers. Despite their poverty, his parents were determined and made great sacrifices to support Rakesh's education, ultimately helping him attend medical college.</p>
-        <p>h. What is the impact of Rakesh's mother's death on his father?</p>
+        <p className='question'>h. What is the impact of Rakesh's mother's death on his father?</p>
         <p>= The death of Rakesh's mother had a devastating impact on his father. Along with his retirement, it caused him to emotionally and physically decline. He quickly went to pieces, falling ill frequently and suffering from mysterious complaints described as a peevish whim, which means sudden irritability or mental unrest. Even Rakesh, a doctor, could not understand or cure his father's condition.</p>
-        <p>i. What did Rakesh do to make his father's old age more comfortable?</p>
+        <p className='question'>i. What did Rakesh do to make his father's old age more comfortable?</p>
         <p>= Rakesh took great care to make his father's old age more comfortable. He brought him morning tea in his favorite brass tumbler and sat at the edge of his bed, adjusting his night-shirt and reading out the morning news. He also helped his father down the steps and took him out into the garden for fresh air, making sure he was calm and settled, especially at night. Rakesh also supervised his diet to maintain his health and comfort.</p>
-        <p>j. Why did the old man try to bribe his grandchildren?</p>
+        <p className='question'>j. Why did the old man try to bribe his grandchildren?</p>
         <p>= The old man tried to secretly convince his grandchildren to buy him jalebis and other sweets because he was no longer allowed to eat fried or sugary foods due to health restrictions set by his son. He deeply missed the kind of food his late wife used to make and found it hard to give up those comforts in old age. So, he used small bribes as a clever way to satisfy his cravings without his son knowing.</p>
-        <p>k. Are Mr. Varma's complaints about his diets reasonable? How?</p>
+        <p className='question'>k. Are Mr. Varma's complaints about his diets reasonable? How?</p>
         <p>= Mr. Varma's complaints about his diet can be understood from his point of view, as he was old, emotionally fragile, and missed the food he used to enjoy. To him, being denied his favorite sweets and fried items felt like a loss of joy in his final years. However, from Rakesh's perspective, as both a caring son and a responsible doctor, the restrictions were necessary to protect his father's health. Although the father's complaints may seem reasonable emotionally, they are not entirely justified when considering the medical reasons behind Rakesh's actions.</p>
       </div>
     
@@ -115,7 +115,7 @@ By following these guidelines, older adults can improve their overall health, re
       <hr/>
       <div>
         <p className='question'>c. Write an essay on “Care of Elderly Citizens” in about 300 words.</p>
-        <p>= <strong>Care of Elderly Citizens</strong>
+        <p><strong>Care of Elderly Citizens</strong></p><p>
            Elderly citizens refer to people who have crossed middle age and entered the final stage of life. Old age is a sensitive period when a person needs love, affection, and proper care to live comfortably and happily. Caring for the elderly is not only a responsibility but also a moral duty of every individual and society.
 </p><p>
 As people grow older, they often face health problems and a decline in physical strength. Many elderly people require assistance with basic activities such as walking, eating, bathing, and dressing. Providing them with a safe and homely environment, emotional support, and proper medical care is essential to maintain their well-being.

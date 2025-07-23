@@ -19,41 +19,47 @@ const Migrationanddiaspora = () => {
         <h3>Comprehension</h3>
         <p className='question'>A. Match the first halves of the sentences (a-g) with their second halves (i-vii).</p>
         <p>a. The term assimilation has been used = iii. as an analytical tool in the study of integration of the migrants.</p>
+        <br/>
         <p>b. It is essential to study the process of diasporization = v. in order to understand the description of immigration.</p>
+        <br/>
         <p>c. The definition of dediasporization = vii. focuses only on the aspect of relocating migrants to their homelands.</p>
+        <br/>
         <p>d. The dediasporization process for migrants who have not given up their native citizenship = vi. requires them only to return to their homeland.</p>
+        <br/>
         <p>e. Some countries grant full citizenship to the returnees = iv. while some countries bar them from certain rights.</p>
+        <br/>
         <p>f. It is surprising that = i. in some countries the returnees are referred as diaspora.</p>
+        <br/>
         <p>g. The role of a state in dediasporization = ii. reveals its identity.</p>
       </div>
       <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. According to the author, what are the three aspects of migration?</p>
+        <p className='question'>a. According to the author, what are the three aspects of migration?</p>
         <p>= According to the author, migration involves three important aspects: the forward motion, which is the movement of people from one place to another; the migrants themselves, meaning the individuals or groups who move; and the backward motion, which refers to the effects and changes in the places people leave behind as well as how migrants maintain connections with their original homes.</p>
 
-        <p>b. Which aspect of migration is neglected by the researchers?</p>
+        <p className='question'>b. Which aspect of migration is neglected by the researchers?</p>
         <p>= Researchers often neglect the multidimensional nature of the diasporization aspect of migration. This means they do not fully study how migrants maintain connections with their homeland and how these connections affect both the migrants and their original communities.</p>
 
-        <p>c. What is 'dediasporization'?</p>
+        <p className='question'>c. What is 'dediasporization'?</p>
         <p>= Dediasporization is the process through which a person who belongs to a diaspora reconnects with their homeland in different ways. This can happen by returning to their home country and regaining citizenship, by fully adapting and blending into the society of the country they live in, or by actively participating in the cultural and social connections between their home country and the country they now live in.</p>
 
-        <p>d. Why is the role of the state important in dediasporization?</p>
+        <p className='question'>d. Why is the role of the state important in dediasporization?</p>
         <p>= The role of the state is important in dediasporization because the state oversees and controls the process to ensure that individuals seeking to reconnect with their homeland meet the requirements to regain citizenship. The state confirms their eligibility and grants them the rights and responsibilities that come with being a citizen. This involvement helps regulate who can rejoin the national community and under what conditions.</p>
 
-        <p>e. How is Chinese diaspora in the Caribbean different from others?</p>
+        <p className='question'>e. How is Chinese diaspora in the Caribbean different from others?</p>
         <p>= The Chinese diaspora in the Caribbean is different from other diasporas because, despite having lived there for more than a century, they are still considered foreigners by the local Caribbean people. Unlike some other migrant groups who may have been fully accepted over time, the Chinese community continues to face social and cultural exclusion, making their experience unique compared to other diasporas.</p>
 
-        <p>f. Why is it difficult to regain citizenship after returning to the homeland?</p>
+        <p className='question'>f. Why is it difficult to regain citizenship after returning to the homeland?</p>
         <p>= It is difficult to regain citizenship after returning to the homeland because being accepted as a citizen involves more than just physically coming back. The state must legally recognize the person's right to citizenship, which involves meeting certain requirements and going through official procedures. Without this legal approval, a returnee cannot fully integrate into society or enjoy the rights and privileges of citizenship.</p>
 
-        <p>g. What do the Germans feel towards the returnees from Russia, Kazakhstan and Uzbekistan?</p>
+        <p className='question'>g. What do the Germans feel towards the returnees from Russia, Kazakhstan and Uzbekistan?</p>
         <p>= The Germans tend to feel distant and somewhat alienated towards the people returning from Russia, Kazakhstan, and Uzbekistan. Even though these returnees may have German ancestry, they are often seen as outsiders because of their different experiences and cultural backgrounds. This sense of alienation makes it difficult for returnees to fully feel accepted in German society.</p>
 
-        <p>h. How are the returnees' activities in Israel different from that of other countries?</p>
+        <p className='question'>h. How are the returnees' activities in Israel different from that of other countries?</p>
         <p>= The returnees' activities in Israel differ from those in other countries because they fully assert their citizenship rights. They actively participate in the political process by forming their own political parties, advocating for freedom, and promoting the rights of other citizens. This level of political involvement and empowerment is often greater than that of returnees in many other countries.</p>
 
-        <p>i. What is the role of the individual in dediasporization?</p>
+        <p className='question'>i. What is the role of the individual in dediasporization?</p>
         <p>= The role of the individual in dediasporization is to adapt and integrate into the culture and society of their homeland while maintaining their citizenship. They are expected to actively participate in the social, cultural, and economic life of the nation and contribute to its growth and development. By doing so, individuals help strengthen national identity and support the process of nation-building.</p>
       </div>
       <div>
@@ -77,7 +83,9 @@ const Migrationanddiaspora = () => {
         <h3>Writing</h3>
         <p className='question'>A. The following words and phrases are used in interpreting data of different types of charts and diagrams. Study the words/phrases and put them in the right column.</p>
         <p>Upward Trend: grow, go up to, boom, peak, level up, rise, climb, increase </p>
+        <br/>
         <p>Downward Trend: decline, collapse, fall, drop, dip, go down, reduce, decrease, crash, plunge, plummet</p>
+        <br/>
         <p>Stable Trend: stay constant, remain stable, no change, remain steady, stay, maintain the same level</p>
       </div>
       <div>
@@ -86,19 +94,27 @@ const Migrationanddiaspora = () => {
         <p className='question'>A. Make sentences from the table below using used to / didn't use to as shown in the example.</p>
         <p>Example: She used to travel a lot but now she rarely leaves her town.</p>
         <p>a. She was lazy. - She works hard.</p>
+
         <p>= She used to be lazy, but now she works hard.</p>
+        <br/>
         <p>b. She didn't like junk food. - She has limited friends.</p>
         <p>= She didn't use to like junk food, and she used to have many friends, but now she has limited friends.</p>
+        <br/>
         <p>c. She got a pet. - She is a professor.</p>
         <p>= She used to have a pet, but now she is a professor.</p>
+        <br/>
         <p>d. She was a school teacher. - She does not attend parties.</p>
         <p>= She used to be a school teacher, but now she doesn't attend parties.</p>
+        <br/>
         <p>e. She had got many friends. - Her pet died last year.</p>
         <p>= She used to be a school teacher, but now she doesn't attend parties.</p>
+        <br/>
         <p>f. She did not read many books. - She reads a lot of books.</p>
         <p>=  She didn't use to read many books, but now she reads a lot of books.</p>
+        <br/>
         <p>g. She did not take coffee. - She eat momo and noodles these days.</p>
         <p>= She didn't use to take coffee, but now she eats momo and noodles these days.</p>
+        <br/>
         <p>h. She went to parties a lot. - She rarely leaves her town.</p>
         <p>= She used to go to parties a lot, but now she rarely leaves her town.</p>
       </div>

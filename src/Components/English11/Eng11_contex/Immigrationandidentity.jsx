@@ -110,26 +110,37 @@ I recommend this book to anyone who enjoys meaningful and touching stories. It's
         <p className='question'>Change the following into indirect speech.</p>
         <p>a. She said, "While I was having dinner, the phone rang."</p>
         <p>= She said that while she was having dinner, the phone had rung.</p>
+        <br/>
         <p>b. My friend said, "Where are they staying?"</p>
         <p>= My friend asked where they were staying.</p>
+        <br/>
         <p>c. Jamila said, "I travel a lot in my job."</p>
         <p>= Jamila said that she travelled a lot in her job.</p>
+        <br/>
         <p>d. She said to me, "We lived in China for five years."</p>
         <p>= She told me that they had lived in China for five years.</p>
+        <br/>
         <p>e. He said to me, "Do you like ice-cream?"</p>
         <p>= He asked me if I liked ice-cream.</p>
+        <br/>
         <p>f. They said, "Hurray! We've won the match."</p>
         <p>= They exclaimed with joy that they had won the match.</p>
+        <br/>
         <p>g. He said, "I'd tried everything without success, but this new medicine is great."</p>
         <p>= He said that he had tried everything without success, but that the new medicine was great.</p>
+        <br/>
         <p>h. Sony said, "I go to the gym next to your house."</p>
         <p>= Sony said that she went to the gym next to my house.</p>
+        <br/>
         <p>i. He said, "Be quiet after 10 o'clock."</p>
         <p>= He told me to be quiet after 10 o'clock.</p>
+        <br/>
         <p>j. He said, "I don't want to go to the party unless he invites me."</p>
         <p>= He said that he didn't want to go to the party unless he invited him.</p>
+        <br/>
         <p>k. He said to me, "I will see you tomorrow if you meet me."</p>
         <p>= He told me that he would see me the next day if I met him.</p>
+        <br/>
         <p>l. She said, "If I were you, I would give up the work."</p>
         <p>= She said that if she were me, she would give up the work.</p>
       </div>

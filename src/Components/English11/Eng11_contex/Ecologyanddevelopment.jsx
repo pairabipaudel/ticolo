@@ -57,23 +57,23 @@ const Ecologyanddevelopment = () => {
       <div>
         <h3>Comprehension</h3>
         <p className='question'>Answer these questions.</p>
-        <p>a. What did Maathai decide to do for the community?</p>
+        <p className='question'>a. What did Maathai decide to do for the community?</p>
         <p>= Maathai decided to help the community by creating jobs and encouraging people to plant trees to improve the environment and their lives.</p>
-        <p>b. Mention the problems faced by women in Kenya.</p>
+        <p className='question'>b. Mention the problems faced by women in Kenya.</p>
         <p>= The problems faced by women in Kenya included malnutrition, lack of food and clean water, unemployment, and soil erosion.</p>
-        <p>c. Why did the speaker go to the women to talk about planting trees?</p>
+        <p className='question'>c. Why did the speaker go to the women to talk about planting trees?</p>
         <p>= The speaker went to the women to talk about planting trees because they were the most affected by problems like lack of firewood, malnutrition, food and water shortages, unemployment, and soil erosion. They were also deeply concerned about their children and the future.</p>
-        <p>d. What is the most important achievement of the movement described in the text?</p>
+        <p className='question'>d. What is the most important achievement of the movement described in the text?</p>
         <p>= The most important achievement of the movement is that women became independent, gained knowledge and skills, and felt empowered. They also started teaching and supporting each other.</p>
-        <p>e. Why were the foresters' ways not helpful to the women for planting trees?</p>
+        <p className='question'>e. Why were the foresters' ways not helpful to the women for planting trees?</p>
         <p>= The foresters' ways were not helpful to the women because they made the simple task of finding seeds and planting trees seem too complicated.</p>
-        <p>f. When and how did she start The Green Belt Movement?</p>
+        <p className='question'>f. When and how did she start The Green Belt Movement?</p>
         <p>= She started The Green Belt Movement on World Environment Day by planting the first seven trees with the community.</p>
-        <p>g. Why do the donors want to provide money to the women?</p>
+        <p className='question'>g. Why do the donors want to provide money to the women?</p>
         <p>= The donors want to provide money to the women because their efforts were showing good results and making a real difference in the community.</p>
-        <p>h. What happened when the speaker criticized the political leadership?</p>
+        <p className='question'>h. What happened when the speaker criticized the political leadership?</p>
         <p>= When the speaker criticized the political leadership, she was portrayed as subversive and treated as if she was a threat to the government.</p>
-        <p>i. Mention the agencies that supported her movement.</p>
+        <p className='question'>i. Mention the agencies that supported her movement.</p>
         <p>= The agencies that supported her movement are:
           </p><p>
 1. United Nations Development Fund for Women
@@ -115,30 +115,43 @@ const Ecologyanddevelopment = () => {
         <p className='question'>c. Underline the verb in each sentence and write whether it is transitive, intransitive or linking.</p>
         <p>a. His father looks handsome.</p>
         <p>looks = linking verb</p>
+        <br/>
         <p>b. Bhawana drinks milk every day.</p>
         <p>drinks = transitive verb</p>
+        <br/>
         <p>c. He became a watchman.</p>
         <p>became = linking verb</p>
+        <br/>
         <p>d. This bread smells good.</p>
         <p>smells = linking verb</p>
+        <br/>
         <p>e. The dog barked loudly.</p>
         <p>barked = intransitive verb</p>
+        <br/>
         <p>f. He chased the dog.</p>
         <p>chased = transitive verb</p>
+        <br/>
         <p>g. My sister swims fast.</p>
         <p>swims = intransitive verb</p>
+        <br/>
         <p>h. He painted a picture.</p>
         <p>painted = transitive verb</p>
+        <br/>
         <p>i. Radhika always asks questions.</p>
         <p>asks = transitive verb</p>
+        <br/>
         <p>j. Anjana has a long hair.</p>
         <p>has = transitive verb</p>
+        <br/>
         <p>k. Hungry lion roars.</p>
         <p>roars = intransitive verb</p>
+        <br/>
         <p>l. He tried again and again.</p>
         <p>tried = intransitive verb</p>
+        <br/>
         <p>m. The weather is hot.</p>
         <p>is = linking verb</p>
+        <br/>
         <p>n. Owls hide in the daytime.</p>
         <p>hide = intransitive verb</p>
       </div>

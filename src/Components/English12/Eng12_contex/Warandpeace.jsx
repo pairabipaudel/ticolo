@@ -43,27 +43,27 @@ Find the meaning of the following words which are borrowed from Hindi language.<
         <hr/>
         <h3>Comprehension</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. Why did Iqbal want to sleep in the afternoon?</p>
+        <p className='question'>a. Why did Iqbal want to sleep in the afternoon?</p>
         <p>= Iqbal wanted to sleep in the afternoon because he was very tired. He had spent the whole night sitting uncomfortably on his bedroll in a crowded third-class train compartment and didn't get any proper rest.</p>
-        <p>b. How did people react with each other in the train?</p>
+        <p className='question'>b. How did people react with each other in the train?</p>
         <p>= People in the train reacted in a loud and noisy way. They shouted, argued, and talked over each other. There was a lot of chaos, and everyone seemed restless and irritated in the crowded space.</p>
 
-        <p>c. Why did the book Iqbal was reading bring commotion in the compartment?</p>
+        <p className='question'>c. Why did the book Iqbal was reading bring commotion in the compartment?</p>
         <p>= The book Iqbal was reading caused a commotion in the compartment because it was written in English. The other passengers were surprised and impressed, as they believed that reading an English book showed that someone was smart, educated, and important. They saw English as a sign of high status.</p>
 
-        <p>d. Why did Iqbal have to give clarification with his personal details?</p>
+        <p className='question'>d. Why did Iqbal have to give clarification with his personal details?</p>
         <p>= Iqbal had to give clarification with his personal details because the other travelers in the train saw him reading an English book and assumed he was an educated and important person. Out of curiosity and admiration, they started asking questions about who he was, where he was from, and what he did. To satisfy their curiosity and clear their assumptions, Iqbal had to share details about himself.</p>
 
-        <p>e. Who was Meet Singh and what did he report to Iqbal?</p>
+        <p className='question'>e. Who was Meet Singh and what did he report to Iqbal?</p>
         <p>= Meet Singh was the priest of the village Gurudwara (Sikh temple). He informed Iqbal about the murder of a fellow villager. He mentioned that the murder might have been committed by a local dacoit (bandit) named Jugga, who was known for his bad behavior in the village.</p>
 
-        <p>f. How according to Meet Singh, was Jugga Sing different from his forefathers?</p>
+        <p className='question'>f. How according to Meet Singh, was Jugga Sing different from his forefathers?</p>
         <p>= According to Meet Singh, Jugga Singh was different from his forefathers because, although they were also dacoits, they had a sense of loyalty to their own village. His ancestors never robbed or harmed their fellow villagers instead, they protected them from other robbers. In contrast, Jugga had no such loyalty. He robbed and even killed people from his own village, which made him far worse in the eyes of the community.</p>
 
-        <p>g. How does the author show contradiction in Meet Singh's character?</p>
+        <p className='question'>g. How does the author show contradiction in Meet Singh's character?</p>
         <p>= The author shows contradiction in Meet Singh's character by presenting two sides of him. On one hand, he is a priest of the Gurudwara, expected to be moral and just. On the other hand, he seems unbothered by the fact that Jugga may have killed someone from the village. Even more, he is ready to swear falsely on the holy Granth Sahib to protect Jugga. This act of defending a wrongdoer, despite being a religious leader, shows a clear conflict between his duty and his personal bias or fear.</p>
 
-        <p>h. Who was Hukum Chand and how did he succeed in his career?</p>
+        <p className='question'>h. Who was Hukum Chand and how did he succeed in his career?</p>
         <p>= Hukum Chand was the Deputy Sahib, a high-ranking government officer in the area, also called "Nar Adami" by locals. He was known for his political experience and authority. He succeeded in his career by cleverly pleasing his British superiors ("Shaibs") and always doing what was expected of him. By staying loyal and smart in his actions, he kept getting promotions and rose through the ranks of the administration.</p>
       </div>
       <div>
@@ -91,7 +91,7 @@ In short, peace is a shared responsibility. When individuals act kindly, societi
       <div>
         <hr/>
         <h3>Writing</h3>
-        <p className='questioin'>A. Meet Singh says Jugga a badmash. There can be such people in your locality, too. Write a paragraph describing him / her.</p>
+        <p className='question'>A. Meet Singh says Jugga a badmash. There can be such people in your locality, too. Write a paragraph describing him / her.</p>
         <p>= In every community, there are some people like Jugga who cause trouble and create fear among others. Jugga is known for his bad behavior—he steals from his own neighbors, fights with others, and does not care about the pain he causes. Such people are selfish and think only about themselves, ignoring the rules and values that keep society peaceful. They harm even those who trust them, breaking the bond of friendship and trust in the community. Just like Jugga, there might be someone in your area who disrupts the peace by acting violently or dishonestly. It is important for the community to come together to stop such behavior and help these people change for the better.</p>
       </div>
       <hr/>
@@ -126,26 +126,37 @@ Isha Sherpa</p>
         <p className='question'>D. Rewrite the following sentences correcting the mistakes.</p>
         <p>a. She played the flute and then she had sung in their choir.</p>
         <p>= She played the flute and then she sang in their choir.</p>
+        <br/>
          <p>b. I borrowed Rima's car. Had you known about it?</p>
          <p>= I borrowed Rima's car. Did you know about it?</p>
+         <br/>
          <p>c. After the lesson had finished, we run out of school.</p>
          <p>= After the lesson had finished, we ran out of school.</p>
+         <br/>
          <p>d. Had you be there? -Yes, the previous year.</p>
          <p>= Had you been there? -Yes, the previous year.</p>
+         <br/>
          <p>e. Did you liked my article published in the Himalayan Times yesterday?</p>
          <p>= Did you like my article published in the Himalayan Times yesterday?</p>
+         <br/>
          <p>f. I recognized him because I saw him before.</p>
          <p>= I recognized him because I had seen him before.</p>
+         <br/>
          <p>g. I hadn't gone out because I hadn't finished my homework.</p>
          <p>= I didn't go out because I hadn't finished my homework.</p>
+         <br/>
          <p>h. We had done nothing like this at that time.</p>
          <p>= We did nothing like this at that time.</p>
+         <br/>
          <p>i. It was quite difficult. I had had no idea what to do.</p>
          <p>= It had been quite difficult. I had no idea what to do.</p>
+         <br/>
          <p>j. As far as I'd known, she had always had some pets.</p>
          <p>= As far as I knew, she had always had some pets.</p>
+         <br/>
          <p>k. When I met Jim, he was already a soldier for three years.</p>
          <p>= When I met Jim, he had already been a soldier for three years.</p>
+         <br/>
          <p>l. He had gone to the coffee because somebody had told him.</p>
          <p>= He went to the the coffee because somebody had told him.</p>   
       </div>

@@ -7,9 +7,9 @@ const Amatterofhusbands = () => {
         <h3>Summary</h3>
         <p>'A matter of husbands' act play tells the story of an ordinary wife who becomes convinced that her husband is having an affair with a beautiful and famous actress. The wife, who is very upset, goes to visit the actress in her theater dressing room after a performance. At first, the actress acts surprised and says she doesn't know what the wife is talking about. But then, in a very dramatic way, the actress suddenly changes her story! She pretends that she really has been seeing the husband, making up details about secret meetings and love letters. She acts so convincing that the poor wife completely believes her and becomes heartbroken.
 </p><p>
-Just when the wife is at her saddest moment, the actress reveals the truth - it was all an act! She was just pretending to teach the wife a lesson about jumping to conclusions. The actress explains that she never actually met the husband at all. In the end, we learn the real reason why the husband had been acting strangely - he was secretly saving money to buy his wife a special birthday present, not cheating on her!
+Just when the wife is at her saddest moment, the actress reveals the truth - it was all an act! She was just pretending to teach the wife a lesson about jumping to conclusions. The actress explains that she never actually met the husband at all. In the end, we learn the real reason why the husband had been acting strangely - he was secretly saving money to buy his wife a special birthday present, not cheating on her.
 </p><p>
-The play shows us several important lessons in a fun, dramatic way. First, it teaches us not to assume the worst without proof. The wife's jealousy and suspicions almost ruined her marriage when there was no real problem. Second, it shows how good communication could have prevented the whole misunderstanding. If the wife had just talked calmly to her husband first, she would have learned the truth. Finally, the play demonstrates how easily people can be fooled by good acting and dramatic stories, which is funny since it's happening in a theater!
+The play shows us several important lessons in a fun, dramatic way. First, it teaches us not to assume the worst without proof. The wife's jealousy and suspicions almost ruined her marriage when there was no real problem. Second, it shows how good communication could have prevented the whole misunderstanding. If the wife had just talked calmly to her husband first, she would have learned the truth. Finally, the play demonstrates how easily people can be fooled by good acting and dramatic stories, which is funny since it's happening in a theater.
 </p><p>
 The characters are interesting too. The wife represents how normal people can sometimes let their emotions control them. The actress is clever and theatrical, using her acting skills to make a point. And the unseen husband turns out to be more thoughtful than anyone realized. The whole play happens in one room, making it feel very intense and personal, like we're right there watching the confrontation.</p>
       </div>
@@ -17,19 +17,25 @@ The characters are interesting too. The wife represents how normal people can so
         <hr/>
         <h3>Understanding the text</h3>
         <p className='question'>Answer the following questions.</p>
-        <p>a. What favour does the Earnest Young Woman ask from the Famous Actress?</p>
+        <p className='question'>a. What favour does the Earnest Young Woman ask from the Famous Actress?</p>
         <p>= The Earnest Young Woman asks the Famous Actress to return her husband. She believes that the Famous Actress has stolen his affection and wants him back because she still deeply loves him.</p>
-        <p>b. What, according to the Earnest Young Woman, are the indications that her husband has fallen in love with the Famous Actress?</p>
+        <br/>
+        <p className='question'>b. What, according to the Earnest Young Woman, are the indications that her husband has fallen in love with the Famous Actress?</p>
         <p>= According to the Earnest Young Woman, the signs that her husband has fallen in love with the Famous Actress include him sending flowers to her, which she finds out from a florist. Additionally, she discovers a love letter he accidentally left on the table, in which he apologizes to the Famous Actress and offers her "a thousand kisses." These actions convince her that he is in love with the Famous Actress.</p>
-        <p>c. Is the Earnest Young Woman convinced by the argument of the Famous Actress? How?</p>
+        <br/>
+        <p className='question'>c. Is the Earnest Young Woman convinced by the argument of the Famous Actress? How?</p>
         <p>= Yes, the Earnest Young Woman is convinced by the argument of the Famous Actress. The Famous Actress explains that her husband is only pretending to have an affair to make his wife jealous and win back her love. She says that many actresses help husbands with such harmless tricks to reunite families. This explanation softens the Earnest Young Woman's suspicion, and she believes the Famous Actress's story.</p>
-        <p>d. Where is the Earnest Young Woman's husband hiding himself as they are talking about him?</p>
+        <br/>
+        <p className='question'>d. Where is the Earnest Young Woman's husband hiding himself as they are talking about him?</p>
         <p>= The Earnest Young Woman's husband is hiding in the Famous Actress's boudoir throughout their conversation. At the end of the play, the Famous Actress calls him to come out, revealing that he was there the whole time, secretly listening.</p>
-        <p>e. When do you feel that the Famous Actress is really good at acting?</p>
+        <br/>
+        <p className='question'>e. When do you feel that the Famous Actress is really good at acting?</p>
         <p>= I feel the Famous Actress is really good at acting when she cleverly convinces the Earnest Young Woman that her husband is only pretending to be in love with her to make his wife jealous and win back her affection. She skillfully creates a story, pretending to know him only casually and even claims that actresses often help men with such tricks to save marriages. Her confident lies, dramatic expressions, and ability to stay calm under pressure show her true talent in acting.</p>
-        <p>f. How do we come to know that the Famous Actress and the husband of the Earnest Young Woman are in love?</p>
+        <br/>
+        <p className='question'>f. How do we come to know that the Famous Actress and the husband of the Earnest Young Woman are in love?</p>
         <p>= We come to know that the Famous Actress and the husband of the Earnest Young Woman are in love at the end of the play. After successfully convincing the Earnest Young Woman and sending her away, the Famous Actress calls Alfred to come out of her boudoir, revealing that he had been hiding there the entire time. This final moment clearly shows that they were together and had deceived the Earnest Young Woman, proving that they are indeed in a romantic relationship.</p>
-        <p>g. Write down the plot of the play in a paragraph.</p>
+        <br/>
+        <p className='question'>g. Write down the plot of the play in a paragraph.</p>
         <p>= A Matter of Husbands by Ferenc Molnar is a one-act play that explores deception and illusion in relationships. The Earnest Young Woman suspects her husband is in love with a Famous Actress and confronts the actress angrily, demanding her husband back. The Famous Actress denies having stolen him and claims she barely knows him, suggesting instead that the husband is pretending to be involved with her to make his wife jealous and regain her affection. Convinced by the actress's explanation, the Earnest Young Woman apologizes and leaves. After she exits, the Famous Actress calls her husband, Alfred, out of hiding from her boudoir, revealing that they are indeed secretly in love.</p>
       </div>
       <div>

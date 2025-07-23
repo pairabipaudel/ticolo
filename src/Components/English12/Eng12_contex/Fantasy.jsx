@@ -22,13 +22,21 @@ const Fantasy = () => {
         <hr/>
       <div>
         <p className='question'>B. Consult a dictionary or search over the internet and write definitions of the following terminologies used in the stock market.</p>
+        <br/>
         <p>a. <strong>liquidity: </strong>Liquidity refers to how quickly and easily an asset or security can be bought or sold in the market without affecting its price.</p>
+        <br/>
         <p>b. <strong>IPO: </strong>IPO stands for Initial Public Offering. It is the process by which a private company offers its shares to the public for the first time and becomes a publicly traded company.</p>
+        <br/>
         <p>c. <strong>NEPSE: </strong>NEPSE stands for Nepal Stock Exchange. It is the only stock exchange in Nepal where shares of publicly listed companies are traded.</p>
+        <br/>
         <p>d. <strong>index: </strong>An index is a statistical measure that shows the overall performance of a group of selected stocks.</p>
+        <br/>
         <p>e. <strong>portfolio: </strong>A portfolio is a collection of financial investments like stocks, bonds, mutual funds, or other assets held by an individual or institution.</p>
+        <br/>
         <p>f. <strong>dividend: </strong>A dividend is the portion of a company's profit that is distributed to its shareholders, usually in cash or additional shares.</p>
+        <br/>
         <p>g. <strong>turn over: </strong>Turnover refers to the total value or volume of shares traded on a stock exchange during a specific period.</p>
+        <br/>
         <p>h. <strong>margin: </strong>Margin is the money an investor borrows from a broker to buy shares, with the investor paying only a portion upfront.</p>
       </div>
       <div>
@@ -47,19 +55,19 @@ const Fantasy = () => {
       <hr/>
       <div>
         <p className='question'>B. Answer the following questions.</p>
-        <p>a. How did Maxwell enter his office?</p>
+        <p className='question'>a. How did Maxwell enter his office?</p>
         <p>= Maxwell entered his office quickly and energetically. He was with a young lady stenographer, and he greeted Pitcher by saying, "Good morning."</p>
-        <p>b. Describe the physical appearance of the young lady.</p>
+        <p className='question'>b. Describe the physical appearance of the young lady.</p>
         <p>= The young lady was beautiful, but not in the usual way expected of a stenographer. She didn't wear any flashy jewelry like chains or bracelets, and she didn't look like someone who was going out for a fancy lunch. Her dress was simple and grey, but it fit her well and looked elegant and modest. She wore a neat black turban hat with a gold-green macaw feather in it. That morning, she looked softly beautiful and shyly glowing. Her eyes were bright, her cheeks had a natural blush, and she wore a happy expression with a touch of sweet memory in it.</p>
-        <p>c. What changes did Pitcher notice in the young lady?</p>
+        <p className='question'>c. What changes did Pitcher notice in the young lady?</p>
         <p>= Pitcher noticed that the young lady was acting differently than usual that morning. Instead of going straight into her usual working room, she paused and seemed unsure in the outer office. At one point, she even moved closer to Maxwell's desk, just enough so that he would notice her. This behavior was unusual for her and caught Pitcher's attention.</p>
 
-        <p>d. What was Pitcher's reply to the young lady concerning a new stenographer?</p>
+        <p className='question'>d. What was Pitcher's reply to the young lady concerning a new stenographer?</p>
         <p>= Pitcher told the young lady that Maxwell had already asked him to find a new stenographer. So, he had notified the agency the day before to send a few candidates that morning. However, none of them had arrived yet except her.</p>
 
-        <p>e. What proposal did Maxwell make with Miss Leslie?</p>
+        <p className='question'>e. What proposal did Maxwell make with Miss Leslie?</p>
         <p>= Maxwell proposed marriage to Miss Leslie. He expressed his feelings and asked her to marry him.</p>
-        <p>f. How did she react to his proposal?</p>
+        <p className='question'>f. How did she react to his proposal?</p>
         <p>= When Maxwell proposed, she behaved in a very unusual way. At first, she looked surprised and amazed. Then, tears started flowing from her eyes. After that, she smiled warmly and happily through her tears, and gently put one of her arms around Maxwell's neck.</p>
       </div>
       <div>
@@ -80,6 +88,7 @@ This moment showed me that love can come quietly and unexpectedly, and sometimes
       <div>
         <hr/>
         <h3>Grammar</h3>
+        <p className='question'>Study the following sentences and underline the relative clauses.</p>
         <p >a. I snatched a minute <strong>when</strong> things had slackened a minute.</p>
         <p>b. Instead of going straight into the adjoining room, <strong>where</strong> her desk was, she lingered slightly irresolute in the outer office.</p>
         <p>c. She was beautiful in a way <strong>that</strong> was decidedly stenographic.</p>
@@ -103,22 +112,31 @@ This moment showed me that love can come quietly and unexpectedly, and sometimes
         <p className='question'>C. Join the following pairs of sentences using who, which, that, whose, whom, where, when or what.</p>
         <p>a. The building was destroyed in the fire. It has now been rebuilt.</p>
         <p>= The building that was destroyed in the fire has now been rebuilt.</p>
+        <br/>
         <p>b. A new cricket stadium is being made in Chitwan. It can accommodate one hundred thousand people.</p>
         <p>= A new cricket stadium which is being made in Chitwan can accommodate one hundred thousand people.</p>
+        <br/>
         <p>c. Shanghai is the most populated city in the world. I stayed there for five years.</p>
         <p>= Shanghai, where I stayed for five years, is the most populated city in the world.</p>
+        <br/>
         <p>d. This is the man. I gave some money to him this morning.</p>
         <p>= This is the man to whom I gave some money this morning.</p>
+        <br/>
         <p>e. Do know the man? His son was awarded in the school yesterday.</p>
         <p>= Do you know the man whose son was awarded in the school yesterday?</p>
+        <br/>
         <p>f. His step-mother was not very kind to him. He had been staying with her.</p>
         <p>= His step-mother, with whom he had been staying, was not very kind to him.</p>
+        <br/>
         <p>g. He can never forget Nakkhu Jail. He had spent 14 years there.</p>
         <p>=  He can never forget Nakkhu Jail, where he had spent 14 years.</p>
+        <br/>
         <p>h. He showed me his new tab. He had paid a hundred thousand rupees for it.</p>
         <p>= He showed me his new tab, which he had paid a hundred thousand rupees for.</p>
+        <br/>
         <p>i. Nelson Mandela joined ANC in 1930s. He was a student then.</p>
         <p>= Nelson Mandela joined ANC in the 1930s, when he was a student.</p>
+        <br/>
         <p>j. She forgot to buy the things. Her mother had told to buy them.</p>
         <p>= She forgot to buy the things that her mother had told her to buy.</p>
      </div>
