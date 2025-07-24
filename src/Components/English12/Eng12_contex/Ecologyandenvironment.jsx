@@ -129,10 +129,47 @@ const Ecologyandenvironment = () => {
     <hr/>
     <h3>Writing</h3>
         <p className='question'>A. Write a review of a book/flim which you have read/watched recently.</p>
-        <p>=</p>
+        <h5>Seto Dharti</h5>
+        <p>Title of the Book: Seto Dharti</p><p>
+Author of the Book: Amar Neupane</p><p>
+Country: Nepal</p><p>
+Language: Nepali</p><p>
+First Originally Published by: FinePrint Publication in 2012</p><p>
+Genre: Historical Fiction / Social Realism</p><p>
+Cost of the Book: Rs. 450</p><p>
+Name of the Publisher: FinePrint Publication</p><p>
+Edition and Year of Copyright: First Edition, 2012</p><p>
+No. of Pages: 288</p><p>
+Writing Style: Descriptive and Reflective Narrative</p><p>
+Characters: Tara (main character), her parents, village elders, priests</p><p>
+
+Plot:</p><p>
+Seto Dharti tells the tragic life story of Tara, a girl who is married off at a very young age and becomes a widow before she even understands what marriage is. The novel traces her emotional and physical journey from childhood to old age. After losing her husband, she is forced to live a life of loneliness and suppression in a conservative society that sees widowhood as a curse. Despite her vibrant personality and desire to live freely, society slowly strips her of color, joy, and choice—leaving her on the metaphorical “white earth.”</p><p>
+
+Summary:</p><p>
+The novel explores themes such as child marriage, the condition of women in rural Nepal, and the cruelty of social customs. It spans Tara's entire life, from a cheerful girl to a wise old woman, as she adapts to the life society forces upon her. Along the way, we see not just her personal pain, but also a portrait of traditional Nepali society where outdated customs dictate a woman's fate.</p><p>
+
+My Impressions:</p><p>
+Seto Dharti is a heartbreaking and powerful novel that makes the reader reflect on how deeply rooted traditions can destroy lives. Amar Neupane's writing is lyrical and full of emotion. Tara's story is quiet, but unforgettable. It made me feel the pain of millions of women who never got to live life on their own terms. The use of “white” (seto) as a symbol of widowhood, emptiness, and purity is beautifully woven throughout the story. This book is not just literatur it's a voice for the voiceless. Highly recommended.
+
+</p>
         <hr/>
        <p className='question'>B. Your school is going to organize a speech competition on coming Friday. The subject of the speech is "Let's save the trees and protect over environment." Draft a speech using the following prompts.</p>
-     <p></p>
+     <h5>Let's Save the Trees and Protect Our Environment</h5><p>
+
+Good morning everyone,</p><p>
+Thank you for giving me the chance to speak on this important topic — Let's Save the Trees and Protect Our Environment.</p><p>
+
+Air is the most important thing we need to live. Trees give us clean air. They take in carbon dioxide and give out oxygen, which we need to breathe. That is why trees are often called the lungs of our planet.</p><p>
+
+But sadly, people are cutting down trees to build buildings and roads. This is called deforestation. It harms nature and makes the planet suffer. When we cut down trees, we get more pollution, hotter temperatures (global warming), animals lose their homes, and the soil becomes weak.</p><p>
+
+If we keep cutting trees like this, future generations will not have clean air or a healthy planet to live on. So, we must plant more trees — this is called afforestation. Planting trees helps save the Earth.</p><p>
+
+Even one tree can make a difference. If we all do our part and plant more trees, we can protect the environment and leave behind a greener, better planet for our children.</p><p>
+
+Let's all remember: Save Trees, Save Lives, Save Earth!</p><p>
+Thank you for listening.</p>
 </div>
 <div>
     <hr/>
