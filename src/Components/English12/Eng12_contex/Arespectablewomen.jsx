@@ -96,7 +96,7 @@ He should be loving and caring, not just to me but also to my family members. Re
 </p><p>
 I hope he is financially independent, emotionally mature, and able to balance work and family life. A good sense of humor, a positive attitude, and the ability to enjoy small moments in life are traits I admire.
 </p><p>
-More than physical appearance, inner beauty, honesty, and loyalty matter most. Marriage is not about perfection, but about growing together—and I want someone who is ready to grow with me.</p>
+More than physical appearance, inner beauty, honesty, and loyalty matter most. Marriage is not about perfection, but about growing together and I want someone who is ready to grow with me.</p>
        </div>
     </div>
 

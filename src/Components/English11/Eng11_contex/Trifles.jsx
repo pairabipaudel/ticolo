@@ -32,7 +32,7 @@ const Trifles = () => {
       <div>
         <h3>Reference to the context</h3>
         <p className='question'>Read the extract from the play given below and answer the questions that follow:</p><p className='question'>
-a. “MRS. PETERS:(glancing around). Seems funny to think of a bird here. But she must have had one, or why would she have a cage? I wonder what happened to it?
+a. “MRS. PETERS:(glancing around). Seems funny to think of a bird here. But she must have had one, or why would she have a cage? I wonder what happened to it?</p><p className='question'>
 MRS. HALE: I s'pose maybe the cat got it.”</p>
 <p>i. Who does 'she' refer to?</p>
 <p>= 'She' refers to Mrs. Wright.</p>

@@ -46,7 +46,7 @@ So, the writer is saying that adventure gives you more than just fun. It teaches
         <p>= This means the writer wants the people who do the work to get the good things from their work, not just the bosses or owners. He thinks workers should get some of the money or rewards from what they make. He believes workers should be happy and healthy because of their work.
 </p><p>
 The writer likes the idea of sharing work and money fairly, called socialism. He wants workers to feel proud and enjoy their work, like long ago when people worked for their own families. He hopes industries will be fair and share money with the workers.
-
+</p><p>
 So, he wants work to help workers live better, not just make rich people richer.</p>
       </div>
       <hr/>

@@ -32,7 +32,7 @@ In the end, he says that science is our best hope for staying safe and making li
       <div>
         <h3>Reference to the context</h3>
         <p className='question'>a. The professional addressed as 'you' in the sentence “If you are clever, why are you so poor?” refers to a…</p><p className='question'>
-i. lawyer ii. doctor iii. scientist iv. businessman.
+i. lawyer ii. doctor iii. scientist iv. businessman.</p><p className='question'>
 Justify your choice.</p>
 <p>= The word 'you' in the sentence “If you are clever, why are you so poor?” refers to a scientist. The author is talking about scientists because they are very smart and have a lot of knowledge, but they usually do not earn a lot of money compared to other professionals like lawyers, doctors, or businessmen. The author wants to ask why someone who is very clever would choose to be a scientist when they could make more money in other jobs.
 </p><p>

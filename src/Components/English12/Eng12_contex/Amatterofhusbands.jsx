@@ -57,9 +57,9 @@ Thus, the main difference lies in the actress's shrewdness and ability to manipu
       <div>
         <p className='question'>c. According to Famous Actress, men associated with theatre use the theatre actresses to make their estranged wives jealous so as to woo them back. Do you agree with her argument? Why? Why not?</p>
         <p>= According to the Famous Actress, men involved in theatre sometimes use actresses to make their estranged wives jealous so they can win them back. While this might be true in some cases, I do not fully agree with this argument. In reality, many men involved with theatre do develop genuine romantic relationships with actresses or models, often leading to actual affairs rather than mere acts to provoke jealousy.
-
+</p><p>
 In the play, although the actress claims it's all a clever ruse, the ending reveals that Alfred and the actress are genuinely involved, which shows the relationship is not just a ploy. This suggests that men and actresses sometimes have selfish motives and engage in real affairs, which can ruin their marriages.
-
+</p><p>
 Furthermore, in today's world, some actresses might enter relationships with married men for personal gain, such as money or career opportunities, which complicates the situation further. Therefore, while the Famous Actress's argument might hold in some situations, it doesn't apply universally, and many cases reflect genuine infidelity rather than a strategy to win back wives.</p>
       </div>
       <hr/>

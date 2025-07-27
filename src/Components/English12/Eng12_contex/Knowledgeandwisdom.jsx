@@ -49,19 +49,19 @@ Queen Elizabeth I and Henry IV stayed away from the religious fights between Pro
         <h3>Reference to the context</h3>
         <p>a. According to Russel, “The pursuit of knowledge may become harmful unless it is combined with wisdom.” Justify this statement.</p>
         <p>= According to Bertrand Russell, “The pursuit of knowledge may become harmful unless it is combined with wisdom” because knowledge alone, without proper judgment and understanding, can lead to dangerous outcomes. In his essay Knowledge and Wisdom, Russell explains that knowledge is the collection of facts and information, while wisdom is the ability to use that knowledge wisely and responsibly for the well-being of all.
-
+</p><p>
 He uses the example of Hegel, a German philosopher, who had vast knowledge but lacked wisdom. Hegel's ideas made the Germans believe they were a superior race, which later contributed to war and destruction. This shows how knowledge, when not guided by wisdom, can promote harmful ideologies.
-
+</p><p>
 Russell argues that wisdom involves a sense of proportion, awareness of human values, and freedom from personal prejudice. It also means applying knowledge with kindness and care. Without wisdom, even skilled people like technicians or scientists may unintentionally cause harm to the world, especially with powerful technologies.
-
+</p><p>
 Thus, knowledge should not be pursued blindly. It must be balanced with wisdom to ensure it benefits humanity, promotes peace, and avoids harm.</p>
       </div>
       <div>
         <p>b. What, according to Russell, is the essence of wisdom? And how can one acquire the very essence?</p>
         <p>= According to Bertrand Russell, the essence of wisdom lies in freeing oneself from narrow personal interests and seeing life with a broader, more balanced perspective. He emphasizes that true wisdom involves understanding the long-term consequences of actions and being able to apply knowledge with compassion, fairness, and a sense of proportion.
-
+</p><p>
 Russell believes that wisdom comes when a person can rise above emotional and physical limitations and look beyond their personal desires. It also involves being free from personal prejudice, which helps make decisions that are less biased and more universally beneficial.
-
+</p><p>
 One can acquire the essence of wisdom not just through collecting facts, but through thoughtful reflection, real-life experience, and learning from both successes and failures. Wisdom grows as we practice using knowledge in ways that benefit others, not just ourselves. Therefore, wisdom is more than just knowing: it is about using what we know in a thoughtful, just, and meaningful way.</p>
       </div>
       <div>

@@ -51,8 +51,8 @@ At the end of the exam, the mathematics teacher asks him one last question: “I
       <hr/>
       <div>
         <p className='question'>b. Read the extract dialogue given below and answer the questions that follow:</p>
-        <p className='question'>“THE STAFF: (bowing, heartily) How do you do?
-WASSERKOPF: Who the hell are you? Sit down, you loafers! (He grins, waiting to be thrown out)
+        <p className='question'>“THE STAFF: (bowing, heartily) How do you do?</p><p className='question'>
+WASSERKOPF: Who the hell are you? Sit down, you loafers! (He grins, waiting to be thrown out)</p><p className='question'>
 THE PRINCIPAL: How dare you –”</p>
         <strong>i. What is to be the response to 'How do you do?'</strong>
         <p>= The proper response is “I am fine” or a polite greeting.</p>

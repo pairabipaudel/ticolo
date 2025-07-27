@@ -56,7 +56,7 @@ const Democracyandhumanrights = () => {
         <h3>Critical thinking</h3>
         <p className='question'>a. What does Mandela mean when he says 'a rainbow nation at peace with itself and the world?'</p>
         <p>= When Mandela says “a rainbow nation at peace with itself and the world,” he means that South Africa should become a united and harmonious country where people of all races Black, White, and others live together peacefully without fear or discrimination. Just like a rainbow is made up of different colors existing side by side in beauty and harmony, he envisions a nation where people of diverse backgrounds come together to form a stronger, more inclusive society.
-
+</p><p>
 In South African culture, the rainbow symbolizes hope and a bright future. The term “rainbow nation” represents the unity of different racial, cultural, and ethnic groups after a long history of division and apartheid. Mandela's vision was to leave behind the painful past of racism and violence, and instead build a peaceful, just, and equal nation where everyone is respected and valued.</p>
       </div>
       <hr/>
@@ -82,9 +82,9 @@ In South African culture, the rainbow symbolizes hope and a bright future. The t
         <p>Nepal's political history has always been full of ups and downs. One important person who played a big role in shaping our country's history was Bhimsen Thapa. He was a brave leader and a strong freedom fighter who worked hard to protect Nepal's independence.</p>
         <p>Bhimsen Thapa was born in a small village but grew up to become the Prime Minister of Nepal. During his time, Nepal faced many challenges, including threats from foreign powers like the British. Bhimsen Thapa was determined to keep Nepal free and safe. He led the country during a difficult time and worked to strengthen Nepal's army and economy.</p>
         <p>Under his leadership, Nepal became more united and powerful. He introduced new laws and made sure the people were treated fairly. Bhimsen Thapa also focused on improving education and encouraging young people to be proud of their country.
-
+</p><p>
 Even though he faced many enemies and challenges, Bhimsen Thapa never gave up. His courage and love for Nepal inspired many people to stand up for their rights. Because of him, Nepal was able to protect its freedom and stay independent for many years.
-
+</p><p>
 Today, Bhimsen Thapa is remembered as a hero who brought important changes and helped build a stronger Nepal. His story teaches us that with courage and determination, we can overcome any challenge.</p>
       </div>
       <hr/>

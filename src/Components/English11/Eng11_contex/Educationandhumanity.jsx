@@ -47,7 +47,7 @@ const Educationandhumanity = () => {
           <p>iv. What is the British English spelling of 'humanize'?</p>
           <p>= The British English spelling of 'humanize' is humanise.</p>
           <p>v. How is the word 'humanize' pronounced?</p>
-          <p>= The word 'humanize' is pronounced as /ˈhjuːmənaɪz /.</p>
+          <p>= The word 'humanize' is pronounced as /'hju:mənaIz /.</p>
           <p>vi. If we say Every person should have the sense of humanity, which meaning of 'humanity' is applied?</p>
           <p>= If we say Every person should have the sense of humanity, the quality of being kind to people and animals by making sure that they do not suffer more than is necessary of 'humanity' is applied.</p>
 
