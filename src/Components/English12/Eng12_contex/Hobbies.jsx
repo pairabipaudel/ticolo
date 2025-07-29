@@ -1,6 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-const Hobbies = () => (
+const Hobbies = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  return(
   <div>
     <div>
       <h3>Working with words</h3>
@@ -173,6 +177,6 @@ To sum up, morning walks are very important for maintaining a healthy body and m
 
     </div>
   </div>
-)
+)}
 
 export default Hobbies

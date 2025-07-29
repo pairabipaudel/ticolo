@@ -1,6 +1,9 @@
-import React from 'react';
+import React , { useEffect }from 'react';
 
 const Family = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className='container scrollable-content'>
       <h3>Working with Words</h3>

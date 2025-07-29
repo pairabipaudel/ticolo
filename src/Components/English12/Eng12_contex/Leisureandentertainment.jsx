@@ -1,6 +1,10 @@
-import React from 'react'
+import React , { useEffect }from 'react'
 
-const Leisureandentertainment = () => (
+const Leisureandentertainment = () => {
+      useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+  return(
     <div>
         <div>
             <h3>Working with words</h3>
@@ -188,6 +192,6 @@ parvati_gupta@gmail.com</p>
             <p>= He assured he would come.</p>
         </div>
     </div>
-)
+)}
 
 export default Leisureandentertainment

@@ -1,10 +1,15 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './Alltheworldsastage.css'
+
 const Alltheworldsastage = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div>
-      <div>
-        <h3>Summary</h3>
+    <div>
+      <h3>Summary</h3>
         <p>In this poem-like speech, Shakespeare tells us that life is like a big play, and we are all actors. We come into the world (the stage) when we are born, play different roles as we grow, and then leave the stage when we die. Each person plays seven roles during their life.
 </p><p>
 First, we are babies, helpless and always crying in someone's arms. Then we become schoolchildren, who don't like going to school and walk slowly with sleepy faces. After that, we grow into young lovers, full of feelings, dreaming about love, and writing poems for the person we love.
