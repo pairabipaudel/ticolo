@@ -1,5 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 import HomePage from './Components/HomePage/HomePage';
 import Navbar from './Components/Navbar/Navbar';
 import Footer from './Components/Footer/Footer';
@@ -108,6 +110,17 @@ import Safaltakokatha from './Components/Nepali11/Nep11_contex/Safaltakokatha';
 import Krishisalamaekdin from './Components/Nepali11/Nep11_contex/Krishisalamaekdin';
 import Raravraman from './Components/Nepali11/Nep11_contex/Raravraman';
 import Jalsrotraurja from './Components/Nepali11/Nep11_contex/Jalsrotraurja';
+
+const ScrollToTop = () => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+};
+
 const App = () => {
   return (
     <Router>

@@ -1,7 +1,9 @@
 import React, { useEffect } from 'react'
+
 import './Alltheworldsastage.css'
 
 const Alltheworldsastage = () => {
+  
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
